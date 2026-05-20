@@ -864,7 +864,7 @@ def crawl_data(file_name, pubname, date_range, climate, policy, uncertainty, log
     base_url = f'{domain_url}/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t={urllib.parse.quote(pubname)}&maxresults={max_results}&f=advanced'
     
     # 让所有config中的driver都访问到2025对应的year_url页面进行初始化
-    year_url = '&'.join([base_url, f'fld-nav-0=YMD_date', f'val-nav-0={urllib.parse.quote("-2025.12")}'])
+    year_url = '&'.join([base_url, f'fld-nav-0=YMD_date', f'val-nav-0={urllib.parse.quote("-2026.4")}'])
     logger_thread.info(f'开始初始化所有driver到2025年页面: {year_url}')
     
     # 并行访问所有driver到2025年页面
@@ -1191,7 +1191,7 @@ def crawl_data(file_name, pubname, date_range, climate, policy, uncertainty, log
 
                                                 # 重建后需要重新访问基础页面
                                                 year_url = '&'.join([base_url, f'fld-nav-0=YMD_date',
-                                                                     f'val-nav-0={urllib.parse.quote("-2025.12")}'])
+                                                                     f'val-nav-0={urllib.parse.quote("-2026.4")}'])
                                                 current_driver.get(year_url)
                                                 time.sleep(13)
                                             else:
@@ -1239,7 +1239,7 @@ def crawl_data(file_name, pubname, date_range, climate, policy, uncertainty, log
 
                                             # 重建后需要重新访问基础页面
                                             year_url = '&'.join([base_url, f'fld-nav-0=YMD_date',
-                                                                 f'val-nav-0={urllib.parse.quote("-2025.12")}'])
+                                                                 f'val-nav-0={urllib.parse.quote("-2026.4")}'])
                                             current_driver.get(year_url)
                                             time.sleep(13)
                                         else:
@@ -1434,7 +1434,7 @@ def crawl_data(file_name, pubname, date_range, climate, policy, uncertainty, log
                                     logger_thread.info(f'[线程{thread_id}|账号{username}] ✅ 浏览器重建成功，继续处理组合：{climate_i}+{policy_i}+{uncertainty_i}')
                                     
                                     # 重建后需要重新访问基础页面
-                                    year_url = '&'.join([base_url, f'fld-nav-0=YMD_date', f'val-nav-0={urllib.parse.quote("-2025.12")}'])
+                                    year_url = '&'.join([base_url, f'fld-nav-0=YMD_date', f'val-nav-0={urllib.parse.quote("-2026.4")}'])
                                     current_driver.get(year_url)
                                     time.sleep(13)
                                 else:
@@ -1463,7 +1463,7 @@ def crawl_data(file_name, pubname, date_range, climate, policy, uncertainty, log
                                     logger_thread.info(f'[线程{thread_id}|账号{username}] ✅ 深度重置失败后浏览器重建成功，最后一次尝试组合：{climate_i}+{policy_i}+{uncertainty_i}')
                                     
                                     # 重建后需要重新访问基础页面
-                                    year_url = '&'.join([base_url, f'fld-nav-0=YMD_date', f'val-nav-0={urllib.parse.quote("-2025.12")}'])
+                                    year_url = '&'.join([base_url, f'fld-nav-0=YMD_date', f'val-nav-0={urllib.parse.quote("-2026.4")}'])
                                     current_driver.get(year_url)
                                     time.sleep(13)
                                     # 重新尝试搜索
@@ -1513,7 +1513,7 @@ def crawl_data(file_name, pubname, date_range, climate, policy, uncertainty, log
                                     logger_thread.info(f'[线程{thread_id}|账号{username}] ✅ 连接错误后浏览器重建成功，继续重试')
                                     
                                     # 重建后需要重新访问基础页面
-                                    year_url = '&'.join([base_url, f'fld-nav-0=YMD_date', f'val-nav-0={urllib.parse.quote("-2025.12")}'])
+                                    year_url = '&'.join([base_url, f'fld-nav-0=YMD_date', f'val-nav-0={urllib.parse.quote("-2026.4")}'])
                                     current_driver.get(year_url)
                                     time.sleep(13)
                                     
@@ -1574,7 +1574,7 @@ def crawl_data(file_name, pubname, date_range, climate, policy, uncertainty, log
                                     logger_thread.info(f'[线程{thread_id}|账号{username}] ✅ 分页处理时浏览器重建成功')
                                     
                                     # 重建后需要重新执行搜索并导航到当前页
-                                    year_url = '&'.join([base_url, f'fld-nav-0=YMD_date', f'val-nav-0={urllib.parse.quote("-2025.12")}'])
+                                    year_url = '&'.join([base_url, f'fld-nav-0=YMD_date', f'val-nav-0={urllib.parse.quote("-2026.4")}'])
                                     current_driver.get(year_url)
                                     time.sleep(13)
                                     # 重新执行搜索
@@ -1873,9 +1873,9 @@ def crawl_data(file_name, pubname, date_range, climate, policy, uncertainty, log
                 EC.element_to_be_clickable((By.ID, "edit-date-to--2"))
             )
             date_to_element.clear()
-            # 如果是2025年，设置为2025.9，否则使用年份
-            if year == 2025:
-                date_to_element.send_keys("2025.9")
+            # 如果是2026年，只统计到2026.4，否则使用年份
+            if year == 2026:
+                date_to_element.send_keys("2026.4")
             else:
                 date_to_element.send_keys(str(year))
             search_button = WebDriverWait(current_driver, 100).until(
@@ -2021,9 +2021,9 @@ def crawl_data(file_name, pubname, date_range, climate, policy, uncertainty, log
     month_tasks = []
     for year in range(start_year, end_year + 1):
         # 确定该年的月份范围
-        if year == end_year and end_year == 2025:
-            # 2025年只统计到12月（根据用户修改的代码）
-            end_month = 12
+        if year == end_year and end_year == 2026:
+            # 2026年只统计到4月
+            end_month = 4
         else:
             end_month = 12
         
