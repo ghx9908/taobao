@@ -663,49 +663,28 @@ def read_as_set(filename="results.txt", task_filename=None):
     return set(results)
 
 
-def write_csv_detail(name, all_map, filter_map, month_map=None):
-    # 第一个sheet：按月汇总，格式: year_month (如200611), all_value, filter_value
+def write_csv_detail(name, all_map, filter_map):
+    # 第一个sheet：按年汇总，格式: year, all_value, filter_value
     sheet_one_value = list()
-    if month_map:
-        # 按年月排序
-        sorted_month_keys = sorted(month_map.keys())
-        for year_month_key in sorted_month_keys:
-            all_value = month_map.get(year_month_key, "0")
-            # filter_map现在按月份组织，key是year_month格式
-            filter_value = len(filter_map.get(year_month_key, set()))
-            sheet_one_value.append((year_month_key, str(all_value), str(filter_value)))
-    else:
-        # 如果没有月份数据，使用年份数据（向后兼容）
-        for year in all_map.keys():
-            all_value = all_map.get(year, 0)
-            filter_value = len(filter_map.get(year, set()))
-            sheet_one_value.append((year, str(all_value), str(filter_value)))
+    for year in sorted(all_map.keys()):
+        all_value = all_map.get(year, 0)
+        filter_value = len(filter_map.get(year, set()))
+        sheet_one_value.append((year, str(all_value), str(filter_value)))
     
     df_sheet_one = pd.DataFrame(sheet_one_value)
     # 创建一个 Excel 写入器对象
     with pd.ExcelWriter(f'search_results/{name}', mode='w') as writer:
         # 写入第一个数据框到第一个 sheet，设置 sheet 名称和标题行
         df_sheet_one.to_excel(writer, sheet_name='汇总', index=False,
-                              header=['year_month', 'all_value', 'filter_value'])
+                              header=['year', 'all_value', 'filter_value'])
         
-        # 按月份写入详细数据
-        if month_map:
-            # 按年月排序
-            sorted_month_keys = sorted(month_map.keys())
-            for year_month_key in sorted_month_keys:
-                month_set = filter_map.get(year_month_key, set())
-                if len(month_set) > 0:
-                    df_sheet_other = pd.DataFrame((content.split('|||') for content in month_set))
-                    df_sheet_other.to_excel(writer, sheet_name=year_month_key, index=False,
-                                            header=['date', 'title', 'perview'])
-        else:
-            # 向后兼容：如果没有月份数据，使用年份数据
-            for year in all_map.keys():
-                year_set = filter_map.get(year, set())
-                if len(year_set) > 0:
-                    df_sheet_other = pd.DataFrame((content.split('|||') for content in year_set))
-                    df_sheet_other.to_excel(writer, sheet_name=year, index=False,
-                                            header=['date', 'title', 'perview'])
+        # 按年份写入详细数据
+        for year in sorted(all_map.keys()):
+            year_set = filter_map.get(year, set())
+            if len(year_set) > 0:
+                df_sheet_other = pd.DataFrame((content.split('|||') for content in year_set))
+                df_sheet_other.to_excel(writer, sheet_name=year, index=False,
+                                        header=['date', 'title', 'perview'])
 
 
 def check_file_existence_with_pathlib(filename):
@@ -2325,28 +2304,13 @@ def crawl_data(file_name, pubname, date_range, climate, policy, uncertainty, log
     
     # ==================== 月份统计部分结束 ====================
     
-    # 将map写入表格，按月份组织数据
+    # 将map写入表格，按年份组织数据
     filter_map = dict()
     filter_data_set = read_as_set(task_filename=file_name)
     
-    def extract_year_month_from_date(date_str):
-        """从日期字符串中提取年月信息，返回格式: YYYYMM (如200611)"""
+    def extract_year_from_date(date_str):
+        """从日期字符串中提取年份信息，返回格式: YYYY"""
         import re
-        from datetime import datetime
-        
-        # 西班牙语月份映射
-        spanish_months = {
-            'enero': 1, 'febrero': 2, 'marzo': 3, 'abril': 4,
-            'mayo': 5, 'junio': 6, 'julio': 7, 'agosto': 8,
-            'septiembre': 9, 'octubre': 10, 'noviembre': 11, 'diciembre': 12
-        }
-        
-        # 英语月份映射
-        english_months = {
-            'january': 1, 'february': 2, 'march': 3, 'april': 4,
-            'may': 5, 'june': 6, 'july': 7, 'august': 8,
-            'september': 9, 'october': 10, 'november': 11, 'december': 12
-        }
         
         date_str_lower = date_str.lower().strip()
         
@@ -2354,29 +2318,25 @@ def crawl_data(file_name, pubname, date_range, climate, policy, uncertainty, log
         match = re.search(r'(\d+)\s+de\s+(\w+)\s+del?\s+(\d{4})', date_str_lower)
         if match:
             day, month_name, year = match.groups()
-            month = spanish_months.get(month_name, None)
-            if month:
-                return f"{year}{month:02d}"
+            return year
         
         # 尝试解析英语格式: "December 25, 2022"
         match = re.search(r'(\w+)\s+(\d+),?\s+(\d{4})', date_str_lower)
         if match:
             month_name, day, year = match.groups()
-            month = english_months.get(month_name, None)
-            if month:
-                return f"{year}{month:02d}"
+            return year
         
         # 尝试解析ISO格式: "2023-02-09"
         match = re.search(r'(\d{4})-(\d{1,2})-(\d{1,2})', date_str)
         if match:
             year, month, day = match.groups()
-            return f"{year}{int(month):02d}"
+            return year
         
-        # 如果无法解析，尝试从日期字符串中提取年份，月份默认为01
+        # 如果无法解析，尝试从日期字符串中提取年份
         year_match = re.search(r'(\d{4})', date_str)
         if year_match:
             year = year_match.group(1)
-            return f"{year}01"  # 默认月份为01
+            return year
         
         return None
     
@@ -2385,23 +2345,21 @@ def crawl_data(file_name, pubname, date_range, climate, policy, uncertainty, log
         parts = filter_data.split('|||')
         if len(parts) == 3:
             date, title, preview = parts
-            year_month_key = extract_year_month_from_date(date)
-            if year_month_key:
-                if year_month_key not in filter_map:
-                    filter_map[year_month_key] = set()
-                filter_map[year_month_key].add(filter_data)
+            year_key = extract_year_from_date(date)
+            if year_key:
+                if year_key not in filter_map:
+                    filter_map[year_key] = set()
+                filter_map[year_key].add(filter_data)
             else:
                 # 如果无法解析日期，尝试提取年份（4位数字）作为fallback
                 year_match = re.search(r'\b(19|20)\d{2}\b', date)
                 if year_match:
                     year = year_match.group(0)
-                    # 使用年份+01作为默认月份
-                    year_month_key = f"{year}01"
-                    if year_month_key not in filter_map:
-                        filter_map[year_month_key] = set()
-                    filter_map[year_month_key].add(filter_data)
+                    if year not in filter_map:
+                        filter_map[year] = set()
+                    filter_map[year].add(filter_data)
     
-    write_csv_detail(file_name, all_map, filter_map, month_map)
+    write_csv_detail(file_name, all_map, filter_map)
     # 注释掉清空文件的代码，保留数据
     # append_to_file('', mode='w', task_filename=file_name)
     # append_to_file('', mode='w', filename='condition.txt', task_filename=file_name)
