@@ -9,7 +9,7 @@ python3 -c "from selenium import webdriver; from selenium.webdriver.chrome.servi
 
 # 运行Python程序
 echo "启动爬虫程序..."
-python3 约翰逊县图书馆.py
+python3 哥伦布大都会图书馆.py
 
 # 保持虚拟环境激活状态，方便调试
 echo "程序运行完成。虚拟环境仍然激活中。"

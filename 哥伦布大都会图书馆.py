@@ -26,7 +26,7 @@ input_xlsx = '2026.5.19报刊整理.xlsx'
 
 driver_path = "/Users/admin/Desktop/taobao/chromedriver-mac-arm64/chromedriver"
 # 定义全局Cookie变量
-login_page = 'https://ezproxy.jocolibrary.org/login?url=https://infoweb.newsbank.com/apps/news/easy-search?p=AWNB'
+login_page = 'https://webproxy3.columbuslibrary.org/login?url=https://infoweb.newsbank.com/apps/news/easy-search?p=WORLDNEWS'
 
 # ==================== 入口标识配置 ====================
 # 设置为 True 时，直接搜索所有三组合，跳过二组合处理
@@ -40,41 +40,41 @@ login_page = 'https://ezproxy.jocolibrary.org/login?url=https://infoweb.newsbank
 #    - 更高效，但需要先完成二组合处理
 # 
 # 使用方法：修改下面的值即可
-SKIP_TWO_COMBO = False  # True = 直接三组合模式, False = 正常模式
+SKIP_TWO_COMBO = True  # True = 直接三组合模式, False = 正常模式
 # =====================================================
 
 # 账号配置 - 每个账号对应一个驱动和线程
 account_configs = [
     {
-        'username': '700415392',
+        'username': 'PACREG3447692',
         'password': '1234',
         'driver': None,
         'thread_id': 1
     },
-    # {
-    #     'username': '700415400',
-    #     'password': '1234',
-    #     'driver': None,
-    #     'thread_id': 2
-    # },
-    # {
-    #     'username': '700415405',
-    #     'password': '1234',
-    #     'driver': None,
-    #     'thread_id': 3
-    # },
-    # {
-    #     'username': '700415410',
-    #     'password': '1234',
-    #     'driver': None,
-    #     'thread_id': 4
-    # },
-    # {
-    #     'username': '700415418',
-    #     'password': '1234',
-    #     'driver': None,
-    #     'thread_id': 5
-    # },
+    {
+        'username': 'PACREG3448107',
+        'password': '1234',
+        'driver': None,
+        'thread_id': 2
+    },
+    {
+        'username': 'PACREG3448108',
+        'password': '1234',
+        'driver': None,
+        'thread_id': 3
+    },
+    {
+        'username': 'PACREG3448109',
+        'password': '1234',
+        'driver': None,
+        'thread_id': 4
+    },
+    {
+        'username': 'PACREG3448110',
+        'password': '1234',
+        'driver': None,
+        'thread_id': 5
+    },
     # {
     #     'username': '700415426',
     #     'password': '1234',
@@ -507,7 +507,7 @@ def get_cookie_for_thread(thread_id, logger_thread, username, password):
 
         # 1. 等待用户名/Barcode 输入框（bibliocommons 表单 name="name"）
         username_input = wait.until(
-            EC.element_to_be_clickable((By.NAME, "name"))
+            EC.element_to_be_clickable((By.NAME, "user"))
         )
         driver.execute_script("arguments[0].scrollIntoView();", username_input)
         username_input.clear()
@@ -515,7 +515,7 @@ def get_cookie_for_thread(thread_id, logger_thread, username, password):
 
         # 2. 等待并输入 PIN/Password（bibliocommons 表单 name="user_pin"）
         password_input = wait.until(
-            EC.element_to_be_clickable((By.NAME, "user_pin"))
+            EC.element_to_be_clickable((By.NAME, "pass"))
         )
         password_input.clear()
         password_input.send_keys(password)
