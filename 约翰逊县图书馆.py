@@ -22,11 +22,11 @@ from selenium.webdriver.support.select import Select
 from selenium.webdriver.support.wait import WebDriverWait
 
 
-input_xlsx = '拉美国家-2026.1.7.xlsx'
+input_xlsx = '2026.5.19报刊整理.xlsx'
 
 driver_path = "/Users/admin/Desktop/taobao/chromedriver-mac-arm64/chromedriver"
 # 定义全局Cookie变量
-login_page = 'https://infoweb.newsbank.com/signin/HamiltonPublicLibrary/AWNB'
+login_page = 'https://ezproxy.jocolibrary.org/login?url=https://infoweb.newsbank.com/apps/news/easy-search?p=AWNB'
 
 # ==================== 入口标识配置 ====================
 # 设置为 True 时，直接搜索所有三组合，跳过二组合处理
@@ -57,90 +57,90 @@ account_configs = [
         'driver': None,
         'thread_id': 2
     },
-    {
-        'username': '700415405',
-        'password': '1234',
-        'driver': None,
-        'thread_id': 3
-    },
-    {
-        'username': '700415410',
-        'password': '1234',
-        'driver': None,
-        'thread_id': 4
-    },
-    {
-        'username': '700415418',
-        'password': '1234',
-        'driver': None,
-        'thread_id': 5
-    },
-    {
-        'username': '700415426',
-        'password': '1234',
-        'driver': None,
-        'thread_id': 6
-    },
-    {
-        'username': '700415431',
-        'password': '1234',
-        'driver': None,
-        'thread_id': 7
-    },
-    {
-        'username': '700415439',
-        'password': '1234',
-        'driver': None,
-        'thread_id': 8
-    },
-    {
-        'username': '700415447',
-        'password': '1234',
-        'driver': None,
-        'thread_id': 9
-    },
-    {
-        'username': '700415452',
-        'password': '1234',
-        'driver': None,
-        'thread_id': 10
-    },
-    {
-        'username': '700415460',
-        'password': '1234',
-        'driver': None,
-        'thread_id': 11
-    },
-    {
-        'username': '700415465',
-        'password': '1234',
-        'driver': None,
-        'thread_id': 12
-    },
-    {
-        'username': '700415470',
-        'password': '1234',
-        'driver': None,
-        'thread_id': 13
-    },
-    {
-        'username': '700415478',
-        'password': '1234',
-        'driver': None,
-        'thread_id': 14
-    },
-    {
-        'username': '700415486',
-        'password': '1234',
-        'driver': None,
-        'thread_id': 15
-    },
-    {
-        'username': '700415491',
-        'password': '1234',
-        'driver': None,
-        'thread_id': 16
-    },
+    # {
+    #     'username': '700415405',
+    #     'password': '1234',
+    #     'driver': None,
+    #     'thread_id': 3
+    # },
+    # {
+    #     'username': '700415410',
+    #     'password': '1234',
+    #     'driver': None,
+    #     'thread_id': 4
+    # },
+    # {
+    #     'username': '700415418',
+    #     'password': '1234',
+    #     'driver': None,
+    #     'thread_id': 5
+    # },
+    # {
+    #     'username': '700415426',
+    #     'password': '1234',
+    #     'driver': None,
+    #     'thread_id': 6
+    # },
+    # {
+    #     'username': '700415431',
+    #     'password': '1234',
+    #     'driver': None,
+    #     'thread_id': 7
+    # },
+    # {
+    #     'username': '700415439',
+    #     'password': '1234',
+    #     'driver': None,
+    #     'thread_id': 8
+    # },
+    # {
+    #     'username': '700415447',
+    #     'password': '1234',
+    #     'driver': None,
+    #     'thread_id': 9
+    # },
+    # {
+    #     'username': '700415452',
+    #     'password': '1234',
+    #     'driver': None,
+    #     'thread_id': 10
+    # },
+    # {
+    #     'username': '700415460',
+    #     'password': '1234',
+    #     'driver': None,
+    #     'thread_id': 11
+    # },
+    # {
+    #     'username': '700415465',
+    #     'password': '1234',
+    #     'driver': None,
+    #     'thread_id': 12
+    # },
+    # {
+    #     'username': '700415470',
+    #     'password': '1234',
+    #     'driver': None,
+    #     'thread_id': 13
+    # },
+    # {
+    #     'username': '700415478',
+    #     'password': '1234',
+    #     'driver': None,
+    #     'thread_id': 14
+    # },
+    # {
+    #     'username': '700415486',
+    #     'password': '1234',
+    #     'driver': None,
+    #     'thread_id': 15
+    # },
+    # {
+    #     'username': '700415491',
+    #     'password': '1234',
+    #     'driver': None,
+    #     'thread_id': 16
+    # },
 ]
 
 domain_url = 'https://infoweb.newsbank.com'
@@ -494,7 +494,7 @@ def is_on_the_hour():
 
 
 def get_cookie_for_thread(thread_id, logger_thread, username, password):
-    """为指定线程获取Cookie - 已修改为无密码登录"""
+    """为指定线程获取Cookie - 适配 bibliocommons 登录表单（用户名 + PIN/密码）"""
     driver = get_driver_for_thread(thread_id)
     if not driver:
         logger_thread.error(f"❌ [线程{thread_id}|账号{username}] 无法获取对应的浏览器驱动")
@@ -505,17 +505,22 @@ def get_cookie_for_thread(thread_id, logger_thread, username, password):
         driver.get(login_page)
         wait = WebDriverWait(driver, 100, 0.5)
 
-        # 1. 等待用户名输入框可点击
+        # 1. 等待用户名/Barcode 输入框（bibliocommons 表单 name="name"）
         username_input = wait.until(
-            EC.element_to_be_clickable((By.NAME, "libcard"))
+            EC.element_to_be_clickable((By.NAME, "name"))
         )
         driver.execute_script("arguments[0].scrollIntoView();", username_input)
         username_input.clear()
         username_input.send_keys(username)
 
-        # 2. 密码输入步骤已移除 - 无需密码登录
+        # 2. 等待并输入 PIN/Password（bibliocommons 表单 name="user_pin"）
+        password_input = wait.until(
+            EC.element_to_be_clickable((By.NAME, "user_pin"))
+        )
+        password_input.clear()
+        password_input.send_keys(password)
 
-        # 3. 点击登录按钮
+        # 3. 点击登录按钮（bibliocommons 表单 input[name='commit']，兼容 input[type='submit']）
         login_button = wait.until(
             EC.element_to_be_clickable((By.CSS_SELECTOR, "input[type='submit']"))
         )
@@ -525,9 +530,9 @@ def get_cookie_for_thread(thread_id, logger_thread, username, password):
         except:
             driver.execute_script("arguments[0].click();", login_button)
 
-        # 4. 等待跳转完成
+        # 4. 等待跳转完成（ezproxy 跳回 newsbank，标题包含 Access World News）
         wait.until(EC.title_contains("Access World News"))
-        logger_thread.info(f"[线程{thread_id}|账号{username}] ✅ 登录成功（无密码模式）")
+        logger_thread.info(f"[线程{thread_id}|账号{username}] ✅ 登录成功")
         return True
 
     except TimeoutException as e:
