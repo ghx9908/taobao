@@ -75,72 +75,66 @@ account_configs = [
         'driver': None,
         'thread_id': 5
     },
-    # {
-    #     'username': '700415426',
-    #     'password': '1234',
-    #     'driver': None,
-    #     'thread_id': 6
-    # },
-    # {
-    #     'username': '700415431',
-    #     'password': '1234',
-    #     'driver': None,
-    #     'thread_id': 7
-    # },
-    # {
-    #     'username': '700415439',
-    #     'password': '1234',
-    #     'driver': None,
-    #     'thread_id': 8
-    # },
-    # {
-    #     'username': '700415447',
-    #     'password': '1234',
-    #     'driver': None,
-    #     'thread_id': 9
-    # },
-    # {
-    #     'username': '700415452',
-    #     'password': '1234',
-    #     'driver': None,
-    #     'thread_id': 10
-    # },
-    # {
-    #     'username': '700415460',
-    #     'password': '1234',
-    #     'driver': None,
-    #     'thread_id': 11
-    # },
-    # {
-    #     'username': '700415465',
-    #     'password': '1234',
-    #     'driver': None,
-    #     'thread_id': 12
-    # },
-    # {
-    #     'username': '700415470',
-    #     'password': '1234',
-    #     'driver': None,
-    #     'thread_id': 13
-    # },
-    # {
-    #     'username': '700415478',
-    #     'password': '1234',
-    #     'driver': None,
-    #     'thread_id': 14
-    # },
-    # {
-    #     'username': '700415486',
-    #     'password': '1234',
-    #     'driver': None,
-    #     'thread_id': 15
-    # },
-    # {
-    #     'username': '700415491',
-    #     'password': '1234',
-    #     'driver': None,
-    #     'thread_id': 16
-    # },
+    {
+        'username': 'PACREG3448119',
+        'password': '1234',
+        'driver': None,
+        'thread_id': 6
+    },
+    {
+        'username': 'PACREG3448120',
+        'password': '1234',
+        'driver': None,
+        'thread_id': 7
+    },
+    {
+        'username': 'PACREG3448121',
+        'password': '1234',
+        'driver': None,
+        'thread_id': 8
+    },
+    {
+        'username': 'PACREG3448122',
+        'password': '1234',
+        'driver': None,
+        'thread_id': 9
+    },
+    {
+        'username': 'PACREG3448123',
+        'password': '1234',
+        'driver': None,
+        'thread_id': 10
+    },
+    {
+        'username': 'PACREG3448124',
+        'password': '1234',
+        'driver': None,
+        'thread_id': 11
+    },
+    {
+        'username': 'PACREG3448125',
+        'password': '1234',
+        'driver': None,
+        'thread_id': 12
+    },
+    {
+        'username': 'PACREG3448126',
+        'password': '1234',
+        'driver': None,
+        'thread_id': 13
+    },
+    {
+        'username': 'PACREG3448127',
+        'password': '1234',
+        'driver': None,
+        'thread_id': 14
+    },
+    {
+        'username': 'PACREG3448128',
+        'password': '1234',
+        'driver': None,
+        'thread_id': 15
+    },
 ]
 
 domain_url = 'https://infoweb-newsbank-com.webproxy3.columbuslibrary.org'
