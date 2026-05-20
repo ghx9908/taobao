@@ -1,0 +1,57 @@
+2026-05-20 13:27:49,055 - INFO - 线程 8676352192 开始执行
+2026-05-20 13:27:49,055 - INFO - 开始清理根目录下的旧文件...
+2026-05-20 13:27:49,056 - INFO - ✅ 旧文件清理完成
+2026-05-20 13:27:49,056 - INFO - 开始创建5个浏览器实例...
+2026-05-20 13:27:49,057 - INFO - [浏览器5] 动态生成UA: Mozilla/5.0 (Macintosh; Intel Mac OS X 13_6_0) AppleWebKit/5... 视口: 1600x900
+2026-05-20 13:27:49,057 - INFO - [浏览器3] 动态生成UA: Mozilla/5.0 (Macintosh; Intel Mac OS X 14_2_0) AppleWebKit/6... 视口: 1440x900
+2026-05-20 13:27:49,057 - INFO - [浏览器1] 动态生成UA: Mozilla/5.0 (Macintosh; Intel Mac OS X 13_6_0) AppleWebKit/5... 视口: 1366x768
+2026-05-20 13:27:49,057 - INFO - [浏览器2] 动态生成UA: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.2) Gecko/20... 视口: 1920x1080
+2026-05-20 13:27:49,057 - INFO - [浏览器4] 动态生成UA: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.40... 视口: 1536x864
+2026-05-20 13:27:50,639 - INFO - [浏览器4|账号PACREG3448109] ✅ 浏览器启动成功！
+2026-05-20 13:27:50,640 - INFO - ✅ 账号 PACREG3448109 浏览器创建成功
+2026-05-20 13:27:50,642 - INFO - [浏览器1|账号PACREG3447692] ✅ 浏览器启动成功！
+2026-05-20 13:27:50,642 - INFO - [浏览器3|账号PACREG3448108] ✅ 浏览器启动成功！
+2026-05-20 13:27:50,643 - INFO - ✅ 账号 PACREG3447692 浏览器创建成功
+2026-05-20 13:27:50,644 - INFO - ✅ 账号 PACREG3448108 浏览器创建成功
+2026-05-20 13:27:50,643 - INFO - [浏览器5|账号PACREG3448110] ✅ 浏览器启动成功！
+2026-05-20 13:27:50,646 - INFO - [浏览器2|账号PACREG3448107] ✅ 浏览器启动成功！
+2026-05-20 13:27:50,648 - INFO - ✅ 账号 PACREG3448110 浏览器创建成功
+2026-05-20 13:27:50,649 - INFO - ✅ 账号 PACREG3448107 浏览器创建成功
+2026-05-20 13:27:50,649 - INFO - 开始为5个浏览器并行登录...
+2026-05-20 13:27:50,649 - INFO - [线程1|账号PACREG3447692] 开始登录，访问登录页面...
+2026-05-20 13:27:50,650 - INFO - [线程2|账号PACREG3448107] 开始登录，访问登录页面...
+2026-05-20 13:27:50,655 - INFO - [线程3|账号PACREG3448108] 开始登录，访问登录页面...
+2026-05-20 13:27:50,657 - INFO - [线程4|账号PACREG3448109] 开始登录，访问登录页面...
+2026-05-20 13:27:50,657 - INFO - [线程5|账号PACREG3448110] 开始登录，访问登录页面...
+2026-05-20 13:29:04,893 - INFO - [线程5|账号PACREG3448110] ✅ 登录成功
+2026-05-20 13:29:04,894 - INFO - ✅ 账号 PACREG3448110 登录成功
+2026-05-20 13:29:18,368 - INFO - [线程1|账号PACREG3447692] ✅ 登录成功
+2026-05-20 13:29:18,369 - INFO - ✅ 账号 PACREG3447692 登录成功
+2026-05-20 13:29:19,834 - INFO - [线程4|账号PACREG3448109] ✅ 登录成功
+2026-05-20 13:29:19,834 - INFO - ✅ 账号 PACREG3448109 登录成功
+2026-05-20 13:29:29,192 - INFO - [线程3|账号PACREG3448108] ✅ 登录成功
+2026-05-20 13:29:29,193 - INFO - ✅ 账号 PACREG3448108 登录成功
+2026-05-20 13:29:31,234 - INFO - [线程2|账号PACREG3448107] ✅ 登录成功
+2026-05-20 13:29:31,234 - INFO - ✅ 账号 PACREG3448107 登录成功
+2026-05-20 13:29:31,235 - INFO - 线程 8676352192 执行结束
+2026-05-20 13:29:31,326 - INFO - 成功读取文件: country_small.txt
+2026-05-20 13:29:31,332 - INFO - sheet表名为政策风险的基本信息：
+2026-05-20 13:29:31,352 - INFO - sheet表名为技术风险的基本信息：
+2026-05-20 13:29:31,364 - INFO - sheet表名为市场风险的基本信息：
+2026-05-20 13:29:31,377 - INFO - {'La Prensa Grafica (San Salvador, El Salvador)': 'pubname:LPGS!La+Prensa+Grafica+%28San+Salvador%2C+El+Salvador%29', 'La Nacion (San Jose, Costa Rica)': 'pubname:LN91!La+Nacion+%28San+Jose%2C+Costa+Rica%29', 'La Prensa (Nicaragua)': 'pubname:NLPM!La+Prensa+%28Nicaragua%29', 'La Prensa [ContentEngine] (Panama)': 'pubname:PLAPR!La+Prensa+%5BContentEngine%5D+%28Panama%29', 'La Nación (Buenos Aires, Argentina)': 'pubname:ALNB!La+Naci%C3%B3n+%28Buenos+Aires%2C+Argentina%29', 'El Mercurio (Santiago, Chile)': 'pubname:CEM1!El+Mercurio+%28Santiago%2C+Chile%29', 'El Comercio (Lima, Peru)': 'pubname:EECQ!El+Comercio+%28Lima%2C+Peru%29', 'El País (Montevideo, Uruguay)': 'pubname:UEPM!El+Pa%C3%ADs+%28Montevideo%2C+Uruguay%29', 'El Nacional (Caracas, Venezuela)': 'pubname:ENSVC!El+Nacional+%28Caracas%2C+Venezuela%29', 'El Universal (Venezuela)': 'pubname:VEUC!El+Universal+%28Venezuela%29', 'El Comercio (Quito, Ecuador)': 'pubname:ELCOM!El+Comercio+%28Quito%2C+Ecuador%29', 'Revista Lideres (Quito, Ecuador)': 'pubname:REVLI!Revista+Lideres+%28Quito%2C+Ecuador%29'}
+2026-05-20 13:29:31,380 - INFO - sheet表名为政策风险的基本信息：None
+2026-05-20 13:29:31,380 - INFO - 第 0 行数据：
+2026-05-20 13:29:31,380 - INFO - 所属洲                                                      北美洲
+国家                                                      萨尔瓦多
+Country                                          El Salvador
+指定报纸报道         La Prensa Grafica (San Salvador, El Salvador)
+爬取时间                                               2005-2026
+气候         cambio climático/crisis climática/gases de efe...
+政策         política/políticas/regulación/regulaciones/leg...
+不确定        incierto/incertidumbre/incierto/desconocido/va...
+Name: 0, dtype: object
+2026-05-20 13:29:31,380 - INFO - 文件 'search_results/政策风险萨尔瓦多La Prensa Grafica (San Salvador, El Salvador).xlsx' 在 search_results/ 目录中不存在
+2026-05-20 15:28:23,633 - INFO - 访问网页失败!!! 
+2026-05-20 15:30:18,295 - INFO - 访问网页失败!!! 
+2026-05-20 15:51:39,790 - INFO - 访问网页失败!!! 
+2026-05-20 15:51:42,414 - INFO - 访问网页失败!!! 
