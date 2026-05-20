@@ -143,7 +143,7 @@ account_configs = [
     # },
 ]
 
-domain_url = 'https://infoweb.newsbank.com'
+domain_url = 'https://infoweb-newsbank-com.webproxy3.columbuslibrary.org'
 country_list_file = "country_small.txt"
 journal_name_to_code = {}
 no_journal_name = []
