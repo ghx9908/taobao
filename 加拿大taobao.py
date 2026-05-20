@@ -2380,6 +2380,7 @@ def crawl_data(file_name, pubname, date_range, climate, policy, uncertainty, log
         
         return None
     
+    
     for filter_data in filter_data_set:
         parts = filter_data.split('|||')
         if len(parts) == 3:
