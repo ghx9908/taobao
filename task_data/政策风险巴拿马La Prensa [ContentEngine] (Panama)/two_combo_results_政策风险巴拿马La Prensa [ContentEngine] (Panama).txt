@@ -1,0 +1,95 @@
+climate_policy|||cambio climático|||legislación|||48
+climate_policy|||cambio climático|||regulaciones|||44
+climate_policy|||cambio climático|||Secretaría Nacional de Energía|||32
+climate_policy|||cambio climático|||ley|||222
+climate_policy|||cambio climático|||política|||380
+climate_policy|||cambio climático|||Presidente|||431
+climate_policy|||cambio climático|||políticas|||391
+climate_policy|||cambio climático|||Ministro|||196
+climate_policy|||cambio climático|||Asamblea Nacional|||96
+climate_policy|||cambio climático|||gobierno|||462
+climate_policy|||cambio climático|||Ministerio de Ambiente|||223
+climate_policy|||cambio climático|||SNE|||8
+climate_policy|||cambio climático|||regulación|||70
+climate_policy|||crisis climática|||políticas|||99
+climate_policy|||crisis climática|||regulación|||18
+climate_policy|||cambio climático|||MiAmbiente|||68
+climate_policy|||crisis climática|||política|||94
+climate_policy|||crisis climática|||regulaciones|||10
+climate_policy|||crisis climática|||legislación|||12
+climate_policy|||crisis climática|||ley|||51
+climate_policy|||crisis climática|||Asamblea Nacional|||17
+climate_policy|||crisis climática|||Secretaría Nacional de Energía|||7
+climate_policy|||gases de efecto invernadero|||política|||49
+climate_policy|||gases de efecto invernadero|||políticas|||67
+climate_policy|||crisis climática|||SNE|||0
+climate_policy|||crisis climática|||gobierno|||146
+climate_policy|||crisis climática|||Ministerio de Ambiente|||49
+climate_policy|||crisis climática|||Presidente|||140
+climate_policy|||gases de efecto invernadero|||regulaciones|||14
+climate_policy|||gases de efecto invernadero|||regulación|||14
+climate_policy|||crisis climática|||MiAmbiente|||18
+climate_policy|||gases de efecto invernadero|||Asamblea Nacional|||9
+climate_policy|||crisis climática|||Ministro|||55
+climate_policy|||gases de efecto invernadero|||Presidente|||53
+climate_policy|||gases de efecto invernadero|||Ministro|||25
+climate_policy|||gases de efecto invernadero|||gobierno|||60
+climate_policy|||gases de efecto invernadero|||legislación|||6
+climate_policy|||gases de efecto invernadero|||ley|||33
+climate_policy|||gases de efecto invernadero|||MiAmbiente|||9
+climate_policy|||gases de efecto invernadero|||Secretaría Nacional de Energía|||14
+climate_policy|||gases de efecto invernadero|||SNE|||2
+climate_policy|||gases de efecto invernadero|||Ministerio de Ambiente|||36
+climate_policy|||CO2|||políticas|||29
+climate_policy|||CO2|||legislación|||6
+climate_policy|||CO2|||regulación|||15
+climate_policy|||CO2|||ley|||15
+climate_policy|||CO2|||Asamblea Nacional|||3
+climate_policy|||CO2|||Presidente|||39
+climate_policy|||CO2|||política|||20
+climate_policy|||CO2|||regulaciones|||6
+climate_policy|||CO2|||gobierno|||29
+climate_policy|||CO2|||Ministerio de Ambiente|||17
+climate_policy|||CO2|||MiAmbiente|||6
+climate_policy|||CO2|||Ministro|||9
+climate_policy|||CO2|||Secretaría Nacional de Energía|||9
+climate_policy|||CO2|||SNE|||3
+climate_policy|||calentamiento global|||políticas|||51
+climate_policy|||calentamiento global|||ley|||14
+climate_policy|||calentamiento global|||Ministro|||21
+climate_policy|||calentamiento global|||gobierno|||44
+climate_policy|||calentamiento global|||Ministerio de Ambiente|||28
+climate_policy|||calentamiento global|||MiAmbiente|||4
+climate_policy|||calentamiento global|||regulaciones|||8
+climate_policy|||calentamiento global|||política|||40
+climate_policy|||calentamiento global|||regulación|||13
+climate_policy|||calentamiento global|||legislación|||5
+climate_policy|||calentamiento global|||Asamblea Nacional|||3
+climate_policy|||calentamiento global|||SNE|||1
+climate_policy|||clima extremo|||política|||15
+climate_policy|||clima extremo|||políticas|||6
+climate_policy|||clima extremo|||regulación|||0
+climate_policy|||calentamiento global|||Presidente|||56
+climate_policy|||calentamiento global|||Secretaría Nacional de Energía|||3
+climate_policy|||clima extremo|||regulaciones|||1
+climate_policy|||clima extremo|||legislación|||0
+climate_policy|||clima extremo|||ley|||9
+climate_policy|||clima extremo|||Asamblea Nacional|||3
+climate_policy|||clima extremo|||Ministro|||3
+climate_policy|||clima extremo|||gobierno|||11
+climate_policy|||clima extremo|||MiAmbiente|||1
+climate_policy|||clima extremo|||Ministerio de Ambiente|||2
+climate_policy|||clima extremo|||SNE|||0
+climate_policy|||temperatura extrema|||política|||1
+climate_policy|||temperatura extrema|||regulación|||0
+climate_policy|||clima extremo|||Secretaría Nacional de Energía|||0
+climate_policy|||clima extremo|||Presidente|||8
+climate_policy|||temperatura extrema|||regulaciones|||0
+climate_policy|||temperatura extrema|||legislación|||0
+climate_policy|||temperatura extrema|||ley|||0
+climate_policy|||temperatura extrema|||Asamblea Nacional|||0
+climate_policy|||temperatura extrema|||Presidente|||1
+climate_policy|||temperatura extrema|||Ministro|||0
+climate_policy|||temperatura extrema|||políticas|||2
+climate_policy|||temperatura extrema|||gobierno|||1
+climate_policy|||temperatura extrema|||SNE|||0

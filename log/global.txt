@@ -1025,3 +1025,14 @@ Country                                            Nicaragua
 不确定        incierto/incertidumbre/incierto/desconocido/va...
 Name: 2, dtype: object
 2026-05-21 11:53:22,489 - INFO - 文件 'search_results/政策风险尼加拉瓜La Prensa (Nicaragua).xlsx' 在 search_results/ 目录中不存在
+2026-05-21 12:43:31,432 - INFO - 第 3 行数据：
+2026-05-21 12:43:31,432 - INFO - 所属洲                                                      NaN
+国家                                                       巴拿马
+Country                                               Panama
+指定报纸报道                    La Prensa [ContentEngine] (Panama)
+爬取时间                                               2005-2026
+气候         cambio climático/crisis climática/gases de efe...
+政策         política/políticas/regulación/regulaciones/leg...
+不确定        incierto/incertidumbre/incierto/desconocido/va...
+Name: 3, dtype: object
+2026-05-21 12:43:31,435 - INFO - 文件 'search_results/政策风险巴拿马La Prensa [ContentEngine] (Panama).xlsx' 在 search_results/ 目录中不存在
