@@ -755,3 +755,152 @@ huracán|||legislación|||incierto
 huracán|||legislación|||incertidumbre
 huracán|||regulación|||retirar
 huracán|||legislación|||desconocido
+huracán|||ley|||cancelar
+huracán|||ley|||incierto
+huracán|||legislación|||retirar
+huracán|||legislación|||cancelar
+huracán|||ley|||posponer
+huracán|||ley|||abolir
+huracán|||Asamblea Legislativa|||incierto
+huracán|||legislación|||posponer
+huracán|||ley|||desconocido
+huracán|||legislación|||suspender
+huracán|||legislación|||abolir
+huracán|||ley|||retirar
+huracán|||ley|||incertidumbre
+huracán|||ley|||incierto
+huracán|||ley|||suspender
+huracán|||Asamblea Legislativa|||incertidumbre
+huracán|||Asamblea Legislativa|||desconocido
+huracán|||Asamblea Legislativa|||posponer
+huracán|||Asamblea Legislativa|||cancelar
+huracán|||Presidente|||desconocido
+huracán|||Asamblea Legislativa|||incierto
+huracán|||Asamblea Legislativa|||abolir
+huracán|||Asamblea Legislativa|||suspender
+huracán|||Asamblea Legislativa|||retirar
+huracán|||Presidente|||incierto
+huracán|||Presidente|||incierto
+huracán|||Presidente|||posponer
+huracán|||Presidente|||cancelar
+huracán|||Casa Presidencial|||incierto
+huracán|||Presidente|||incertidumbre
+huracán|||Presidente|||abolir
+huracán|||Casa Presidencial|||incertidumbre
+huracán|||Casa Presidencial|||desconocido
+huracán|||Presidente|||retirar
+huracán|||Presidente|||suspender
+huracán|||Casa Presidencial|||cancelar
+huracán|||Casa Presidencial|||retirar
+huracán|||Casa Presidencial|||suspender
+huracán|||Ministro|||incertidumbre
+huracán|||Ministro|||incierto
+huracán|||Casa Presidencial|||incierto
+huracán|||Ministro|||posponer
+huracán|||Ministro|||abolir
+huracán|||Casa Presidencial|||posponer
+huracán|||Casa Presidencial|||abolir
+huracán|||Ministro|||cancelar
+huracán|||Ministro|||incierto
+huracán|||Ministro|||desconocido
+huracán|||Ministro|||suspender
+huracán|||gobierno|||incierto
+huracán|||gobierno|||incertidumbre
+huracán|||gobierno|||incierto
+huracán|||gobierno|||posponer
+huracán|||gobierno|||retirar
+huracán|||gobierno|||abolir
+huracán|||gobierno|||suspender
+huracán|||Ministro|||retirar
+huracán|||Ministerio de Ambiente y Energía|||incierto
+huracán|||Ministerio de Ambiente y Energía|||incertidumbre
+huracán|||gobierno|||desconocido
+huracán|||Ministerio de Ambiente y Energía|||posponer
+huracán|||gobierno|||cancelar
+huracán|||Ministerio de Ambiente y Energía|||retirar
+huracán|||Ministerio de Ambiente y Energía|||suspender
+huracán|||MINAE|||incierto
+huracán|||Ministerio de Ambiente y Energía|||incierto
+huracán|||Ministerio de Ambiente y Energía|||desconocido
+huracán|||MINAE|||incierto
+huracán|||Ministerio de Ambiente y Energía|||abolir
+huracán|||Ministerio de Ambiente y Energía|||cancelar
+huracán|||MINAE|||desconocido
+huracán|||MINAE|||posponer
+huracán|||MINAE|||abolir
+huracán|||MINAE|||cancelar
+huracán|||MINAE|||retirar
+huracán|||MINAE|||incertidumbre
+inundación|||política|||incierto
+inundación|||política|||desconocido
+inundación|||política|||impredecible
+huracán|||MINAE|||suspender
+inundación|||política|||incertidumbre
+inundación|||políticas|||incierto
+inundación|||políticas|||incertidumbre
+inundación|||políticas|||incierto
+inundación|||política|||incierto
+inundación|||políticas|||impredecible
+inundación|||políticas|||retirar
+inundación|||política|||cancelar
+inundación|||política|||suspender
+inundación|||política|||retirar
+inundación|||regulación|||incierto
+inundación|||políticas|||desconocido
+inundación|||regulación|||incertidumbre
+inundación|||políticas|||cancelar
+inundación|||regulación|||incierto
+inundación|||regulación|||desconocido
+inundación|||regulación|||cancelar
+inundación|||regulación|||retirar
+inundación|||regulaciones|||incertidumbre
+inundación|||regulaciones|||impredecible
+inundación|||políticas|||suspender
+inundación|||regulaciones|||cancelar
+inundación|||regulaciones|||suspender
+inundación|||regulaciones|||retirar
+inundación|||legislación|||incierto
+inundación|||regulación|||suspender
+inundación|||legislación|||incertidumbre
+inundación|||legislación|||incierto
+inundación|||ley|||incierto
+inundación|||legislación|||desconocido
+inundación|||legislación|||cancelar
+inundación|||legislación|||retirar
+inundación|||ley|||retirar
+inundación|||legislación|||suspender
+inundación|||ley|||incierto
+inundación|||ley|||incertidumbre
+inundación|||Asamblea Legislativa|||incierto
+inundación|||Asamblea Legislativa|||incertidumbre
+inundación|||ley|||desconocido
+inundación|||ley|||impredecible
+inundación|||ley|||cancelar
+inundación|||Asamblea Legislativa|||desconocido
+inundación|||ley|||suspender
+inundación|||Asamblea Legislativa|||incierto
+inundación|||Asamblea Legislativa|||impredecible
+inundación|||Asamblea Legislativa|||cancelar
+inundación|||Asamblea Legislativa|||retirar
+inundación|||Presidente|||incierto
+inundación|||Presidente|||desconocido
+inundación|||Presidente|||impredecible
+inundación|||Presidente|||cancelar
+inundación|||Presidente|||suspender
+inundación|||Asamblea Legislativa|||suspender
+inundación|||Presidente|||incierto
+inundación|||Presidente|||incertidumbre
+inundación|||Casa Presidencial|||desconocido
+inundación|||Presidente|||retirar
+inundación|||Casa Presidencial|||suspender
+inundación|||Casa Presidencial|||incierto
+inundación|||Ministro|||incierto
+inundación|||Casa Presidencial|||incertidumbre
+inundación|||Casa Presidencial|||incierto
+inundación|||Casa Presidencial|||cancelar
+inundación|||Casa Presidencial|||retirar
+inundación|||Ministro|||impredecible
+inundación|||Ministro|||cancelar
+inundación|||Ministro|||incierto
+inundación|||Ministro|||incertidumbre
+inundación|||gobierno|||incertidumbre

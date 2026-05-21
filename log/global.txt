@@ -865,3 +865,152 @@ Country                                                Chile
 偏好         apoyar/aceptar/aprobar/respaldar/confiar/gusta...
 Name: 5, dtype: object
 2026-05-21 10:01:05,902 - INFO - 文件 'search_results/市场风险智利El Mercurio (Santiago, Chile).xlsx' 在 search_results/ 目录中不存在
+2026-05-21 11:02:58,883 - INFO - 线程 8676352192 开始执行
+2026-05-21 11:02:58,883 - INFO - 开始清理根目录下的旧文件...
+2026-05-21 11:02:58,884 - INFO - ✅ 旧文件清理完成
+2026-05-21 11:02:58,884 - INFO - 开始创建15个浏览器实例...
+2026-05-21 11:02:58,884 - INFO - [浏览器1] 动态生成UA: Mozilla/5.0 (Macintosh; Intel Mac OS X 13_6_0) AppleWebKit/5... 视口: 1366x768
+2026-05-21 11:02:58,884 - INFO - [浏览器2] 动态生成UA: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.2) Gecko/20... 视口: 1920x1080
+2026-05-21 11:02:58,885 - INFO - [浏览器3] 动态生成UA: Mozilla/5.0 (Macintosh; Intel Mac OS X 14_2_0) AppleWebKit/6... 视口: 1440x900
+2026-05-21 11:02:58,885 - INFO - [浏览器4] 动态生成UA: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.40... 视口: 1536x864
+2026-05-21 11:02:58,887 - INFO - [浏览器5] 动态生成UA: Mozilla/5.0 (Macintosh; Intel Mac OS X 13_6_0) AppleWebKit/5... 视口: 1600x900
+2026-05-21 11:02:58,887 - INFO - [浏览器6] 动态生成UA: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.6) Gecko/20... 视口: 1280x800
+2026-05-21 11:02:58,890 - INFO - [浏览器7] 动态生成UA: Mozilla/5.0 (Macintosh; Intel Mac OS X 14_2_0) AppleWebKit/6... 视口: 1680x1050
+2026-05-21 11:02:58,891 - INFO - [浏览器8] 动态生成UA: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.44... 视口: 2560x1440
+2026-05-21 11:02:58,892 - INFO - [浏览器10] 动态生成UA: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20... 视口: 1024x768
+2026-05-21 11:02:58,893 - INFO - [浏览器9] 动态生成UA: Mozilla/5.0 (Macintosh; Intel Mac OS X 13_6_0) AppleWebKit/5... 视口: 1280x1024
+2026-05-21 11:02:58,897 - INFO - [浏览器11] 动态生成UA: Mozilla/5.0 (Macintosh; Intel Mac OS X 14_2_0) AppleWebKit/6... 视口: 1152x864
+2026-05-21 11:02:58,900 - INFO - [浏览器13] 动态生成UA: Mozilla/5.0 (Macintosh; Intel Mac OS X 13_6_0) AppleWebKit/5... 视口: 1360x768
+2026-05-21 11:02:58,902 - INFO - [浏览器12] 动态生成UA: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.38... 视口: 1280x720
+2026-05-21 11:02:58,904 - INFO - [浏览器15] 动态生成UA: Mozilla/5.0 (Macintosh; Intel Mac OS X 14_2_0) AppleWebKit/6... 视口: 1920x1200
+2026-05-21 11:02:58,906 - INFO - [浏览器14] 动态生成UA: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.4) Gecko/20... 视口: 1600x1200
+2026-05-21 11:03:01,545 - INFO - [浏览器13|账号PACREG3448126] ✅ 浏览器启动成功！
+2026-05-21 11:03:01,547 - INFO - ✅ 账号 PACREG3448126 浏览器创建成功
+2026-05-21 11:03:01,549 - INFO - [浏览器12|账号PACREG3448125] ✅ 浏览器启动成功！
+2026-05-21 11:03:01,552 - INFO - ✅ 账号 PACREG3448125 浏览器创建成功
+2026-05-21 11:03:01,671 - INFO - [浏览器5|账号PACREG3448110] ✅ 浏览器启动成功！
+2026-05-21 11:03:01,674 - INFO - [浏览器11|账号PACREG3448124] ✅ 浏览器启动成功！
+2026-05-21 11:03:01,715 - INFO - ✅ 账号 PACREG3448110 浏览器创建成功
+2026-05-21 11:03:01,717 - INFO - ✅ 账号 PACREG3448124 浏览器创建成功
+2026-05-21 11:03:01,776 - INFO - [浏览器1|账号PACREG3447692] ✅ 浏览器启动成功！
+2026-05-21 11:03:01,778 - INFO - ✅ 账号 PACREG3447692 浏览器创建成功
+2026-05-21 11:03:01,844 - INFO - [浏览器14|账号PACREG3448127] ✅ 浏览器启动成功！
+2026-05-21 11:03:01,853 - INFO - ✅ 账号 PACREG3448127 浏览器创建成功
+2026-05-21 11:03:01,862 - INFO - [浏览器3|账号PACREG3448108] ✅ 浏览器启动成功！
+2026-05-21 11:03:01,876 - INFO - ✅ 账号 PACREG3448108 浏览器创建成功
+2026-05-21 11:03:01,979 - INFO - [浏览器4|账号PACREG3448109] ✅ 浏览器启动成功！
+2026-05-21 11:03:01,993 - INFO - ✅ 账号 PACREG3448109 浏览器创建成功
+2026-05-21 11:03:02,158 - INFO - [浏览器7|账号PACREG3448120] ✅ 浏览器启动成功！
+2026-05-21 11:03:02,160 - INFO - ✅ 账号 PACREG3448120 浏览器创建成功
+2026-05-21 11:03:02,245 - INFO - [浏览器6|账号PACREG3448119] ✅ 浏览器启动成功！
+2026-05-21 11:03:02,262 - INFO - [浏览器15|账号PACREG3448128] ✅ 浏览器启动成功！
+2026-05-21 11:03:02,262 - INFO - [浏览器10|账号PACREG3448123] ✅ 浏览器启动成功！
+2026-05-21 11:03:02,266 - INFO - ✅ 账号 PACREG3448119 浏览器创建成功
+2026-05-21 11:03:02,266 - INFO - ✅ 账号 PACREG3448128 浏览器创建成功
+2026-05-21 11:03:02,271 - INFO - ✅ 账号 PACREG3448123 浏览器创建成功
+2026-05-21 11:03:02,342 - INFO - [浏览器9|账号PACREG3448122] ✅ 浏览器启动成功！
+2026-05-21 11:03:02,349 - INFO - ✅ 账号 PACREG3448122 浏览器创建成功
+2026-05-21 11:03:02,376 - INFO - [浏览器8|账号PACREG3448121] ✅ 浏览器启动成功！
+2026-05-21 11:03:02,376 - INFO - ✅ 账号 PACREG3448121 浏览器创建成功
+2026-05-21 11:03:02,467 - INFO - [浏览器2|账号PACREG3448107] ✅ 浏览器启动成功！
+2026-05-21 11:03:02,472 - INFO - ✅ 账号 PACREG3448107 浏览器创建成功
+2026-05-21 11:03:02,474 - INFO - 开始为15个浏览器并行登录...
+2026-05-21 11:03:02,474 - INFO - [线程1|账号PACREG3447692] 开始登录，访问登录页面...
+2026-05-21 11:03:02,475 - INFO - [线程2|账号PACREG3448107] 开始登录，访问登录页面...
+2026-05-21 11:03:02,476 - INFO - [线程3|账号PACREG3448108] 开始登录，访问登录页面...
+2026-05-21 11:03:02,477 - INFO - [线程4|账号PACREG3448109] 开始登录，访问登录页面...
+2026-05-21 11:03:02,478 - INFO - [线程5|账号PACREG3448110] 开始登录，访问登录页面...
+2026-05-21 11:03:02,488 - INFO - [线程6|账号PACREG3448119] 开始登录，访问登录页面...
+2026-05-21 11:03:02,492 - INFO - [线程7|账号PACREG3448120] 开始登录，访问登录页面...
+2026-05-21 11:03:02,494 - INFO - [线程8|账号PACREG3448121] 开始登录，访问登录页面...
+2026-05-21 11:03:02,499 - INFO - [线程9|账号PACREG3448122] 开始登录，访问登录页面...
+2026-05-21 11:03:02,500 - INFO - [线程10|账号PACREG3448123] 开始登录，访问登录页面...
+2026-05-21 11:03:02,522 - INFO - [线程11|账号PACREG3448124] 开始登录，访问登录页面...
+2026-05-21 11:03:02,533 - INFO - [线程12|账号PACREG3448125] 开始登录，访问登录页面...
+2026-05-21 11:03:02,542 - INFO - [线程13|账号PACREG3448126] 开始登录，访问登录页面...
+2026-05-21 11:03:02,550 - INFO - [线程14|账号PACREG3448127] 开始登录，访问登录页面...
+2026-05-21 11:03:02,563 - INFO - [线程15|账号PACREG3448128] 开始登录，访问登录页面...
+2026-05-21 11:04:08,632 - INFO - [线程3|账号PACREG3448108] ✅ 登录成功
+2026-05-21 11:04:08,633 - INFO - ✅ 账号 PACREG3448108 登录成功
+2026-05-21 11:04:08,758 - INFO - [线程11|账号PACREG3448124] ✅ 登录成功
+2026-05-21 11:04:08,758 - INFO - ✅ 账号 PACREG3448124 登录成功
+2026-05-21 11:04:11,156 - INFO - [线程7|账号PACREG3448120] ✅ 登录成功
+2026-05-21 11:04:11,156 - INFO - ✅ 账号 PACREG3448120 登录成功
+2026-05-21 11:04:22,673 - INFO - [线程9|账号PACREG3448122] ✅ 登录成功
+2026-05-21 11:04:22,673 - INFO - ✅ 账号 PACREG3448122 登录成功
+2026-05-21 11:04:23,008 - INFO - [线程1|账号PACREG3447692] ✅ 登录成功
+2026-05-21 11:04:23,008 - INFO - ✅ 账号 PACREG3447692 登录成功
+2026-05-21 11:04:24,791 - INFO - [线程15|账号PACREG3448128] ✅ 登录成功
+2026-05-21 11:04:24,792 - INFO - ✅ 账号 PACREG3448128 登录成功
+2026-05-21 11:04:26,944 - INFO - [线程14|账号PACREG3448127] ✅ 登录成功
+2026-05-21 11:04:26,945 - INFO - ✅ 账号 PACREG3448127 登录成功
+2026-05-21 11:04:28,835 - INFO - [线程12|账号PACREG3448125] ✅ 登录成功
+2026-05-21 11:04:28,836 - INFO - ✅ 账号 PACREG3448125 登录成功
+2026-05-21 11:04:31,022 - INFO - [线程6|账号PACREG3448119] ✅ 登录成功
+2026-05-21 11:04:31,022 - INFO - ✅ 账号 PACREG3448119 登录成功
+2026-05-21 11:04:31,063 - INFO - [线程13|账号PACREG3448126] ✅ 登录成功
+2026-05-21 11:04:31,063 - INFO - ✅ 账号 PACREG3448126 登录成功
+2026-05-21 11:04:31,204 - INFO - [线程2|账号PACREG3448107] ✅ 登录成功
+2026-05-21 11:04:31,204 - INFO - ✅ 账号 PACREG3448107 登录成功
+2026-05-21 11:04:33,492 - INFO - [线程10|账号PACREG3448123] ✅ 登录成功
+2026-05-21 11:04:33,492 - INFO - ✅ 账号 PACREG3448123 登录成功
+2026-05-21 11:04:39,636 - INFO - [线程5|账号PACREG3448110] ✅ 登录成功
+2026-05-21 11:04:39,636 - INFO - ✅ 账号 PACREG3448110 登录成功
+2026-05-21 11:04:41,072 - INFO - [线程8|账号PACREG3448121] ✅ 登录成功
+2026-05-21 11:04:41,073 - INFO - ✅ 账号 PACREG3448121 登录成功
+2026-05-21 11:05:47,678 - ERROR - ❌ [线程4|账号PACREG3448109] 登录异常: Message: stale element reference: stale element not found
+  (Session info: chrome=148.0.7778.179); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+0   chromedriver                        0x0000000103088c40 cxxbridge1$str$ptr + 3221216
+1   chromedriver                        0x0000000103080b1c cxxbridge1$str$ptr + 3188156
+2   chromedriver                        0x0000000102b438f4 _RNvCsiKAbIcglKMQ_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 75152
+3   chromedriver                        0x0000000102b555b4 _RNvCsiKAbIcglKMQ_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 148048
+4   chromedriver                        0x0000000102b54664 _RNvCsiKAbIcglKMQ_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 144128
+5   chromedriver                        0x0000000102b4a380 _RNvCsiKAbIcglKMQ_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 102428
+6   chromedriver                        0x0000000102b4a48c _RNvCsiKAbIcglKMQ_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 102696
+7   chromedriver                        0x0000000102b48b60 _RNvCsiKAbIcglKMQ_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 96252
+8   chromedriver                        0x0000000102b4c004 _RNvCsiKAbIcglKMQ_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 109728
+9   chromedriver                        0x0000000102bcc690 _RNvCsiKAbIcglKMQ_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 635692
+10  chromedriver                        0x0000000102bcb6f4 _RNvCsiKAbIcglKMQ_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 631696
+11  chromedriver                        0x0000000102b819c0 _RNvCsiKAbIcglKMQ_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 329308
+12  chromedriver                        0x0000000103046b70 cxxbridge1$str$ptr + 2950672
+13  chromedriver                        0x000000010304a2c8 cxxbridge1$str$ptr + 2964840
+14  chromedriver                        0x000000010302b8a8 cxxbridge1$str$ptr + 2839368
+15  chromedriver                        0x000000010304ab48 cxxbridge1$str$ptr + 2967016
+16  chromedriver                        0x000000010301c3d4 cxxbridge1$str$ptr + 2776692
+17  chromedriver                        0x000000010306f7ac cxxbridge1$str$ptr + 3117644
+18  chromedriver                        0x000000010306f90c cxxbridge1$str$ptr + 3117996
+19  chromedriver                        0x0000000103080774 cxxbridge1$str$ptr + 3187220
+20  libsystem_pthread.dylib             0x00000001972d7c0c _pthread_start + 136
+21  libsystem_pthread.dylib             0x00000001972d2b80 thread_start + 8
+
+2026-05-21 11:05:47,680 - ERROR - ❌ 账号 PACREG3448109 登录失败
+2026-05-21 11:05:47,680 - INFO - 线程 8676352192 执行结束
+2026-05-21 11:05:47,784 - INFO - 成功读取文件: country_small.txt
+2026-05-21 11:05:47,791 - INFO - sheet表名为政策风险的基本信息：
+2026-05-21 11:05:47,817 - INFO - sheet表名为技术风险的基本信息：
+2026-05-21 11:05:47,836 - INFO - sheet表名为市场风险的基本信息：
+2026-05-21 11:05:47,848 - INFO - {'La Prensa Grafica (San Salvador, El Salvador)': 'pubname:LPGS!La+Prensa+Grafica+%28San+Salvador%2C+El+Salvador%29', 'La Nacion (San Jose, Costa Rica)': 'pubname:LN91!La+Nacion+%28San+Jose%2C+Costa+Rica%29', 'La Prensa (Nicaragua)': 'pubname:NLPM!La+Prensa+%28Nicaragua%29', 'La Prensa [ContentEngine] (Panama)': 'pubname:PLAPR!La+Prensa+%5BContentEngine%5D+%28Panama%29', 'La Nación (Buenos Aires, Argentina)': 'pubname:ALNB!La+Naci%C3%B3n+%28Buenos+Aires%2C+Argentina%29', 'El Mercurio (Santiago, Chile)': 'pubname:CEM1!El+Mercurio+%28Santiago%2C+Chile%29', 'El Comercio (Lima, Peru)': 'pubname:EECQ!El+Comercio+%28Lima%2C+Peru%29', 'El País (Montevideo, Uruguay)': 'pubname:UEPM!El+Pa%C3%ADs+%28Montevideo%2C+Uruguay%29', 'El Nacional (Caracas, Venezuela)': 'pubname:ENSVC!El+Nacional+%28Caracas%2C+Venezuela%29', 'El Universal (Venezuela)': 'pubname:VEUC!El+Universal+%28Venezuela%29', 'El Comercio (Quito, Ecuador)': 'pubname:ELCOM!El+Comercio+%28Quito%2C+Ecuador%29', 'Revista Lideres (Quito, Ecuador)': 'pubname:REVLI!Revista+Lideres+%28Quito%2C+Ecuador%29'}
+2026-05-21 11:05:47,850 - INFO - sheet表名为政策风险的基本信息：None
+2026-05-21 11:05:47,850 - INFO - 第 0 行数据：
+2026-05-21 11:05:47,850 - INFO - 所属洲                                                      北美洲
+国家                                                      萨尔瓦多
+Country                                          El Salvador
+指定报纸报道         La Prensa Grafica (San Salvador, El Salvador)
+爬取时间                                               2005-2026
+气候         cambio climático/crisis climática/gases de efe...
+政策         política/políticas/regulación/regulaciones/leg...
+不确定        incierto/incertidumbre/incierto/desconocido/va...
+Name: 0, dtype: object
+2026-05-21 11:05:47,850 - INFO - 文件 'search_results/政策风险萨尔瓦多La Prensa Grafica (San Salvador, El Salvador).xlsx' 在 search_results/ 目录中不存在
+2026-05-21 11:31:44,130 - INFO - 第 1 行数据：
+2026-05-21 11:31:44,130 - INFO - 所属洲                                                      NaN
+国家                                               哥斯达黎加（西班牙语）
+Country                                           Costa Rica
+指定报纸报道                      La Nacion (San Jose, Costa Rica)
+爬取时间                                               2005-2026
+气候         cambio climático/crisis climática/gases de efe...
+政策         política/políticas/regulación/regulaciones/leg...
+不确定        incierto/incertidumbre/incierto/desconocido/va...
+Name: 1, dtype: object
+2026-05-21 11:31:44,133 - INFO - 文件 'search_results/政策风险哥斯达黎加（西班牙语）La Nacion (San Jose, Costa Rica).xlsx' 在 search_results/ 目录中不存在
