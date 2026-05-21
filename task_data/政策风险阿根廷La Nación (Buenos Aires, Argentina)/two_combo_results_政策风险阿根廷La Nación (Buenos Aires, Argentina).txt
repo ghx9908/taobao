@@ -1209,3 +1209,5 @@ policy_uncertainty||| Secretaría de Energía|||retrasar|||15
 policy_uncertainty||| Secretaría de Energía|||retirar|||83
 policy_uncertainty||| Secretaría de Energía|||cancelar|||65
 policy_uncertainty||| Secretaría de Energía|||suspender|||107
+climate_policy|||gases de efecto invernadero||| Secretaría de Energía|||65
+climate_policy|||ola de calor||| Secretaría de Energía|||48
