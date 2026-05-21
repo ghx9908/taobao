@@ -1127,3 +1127,85 @@ policy_uncertainty|||Secretaría de Cambio Climático, Desarrollo Sostenible e I
 policy_uncertainty|||Secretaría de Cambio Climático, Desarrollo Sostenible e Innovación|||diferir|||0
 policy_uncertainty|||Secretaría de Cambio Climático, Desarrollo Sostenible e Innovación|||abolir|||0
 policy_uncertainty|||Secretaría de Cambio Climático, Desarrollo Sostenible e Innovación|||rescindir|||0
+climate_policy|||clima extremo||| Secretaría de Ambiente y Desarrollo Sustentable|||3
+climate_policy|||lluvia intensa||| Secretaría de Ambiente y Desarrollo Sustentable|||0
+climate_policy|||ola de calor||| Secretaría de Ambiente y Desarrollo Sustentable|||2
+climate_policy|||incendio forestal||| Secretaría de Ambiente y Desarrollo Sustentable|||3
+climate_policy|||tormenta de nieve||| Secretaría de Ambiente y Desarrollo Sustentable|||0
+climate_policy|||ola de frío||| Secretaría de Energía|||26
+climate_policy|||CO2||| Secretaría de Ambiente y Desarrollo Sustentable|||3
+climate_policy|||temperatura extrema||| Secretaría de Ambiente y Desarrollo Sustentable|||0
+climate_policy|||crisis climática||| Secretaría de Ambiente y Desarrollo Sustentable|||5
+climate_policy|||calentamiento global||| Secretaría de Energía|||27
+climate_policy|||crisis climática||| Secretaría de Energía|||18
+climate_policy|||gases de efecto invernadero||| Secretaría de Ambiente y Desarrollo Sustentable|||24
+climate_policy|||cambio climático||| Secretaría de Ambiente y Desarrollo Sustentable|||60
+climate_policy|||incendio forestal||| Secretaría de Energía|||3
+climate_policy|||ola de frío||| Secretaría de Ambiente y Desarrollo Sustentable|||2
+climate_policy|||cambio climático||| Secretaría de Energía|||146
+climate_policy|||sequía||| Secretaría de Ambiente y Desarrollo Sustentable|||10
+climate_policy|||calentamiento global||| Secretaría de Ambiente y Desarrollo Sustentable|||13
+climate_policy|||clima extremo||| Secretaría de Energía|||17
+climate_policy|||temperatura extrema||| Secretaría de Energía|||12
+climate_policy|||CO2||| Secretaría de Energía|||20
+climate_policy|||tormenta de nieve||| Secretaría de Energía|||2
+climate_policy|||sequía||| Secretaría de Energía|||120
+climate_policy|||huracán||| Secretaría de Ambiente y Desarrollo Sustentable|||0
+climate_policy|||lluvia intensa||| Secretaría de Energía|||1
+climate_policy|||huracán||| Secretaría de Energía|||17
+climate_policy|||inundación||| Secretaría de Ambiente y Desarrollo Sustentable|||12
+climate_policy|||energía renovable||| Secretaría de Ambiente y Desarrollo Sustentable|||4
+climate_policy|||inundación||| Secretaría de Energía|||20
+climate_policy|||bioenergía||| Secretaría de Ambiente y Desarrollo Sustentable|||0
+climate_policy|||energía renovable||| Secretaría de Energía|||100
+climate_policy|||energía solar||| Secretaría de Ambiente y Desarrollo Sustentable|||10
+climate_policy|||energía limpia||| Secretaría de Ambiente y Desarrollo Sustentable|||6
+climate_policy|||energía verde||| Secretaría de Energía|||172
+climate_policy|||energía verde||| Secretaría de Ambiente y Desarrollo Sustentable|||12
+climate_policy|||energía limpia||| Secretaría de Energía|||77
+climate_policy|||energía eólica||| Secretaría de Ambiente y Desarrollo Sustentable|||12
+climate_policy|||energía hidroeléctrica||| Secretaría de Energía|||106
+climate_policy|||energía hidroeléctrica||| Secretaría de Ambiente y Desarrollo Sustentable|||1
+climate_policy|||energía eólica||| Secretaría de Energía|||63
+climate_policy|||energía solar||| Secretaría de Energía|||139
+climate_policy|||energía geotérmica||| Secretaría de Ambiente y Desarrollo Sustentable|||0
+climate_policy|||energía geotérmica||| Secretaría de Energía|||1
+climate_policy|||energía oceánica||| Secretaría de Ambiente y Desarrollo Sustentable|||0
+climate_policy|||bioenergía||| Secretaría de Energía|||5
+climate_policy|||COP||| Secretaría de Ambiente y Desarrollo Sustentable|||2
+climate_policy|||energía oceánica||| Secretaría de Energía|||3
+climate_policy|||IPCC||| Secretaría de Energía|||7
+climate_policy|||IPCC||| Secretaría de Ambiente y Desarrollo Sustentable|||2
+climate_policy|||COP||| Secretaría de Energía|||17
+policy_uncertainty||| Secretaría de Ambiente y Desarrollo Sustentable|||incierto|||4
+policy_uncertainty||| Secretaría de Ambiente y Desarrollo Sustentable|||incertidumbre|||8
+policy_uncertainty||| Secretaría de Ambiente y Desarrollo Sustentable|||vago|||1
+policy_uncertainty||| Secretaría de Ambiente y Desarrollo Sustentable|||desconocido|||2
+policy_uncertainty||| Secretaría de Ambiente y Desarrollo Sustentable|||ambiguo|||0
+policy_uncertainty||| Secretaría de Ambiente y Desarrollo Sustentable|||incierto|||4
+policy_uncertainty||| Secretaría de Ambiente y Desarrollo Sustentable|||posponer|||0
+climate_policy|||Acuerdo de París||| Secretaría de Ambiente y Desarrollo Sustentable|||12
+policy_uncertainty||| Secretaría de Ambiente y Desarrollo Sustentable|||retrasar|||0
+climate_policy|||Acuerdo de París||| Secretaría de Energía|||95
+policy_uncertainty||| Secretaría de Ambiente y Desarrollo Sustentable|||impredecible|||1
+policy_uncertainty||| Secretaría de Ambiente y Desarrollo Sustentable|||rescindir|||0
+policy_uncertainty||| Secretaría de Ambiente y Desarrollo Sustentable|||diferir|||0
+policy_uncertainty||| Secretaría de Ambiente y Desarrollo Sustentable|||abolir|||2
+policy_uncertainty||| Secretaría de Ambiente y Desarrollo Sustentable|||cancelar|||0
+policy_uncertainty||| Secretaría de Ambiente y Desarrollo Sustentable|||suspender|||12
+policy_uncertainty||| Secretaría de Energía|||ambiguo|||5
+policy_uncertainty||| Secretaría de Energía|||vago|||4
+policy_uncertainty||| Secretaría de Ambiente y Desarrollo Sustentable|||retirar|||11
+policy_uncertainty||| Secretaría de Energía|||desconocido|||30
+policy_uncertainty||| Secretaría de Energía|||incierto|||53
+policy_uncertainty||| Secretaría de Energía|||incierto|||53
+policy_uncertainty||| Secretaría de Energía|||incertidumbre|||253
+policy_uncertainty||| Secretaría de Energía|||impredecible|||6
+policy_uncertainty||| Secretaría de Energía|||abolir|||2
+policy_uncertainty||| Secretaría de Energía|||posponer|||13
+policy_uncertainty||| Secretaría de Energía|||rescindir|||5
+policy_uncertainty||| Secretaría de Energía|||diferir|||21
+policy_uncertainty||| Secretaría de Energía|||retrasar|||15
+policy_uncertainty||| Secretaría de Energía|||retirar|||83
+policy_uncertainty||| Secretaría de Energía|||cancelar|||65
+policy_uncertainty||| Secretaría de Energía|||suspender|||107
