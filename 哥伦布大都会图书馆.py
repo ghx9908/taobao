@@ -135,66 +135,66 @@ account_configs = [
         'driver': None,
         'thread_id': 15
     },
-    {
-        'username': 'PACREG3448140',
-        'password': '1234',
-        'driver': None,
-        'thread_id': 16
-    },
-    {
-        'username': 'PACREG3448141',
-        'password': '1234',
-        'driver': None,
-        'thread_id': 17
-    },
-    {
-        'username': 'PACREG3448142',
-        'password': '1234',
-        'driver': None,
-        'thread_id': 18
-    },
-    {
-        'username': 'PACREG3448143',
-        'password': '1234',
-        'driver': None,
-        'thread_id': 19
-    },
-    {
-        'username': 'PACREG3448145',
-        'password': '1234',
-        'driver': None,
-        'thread_id': 20
-    },
-    {
-        'username': 'PACREG3448147',
-        'password': '1234',
-        'driver': None,
-        'thread_id': 21
-    },
-    {
-        'username': 'PACREG3448148',
-        'password': '1234',
-        'driver': None,
-        'thread_id': 22
-    },
-    {
-        'username': 'PACREG3448149',
-        'password': '1234',
-        'driver': None,
-        'thread_id': 23
-    },
-    {
-        'username': 'PACREG3448151',
-        'password': '1234',
-        'driver': None,
-        'thread_id': 24
-    },
-    {
-        'username': 'PACREG3448153',
-        'password': '1234',
-        'driver': None,
-        'thread_id': 25
-    },
+    # {
+    #     'username': 'PACREG3448140',
+    #     'password': '1234',
+    #     'driver': None,
+    #     'thread_id': 16
+    # },
+    # {
+    #     'username': 'PACREG3448141',
+    #     'password': '1234',
+    #     'driver': None,
+    #     'thread_id': 17
+    # },
+    # {
+    #     'username': 'PACREG3448142',
+    #     'password': '1234',
+    #     'driver': None,
+    #     'thread_id': 18
+    # },
+    # {
+    #     'username': 'PACREG3448143',
+    #     'password': '1234',
+    #     'driver': None,
+    #     'thread_id': 19
+    # },
+    # {
+    #     'username': 'PACREG3448145',
+    #     'password': '1234',
+    #     'driver': None,
+    #     'thread_id': 20
+    # },
+    # {
+    #     'username': 'PACREG3448147',
+    #     'password': '1234',
+    #     'driver': None,
+    #     'thread_id': 21
+    # },
+    # {
+    #     'username': 'PACREG3448148',
+    #     'password': '1234',
+    #     'driver': None,
+    #     'thread_id': 22
+    # },
+    # {
+    #     'username': 'PACREG3448149',
+    #     'password': '1234',
+    #     'driver': None,
+    #     'thread_id': 23
+    # },
+    # {
+    #     'username': 'PACREG3448151',
+    #     'password': '1234',
+    #     'driver': None,
+    #     'thread_id': 24
+    # },
+    # {
+    #     'username': 'PACREG3448153',
+    #     'password': '1234',
+    #     'driver': None,
+    #     'thread_id': 25
+    # },
 ]
 
 domain_url = 'https://infoweb-newsbank-com.webproxy3.columbuslibrary.org'
@@ -972,9 +972,10 @@ def crawl_data(file_name, pubname, date_range, climate, policy, uncertainty, log
     # urllib3.disable_warnings()
     start_time = datetime.now()
 
-    climate_list = climate.split('/')
-    policy_list = policy.split('/')
-    uncertainty_list = uncertainty.split('/')
+    # 源头 strip：避免数据源前后空格导致跨次运行去重失败、产生重复二组合记录
+    climate_list = [item.strip() for item in climate.split('/') if item and item.strip()]
+    policy_list = [item.strip() for item in policy.split('/') if item and item.strip()]
+    uncertainty_list = [item.strip() for item in uncertainty.split('/') if item and item.strip()]
     
     # ==================== 入口标识判断 ====================
     if SKIP_TWO_COMBO:

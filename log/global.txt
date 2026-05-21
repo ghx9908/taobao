@@ -1554,3 +1554,310 @@ Country                                            Argentina
 不确定        incierto/incertidumbre/incierto/desconocido/va...
 Name: 4, dtype: object
 2026-05-21 14:50:41,844 - INFO - 文件 'search_results/政策风险阿根廷La Nación (Buenos Aires, Argentina).xlsx' 在 search_results/ 目录中不存在
+2026-05-21 16:24:57,122 - INFO - 线程 8685166784 开始执行
+2026-05-21 16:24:57,122 - INFO - 开始清理根目录下的旧文件...
+2026-05-21 16:24:57,122 - INFO - ✅ 旧文件清理完成
+2026-05-21 16:24:57,122 - INFO - 开始创建15个浏览器实例...
+2026-05-21 16:24:57,123 - INFO - [浏览器1] 动态生成UA: Mozilla/5.0 (Macintosh; Intel Mac OS X 13_6_0) AppleWebKit/5... 视口: 1366x768
+2026-05-21 16:24:57,123 - INFO - [浏览器2] 动态生成UA: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.2) Gecko/20... 视口: 1920x1080
+2026-05-21 16:24:57,123 - INFO - [浏览器3] 动态生成UA: Mozilla/5.0 (Macintosh; Intel Mac OS X 14_2_0) AppleWebKit/6... 视口: 1440x900
+2026-05-21 16:24:57,124 - INFO - [浏览器5] 动态生成UA: Mozilla/5.0 (Macintosh; Intel Mac OS X 13_6_0) AppleWebKit/5... 视口: 1600x900
+2026-05-21 16:24:57,124 - INFO - [浏览器6] 动态生成UA: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.6) Gecko/20... 视口: 1280x800
+2026-05-21 16:24:57,124 - INFO - [浏览器7] 动态生成UA: Mozilla/5.0 (Macintosh; Intel Mac OS X 14_2_0) AppleWebKit/6... 视口: 1680x1050
+2026-05-21 16:24:57,124 - INFO - [浏览器4] 动态生成UA: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.40... 视口: 1536x864
+2026-05-21 16:24:57,127 - INFO - [浏览器9] 动态生成UA: Mozilla/5.0 (Macintosh; Intel Mac OS X 13_6_0) AppleWebKit/5... 视口: 1280x1024
+2026-05-21 16:24:57,129 - INFO - [浏览器10] 动态生成UA: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20... 视口: 1024x768
+2026-05-21 16:24:57,129 - INFO - [浏览器8] 动态生成UA: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.44... 视口: 2560x1440
+2026-05-21 16:24:57,131 - INFO - [浏览器13] 动态生成UA: Mozilla/5.0 (Macintosh; Intel Mac OS X 13_6_0) AppleWebKit/5... 视口: 1360x768
+2026-05-21 16:24:57,131 - INFO - [浏览器12] 动态生成UA: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.38... 视口: 1280x720
+2026-05-21 16:24:57,131 - INFO - [浏览器11] 动态生成UA: Mozilla/5.0 (Macintosh; Intel Mac OS X 14_2_0) AppleWebKit/6... 视口: 1152x864
+2026-05-21 16:24:57,132 - INFO - [浏览器15] 动态生成UA: Mozilla/5.0 (Macintosh; Intel Mac OS X 14_2_0) AppleWebKit/6... 视口: 1920x1200
+2026-05-21 16:24:57,134 - INFO - [浏览器14] 动态生成UA: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.4) Gecko/20... 视口: 1600x1200
+2026-05-21 16:24:59,135 - INFO - [浏览器2|账号PACREG3448107] ✅ 浏览器启动成功！
+2026-05-21 16:24:59,136 - INFO - ✅ 账号 PACREG3448107 浏览器创建成功
+2026-05-21 16:24:59,280 - INFO - [浏览器9|账号PACREG3448122] ✅ 浏览器启动成功！
+2026-05-21 16:24:59,280 - INFO - ✅ 账号 PACREG3448122 浏览器创建成功
+2026-05-21 16:24:59,282 - INFO - [浏览器3|账号PACREG3448108] ✅ 浏览器启动成功！
+2026-05-21 16:24:59,282 - INFO - [浏览器14|账号PACREG3448127] ✅ 浏览器启动成功！
+2026-05-21 16:24:59,282 - INFO - ✅ 账号 PACREG3448108 浏览器创建成功
+2026-05-21 16:24:59,282 - INFO - ✅ 账号 PACREG3448127 浏览器创建成功
+2026-05-21 16:24:59,327 - INFO - [浏览器13|账号PACREG3448126] ✅ 浏览器启动成功！
+2026-05-21 16:24:59,329 - INFO - ✅ 账号 PACREG3448126 浏览器创建成功
+2026-05-21 16:24:59,396 - INFO - [浏览器5|账号PACREG3448110] ✅ 浏览器启动成功！
+2026-05-21 16:24:59,398 - INFO - ✅ 账号 PACREG3448110 浏览器创建成功
+2026-05-21 16:24:59,405 - INFO - [浏览器8|账号PACREG3448121] ✅ 浏览器启动成功！
+2026-05-21 16:24:59,409 - INFO - [浏览器15|账号PACREG3448128] ✅ 浏览器启动成功！
+2026-05-21 16:24:59,412 - INFO - ✅ 账号 PACREG3448121 浏览器创建成功
+2026-05-21 16:24:59,412 - INFO - ✅ 账号 PACREG3448128 浏览器创建成功
+2026-05-21 16:24:59,439 - INFO - [浏览器7|账号PACREG3448120] ✅ 浏览器启动成功！
+2026-05-21 16:24:59,445 - INFO - ✅ 账号 PACREG3448120 浏览器创建成功
+2026-05-21 16:24:59,565 - INFO - [浏览器6|账号PACREG3448119] ✅ 浏览器启动成功！
+2026-05-21 16:24:59,575 - INFO - ✅ 账号 PACREG3448119 浏览器创建成功
+2026-05-21 16:24:59,727 - INFO - [浏览器10|账号PACREG3448123] ✅ 浏览器启动成功！
+2026-05-21 16:24:59,727 - INFO - ✅ 账号 PACREG3448123 浏览器创建成功
+2026-05-21 16:24:59,732 - INFO - [浏览器4|账号PACREG3448109] ✅ 浏览器启动成功！
+2026-05-21 16:24:59,736 - INFO - ✅ 账号 PACREG3448109 浏览器创建成功
+2026-05-21 16:24:59,794 - INFO - [浏览器11|账号PACREG3448124] ✅ 浏览器启动成功！
+2026-05-21 16:24:59,808 - INFO - ✅ 账号 PACREG3448124 浏览器创建成功
+2026-05-21 16:24:59,896 - INFO - [浏览器12|账号PACREG3448125] ✅ 浏览器启动成功！
+2026-05-21 16:24:59,909 - INFO - ✅ 账号 PACREG3448125 浏览器创建成功
+2026-05-21 16:25:00,113 - INFO - [浏览器1|账号PACREG3447692] ✅ 浏览器启动成功！
+2026-05-21 16:25:00,114 - INFO - ✅ 账号 PACREG3447692 浏览器创建成功
+2026-05-21 16:25:00,151 - INFO - 开始为15个浏览器并行登录...
+2026-05-21 16:25:00,151 - INFO - [线程1|账号PACREG3447692] 开始登录，访问登录页面...
+2026-05-21 16:25:00,158 - INFO - [线程2|账号PACREG3448107] 开始登录，访问登录页面...
+2026-05-21 16:25:00,161 - INFO - [线程3|账号PACREG3448108] 开始登录，访问登录页面...
+2026-05-21 16:25:00,162 - INFO - [线程4|账号PACREG3448109] 开始登录，访问登录页面...
+2026-05-21 16:25:00,166 - INFO - [线程5|账号PACREG3448110] 开始登录，访问登录页面...
+2026-05-21 16:25:00,172 - INFO - [线程6|账号PACREG3448119] 开始登录，访问登录页面...
+2026-05-21 16:25:00,174 - INFO - [线程7|账号PACREG3448120] 开始登录，访问登录页面...
+2026-05-21 16:25:00,183 - INFO - [线程8|账号PACREG3448121] 开始登录，访问登录页面...
+2026-05-21 16:25:00,189 - INFO - [线程9|账号PACREG3448122] 开始登录，访问登录页面...
+2026-05-21 16:25:00,192 - INFO - [线程10|账号PACREG3448123] 开始登录，访问登录页面...
+2026-05-21 16:25:00,199 - INFO - [线程11|账号PACREG3448124] 开始登录，访问登录页面...
+2026-05-21 16:25:00,207 - INFO - [线程12|账号PACREG3448125] 开始登录，访问登录页面...
+2026-05-21 16:25:00,213 - INFO - [线程13|账号PACREG3448126] 开始登录，访问登录页面...
+2026-05-21 16:25:00,224 - INFO - [线程14|账号PACREG3448127] 开始登录，访问登录页面...
+2026-05-21 16:25:00,228 - INFO - [线程15|账号PACREG3448128] 开始登录，访问登录页面...
+2026-05-21 16:27:03,515 - INFO - [线程5|账号PACREG3448110] ✅ 登录成功
+2026-05-21 16:27:03,515 - INFO - ✅ 账号 PACREG3448110 登录成功
+2026-05-21 16:27:07,434 - ERROR - ❌ [线程13|账号PACREG3448126] 登录异常: Message: stale element reference: stale element not found
+  (Session info: chrome=148.0.7778.179); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+0   chromedriver                        0x00000001005b8c40 cxxbridge1$str$ptr + 3221216
+1   chromedriver                        0x00000001005b0b1c cxxbridge1$str$ptr + 3188156
+2   chromedriver                        0x00000001000738f4 _RNvCsiKAbIcglKMQ_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 75152
+3   chromedriver                        0x00000001000855b4 _RNvCsiKAbIcglKMQ_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 148048
+4   chromedriver                        0x0000000100084664 _RNvCsiKAbIcglKMQ_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 144128
+5   chromedriver                        0x000000010007a380 _RNvCsiKAbIcglKMQ_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 102428
+6   chromedriver                        0x000000010007a48c _RNvCsiKAbIcglKMQ_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 102696
+7   chromedriver                        0x0000000100078b60 _RNvCsiKAbIcglKMQ_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 96252
+8   chromedriver                        0x000000010007c004 _RNvCsiKAbIcglKMQ_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 109728
+9   chromedriver                        0x00000001000fc690 _RNvCsiKAbIcglKMQ_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 635692
+10  chromedriver                        0x00000001000fb6f4 _RNvCsiKAbIcglKMQ_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 631696
+11  chromedriver                        0x00000001000b19c0 _RNvCsiKAbIcglKMQ_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 329308
+12  chromedriver                        0x0000000100576b70 cxxbridge1$str$ptr + 2950672
+13  chromedriver                        0x000000010057a2c8 cxxbridge1$str$ptr + 2964840
+14  chromedriver                        0x000000010055b8a8 cxxbridge1$str$ptr + 2839368
+15  chromedriver                        0x000000010057ab48 cxxbridge1$str$ptr + 2967016
+16  chromedriver                        0x000000010054c3d4 cxxbridge1$str$ptr + 2776692
+17  chromedriver                        0x000000010059f7ac cxxbridge1$str$ptr + 3117644
+18  chromedriver                        0x000000010059f90c cxxbridge1$str$ptr + 3117996
+19  chromedriver                        0x00000001005b0774 cxxbridge1$str$ptr + 3187220
+20  libsystem_pthread.dylib             0x0000000197b3fc0c _pthread_start + 136
+21  libsystem_pthread.dylib             0x0000000197b3ab80 thread_start + 8
+
+2026-05-21 16:27:07,436 - ERROR - ❌ 账号 PACREG3448126 登录失败
+2026-05-21 16:27:07,438 - INFO - [线程15|账号PACREG3448128] ✅ 登录成功
+2026-05-21 16:27:07,438 - INFO - ✅ 账号 PACREG3448128 登录成功
+2026-05-21 16:27:08,069 - ERROR - ❌ [线程11|账号PACREG3448124] 登录异常: Message: stale element reference: stale element not found
+  (Session info: chrome=148.0.7778.179); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+0   chromedriver                        0x0000000104d50c40 cxxbridge1$str$ptr + 3221216
+1   chromedriver                        0x0000000104d48b1c cxxbridge1$str$ptr + 3188156
+2   chromedriver                        0x000000010480b8f4 _RNvCsiKAbIcglKMQ_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 75152
+3   chromedriver                        0x000000010481d5b4 _RNvCsiKAbIcglKMQ_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 148048
+4   chromedriver                        0x000000010481c664 _RNvCsiKAbIcglKMQ_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 144128
+5   chromedriver                        0x0000000104812380 _RNvCsiKAbIcglKMQ_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 102428
+6   chromedriver                        0x000000010481248c _RNvCsiKAbIcglKMQ_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 102696
+7   chromedriver                        0x0000000104810b60 _RNvCsiKAbIcglKMQ_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 96252
+8   chromedriver                        0x0000000104814004 _RNvCsiKAbIcglKMQ_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 109728
+9   chromedriver                        0x0000000104894690 _RNvCsiKAbIcglKMQ_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 635692
+10  chromedriver                        0x00000001048936f4 _RNvCsiKAbIcglKMQ_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 631696
+11  chromedriver                        0x00000001048499c0 _RNvCsiKAbIcglKMQ_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 329308
+12  chromedriver                        0x0000000104d0eb70 cxxbridge1$str$ptr + 2950672
+13  chromedriver                        0x0000000104d122c8 cxxbridge1$str$ptr + 2964840
+14  chromedriver                        0x0000000104cf38a8 cxxbridge1$str$ptr + 2839368
+15  chromedriver                        0x0000000104d12b48 cxxbridge1$str$ptr + 2967016
+16  chromedriver                        0x0000000104ce43d4 cxxbridge1$str$ptr + 2776692
+17  chromedriver                        0x0000000104d377ac cxxbridge1$str$ptr + 3117644
+18  chromedriver                        0x0000000104d3790c cxxbridge1$str$ptr + 3117996
+19  chromedriver                        0x0000000104d48774 cxxbridge1$str$ptr + 3187220
+20  libsystem_pthread.dylib             0x0000000197b3fc0c _pthread_start + 136
+21  libsystem_pthread.dylib             0x0000000197b3ab80 thread_start + 8
+
+2026-05-21 16:27:08,069 - ERROR - ❌ 账号 PACREG3448124 登录失败
+2026-05-21 16:27:08,846 - INFO - [线程12|账号PACREG3448125] ✅ 登录成功
+2026-05-21 16:27:08,846 - INFO - ✅ 账号 PACREG3448125 登录成功
+2026-05-21 16:27:14,225 - INFO - [线程8|账号PACREG3448121] ✅ 登录成功
+2026-05-21 16:27:14,225 - INFO - ✅ 账号 PACREG3448121 登录成功
+2026-05-21 16:27:21,855 - ERROR - ❌ [线程10|账号PACREG3448123] 登录异常: Message: stale element reference: stale element not found
+  (Session info: chrome=148.0.7778.179); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+0   chromedriver                        0x00000001047b4c40 cxxbridge1$str$ptr + 3221216
+1   chromedriver                        0x00000001047acb1c cxxbridge1$str$ptr + 3188156
+2   chromedriver                        0x000000010426f8f4 _RNvCsiKAbIcglKMQ_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 75152
+3   chromedriver                        0x00000001042815b4 _RNvCsiKAbIcglKMQ_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 148048
+4   chromedriver                        0x0000000104280664 _RNvCsiKAbIcglKMQ_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 144128
+5   chromedriver                        0x0000000104276380 _RNvCsiKAbIcglKMQ_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 102428
+6   chromedriver                        0x000000010427648c _RNvCsiKAbIcglKMQ_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 102696
+7   chromedriver                        0x0000000104274b60 _RNvCsiKAbIcglKMQ_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 96252
+8   chromedriver                        0x0000000104278004 _RNvCsiKAbIcglKMQ_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 109728
+9   chromedriver                        0x00000001042f8690 _RNvCsiKAbIcglKMQ_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 635692
+10  chromedriver                        0x00000001042f76f4 _RNvCsiKAbIcglKMQ_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 631696
+11  chromedriver                        0x00000001042ad9c0 _RNvCsiKAbIcglKMQ_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 329308
+12  chromedriver                        0x0000000104772b70 cxxbridge1$str$ptr + 2950672
+13  chromedriver                        0x00000001047762c8 cxxbridge1$str$ptr + 2964840
+14  chromedriver                        0x00000001047578a8 cxxbridge1$str$ptr + 2839368
+15  chromedriver                        0x0000000104776b48 cxxbridge1$str$ptr + 2967016
+16  chromedriver                        0x00000001047483d4 cxxbridge1$str$ptr + 2776692
+17  chromedriver                        0x000000010479b7ac cxxbridge1$str$ptr + 3117644
+18  chromedriver                        0x000000010479b90c cxxbridge1$str$ptr + 3117996
+19  chromedriver                        0x00000001047ac774 cxxbridge1$str$ptr + 3187220
+20  libsystem_pthread.dylib             0x0000000197b3fc0c _pthread_start + 136
+21  libsystem_pthread.dylib             0x0000000197b3ab80 thread_start + 8
+
+2026-05-21 16:27:21,855 - ERROR - ❌ 账号 PACREG3448123 登录失败
+2026-05-21 16:27:28,479 - ERROR - ❌ [线程6|账号PACREG3448119] 登录异常: Message: stale element reference: stale element not found
+  (Session info: chrome=148.0.7778.179); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+0   chromedriver                        0x0000000101110c40 cxxbridge1$str$ptr + 3221216
+1   chromedriver                        0x0000000101108b1c cxxbridge1$str$ptr + 3188156
+2   chromedriver                        0x0000000100bcb8f4 _RNvCsiKAbIcglKMQ_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 75152
+3   chromedriver                        0x0000000100bdd5b4 _RNvCsiKAbIcglKMQ_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 148048
+4   chromedriver                        0x0000000100bdc664 _RNvCsiKAbIcglKMQ_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 144128
+5   chromedriver                        0x0000000100bd2380 _RNvCsiKAbIcglKMQ_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 102428
+6   chromedriver                        0x0000000100bd248c _RNvCsiKAbIcglKMQ_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 102696
+7   chromedriver                        0x0000000100bd0b60 _RNvCsiKAbIcglKMQ_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 96252
+8   chromedriver                        0x0000000100bd4004 _RNvCsiKAbIcglKMQ_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 109728
+9   chromedriver                        0x0000000100c54690 _RNvCsiKAbIcglKMQ_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 635692
+10  chromedriver                        0x0000000100c536f4 _RNvCsiKAbIcglKMQ_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 631696
+11  chromedriver                        0x0000000100c099c0 _RNvCsiKAbIcglKMQ_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 329308
+12  chromedriver                        0x00000001010ceb70 cxxbridge1$str$ptr + 2950672
+13  chromedriver                        0x00000001010d22c8 cxxbridge1$str$ptr + 2964840
+14  chromedriver                        0x00000001010b38a8 cxxbridge1$str$ptr + 2839368
+15  chromedriver                        0x00000001010d2b48 cxxbridge1$str$ptr + 2967016
+16  chromedriver                        0x00000001010a43d4 cxxbridge1$str$ptr + 2776692
+17  chromedriver                        0x00000001010f77ac cxxbridge1$str$ptr + 3117644
+18  chromedriver                        0x00000001010f790c cxxbridge1$str$ptr + 3117996
+19  chromedriver                        0x0000000101108774 cxxbridge1$str$ptr + 3187220
+20  libsystem_pthread.dylib             0x0000000197b3fc0c _pthread_start + 136
+21  libsystem_pthread.dylib             0x0000000197b3ab80 thread_start + 8
+
+2026-05-21 16:27:28,479 - ERROR - ❌ 账号 PACREG3448119 登录失败
+2026-05-21 16:27:40,494 - ERROR - ❌ [线程7|账号PACREG3448120] 登录异常: Message: stale element reference: stale element not found
+  (Session info: chrome=148.0.7778.179); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+0   chromedriver                        0x0000000102f3cc40 cxxbridge1$str$ptr + 3221216
+1   chromedriver                        0x0000000102f34b1c cxxbridge1$str$ptr + 3188156
+2   chromedriver                        0x00000001029f78f4 _RNvCsiKAbIcglKMQ_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 75152
+3   chromedriver                        0x0000000102a095b4 _RNvCsiKAbIcglKMQ_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 148048
+4   chromedriver                        0x0000000102a08664 _RNvCsiKAbIcglKMQ_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 144128
+5   chromedriver                        0x00000001029fe380 _RNvCsiKAbIcglKMQ_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 102428
+6   chromedriver                        0x00000001029fe48c _RNvCsiKAbIcglKMQ_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 102696
+7   chromedriver                        0x00000001029fcb60 _RNvCsiKAbIcglKMQ_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 96252
+8   chromedriver                        0x0000000102a00004 _RNvCsiKAbIcglKMQ_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 109728
+9   chromedriver                        0x0000000102a80690 _RNvCsiKAbIcglKMQ_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 635692
+10  chromedriver                        0x0000000102a7f6f4 _RNvCsiKAbIcglKMQ_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 631696
+11  chromedriver                        0x0000000102a359c0 _RNvCsiKAbIcglKMQ_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 329308
+12  chromedriver                        0x0000000102efab70 cxxbridge1$str$ptr + 2950672
+13  chromedriver                        0x0000000102efe2c8 cxxbridge1$str$ptr + 2964840
+14  chromedriver                        0x0000000102edf8a8 cxxbridge1$str$ptr + 2839368
+15  chromedriver                        0x0000000102efeb48 cxxbridge1$str$ptr + 2967016
+16  chromedriver                        0x0000000102ed03d4 cxxbridge1$str$ptr + 2776692
+17  chromedriver                        0x0000000102f237ac cxxbridge1$str$ptr + 3117644
+18  chromedriver                        0x0000000102f2390c cxxbridge1$str$ptr + 3117996
+19  chromedriver                        0x0000000102f34774 cxxbridge1$str$ptr + 3187220
+20  libsystem_pthread.dylib             0x0000000197b3fc0c _pthread_start + 136
+21  libsystem_pthread.dylib             0x0000000197b3ab80 thread_start + 8
+
+2026-05-21 16:27:40,495 - ERROR - ❌ 账号 PACREG3448120 登录失败
+2026-05-21 16:27:46,496 - INFO - [线程14|账号PACREG3448127] ✅ 登录成功
+2026-05-21 16:27:46,497 - INFO - ✅ 账号 PACREG3448127 登录成功
+2026-05-21 16:28:06,617 - INFO - [线程4|账号PACREG3448109] ✅ 登录成功
+2026-05-21 16:28:06,619 - INFO - ✅ 账号 PACREG3448109 登录成功
+2026-05-21 16:28:10,352 - INFO - [线程1|账号PACREG3447692] ✅ 登录成功
+2026-05-21 16:28:10,352 - INFO - ✅ 账号 PACREG3447692 登录成功
+2026-05-21 16:28:16,562 - INFO - [线程9|账号PACREG3448122] ✅ 登录成功
+2026-05-21 16:28:16,562 - INFO - ✅ 账号 PACREG3448122 登录成功
+2026-05-21 16:28:23,864 - INFO - [线程2|账号PACREG3448107] ✅ 登录成功
+2026-05-21 16:28:23,864 - INFO - ✅ 账号 PACREG3448107 登录成功
+2026-05-21 16:28:24,514 - ERROR - ❌ [线程3|账号PACREG3448108] 登录异常: Message: stale element reference: stale element not found
+  (Session info: chrome=148.0.7778.179); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+0   chromedriver                        0x0000000100744c40 cxxbridge1$str$ptr + 3221216
+1   chromedriver                        0x000000010073cb1c cxxbridge1$str$ptr + 3188156
+2   chromedriver                        0x00000001001ff8f4 _RNvCsiKAbIcglKMQ_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 75152
+3   chromedriver                        0x00000001002115b4 _RNvCsiKAbIcglKMQ_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 148048
+4   chromedriver                        0x0000000100210664 _RNvCsiKAbIcglKMQ_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 144128
+5   chromedriver                        0x0000000100206380 _RNvCsiKAbIcglKMQ_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 102428
+6   chromedriver                        0x000000010020648c _RNvCsiKAbIcglKMQ_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 102696
+7   chromedriver                        0x0000000100204b60 _RNvCsiKAbIcglKMQ_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 96252
+8   chromedriver                        0x0000000100208004 _RNvCsiKAbIcglKMQ_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 109728
+9   chromedriver                        0x0000000100288690 _RNvCsiKAbIcglKMQ_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 635692
+10  chromedriver                        0x00000001002876f4 _RNvCsiKAbIcglKMQ_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 631696
+11  chromedriver                        0x000000010023d9c0 _RNvCsiKAbIcglKMQ_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 329308
+12  chromedriver                        0x0000000100702b70 cxxbridge1$str$ptr + 2950672
+13  chromedriver                        0x00000001007062c8 cxxbridge1$str$ptr + 2964840
+14  chromedriver                        0x00000001006e78a8 cxxbridge1$str$ptr + 2839368
+15  chromedriver                        0x0000000100706b48 cxxbridge1$str$ptr + 2967016
+16  chromedriver                        0x00000001006d83d4 cxxbridge1$str$ptr + 2776692
+17  chromedriver                        0x000000010072b7ac cxxbridge1$str$ptr + 3117644
+18  chromedriver                        0x000000010072b90c cxxbridge1$str$ptr + 3117996
+19  chromedriver                        0x000000010073c774 cxxbridge1$str$ptr + 3187220
+20  libsystem_pthread.dylib             0x0000000197b3fc0c _pthread_start + 136
+21  libsystem_pthread.dylib             0x0000000197b3ab80 thread_start + 8
+
+2026-05-21 16:28:24,514 - ERROR - ❌ 账号 PACREG3448108 登录失败
+2026-05-21 16:28:24,515 - INFO - 线程 8685166784 执行结束
+2026-05-21 16:28:24,603 - INFO - 成功读取文件: country_small.txt
+2026-05-21 16:28:24,609 - INFO - sheet表名为政策风险的基本信息：
+2026-05-21 16:28:24,628 - INFO - sheet表名为技术风险的基本信息：
+2026-05-21 16:28:24,643 - INFO - sheet表名为市场风险的基本信息：
+2026-05-21 16:28:24,658 - INFO - {'La Prensa Grafica (San Salvador, El Salvador)': 'pubname:LPGS!La+Prensa+Grafica+%28San+Salvador%2C+El+Salvador%29', 'La Nacion (San Jose, Costa Rica)': 'pubname:LN91!La+Nacion+%28San+Jose%2C+Costa+Rica%29', 'La Prensa (Nicaragua)': 'pubname:NLPM!La+Prensa+%28Nicaragua%29', 'La Prensa [ContentEngine] (Panama)': 'pubname:PLAPR!La+Prensa+%5BContentEngine%5D+%28Panama%29', 'La Nación (Buenos Aires, Argentina)': 'pubname:ALNB!La+Naci%C3%B3n+%28Buenos+Aires%2C+Argentina%29', 'El Mercurio (Santiago, Chile)': 'pubname:CEM1!El+Mercurio+%28Santiago%2C+Chile%29', 'El Comercio (Lima, Peru)': 'pubname:EECQ!El+Comercio+%28Lima%2C+Peru%29', 'El País (Montevideo, Uruguay)': 'pubname:UEPM!El+Pa%C3%ADs+%28Montevideo%2C+Uruguay%29', 'El Nacional (Caracas, Venezuela)': 'pubname:ENSVC!El+Nacional+%28Caracas%2C+Venezuela%29', 'El Universal (Venezuela)': 'pubname:VEUC!El+Universal+%28Venezuela%29', 'El Comercio (Quito, Ecuador)': 'pubname:ELCOM!El+Comercio+%28Quito%2C+Ecuador%29', 'Revista Lideres (Quito, Ecuador)': 'pubname:REVLI!Revista+Lideres+%28Quito%2C+Ecuador%29'}
+2026-05-21 16:28:24,660 - INFO - sheet表名为政策风险的基本信息：None
+2026-05-21 16:28:24,660 - INFO - 第 0 行数据：
+2026-05-21 16:28:24,660 - INFO - 所属洲                                                      北美洲
+国家                                                      萨尔瓦多
+Country                                          El Salvador
+指定报纸报道         La Prensa Grafica (San Salvador, El Salvador)
+爬取时间                                               2005-2026
+气候         cambio climático/crisis climática/gases de efe...
+政策         política/políticas/regulación/regulaciones/leg...
+不确定        incierto/incertidumbre/incierto/desconocido/va...
+Name: 0, dtype: object
+2026-05-21 16:28:24,661 - INFO - 文件 'search_results/政策风险萨尔瓦多La Prensa Grafica (San Salvador, El Salvador).xlsx' 在 search_results/ 目录中存在
+2026-05-21 16:28:24,661 - INFO - 第 1 行数据：
+2026-05-21 16:28:24,661 - INFO - 所属洲                                                      NaN
+国家                                               哥斯达黎加（西班牙语）
+Country                                           Costa Rica
+指定报纸报道                      La Nacion (San Jose, Costa Rica)
+爬取时间                                               2005-2026
+气候         cambio climático/crisis climática/gases de efe...
+政策         política/políticas/regulación/regulaciones/leg...
+不确定        incierto/incertidumbre/incierto/desconocido/va...
+Name: 1, dtype: object
+2026-05-21 16:28:24,661 - INFO - 文件 'search_results/政策风险哥斯达黎加（西班牙语）La Nacion (San Jose, Costa Rica).xlsx' 在 search_results/ 目录中存在
+2026-05-21 16:28:24,661 - INFO - 第 2 行数据：
+2026-05-21 16:28:24,661 - INFO - 所属洲                                                      NaN
+国家                                                      尼加拉瓜
+Country                                            Nicaragua
+指定报纸报道                                 La Prensa (Nicaragua)
+爬取时间                                               2005-2026
+气候         cambio climático/crisis climática/gases de efe...
+政策         política/políticas/regulación/regulaciones/leg...
+不确定        incierto/incertidumbre/incierto/desconocido/va...
+Name: 2, dtype: object
+2026-05-21 16:28:24,662 - INFO - 文件 'search_results/政策风险尼加拉瓜La Prensa (Nicaragua).xlsx' 在 search_results/ 目录中存在
+2026-05-21 16:28:24,662 - INFO - 第 3 行数据：
+2026-05-21 16:28:24,662 - INFO - 所属洲                                                      NaN
+国家                                                       巴拿马
+Country                                               Panama
+指定报纸报道                    La Prensa [ContentEngine] (Panama)
+爬取时间                                               2005-2026
+气候         cambio climático/crisis climática/gases de efe...
+政策         política/políticas/regulación/regulaciones/leg...
+不确定        incierto/incertidumbre/incierto/desconocido/va...
+Name: 3, dtype: object
+2026-05-21 16:28:24,662 - INFO - 文件 'search_results/政策风险巴拿马La Prensa [ContentEngine] (Panama).xlsx' 在 search_results/ 目录中存在
+2026-05-21 16:28:24,662 - INFO - 第 4 行数据：
+2026-05-21 16:28:24,662 - INFO - 所属洲                                                      南美洲
+国家                                                       阿根廷
+Country                                            Argentina
+指定报纸报道                   La Nación (Buenos Aires, Argentina)
+爬取时间                                               2005-2026
+气候         cambio climático/crisis climática/gases de efe...
+政策         política/políticas/regulación/regulaciones/leg...
+不确定        incierto/incertidumbre/incierto/desconocido/va...
+Name: 4, dtype: object
+2026-05-21 16:28:24,662 - INFO - 文件 'search_results/政策风险阿根廷La Nación (Buenos Aires, Argentina).xlsx' 在 search_results/ 目录中不存在
