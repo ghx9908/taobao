@@ -1,0 +1,113 @@
+climate_policy|||desarrollo verde|||individuo|||8
+climate_policy|||desarrollo verde|||institución financiera|||16
+climate_policy|||desarrollo verde|||hogar|||84
+climate_policy|||desarrollo verde|||empresa|||641
+climate_policy|||desarrollo verde|||tomador de decisiones|||0
+climate_policy|||economía verde|||tomador de decisiones|||0
+climate_policy|||desarrollo verde|||inversor|||13
+climate_policy|||economía verde|||inversor|||21
+climate_policy|||economía verde|||institución financiera|||27
+climate_policy|||desarrollo verde|||residente|||12
+climate_policy|||desarrollo verde||| consumidor|||54
+climate_policy|||desarrollo verde|||cliente|||75
+climate_policy|||economía verde|||empresa|||1039
+climate_policy|||desarrollo verde|||público|||682
+climate_policy|||economía verde|||compañía|||831
+climate_policy|||desarrollo verde|||compañía|||389
+climate_policy|||economía verde|||cliente|||120
+climate_policy|||economía verde||| consumidor|||128
+climate_policy|||economía verde|||hogar|||79
+climate_policy|||economía verde|||residente|||14
+climate_policy|||economía verde|||público|||708
+climate_policy|||transición verde|||inversor|||7
+climate_policy|||transición verde|||individuo|||2
+climate_policy|||transición verde|||hogar|||7
+climate_policy|||transición verde||| consumidor|||14
+climate_policy|||transición verde|||residente|||0
+climate_policy|||economía verde|||individuo|||3
+climate_policy|||transición verde|||tomador de decisiones|||0
+climate_policy|||tecnología verde|||empresa|||261
+climate_policy|||transición verde|||institución financiera|||6
+climate_policy|||tecnología verde|||inversor|||4
+climate_policy|||transición verde|||cliente|||14
+climate_policy|||transición verde|||empresa|||122
+climate_policy|||transición verde|||compañía|||86
+climate_policy|||tecnología verde|||compañía|||171
+climate_policy|||transición verde|||público|||132
+climate_policy|||tecnología verde||| consumidor|||26
+climate_policy|||tecnología verde|||hogar|||25
+climate_policy|||tecnología verde|||residente|||5
+climate_policy|||tecnología verde|||cliente|||35
+climate_policy|||tecnología verde|||individuo|||3
+climate_policy|||tecnología verde|||institución financiera|||8
+climate_policy|||innovación verde|||inversor|||2
+climate_policy|||tecnología verde|||tomador de decisiones|||0
+climate_policy|||tecnología verde|||público|||213
+climate_policy|||innovación verde|||institución financiera|||10
+climate_policy|||innovación verde|||cliente|||26
+climate_policy|||innovación verde|||empresa|||152
+climate_policy|||innovación verde|||compañía|||79
+climate_policy|||innovación verde|||individuo|||2
+climate_policy|||energía verde|||inversor|||10
+climate_policy|||energía verde||| consumidor|||40
+climate_policy|||energía verde|||institución financiera|||11
+climate_policy|||innovación verde|||tomador de decisiones|||0
+climate_policy|||innovación verde||| consumidor|||15
+climate_policy|||innovación verde|||hogar|||18
+climate_policy|||innovación verde|||residente|||1
+climate_policy|||energía verde|||hogar|||58
+climate_policy|||energía verde|||público|||337
+climate_policy|||innovación verde|||público|||163
+climate_policy|||energía limpia|||inversor|||4
+climate_policy|||energía verde|||tomador de decisiones|||0
+climate_policy|||energía verde|||individuo|||3
+climate_policy|||energía limpia|||institución financiera|||3
+climate_policy|||energía verde|||empresa|||404
+climate_policy|||energía verde|||compañía|||273
+climate_policy|||energía verde|||residente|||12
+climate_policy|||energía limpia|||empresa|||245
+climate_policy|||energía verde|||cliente|||43
+climate_policy|||energía limpia||| consumidor|||19
+climate_policy|||energía limpia|||cliente|||28
+climate_policy|||energía limpia|||individuo|||3
+climate_policy|||energía limpia|||tomador de decisiones|||1
+climate_policy|||energía renovable|||tomador de decisiones|||0
+climate_policy|||energía renovable|||empresa|||511
+climate_policy|||energía renovable|||compañía|||377
+climate_policy|||energía limpia|||compañía|||157
+climate_policy|||energía limpia|||público|||152
+climate_policy|||energía renovable|||hogar|||18
+climate_policy|||energía renovable|||residente|||2
+climate_policy|||energía limpia|||hogar|||32
+climate_policy|||energía limpia|||residente|||2
+climate_policy|||energía renovable|||inversor|||13
+climate_policy|||energía renovable|||institución financiera|||9
+climate_policy|||energía solar|||institución financiera|||8
+climate_policy|||energía renovable||| consumidor|||25
+climate_policy|||energía renovable|||cliente|||50
+climate_policy|||energía solar|||inversor|||12
+climate_policy|||energía solar||| consumidor|||32
+climate_policy|||energía solar|||compañía|||368
+climate_policy|||energía renovable|||individuo|||3
+climate_policy|||energía solar|||tomador de decisiones|||0
+climate_policy|||energía renovable|||público|||181
+climate_policy|||energía solar|||individuo|||4
+climate_policy|||energía solar|||empresa|||616
+climate_policy|||energía hidráulica|||compañía|||38
+climate_policy|||energía hidráulica|||empresa|||63
+climate_policy|||energía solar|||cliente|||62
+climate_policy|||energía hidráulica||| consumidor|||7
+climate_policy|||energía solar|||residente|||11
+climate_policy|||energía solar|||hogar|||69
+climate_policy|||energía hidráulica|||hogar|||6
+climate_policy|||energía hidráulica|||público|||20
+climate_policy|||energía solar|||público|||309
+climate_policy|||energía hidráulica|||inversor|||1
+climate_policy|||energía hidráulica|||institución financiera|||0
+climate_policy|||energía hidráulica|||tomador de decisiones|||0
+climate_policy|||energía eólica|||institución financiera|||4
+climate_policy|||energía eólica|||inversor|||7
+climate_policy|||energía hidráulica|||cliente|||8
+climate_policy|||energía eólica|||compañía|||165
+climate_policy|||energía eólica|||empresa|||246
+climate_policy|||energía eólica|||tomador de decisiones|||0

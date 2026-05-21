@@ -1,0 +1,732 @@
+climate_policy|||carbono neutralidad|||invención|||0
+climate_policy|||carbono neutralidad|||piloto|||0
+climate_policy|||carbono neutralidad|||desplegar|||0
+climate_policy|||carbono neutralidad|||actualizar|||0
+climate_policy|||carbono neutralidad|||patente|||0
+climate_policy|||carbono neutralidad|||aplicar|||0
+climate_policy|||carbono neutralidad|||demostración|||0
+climate_policy|||carbono neutralidad|||despliegue|||1
+climate_policy|||carbono neutralidad|||mejorar|||2
+climate_policy|||carbono neutralidad|||avance|||1
+climate_policy|||carbono neutralidad|||desarrollar|||2
+climate_policy|||carbono neutralidad|||mejora|||4
+climate_policy|||carbono neutralidad|||innovación|||1
+climate_policy|||carbono neutralidad|||progreso|||2
+climate_policy|||carbono neutralidad|||desarrollo|||7
+climate_policy|||pico de emisiones|||innovación|||1
+climate_policy|||carbono neutralidad|||aplicación|||0
+climate_policy|||pico de emisiones|||avance|||2
+climate_policy|||pico de emisiones|||desarrollar|||0
+climate_policy|||pico de emisiones|||invención|||0
+climate_policy|||pico de emisiones|||actualizar|||0
+climate_policy|||pico de emisiones|||mejorar|||5
+climate_policy|||pico de emisiones|||desplegar|||1
+climate_policy|||pico de emisiones|||despliegue|||1
+climate_policy|||pico de emisiones|||desarrollo|||1
+climate_policy|||pico de emisiones|||demostración|||0
+climate_policy|||pico de emisiones|||mejora|||1
+climate_policy|||pico de emisiones|||patente|||0
+climate_policy|||pico de emisiones|||progreso|||2
+climate_policy|||pico de emisiones|||piloto|||2
+climate_policy|||pico de emisiones|||aplicar|||0
+climate_policy|||cero neto|||innovación|||0
+climate_policy|||cero neto|||avance|||1
+climate_policy|||pico de emisiones|||aplicación|||2
+climate_policy|||cero neto|||desarrollar|||0
+climate_policy|||cero neto|||actualizar|||1
+climate_policy|||cero neto|||desarrollo|||2
+climate_policy|||cero neto|||invención|||0
+climate_policy|||cero neto|||mejora|||1
+climate_policy|||cero neto|||progreso|||0
+climate_policy|||cero neto|||demostración|||0
+climate_policy|||cero neto|||mejorar|||3
+climate_policy|||cero neto|||despliegue|||1
+climate_policy|||cero neto|||aplicar|||3
+climate_policy|||cero neto|||aplicación|||0
+climate_policy|||bajo carbono|||innovación|||9
+climate_policy|||cero neto|||piloto|||0
+climate_policy|||cero neto|||patente|||0
+climate_policy|||cero neto|||desplegar|||0
+climate_policy|||bajo carbono|||actualizar|||0
+climate_policy|||bajo carbono|||avance|||11
+climate_policy|||bajo carbono|||mejorar|||16
+climate_policy|||bajo carbono|||progreso|||5
+climate_policy|||bajo carbono|||desarrollar|||11
+climate_policy|||bajo carbono|||demostración|||1
+climate_policy|||bajo carbono|||invención|||1
+climate_policy|||bajo carbono|||mejora|||8
+climate_policy|||bajo carbono|||aplicar|||3
+climate_policy|||bajo carbono|||despliegue|||1
+climate_policy|||bajo carbono|||desarrollo|||51
+climate_policy|||bajo carbono|||desplegar|||0
+climate_policy|||bajo carbono|||patente|||2
+climate_policy|||bajo carbono|||piloto|||3
+climate_policy|||descarbonización|||innovación|||2
+climate_policy|||descarbonización|||avance|||4
+climate_policy|||descarbonización|||desarrollar|||6
+climate_policy|||descarbonización|||desarrollo|||19
+climate_policy|||descarbonización|||invención|||0
+climate_policy|||bajo carbono|||aplicación|||3
+climate_policy|||descarbonización|||mejorar|||2
+climate_policy|||descarbonización|||mejora|||1
+climate_policy|||descarbonización|||progreso|||4
+climate_policy|||descarbonización|||piloto|||0
+climate_policy|||descarbonización|||actualizar|||0
+climate_policy|||descarbonización|||despliegue|||4
+climate_policy|||energía limpia|||innovación|||13
+climate_policy|||energía limpia|||avance|||24
+climate_policy|||energía limpia|||desarrollar|||36
+climate_policy|||descarbonización|||patente|||0
+climate_policy|||energía limpia|||desarrollo|||87
+climate_policy|||descarbonización|||desplegar|||0
+climate_policy|||descarbonización|||demostración|||0
+climate_policy|||descarbonización|||aplicar|||0
+climate_policy|||descarbonización|||aplicación|||0
+climate_policy|||energía limpia|||actualizar|||0
+climate_policy|||energía limpia|||mejorar|||24
+climate_policy|||energía limpia|||mejora|||7
+climate_policy|||energía limpia|||progreso|||18
+climate_policy|||energía limpia|||patente|||1
+climate_policy|||energía limpia|||piloto|||10
+climate_policy|||energía limpia|||invención|||0
+climate_policy|||energía limpia|||desplegar|||2
+climate_policy|||energía limpia|||despliegue|||2
+climate_policy|||energía renovable|||avance|||14
+climate_policy|||energía renovable|||desarrollar|||34
+climate_policy|||energía renovable|||desarrollo|||93
+climate_policy|||energía limpia|||demostración|||2
+climate_policy|||energía renovable|||mejorar|||23
+climate_policy|||energía limpia|||aplicar|||6
+climate_policy|||energía limpia|||aplicación|||2
+climate_policy|||energía renovable|||innovación|||13
+climate_policy|||energía renovable|||progreso|||15
+climate_policy|||energía renovable|||invención|||0
+climate_policy|||energía renovable|||demostración|||1
+climate_policy|||energía renovable|||actualizar|||2
+climate_policy|||energía renovable|||desplegar|||1
+climate_policy|||energía renovable|||mejora|||8
+climate_policy|||energía renovable|||despliegue|||2
+climate_policy|||energía renovable|||aplicar|||4
+climate_policy|||energía renovable|||patente|||0
+climate_policy|||energía renovable|||aplicación|||5
+climate_policy|||energía renovable|||piloto|||7
+climate_policy|||energía solar|||avance|||46
+climate_policy|||energía solar|||desarrollar|||62
+climate_policy|||energía solar|||desarrollo|||172
+climate_policy|||energía solar|||invención|||2
+climate_policy|||energía solar|||actualizar|||2
+climate_policy|||energía solar|||mejora|||16
+climate_policy|||energía solar|||innovación|||27
+climate_policy|||energía solar|||patente|||1
+climate_policy|||energía solar|||piloto|||15
+climate_policy|||energía solar|||demostración|||3
+climate_policy|||energía solar|||aplicar|||14
+climate_policy|||energía solar|||mejorar|||39
+climate_policy|||fotovoltaica|||avance|||2
+climate_policy|||energía solar|||progreso|||32
+climate_policy|||energía solar|||desplegar|||4
+climate_policy|||fotovoltaica|||invención|||0
+climate_policy|||energía solar|||despliegue|||2
+climate_policy|||fotovoltaica|||actualizar|||0
+climate_policy|||energía solar|||aplicación|||13
+climate_policy|||fotovoltaica|||mejora|||1
+climate_policy|||fotovoltaica|||innovación|||1
+climate_policy|||fotovoltaica|||desarrollar|||4
+climate_policy|||fotovoltaica|||patente|||0
+climate_policy|||fotovoltaica|||desarrollo|||15
+climate_policy|||fotovoltaica|||piloto|||2
+climate_policy|||fotovoltaica|||mejorar|||4
+climate_policy|||fotovoltaica|||desplegar|||0
+climate_policy|||fotovoltaica|||progreso|||2
+climate_policy|||fotovoltaica|||aplicar|||0
+climate_policy|||fotovoltaica|||aplicación|||0
+climate_policy|||energía eólica|||innovación|||13
+climate_policy|||fotovoltaica|||demostración|||0
+climate_policy|||energía eólica|||desarrollo|||96
+climate_policy|||energía eólica|||actualizar|||1
+climate_policy|||energía eólica|||mejorar|||15
+climate_policy|||fotovoltaica|||despliegue|||1
+climate_policy|||energía eólica|||mejora|||7
+climate_policy|||energía eólica|||patente|||0
+climate_policy|||energía eólica|||avance|||10
+climate_policy|||energía eólica|||desarrollar|||39
+climate_policy|||energía eólica|||invención|||0
+climate_policy|||energía eólica|||piloto|||5
+climate_policy|||energía eólica|||demostración|||1
+climate_policy|||energía eólica|||despliegue|||3
+climate_policy|||energía eólica|||aplicar|||5
+climate_policy|||energía eólica|||aplicación|||9
+climate_policy|||energía eólica|||progreso|||10
+climate_policy|||energía hidráulica|||innovación|||3
+climate_policy|||energía hidráulica|||avance|||1
+climate_policy|||energía hidráulica|||desarrollar|||9
+climate_policy|||energía hidráulica|||desarrollo|||24
+climate_policy|||energía eólica|||desplegar|||1
+climate_policy|||energía hidráulica|||invención|||1
+climate_policy|||energía hidráulica|||mejora|||4
+climate_policy|||energía hidráulica|||progreso|||2
+climate_policy|||energía hidráulica|||piloto|||3
+climate_policy|||energía hidráulica|||demostración|||1
+climate_policy|||energía hidráulica|||desplegar|||0
+climate_policy|||energía hidráulica|||despliegue|||1
+climate_policy|||energía hidráulica|||aplicar|||0
+climate_policy|||energía hidráulica|||actualizar|||2
+climate_policy|||energía hidráulica|||patente|||0
+climate_policy|||energía hidráulica|||mejorar|||4
+climate_policy|||energía geotérmica|||avance|||2
+climate_policy|||energía geotérmica|||actualizar|||1
+climate_policy|||energía hidráulica|||aplicación|||2
+climate_policy|||energía geotérmica|||innovación|||6
+climate_policy|||energía geotérmica|||desarrollar|||8
+climate_policy|||energía geotérmica|||mejora|||2
+climate_policy|||energía geotérmica|||progreso|||4
+climate_policy|||energía geotérmica|||patente|||0
+climate_policy|||energía geotérmica|||piloto|||1
+climate_policy|||energía geotérmica|||demostración|||1
+climate_policy|||energía geotérmica|||desarrollo|||15
+climate_policy|||energía geotérmica|||invención|||0
+climate_policy|||energía geotérmica|||despliegue|||0
+climate_policy|||energía geotérmica|||aplicar|||1
+climate_policy|||energía geotérmica|||mejorar|||4
+climate_policy|||energía geotérmica|||desplegar|||0
+climate_policy|||bioenergía|||innovación|||1
+climate_policy|||bioenergía|||desarrollar|||2
+climate_policy|||bioenergía|||desarrollo|||4
+climate_policy|||bioenergía|||invención|||0
+climate_policy|||bioenergía|||actualizar|||0
+climate_policy|||bioenergía|||mejorar|||0
+climate_policy|||bioenergía|||mejora|||0
+climate_policy|||bioenergía|||progreso|||0
+climate_policy|||bioenergía|||patente|||0
+climate_policy|||bioenergía|||piloto|||0
+climate_policy|||energía geotérmica|||aplicación|||3
+climate_policy|||bioenergía|||desplegar|||0
+climate_policy|||bioenergía|||avance|||1
+climate_policy|||bioenergía|||despliegue|||0
+climate_policy|||bioenergía|||aplicar|||1
+climate_policy|||bioenergía|||demostración|||0
+climate_policy|||energía oceánica|||innovación|||0
+climate_policy|||energía oceánica|||avance|||2
+climate_policy|||energía oceánica|||desarrollar|||2
+climate_policy|||energía oceánica|||actualizar|||0
+climate_policy|||energía oceánica|||mejorar|||2
+climate_policy|||energía oceánica|||mejora|||0
+climate_policy|||energía oceánica|||patente|||0
+climate_policy|||bioenergía|||aplicación|||0
+climate_policy|||energía oceánica|||piloto|||0
+climate_policy|||energía oceánica|||invención|||0
+climate_policy|||energía oceánica|||desarrollo|||2
+climate_policy|||energía oceánica|||desplegar|||0
+climate_policy|||energía oceánica|||progreso|||2
+climate_policy|||energía oceánica|||aplicar|||0
+climate_policy|||energía oceánica|||aplicación|||0
+climate_policy|||hidrógeno|||innovación|||8
+climate_policy|||hidrógeno|||avance|||15
+climate_policy|||hidrógeno|||desarrollar|||17
+climate_policy|||hidrógeno|||desarrollo|||43
+climate_policy|||energía oceánica|||demostración|||0
+climate_policy|||energía oceánica|||despliegue|||0
+climate_policy|||hidrógeno|||invención|||0
+climate_policy|||hidrógeno|||actualizar|||0
+climate_policy|||hidrógeno|||mejora|||4
+climate_policy|||hidrógeno|||progreso|||9
+climate_policy|||hidrógeno|||patente|||1
+climate_policy|||hidrógeno|||piloto|||5
+climate_policy|||hidrógeno|||despliegue|||2
+climate_policy|||hidrógeno|||aplicar|||3
+climate_policy|||hidrógeno|||mejorar|||11
+climate_policy|||hidrógeno|||aplicación|||10
+climate_policy|||vehículo eléctrico|||innovación|||4
+climate_policy|||vehículo eléctrico|||avance|||6
+climate_policy|||vehículo eléctrico|||invención|||0
+climate_policy|||hidrógeno|||desplegar|||0
+climate_policy|||hidrógeno|||demostración|||2
+climate_policy|||vehículo eléctrico|||actualizar|||1
+climate_policy|||vehículo eléctrico|||mejora|||2
+climate_policy|||vehículo eléctrico|||progreso|||2
+climate_policy|||vehículo eléctrico|||desarrollar|||5
+climate_policy|||vehículo eléctrico|||desarrollo|||14
+climate_policy|||vehículo eléctrico|||patente|||0
+climate_policy|||vehículo eléctrico|||piloto|||7
+climate_policy|||vehículo eléctrico|||desplegar|||1
+climate_policy|||vehículo eléctrico|||despliegue|||2
+climate_policy|||vehículo eléctrico|||mejorar|||13
+climate_policy|||vehículo eléctrico|||aplicación|||4
+climate_policy|||red eléctrica inteligente|||innovación|||1
+climate_policy|||red eléctrica inteligente|||avance|||0
+climate_policy|||red eléctrica inteligente|||desarrollar|||2
+climate_policy|||vehículo eléctrico|||aplicar|||2
+climate_policy|||vehículo eléctrico|||demostración|||1
+climate_policy|||red eléctrica inteligente|||invención|||0
+climate_policy|||red eléctrica inteligente|||mejorar|||2
+climate_policy|||red eléctrica inteligente|||mejora|||0
+climate_policy|||red eléctrica inteligente|||progreso|||0
+climate_policy|||red eléctrica inteligente|||piloto|||0
+climate_policy|||red eléctrica inteligente|||demostración|||0
+climate_policy|||red eléctrica inteligente|||desarrollo|||2
+climate_policy|||red eléctrica inteligente|||desplegar|||0
+climate_policy|||red eléctrica inteligente|||actualizar|||0
+climate_policy|||red eléctrica inteligente|||aplicar|||0
+climate_policy|||red eléctrica inteligente|||patente|||0
+climate_policy|||captura de carbono|||innovación|||4
+climate_policy|||captura de carbono|||desarrollo|||20
+climate_policy|||captura de carbono|||invención|||0
+climate_policy|||red eléctrica inteligente|||despliegue|||0
+climate_policy|||red eléctrica inteligente|||aplicación|||2
+climate_policy|||captura de carbono|||mejorar|||3
+climate_policy|||captura de carbono|||patente|||1
+climate_policy|||captura de carbono|||desarrollar|||6
+climate_policy|||captura de carbono|||avance|||2
+climate_policy|||captura de carbono|||actualizar|||0
+climate_policy|||captura de carbono|||desplegar|||0
+climate_policy|||captura de carbono|||despliegue|||0
+climate_policy|||captura de carbono|||aplicar|||1
+climate_policy|||almacenamiento de carbono|||innovación|||3
+climate_policy|||captura de carbono|||progreso|||0
+climate_policy|||captura de carbono|||mejora|||1
+climate_policy|||captura de carbono|||piloto|||0
+climate_policy|||almacenamiento de carbono|||avance|||4
+climate_policy|||almacenamiento de carbono|||desarrollar|||5
+climate_policy|||captura de carbono|||demostración|||1
+climate_policy|||almacenamiento de carbono|||invención|||0
+climate_policy|||almacenamiento de carbono|||mejorar|||5
+climate_policy|||captura de carbono|||aplicación|||1
+climate_policy|||almacenamiento de carbono|||mejora|||0
+climate_policy|||almacenamiento de carbono|||progreso|||1
+climate_policy|||almacenamiento de carbono|||patente|||0
+climate_policy|||almacenamiento de carbono|||demostración|||2
+climate_policy|||almacenamiento de carbono|||desplegar|||0
+climate_policy|||almacenamiento de carbono|||despliegue|||0
+climate_policy|||almacenamiento de carbono|||actualizar|||0
+climate_policy|||almacenamiento de carbono|||piloto|||1
+climate_policy|||almacenamiento de carbono|||desarrollo|||10
+climate_policy|||almacenamiento de carbono|||aplicación|||0
+climate_policy|||CCUS|||innovación|||0
+climate_policy|||CCUS|||avance|||0
+climate_policy|||CCUS|||desarrollar|||0
+climate_policy|||CCUS|||desarrollo|||0
+climate_policy|||CCUS|||actualizar|||0
+climate_policy|||almacenamiento de carbono|||aplicar|||1
+climate_policy|||CCUS|||progreso|||0
+climate_policy|||CCUS|||demostración|||0
+climate_policy|||CCUS|||despliegue|||0
+climate_policy|||CCUS|||invención|||0
+climate_policy|||CCUS|||aplicación|||0
+climate_policy|||CCUS|||mejorar|||0
+climate_policy|||CCUS|||mejora|||0
+climate_policy|||CCUS|||patente|||0
+climate_policy|||captura directa del aire|||desarrollar|||0
+climate_policy|||CCUS|||desplegar|||0
+climate_policy|||CCUS|||piloto|||0
+climate_policy|||CCUS|||aplicar|||0
+climate_policy|||captura directa del aire|||desarrollo|||0
+climate_policy|||captura directa del aire|||invención|||0
+climate_policy|||captura directa del aire|||actualizar|||0
+climate_policy|||captura directa del aire|||mejorar|||0
+climate_policy|||captura directa del aire|||innovación|||0
+climate_policy|||captura directa del aire|||avance|||0
+climate_policy|||captura directa del aire|||progreso|||0
+climate_policy|||captura directa del aire|||patente|||0
+climate_policy|||captura directa del aire|||piloto|||0
+climate_policy|||captura directa del aire|||demostración|||0
+climate_policy|||captura directa del aire|||desplegar|||0
+climate_policy|||captura directa del aire|||mejora|||0
+climate_policy|||captura directa del aire|||aplicación|||0
+climate_policy|||captura directa del aire|||aplicar|||0
+climate_policy|||DAC|||innovación|||0
+climate_policy|||DAC|||avance|||0
+climate_policy|||DAC|||desarrollo|||0
+climate_policy|||DAC|||invención|||0
+climate_policy|||DAC|||actualizar|||0
+climate_policy|||captura directa del aire|||despliegue|||0
+climate_policy|||DAC|||progreso|||0
+climate_policy|||DAC|||patente|||0
+climate_policy|||DAC|||desarrollar|||0
+climate_policy|||DAC|||demostración|||1
+climate_policy|||DAC|||despliegue|||0
+climate_policy|||DAC|||aplicar|||0
+climate_policy|||DAC|||mejorar|||0
+climate_policy|||DAC|||aplicación|||0
+climate_policy|||DAC|||mejora|||0
+climate_uncertainty|||carbono neutralidad|||sustituir|||0
+climate_uncertainty|||carbono neutralidad|||reemplazar|||0
+climate_policy|||DAC|||piloto|||0
+climate_uncertainty|||carbono neutralidad|||cambiar|||2
+climate_policy|||DAC|||desplegar|||0
+climate_uncertainty|||carbono neutralidad|||transición|||2
+climate_uncertainty|||carbono neutralidad|||convertir|||1
+climate_uncertainty|||carbono neutralidad|||trasladar|||0
+climate_uncertainty|||carbono neutralidad|||eliminado progresivamente|||0
+climate_uncertainty|||pico de emisiones|||sustituir|||0
+climate_uncertainty|||pico de emisiones|||reemplazar|||0
+climate_uncertainty|||pico de emisiones|||eliminado progresivamente|||0
+climate_uncertainty|||carbono neutralidad|||transformar|||0
+climate_uncertainty|||pico de emisiones|||transformar|||0
+climate_uncertainty|||pico de emisiones|||convertir|||0
+climate_uncertainty|||pico de emisiones|||trasladar|||0
+climate_uncertainty|||carbono neutralidad|||retirarse|||0
+climate_uncertainty|||carbono neutralidad|||retirada|||1
+climate_uncertainty|||pico de emisiones|||retirada|||1
+climate_uncertainty|||pico de emisiones|||retirarse|||0
+climate_uncertainty|||pico de emisiones|||cambiar|||0
+climate_uncertainty|||cero neto|||sustituir|||2
+climate_uncertainty|||cero neto|||reemplazar|||0
+climate_uncertainty|||pico de emisiones|||transición|||1
+climate_uncertainty|||cero neto|||eliminado progresivamente|||0
+climate_uncertainty|||cero neto|||transición|||2
+climate_uncertainty|||cero neto|||convertir|||0
+climate_uncertainty|||cero neto|||retirada|||1
+climate_uncertainty|||cero neto|||retirarse|||0
+climate_uncertainty|||bajo carbono|||reemplazar|||4
+climate_uncertainty|||cero neto|||cambiar|||1
+climate_uncertainty|||bajo carbono|||eliminado progresivamente|||0
+climate_uncertainty|||bajo carbono|||cambiar|||12
+climate_uncertainty|||bajo carbono|||transición|||11
+climate_uncertainty|||cero neto|||transformar|||2
+climate_uncertainty|||bajo carbono|||transformar|||3
+climate_uncertainty|||bajo carbono|||convertir|||4
+climate_uncertainty|||cero neto|||trasladar|||0
+climate_uncertainty|||bajo carbono|||trasladar|||0
+climate_uncertainty|||bajo carbono|||retirada|||1
+climate_uncertainty|||bajo carbono|||sustituir|||2
+climate_uncertainty|||descarbonización|||eliminado progresivamente|||0
+climate_uncertainty|||descarbonización|||transición|||10
+climate_uncertainty|||descarbonización|||convertir|||1
+climate_uncertainty|||bajo carbono|||retirarse|||0
+climate_uncertainty|||descarbonización|||retirada|||1
+climate_uncertainty|||energía limpia|||sustituir|||5
+climate_uncertainty|||energía limpia|||reemplazar|||20
+climate_uncertainty|||descarbonización|||sustituir|||1
+climate_uncertainty|||descarbonización|||reemplazar|||1
+climate_uncertainty|||descarbonización|||cambiar|||2
+climate_uncertainty|||descarbonización|||trasladar|||0
+climate_uncertainty|||descarbonización|||transformar|||2
+climate_uncertainty|||descarbonización|||retirarse|||0
+climate_uncertainty|||energía limpia|||transición|||17
+climate_uncertainty|||energía limpia|||eliminado progresivamente|||0
+climate_uncertainty|||energía limpia|||convertir|||9
+climate_uncertainty|||energía limpia|||trasladar|||1
+climate_uncertainty|||energía limpia|||retirada|||1
+climate_uncertainty|||energía limpia|||cambiar|||22
+climate_uncertainty|||energía limpia|||retirarse|||1
+climate_uncertainty|||energía renovable|||sustituir|||2
+climate_uncertainty|||energía renovable|||reemplazar|||5
+climate_uncertainty|||energía renovable|||eliminado progresivamente|||0
+climate_uncertainty|||energía renovable|||cambiar|||17
+climate_uncertainty|||energía limpia|||transformar|||6
+climate_uncertainty|||energía renovable|||transición|||20
+climate_uncertainty|||energía renovable|||transformar|||6
+climate_uncertainty|||energía renovable|||convertir|||6
+climate_uncertainty|||energía renovable|||retirada|||1
+climate_uncertainty|||energía renovable|||retirarse|||0
+climate_uncertainty|||energía solar|||sustituir|||9
+climate_uncertainty|||energía solar|||reemplazar|||23
+climate_uncertainty|||energía solar|||cambiar|||36
+climate_uncertainty|||energía solar|||transición|||25
+climate_uncertainty|||energía renovable|||trasladar|||0
+climate_uncertainty|||energía solar|||transformar|||13
+climate_uncertainty|||energía solar|||convertir|||18
+climate_uncertainty|||energía solar|||trasladar|||2
+climate_uncertainty|||energía solar|||retirarse|||1
+climate_uncertainty|||fotovoltaica|||sustituir|||0
+climate_uncertainty|||fotovoltaica|||reemplazar|||1
+climate_uncertainty|||energía solar|||eliminado progresivamente|||0
+climate_uncertainty|||fotovoltaica|||eliminado progresivamente|||0
+climate_uncertainty|||fotovoltaica|||transición|||1
+climate_uncertainty|||energía solar|||retirada|||1
+climate_uncertainty|||fotovoltaica|||trasladar|||1
+climate_uncertainty|||fotovoltaica|||retirada|||0
+climate_uncertainty|||fotovoltaica|||retirarse|||0
+climate_uncertainty|||energía eólica|||sustituir|||6
+climate_uncertainty|||energía eólica|||reemplazar|||17
+climate_uncertainty|||fotovoltaica|||cambiar|||3
+climate_uncertainty|||energía eólica|||cambiar|||14
+climate_uncertainty|||fotovoltaica|||transformar|||2
+climate_uncertainty|||energía eólica|||transición|||22
+climate_uncertainty|||energía eólica|||transformar|||6
+climate_uncertainty|||energía eólica|||convertir|||10
+climate_uncertainty|||fotovoltaica|||convertir|||1
+climate_uncertainty|||energía eólica|||trasladar|||0
+climate_uncertainty|||energía eólica|||eliminado progresivamente|||0
+climate_uncertainty|||energía eólica|||retirada|||1
+climate_uncertainty|||energía hidráulica|||sustituir|||2
+climate_uncertainty|||energía hidráulica|||reemplazar|||1
+climate_uncertainty|||energía hidráulica|||cambiar|||4
+climate_uncertainty|||energía hidráulica|||transición|||3
+climate_uncertainty|||energía hidráulica|||transformar|||1
+climate_uncertainty|||energía hidráulica|||convertir|||0
+climate_uncertainty|||energía hidráulica|||trasladar|||0
+climate_uncertainty|||energía hidráulica|||retirada|||0
+climate_uncertainty|||energía eólica|||retirarse|||0
+climate_uncertainty|||energía hidráulica|||retirarse|||0
+climate_uncertainty|||energía geotérmica|||sustituir|||2
+climate_uncertainty|||energía geotérmica|||reemplazar|||3
+climate_uncertainty|||energía hidráulica|||eliminado progresivamente|||0
+climate_uncertainty|||energía geotérmica|||eliminado progresivamente|||0
+climate_uncertainty|||energía geotérmica|||transición|||4
+climate_uncertainty|||energía geotérmica|||transformar|||1
+climate_uncertainty|||energía geotérmica|||retirada|||0
+climate_uncertainty|||bioenergía|||sustituir|||0
+climate_uncertainty|||bioenergía|||reemplazar|||0
+climate_uncertainty|||bioenergía|||eliminado progresivamente|||0
+climate_uncertainty|||energía geotérmica|||cambiar|||1
+climate_uncertainty|||bioenergía|||cambiar|||0
+climate_uncertainty|||bioenergía|||transición|||0
+climate_uncertainty|||energía geotérmica|||convertir|||0
+climate_uncertainty|||bioenergía|||convertir|||0
+climate_uncertainty|||bioenergía|||trasladar|||0
+climate_uncertainty|||energía geotérmica|||trasladar|||0
+climate_uncertainty|||energía geotérmica|||retirarse|||0
+climate_uncertainty|||bioenergía|||retirada|||0
+climate_uncertainty|||energía oceánica|||sustituir|||1
+climate_uncertainty|||bioenergía|||transformar|||1
+climate_uncertainty|||energía oceánica|||reemplazar|||2
+climate_uncertainty|||energía oceánica|||cambiar|||2
+climate_uncertainty|||energía oceánica|||transición|||1
+climate_uncertainty|||energía oceánica|||convertir|||0
+climate_uncertainty|||bioenergía|||retirarse|||0
+climate_uncertainty|||hidrógeno|||sustituir|||2
+climate_uncertainty|||hidrógeno|||reemplazar|||14
+climate_uncertainty|||energía oceánica|||eliminado progresivamente|||0
+climate_uncertainty|||hidrógeno|||eliminado progresivamente|||0
+climate_uncertainty|||energía oceánica|||transformar|||0
+climate_uncertainty|||hidrógeno|||cambiar|||13
+climate_uncertainty|||energía oceánica|||trasladar|||0
+climate_uncertainty|||energía oceánica|||retirada|||0
+climate_uncertainty|||hidrógeno|||transición|||14
+climate_uncertainty|||hidrógeno|||transformar|||2
+climate_uncertainty|||hidrógeno|||convertir|||12
+climate_uncertainty|||hidrógeno|||retirada|||0
+climate_uncertainty|||hidrógeno|||retirarse|||0
+climate_uncertainty|||energía oceánica|||retirarse|||0
+climate_uncertainty|||vehículo eléctrico|||sustituir|||0
+climate_uncertainty|||vehículo eléctrico|||eliminado progresivamente|||0
+climate_uncertainty|||vehículo eléctrico|||cambiar|||4
+climate_uncertainty|||vehículo eléctrico|||transición|||1
+climate_uncertainty|||hidrógeno|||trasladar|||1
+climate_uncertainty|||vehículo eléctrico|||retirada|||0
+climate_uncertainty|||vehículo eléctrico|||retirarse|||0
+climate_uncertainty|||red eléctrica inteligente|||sustituir|||0
+climate_uncertainty|||red eléctrica inteligente|||eliminado progresivamente|||0
+climate_uncertainty|||vehículo eléctrico|||reemplazar|||1
+climate_uncertainty|||red eléctrica inteligente|||transición|||0
+climate_uncertainty|||vehículo eléctrico|||transformar|||1
+climate_uncertainty|||red eléctrica inteligente|||transformar|||1
+climate_uncertainty|||vehículo eléctrico|||trasladar|||1
+climate_uncertainty|||vehículo eléctrico|||convertir|||4
+climate_uncertainty|||red eléctrica inteligente|||reemplazar|||0
+climate_uncertainty|||red eléctrica inteligente|||retirada|||0
+climate_uncertainty|||red eléctrica inteligente|||cambiar|||1
+climate_uncertainty|||captura de carbono|||sustituir|||1
+climate_uncertainty|||captura de carbono|||reemplazar|||2
+climate_uncertainty|||captura de carbono|||eliminado progresivamente|||0
+climate_uncertainty|||red eléctrica inteligente|||trasladar|||0
+climate_uncertainty|||red eléctrica inteligente|||convertir|||1
+climate_uncertainty|||captura de carbono|||cambiar|||5
+climate_uncertainty|||captura de carbono|||trasladar|||0
+climate_uncertainty|||captura de carbono|||retirada|||0
+climate_uncertainty|||captura de carbono|||transformar|||2
+climate_uncertainty|||captura de carbono|||convertir|||1
+climate_uncertainty|||captura de carbono|||transición|||3
+climate_uncertainty|||captura de carbono|||retirarse|||0
+climate_uncertainty|||almacenamiento de carbono|||sustituir|||1
+climate_uncertainty|||red eléctrica inteligente|||retirarse|||0
+climate_uncertainty|||almacenamiento de carbono|||reemplazar|||3
+climate_uncertainty|||almacenamiento de carbono|||eliminado progresivamente|||0
+climate_uncertainty|||almacenamiento de carbono|||transición|||4
+climate_uncertainty|||almacenamiento de carbono|||transformar|||0
+climate_uncertainty|||almacenamiento de carbono|||trasladar|||0
+climate_uncertainty|||almacenamiento de carbono|||retirada|||0
+climate_uncertainty|||CCUS|||sustituir|||0
+climate_uncertainty|||almacenamiento de carbono|||cambiar|||1
+climate_uncertainty|||CCUS|||transición|||0
+climate_uncertainty|||almacenamiento de carbono|||convertir|||2
+climate_uncertainty|||CCUS|||retirada|||0
+climate_uncertainty|||almacenamiento de carbono|||retirarse|||0
+climate_uncertainty|||CCUS|||reemplazar|||0
+climate_uncertainty|||CCUS|||eliminado progresivamente|||0
+climate_uncertainty|||CCUS|||cambiar|||0
+climate_uncertainty|||captura directa del aire|||sustituir|||0
+climate_uncertainty|||CCUS|||transformar|||0
+climate_uncertainty|||CCUS|||convertir|||0
+climate_uncertainty|||CCUS|||trasladar|||0
+climate_uncertainty|||captura directa del aire|||reemplazar|||0
+climate_uncertainty|||captura directa del aire|||cambiar|||0
+climate_uncertainty|||captura directa del aire|||transición|||0
+climate_uncertainty|||CCUS|||retirarse|||0
+climate_uncertainty|||captura directa del aire|||transformar|||0
+climate_uncertainty|||captura directa del aire|||trasladar|||0
+climate_uncertainty|||captura directa del aire|||retirada|||0
+climate_uncertainty|||captura directa del aire|||eliminado progresivamente|||0
+climate_uncertainty|||captura directa del aire|||retirarse|||0
+climate_uncertainty|||DAC|||sustituir|||0
+climate_uncertainty|||DAC|||eliminado progresivamente|||0
+climate_uncertainty|||DAC|||cambiar|||0
+climate_uncertainty|||DAC|||transición|||0
+climate_uncertainty|||captura directa del aire|||convertir|||0
+climate_uncertainty|||DAC|||transformar|||0
+climate_uncertainty|||DAC|||convertir|||0
+climate_uncertainty|||DAC|||trasladar|||0
+climate_uncertainty|||DAC|||retirada|||0
+climate_uncertainty|||DAC|||retirarse|||0
+climate_uncertainty|||DAC|||reemplazar|||1
+policy_uncertainty|||innovación|||sustituir|||13
+policy_uncertainty|||innovación|||transición|||65
+policy_uncertainty|||innovación|||convertir|||90
+policy_uncertainty|||innovación|||trasladar|||27
+policy_uncertainty|||innovación|||retirada|||1
+policy_uncertainty|||innovación|||retirarse|||6
+policy_uncertainty|||avance|||sustituir|||14
+policy_uncertainty|||innovación|||eliminado progresivamente|||0
+policy_uncertainty|||avance|||cambiar|||314
+policy_uncertainty|||innovación|||reemplazar|||30
+policy_uncertainty|||avance|||transición|||119
+policy_uncertainty|||innovación|||cambiar|||242
+policy_uncertainty|||innovación|||transformar|||79
+policy_uncertainty|||avance|||transformar|||42
+policy_uncertainty|||avance|||convertir|||86
+policy_uncertainty|||avance|||trasladar|||48
+policy_uncertainty|||avance|||eliminado progresivamente|||0
+policy_uncertainty|||avance|||retirada|||28
+policy_uncertainty|||avance|||reemplazar|||57
+policy_uncertainty|||avance|||retirarse|||29
+policy_uncertainty|||desarrollar|||reemplazar|||66
+policy_uncertainty|||desarrollar|||eliminado progresivamente|||0
+policy_uncertainty|||desarrollar|||cambiar|||432
+policy_uncertainty|||desarrollar|||transición|||87
+policy_uncertainty|||desarrollar|||transformar|||90
+policy_uncertainty|||desarrollar|||trasladar|||63
+policy_uncertainty|||desarrollar|||retirada|||10
+policy_uncertainty|||desarrollar|||retirarse|||30
+policy_uncertainty|||desarrollar|||sustituir|||17
+policy_uncertainty|||desarrollo|||reemplazar|||199
+policy_uncertainty|||desarrollo|||eliminado progresivamente|||0
+policy_uncertainty|||desarrollo|||convertir|||472
+policy_uncertainty|||desarrollo|||retirada|||46
+policy_uncertainty|||desarrollar|||convertir|||139
+policy_uncertainty|||invención|||reemplazar|||3
+policy_uncertainty|||desarrollo|||sustituir|||70
+policy_uncertainty|||desarrollo|||cambiar|||1367
+policy_uncertainty|||desarrollo|||transformar|||280
+policy_uncertainty|||desarrollo|||transición|||411
+policy_uncertainty|||desarrollo|||trasladar|||191
+policy_uncertainty|||desarrollo|||retirarse|||93
+policy_uncertainty|||invención|||sustituir|||1
+policy_uncertainty|||invención|||eliminado progresivamente|||0
+policy_uncertainty|||invención|||convertir|||9
+policy_uncertainty|||invención|||trasladar|||2
+policy_uncertainty|||invención|||retirada|||1
+policy_uncertainty|||invención|||transformar|||2
+policy_uncertainty|||invención|||retirarse|||0
+policy_uncertainty|||invención|||transición|||11
+policy_uncertainty|||invención|||cambiar|||12
+policy_uncertainty|||actualizar|||sustituir|||3
+policy_uncertainty|||actualizar|||reemplazar|||5
+policy_uncertainty|||actualizar|||eliminado progresivamente|||0
+policy_uncertainty|||actualizar|||cambiar|||36
+policy_uncertainty|||actualizar|||transición|||7
+policy_uncertainty|||actualizar|||convertir|||13
+policy_uncertainty|||actualizar|||trasladar|||1
+policy_uncertainty|||actualizar|||retirada|||3
+policy_uncertainty|||actualizar|||retirarse|||2
+policy_uncertainty|||mejorar|||sustituir|||39
+policy_uncertainty|||mejorar|||eliminado progresivamente|||0
+policy_uncertainty|||mejorar|||cambiar|||977
+policy_uncertainty|||mejorar|||transición|||158
+policy_uncertainty|||mejorar|||transformar|||134
+policy_uncertainty|||actualizar|||transformar|||4
+policy_uncertainty|||mejorar|||convertir|||197
+policy_uncertainty|||mejorar|||trasladar|||120
+policy_uncertainty|||mejorar|||retirada|||25
+policy_uncertainty|||mejorar|||retirarse|||45
+policy_uncertainty|||mejora|||reemplazar|||40
+policy_uncertainty|||mejora|||eliminado progresivamente|||0
+policy_uncertainty|||mejora|||transición|||68
+policy_uncertainty|||mejorar|||reemplazar|||126
+policy_uncertainty|||mejora|||retirarse|||18
+policy_uncertainty|||mejora|||sustituir|||11
+policy_uncertainty|||progreso|||sustituir|||16
+policy_uncertainty|||progreso|||cambiar|||319
+policy_uncertainty|||mejora|||cambiar|||358
+policy_uncertainty|||progreso|||transformar|||51
+policy_uncertainty|||mejora|||transformar|||45
+policy_uncertainty|||mejora|||retirada|||10
+policy_uncertainty|||mejora|||trasladar|||39
+policy_uncertainty|||mejora|||convertir|||77
+policy_uncertainty|||progreso|||eliminado progresivamente|||0
+policy_uncertainty|||progreso|||reemplazar|||53
+policy_uncertainty|||progreso|||retirada|||28
+policy_uncertainty|||progreso|||retirarse|||38
+policy_uncertainty|||patente|||sustituir|||1
+policy_uncertainty|||progreso|||transición|||93
+policy_uncertainty|||patente|||reemplazar|||5
+policy_uncertainty|||progreso|||trasladar|||24
+policy_uncertainty|||patente|||eliminado progresivamente|||0
+policy_uncertainty|||progreso|||convertir|||74
+policy_uncertainty|||patente|||cambiar|||27
+policy_uncertainty|||patente|||transición|||6
+policy_uncertainty|||patente|||transformar|||2
+policy_uncertainty|||patente|||convertir|||8
+policy_uncertainty|||patente|||retirada|||2
+policy_uncertainty|||patente|||retirarse|||1
+policy_uncertainty|||patente|||trasladar|||3
+policy_uncertainty|||piloto|||retirada|||10
+policy_uncertainty|||piloto|||sustituir|||1
+policy_uncertainty|||piloto|||eliminado progresivamente|||0
+policy_uncertainty|||piloto|||reemplazar|||16
+policy_uncertainty|||piloto|||transformar|||14
+policy_uncertainty|||piloto|||transición|||17
+policy_uncertainty|||piloto|||convertir|||42
+policy_uncertainty|||piloto|||cambiar|||122
+policy_uncertainty|||piloto|||trasladar|||27
+policy_uncertainty|||piloto|||retirarse|||11
+policy_uncertainty|||demostración|||sustituir|||1
+policy_uncertainty|||demostración|||reemplazar|||7
+policy_uncertainty|||demostración|||eliminado progresivamente|||0
+policy_uncertainty|||demostración|||transición|||13
+policy_uncertainty|||demostración|||transformar|||3
+policy_uncertainty|||demostración|||convertir|||14
+policy_uncertainty|||demostración|||trasladar|||4
+policy_uncertainty|||demostración|||cambiar|||48
+policy_uncertainty|||demostración|||retirada|||2
+policy_uncertainty|||desplegar|||sustituir|||3
+policy_uncertainty|||desplegar|||reemplazar|||6
+policy_uncertainty|||desplegar|||eliminado progresivamente|||0
+policy_uncertainty|||desplegar|||cambiar|||28
+policy_uncertainty|||desplegar|||transición|||8
+policy_uncertainty|||desplegar|||transformar|||7
+policy_uncertainty|||desplegar|||convertir|||4
+policy_uncertainty|||desplegar|||trasladar|||4
+policy_uncertainty|||desplegar|||retirarse|||3
+policy_uncertainty|||despliegue|||reemplazar|||6
+policy_uncertainty|||demostración|||retirarse|||3
+policy_uncertainty|||despliegue|||eliminado progresivamente|||0
+policy_uncertainty|||despliegue|||cambiar|||46
+policy_uncertainty|||desplegar|||retirada|||4
+policy_uncertainty|||despliegue|||transición|||16
+policy_uncertainty|||despliegue|||sustituir|||4
+policy_uncertainty|||aplicar|||sustituir|||16
+policy_uncertainty|||aplicar|||eliminado progresivamente|||0
+policy_uncertainty|||despliegue|||transformar|||6
+policy_uncertainty|||despliegue|||trasladar|||10
+policy_uncertainty|||aplicar|||transición|||51
+policy_uncertainty|||despliegue|||convertir|||25
+policy_uncertainty|||despliegue|||retirarse|||8
+policy_uncertainty|||despliegue|||retirada|||9
+policy_uncertainty|||aplicar|||reemplazar|||40
+policy_uncertainty|||aplicar|||retirarse|||13
+policy_uncertainty|||aplicar|||cambiar|||230
+policy_uncertainty|||aplicación|||reemplazar|||38
+policy_uncertainty|||aplicar|||transformar|||27
+policy_uncertainty|||aplicar|||trasladar|||28
+policy_uncertainty|||aplicar|||convertir|||70
+policy_uncertainty|||aplicar|||retirada|||12
+policy_uncertainty|||aplicación|||transición|||40
+policy_uncertainty|||aplicación|||transformar|||26
+policy_uncertainty|||aplicación|||convertir|||63
+policy_uncertainty|||aplicación|||trasladar|||40
+policy_uncertainty|||aplicación|||sustituir|||16
+policy_uncertainty|||aplicación|||retirada|||6
+policy_uncertainty|||aplicación|||eliminado progresivamente|||0
+policy_uncertainty|||aplicación|||cambiar|||241
+policy_uncertainty|||aplicación|||retirarse|||16

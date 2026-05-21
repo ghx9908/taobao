@@ -1,0 +1,2788 @@
+cambio climático|||política|||incierto
+cambio climático|||política|||abolir
+cambio climático|||política|||retirar
+cambio climático|||política|||desconocido
+cambio climático|||política|||incierto
+cambio climático|||política|||cancelar
+cambio climático|||política|||vago
+cambio climático|||política|||posponer
+cambio climático|||política|||ambiguo
+cambio climático|||política|||impredecible
+cambio climático|||política|||suspender
+cambio climático|||política|||diferir
+cambio climático|||políticas|||incierto
+cambio climático|||política|||incertidumbre
+cambio climático|||políticas|||incierto
+cambio climático|||políticas|||incertidumbre
+cambio climático|||políticas|||desconocido
+cambio climático|||política|||retrasar
+cambio climático|||políticas|||posponer
+cambio climático|||políticas|||abolir
+cambio climático|||políticas|||suspender
+cambio climático|||regulación|||incierto
+cambio climático|||regulación|||vago
+cambio climático|||políticas|||diferir
+cambio climático|||políticas|||impredecible
+cambio climático|||políticas|||cancelar
+cambio climático|||políticas|||retrasar
+cambio climático|||políticas|||retirar
+cambio climático|||regulación|||desconocido
+cambio climático|||políticas|||ambiguo
+cambio climático|||regulación|||incierto
+cambio climático|||políticas|||vago
+cambio climático|||regulación|||incertidumbre
+cambio climático|||regulación|||ambiguo
+cambio climático|||regulación|||diferir
+cambio climático|||regulación|||impredecible
+cambio climático|||regulación|||posponer
+cambio climático|||regulación|||retrasar
+cambio climático|||regulación|||cancelar
+cambio climático|||regulación|||suspender
+cambio climático|||regulaciones|||incierto
+cambio climático|||regulaciones|||incertidumbre
+cambio climático|||regulaciones|||incierto
+cambio climático|||regulaciones|||desconocido
+cambio climático|||regulaciones|||vago
+cambio climático|||regulaciones|||impredecible
+cambio climático|||regulaciones|||retrasar
+cambio climático|||regulación|||abolir
+cambio climático|||regulación|||retirar
+cambio climático|||regulaciones|||ambiguo
+cambio climático|||regulaciones|||diferir
+cambio climático|||regulaciones|||abolir
+cambio climático|||regulaciones|||retirar
+cambio climático|||regulaciones|||suspender
+cambio climático|||legislación|||incierto
+cambio climático|||legislación|||incertidumbre
+cambio climático|||legislación|||desconocido
+cambio climático|||legislación|||vago
+cambio climático|||legislación|||ambiguo
+cambio climático|||regulaciones|||cancelar
+cambio climático|||legislación|||impredecible
+cambio climático|||legislación|||posponer
+cambio climático|||legislación|||retrasar
+cambio climático|||legislación|||incierto
+cambio climático|||legislación|||abolir
+cambio climático|||legislación|||cancelar
+cambio climático|||legislación|||retirar
+cambio climático|||legislación|||suspender
+cambio climático|||ley|||incierto
+cambio climático|||ley|||incertidumbre
+cambio climático|||ley|||incierto
+cambio climático|||ley|||desconocido
+cambio climático|||ley|||vago
+cambio climático|||legislación|||diferir
+cambio climático|||ley|||ambiguo
+cambio climático|||ley|||impredecible
+cambio climático|||ley|||posponer
+cambio climático|||ley|||diferir
+cambio climático|||ley|||abolir
+cambio climático|||ley|||cancelar
+cambio climático|||ley|||retirar
+cambio climático|||ley|||suspender
+cambio climático|||Parlamento|||incierto
+cambio climático|||Parlamento|||incierto
+cambio climático|||Parlamento|||vago
+cambio climático|||ley|||retrasar
+cambio climático|||Parlamento|||ambiguo
+cambio climático|||Parlamento|||impredecible
+cambio climático|||Parlamento|||posponer
+cambio climático|||Parlamento|||desconocido
+cambio climático|||Parlamento|||incertidumbre
+cambio climático|||Parlamento|||abolir
+cambio climático|||Senado|||incierto
+cambio climático|||Senado|||incertidumbre
+cambio climático|||Parlamento|||retrasar
+cambio climático|||Parlamento|||diferir
+cambio climático|||Senado|||incierto
+cambio climático|||Senado|||desconocido
+cambio climático|||Parlamento|||cancelar
+cambio climático|||Parlamento|||suspender
+cambio climático|||Parlamento|||retirar
+cambio climático|||Senado|||retrasar
+cambio climático|||Senado|||vago
+cambio climático|||Senado|||abolir
+cambio climático|||Senado|||ambiguo
+cambio climático|||Senado|||impredecible
+cambio climático|||Senado|||retirar
+cambio climático|||Senado|||suspender
+cambio climático|||Cámara de Representantes|||incertidumbre
+cambio climático|||Senado|||diferir
+cambio climático|||Cámara de Representantes|||desconocido
+cambio climático|||Cámara de Representantes|||vago
+cambio climático|||Senado|||cancelar
+cambio climático|||Cámara de Representantes|||incierto
+cambio climático|||Cámara de Representantes|||impredecible
+cambio climático|||Cámara de Representantes|||posponer
+cambio climático|||Cámara de Representantes|||incierto
+cambio climático|||Cámara de Representantes|||retrasar
+cambio climático|||Cámara de Representantes|||diferir
+cambio climático|||Cámara de Representantes|||abolir
+cambio climático|||Cámara de Representantes|||cancelar
+cambio climático|||Cámara de Representantes|||retirar
+cambio climático|||Cámara de Representantes|||ambiguo
+cambio climático|||Cámara de Representantes|||suspender
+cambio climático|||Presidente|||incertidumbre
+cambio climático|||Presidente|||desconocido
+cambio climático|||Presidente|||ambiguo
+cambio climático|||Presidente|||impredecible
+cambio climático|||Presidente|||posponer
+cambio climático|||Presidente|||diferir
+cambio climático|||Presidente|||incierto
+cambio climático|||Presidente|||cancelar
+cambio climático|||Presidente|||retirar
+cambio climático|||Presidente|||suspender
+cambio climático|||Presidente|||incierto
+cambio climático|||Presidente|||vago
+cambio climático|||Presidente|||abolir
+cambio climático|||Presidente|||retrasar
+cambio climático|||Ministro|||incierto
+cambio climático|||Ministro|||desconocido
+cambio climático|||Ministro|||vago
+cambio climático|||Ministro|||retrasar
+cambio climático|||Ministro|||incierto
+cambio climático|||Ministro|||abolir
+cambio climático|||Ministro|||incertidumbre
+cambio climático|||Ministro|||cancelar
+cambio climático|||Ministro|||impredecible
+cambio climático|||Ministro|||ambiguo
+cambio climático|||Ministro|||retirar
+cambio climático|||Ministro|||suspender
+cambio climático|||Ministro|||posponer
+cambio climático|||Gobierno|||incierto
+cambio climático|||Gobierno|||incertidumbre
+cambio climático|||Ministro|||diferir
+cambio climático|||Gobierno|||desconocido
+cambio climático|||Gobierno|||vago
+cambio climático|||Gobierno|||ambiguo
+cambio climático|||Gobierno|||incierto
+cambio climático|||Gobierno|||diferir
+cambio climático|||Gobierno|||retrasar
+cambio climático|||Gobierno|||cancelar
+cambio climático|||Gobierno|||retirar
+cambio climático|||Ministerio de Ambiente|||incierto
+cambio climático|||Ministerio de Ambiente|||incertidumbre
+cambio climático|||Gobierno|||impredecible
+cambio climático|||Ministerio de Ambiente|||incierto
+cambio climático|||Gobierno|||posponer
+cambio climático|||Gobierno|||abolir
+cambio climático|||Ministerio de Ambiente|||impredecible
+cambio climático|||Gobierno|||suspender
+cambio climático|||Ministerio de Ambiente|||retrasar
+cambio climático|||Ministerio de Ambiente|||cancelar
+cambio climático|||Ministerio de Ambiente|||retirar
+cambio climático|||Ministerio de Ambiente|||desconocido
+cambio climático|||Ministerio de Ambiente|||suspender
+cambio climático|||Ministerio de Industria, Energía y Minería|||incierto
+cambio climático|||Ministerio de Industria, Energía y Minería|||incertidumbre
+cambio climático|||Ministerio de Industria, Energía y Minería|||incierto
+cambio climático|||Ministerio de Industria, Energía y Minería|||desconocido
+cambio climático|||Ministerio de Ambiente|||posponer
+cambio climático|||Ministerio de Ambiente|||diferir
+cambio climático|||Ministerio de Industria, Energía y Minería|||posponer
+cambio climático|||Ministerio de Industria, Energía y Minería|||retrasar
+cambio climático|||Ministerio de Industria, Energía y Minería|||diferir
+cambio climático|||Ministerio de Industria, Energía y Minería|||cancelar
+cambio climático|||Ministerio de Industria, Energía y Minería|||retirar
+cambio climático|||Ministerio de Industria, Energía y Minería|||suspender
+cambio climático|||MIEM|||incertidumbre
+cambio climático|||Ministerio de Industria, Energía y Minería|||impredecible
+cambio climático|||MIEM|||desconocido
+cambio climático|||MIEM|||posponer
+cambio climático|||MIEM|||retrasar
+cambio climático|||MIEM|||diferir
+cambio climático|||MIEM|||cancelar
+cambio climático|||MIEM|||retirar
+crisis climática|||política|||incertidumbre
+crisis climática|||política|||desconocido
+cambio climático|||Senado|||posponer
+crisis climática|||política|||retirar
+crisis climática|||políticas|||incertidumbre
+crisis climática|||políticas|||desconocido
+cambio climático|||MIEM|||suspender
+crisis climática|||políticas|||vago
+crisis climática|||políticas|||diferir
+crisis climática|||políticas|||retirar
+crisis climática|||regulación|||incertidumbre
+crisis climática|||regulación|||desconocido
+crisis climática|||política|||vago
+crisis climática|||política|||diferir
+crisis climática|||regulación|||diferir
+crisis climática|||regulación|||retirar
+crisis climática|||regulaciones|||desconocido
+crisis climática|||regulaciones|||vago
+crisis climática|||regulación|||vago
+crisis climática|||regulaciones|||retirar
+crisis climática|||legislación|||incertidumbre
+crisis climática|||legislación|||desconocido
+crisis climática|||legislación|||vago
+crisis climática|||legislación|||diferir
+crisis climática|||legislación|||retirar
+crisis climática|||ley|||incertidumbre
+crisis climática|||ley|||desconocido
+crisis climática|||regulaciones|||incertidumbre
+crisis climática|||ley|||vago
+crisis climática|||regulaciones|||diferir
+crisis climática|||ley|||diferir
+crisis climática|||Parlamento|||incertidumbre
+crisis climática|||Parlamento|||desconocido
+crisis climática|||Parlamento|||vago
+crisis climática|||Senado|||desconocido
+crisis climática|||Senado|||vago
+crisis climática|||Senado|||diferir
+crisis climática|||ley|||retirar
+crisis climática|||Senado|||retirar
+crisis climática|||Cámara de Representantes|||vago
+crisis climática|||Parlamento|||diferir
+crisis climática|||Cámara de Representantes|||diferir
+crisis climática|||Parlamento|||retirar
+crisis climática|||Cámara de Representantes|||retirar
+crisis climática|||Senado|||incertidumbre
+crisis climática|||Presidente|||incertidumbre
+crisis climática|||Presidente|||diferir
+crisis climática|||Cámara de Representantes|||desconocido
+crisis climática|||Cámara de Representantes|||incertidumbre
+crisis climática|||Presidente|||retirar
+crisis climática|||Ministro|||incertidumbre
+crisis climática|||Ministro|||desconocido
+crisis climática|||Presidente|||desconocido
+crisis climática|||Ministro|||vago
+crisis climática|||Ministro|||diferir
+crisis climática|||Ministro|||retirar
+crisis climática|||Gobierno|||incertidumbre
+crisis climática|||Presidente|||vago
+crisis climática|||Gobierno|||vago
+crisis climática|||Gobierno|||diferir
+crisis climática|||Gobierno|||retirar
+crisis climática|||Ministerio de Ambiente|||retirar
+crisis climática|||MIEM|||incertidumbre
+crisis climática|||MIEM|||diferir
+crisis climática|||MIEM|||retirar
+crisis climática|||Gobierno|||desconocido
+gases de efecto invernadero|||política|||incierto
+gases de efecto invernadero|||política|||incierto
+crisis climática|||Ministerio de Ambiente|||incertidumbre
+gases de efecto invernadero|||política|||desconocido
+crisis climática|||Ministerio de Ambiente|||desconocido
+gases de efecto invernadero|||política|||vago
+crisis climática|||Ministerio de Ambiente|||diferir
+gases de efecto invernadero|||política|||retrasar
+crisis climática|||MIEM|||desconocido
+gases de efecto invernadero|||política|||diferir
+gases de efecto invernadero|||política|||retirar
+gases de efecto invernadero|||políticas|||incertidumbre
+gases de efecto invernadero|||políticas|||incierto
+gases de efecto invernadero|||políticas|||desconocido
+gases de efecto invernadero|||políticas|||vago
+gases de efecto invernadero|||políticas|||retrasar
+gases de efecto invernadero|||política|||incertidumbre
+gases de efecto invernadero|||políticas|||diferir
+gases de efecto invernadero|||políticas|||retirar
+gases de efecto invernadero|||regulación|||incertidumbre
+gases de efecto invernadero|||regulación|||incierto
+gases de efecto invernadero|||políticas|||incierto
+gases de efecto invernadero|||regulación|||incierto
+gases de efecto invernadero|||regulación|||diferir
+gases de efecto invernadero|||regulación|||retirar
+gases de efecto invernadero|||regulaciones|||incierto
+gases de efecto invernadero|||regulaciones|||desconocido
+gases de efecto invernadero|||regulaciones|||vago
+gases de efecto invernadero|||regulaciones|||retrasar
+gases de efecto invernadero|||regulaciones|||diferir
+gases de efecto invernadero|||regulación|||desconocido
+gases de efecto invernadero|||regulación|||retrasar
+gases de efecto invernadero|||regulación|||vago
+gases de efecto invernadero|||regulaciones|||retirar
+gases de efecto invernadero|||legislación|||incierto
+gases de efecto invernadero|||regulaciones|||incertidumbre
+gases de efecto invernadero|||regulaciones|||incierto
+gases de efecto invernadero|||legislación|||vago
+gases de efecto invernadero|||legislación|||retirar
+gases de efecto invernadero|||ley|||incertidumbre
+gases de efecto invernadero|||ley|||incierto
+gases de efecto invernadero|||ley|||desconocido
+gases de efecto invernadero|||legislación|||incertidumbre
+gases de efecto invernadero|||legislación|||incierto
+gases de efecto invernadero|||ley|||vago
+gases de efecto invernadero|||legislación|||desconocido
+gases de efecto invernadero|||ley|||retrasar
+gases de efecto invernadero|||legislación|||retrasar
+gases de efecto invernadero|||legislación|||diferir
+gases de efecto invernadero|||ley|||retirar
+gases de efecto invernadero|||ley|||incierto
+gases de efecto invernadero|||Parlamento|||incierto
+gases de efecto invernadero|||Parlamento|||incertidumbre
+gases de efecto invernadero|||Parlamento|||vago
+gases de efecto invernadero|||Parlamento|||desconocido
+gases de efecto invernadero|||ley|||diferir
+gases de efecto invernadero|||Parlamento|||diferir
+gases de efecto invernadero|||Senado|||incierto
+gases de efecto invernadero|||Senado|||incertidumbre
+gases de efecto invernadero|||Senado|||incierto
+gases de efecto invernadero|||Parlamento|||incierto
+gases de efecto invernadero|||Senado|||vago
+gases de efecto invernadero|||Senado|||retrasar
+gases de efecto invernadero|||Senado|||diferir
+gases de efecto invernadero|||Parlamento|||retrasar
+gases de efecto invernadero|||Parlamento|||retirar
+gases de efecto invernadero|||Senado|||retirar
+gases de efecto invernadero|||Senado|||desconocido
+gases de efecto invernadero|||Cámara de Representantes|||incertidumbre
+gases de efecto invernadero|||Cámara de Representantes|||incierto
+gases de efecto invernadero|||Cámara de Representantes|||incierto
+gases de efecto invernadero|||Cámara de Representantes|||desconocido
+gases de efecto invernadero|||Cámara de Representantes|||vago
+gases de efecto invernadero|||Cámara de Representantes|||retrasar
+gases de efecto invernadero|||Cámara de Representantes|||diferir
+gases de efecto invernadero|||Cámara de Representantes|||retirar
+gases de efecto invernadero|||Presidente|||incertidumbre
+gases de efecto invernadero|||Presidente|||desconocido
+gases de efecto invernadero|||Presidente|||vago
+gases de efecto invernadero|||Presidente|||retrasar
+gases de efecto invernadero|||Presidente|||diferir
+gases de efecto invernadero|||Ministro|||incierto
+gases de efecto invernadero|||Presidente|||retirar
+gases de efecto invernadero|||Presidente|||incierto
+gases de efecto invernadero|||Ministro|||vago
+gases de efecto invernadero|||Presidente|||incierto
+gases de efecto invernadero|||Ministro|||retrasar
+gases de efecto invernadero|||Ministro|||retirar
+gases de efecto invernadero|||Ministro|||incierto
+gases de efecto invernadero|||Ministro|||incertidumbre
+gases de efecto invernadero|||Gobierno|||incierto
+gases de efecto invernadero|||Ministro|||desconocido
+gases de efecto invernadero|||Gobierno|||incertidumbre
+gases de efecto invernadero|||Gobierno|||incierto
+gases de efecto invernadero|||Gobierno|||desconocido
+gases de efecto invernadero|||Gobierno|||vago
+gases de efecto invernadero|||Gobierno|||retrasar
+gases de efecto invernadero|||Ministro|||diferir
+gases de efecto invernadero|||Gobierno|||diferir
+gases de efecto invernadero|||Ministerio de Ambiente|||incierto
+gases de efecto invernadero|||Ministerio de Ambiente|||incertidumbre
+gases de efecto invernadero|||Ministerio de Ambiente|||incierto
+gases de efecto invernadero|||Ministerio de Ambiente|||desconocido
+gases de efecto invernadero|||Ministerio de Ambiente|||diferir
+gases de efecto invernadero|||Ministerio de Ambiente|||retrasar
+gases de efecto invernadero|||Ministerio de Ambiente|||retirar
+gases de efecto invernadero|||Ministerio de Industria, Energía y Minería|||incierto
+gases de efecto invernadero|||Ministerio de Industria, Energía y Minería|||incertidumbre
+gases de efecto invernadero|||Gobierno|||retirar
+gases de efecto invernadero|||Ministerio de Industria, Energía y Minería|||diferir
+gases de efecto invernadero|||Ministerio de Industria, Energía y Minería|||retirar
+gases de efecto invernadero|||MIEM|||incertidumbre
+gases de efecto invernadero|||MIEM|||desconocido
+gases de efecto invernadero|||MIEM|||retrasar
+gases de efecto invernadero|||Ministerio de Industria, Energía y Minería|||incierto
+gases de efecto invernadero|||Ministerio de Industria, Energía y Minería|||retrasar
+gases de efecto invernadero|||Ministerio de Industria, Energía y Minería|||desconocido
+gases de efecto invernadero|||MIEM|||diferir
+CO2|||política|||incierto
+CO2|||política|||desconocido
+CO2|||política|||retrasar
+CO2|||política|||diferir
+CO2|||política|||cancelar
+CO2|||política|||rescindir
+CO2|||política|||retirar
+CO2|||política|||incierto
+gases de efecto invernadero|||MIEM|||retirar
+CO2|||política|||incertidumbre
+CO2|||política|||suspender
+CO2|||políticas|||incierto
+CO2|||políticas|||incierto
+CO2|||políticas|||incertidumbre
+CO2|||políticas|||desconocido
+CO2|||políticas|||cancelar
+CO2|||políticas|||rescindir
+CO2|||políticas|||retirar
+CO2|||políticas|||suspender
+CO2|||regulación|||incierto
+CO2|||políticas|||diferir
+CO2|||regulación|||incertidumbre
+CO2|||regulación|||desconocido
+CO2|||políticas|||retrasar
+CO2|||regulación|||retrasar
+CO2|||regulación|||retirar
+CO2|||regulación|||suspender
+CO2|||regulación|||incierto
+CO2|||regulación|||diferir
+CO2|||regulaciones|||incertidumbre
+CO2|||regulación|||rescindir
+CO2|||regulación|||cancelar
+CO2|||regulaciones|||desconocido
+CO2|||regulaciones|||retrasar
+CO2|||regulaciones|||diferir
+CO2|||regulaciones|||cancelar
+CO2|||regulaciones|||rescindir
+CO2|||regulaciones|||retirar
+CO2|||regulaciones|||suspender
+CO2|||regulaciones|||incierto
+CO2|||regulaciones|||incierto
+CO2|||legislación|||incierto
+CO2|||legislación|||incertidumbre
+CO2|||legislación|||incierto
+CO2|||legislación|||desconocido
+CO2|||legislación|||retrasar
+CO2|||legislación|||diferir
+CO2|||legislación|||cancelar
+CO2|||legislación|||retirar
+CO2|||ley|||incierto
+CO2|||ley|||incertidumbre
+CO2|||ley|||incierto
+CO2|||ley|||diferir
+CO2|||legislación|||rescindir
+CO2|||legislación|||suspender
+CO2|||ley|||rescindir
+CO2|||ley|||retirar
+CO2|||Parlamento|||incierto
+CO2|||ley|||desconocido
+CO2|||Parlamento|||incertidumbre
+CO2|||Parlamento|||incierto
+CO2|||Parlamento|||desconocido
+CO2|||Parlamento|||retrasar
+CO2|||ley|||retrasar
+CO2|||ley|||cancelar
+CO2|||Parlamento|||diferir
+CO2|||ley|||suspender
+CO2|||Parlamento|||cancelar
+CO2|||Parlamento|||retirar
+CO2|||Senado|||incierto
+CO2|||Senado|||incertidumbre
+CO2|||Senado|||incierto
+CO2|||Senado|||retrasar
+CO2|||Senado|||cancelar
+CO2|||Senado|||retirar
+CO2|||Parlamento|||suspender
+CO2|||Parlamento|||rescindir
+CO2|||Cámara de Representantes|||incertidumbre
+CO2|||Senado|||desconocido
+CO2|||Cámara de Representantes|||incierto
+CO2|||Senado|||diferir
+CO2|||Cámara de Representantes|||desconocido
+CO2|||Senado|||rescindir
+CO2|||Cámara de Representantes|||retrasar
+CO2|||Senado|||suspender
+CO2|||Cámara de Representantes|||incierto
+CO2|||Cámara de Representantes|||rescindir
+CO2|||Cámara de Representantes|||retirar
+CO2|||Cámara de Representantes|||suspender
+CO2|||Presidente|||incierto
+CO2|||Presidente|||desconocido
+CO2|||Presidente|||retrasar
+CO2|||Presidente|||diferir
+CO2|||Presidente|||cancelar
+CO2|||Cámara de Representantes|||diferir
+CO2|||Cámara de Representantes|||cancelar
+CO2|||Presidente|||rescindir
+CO2|||Presidente|||retirar
+CO2|||Presidente|||suspender
+CO2|||Ministro|||incierto
+CO2|||Presidente|||incierto
+CO2|||Ministro|||incertidumbre
+CO2|||Presidente|||incertidumbre
+CO2|||Ministro|||retrasar
+CO2|||Ministro|||diferir
+CO2|||Ministro|||cancelar
+CO2|||Ministro|||retirar
+CO2|||Ministro|||suspender
+CO2|||Gobierno|||incierto
+CO2|||Ministro|||incierto
+CO2|||Gobierno|||incierto
+CO2|||Gobierno|||desconocido
+CO2|||Gobierno|||diferir
+CO2|||Ministro|||desconocido
+CO2|||Ministro|||rescindir
+CO2|||Gobierno|||rescindir
+CO2|||Gobierno|||incertidumbre
+CO2|||Gobierno|||retirar
+CO2|||Gobierno|||suspender
+CO2|||Ministerio de Ambiente|||incertidumbre
+CO2|||Ministerio de Ambiente|||incierto
+CO2|||Gobierno|||retrasar
+CO2|||Gobierno|||cancelar
+CO2|||Ministerio de Ambiente|||diferir
+CO2|||Ministerio de Ambiente|||retrasar
+CO2|||Ministerio de Ambiente|||cancelar
+CO2|||Ministerio de Ambiente|||rescindir
+CO2|||Ministerio de Ambiente|||incierto
+CO2|||Ministerio de Ambiente|||desconocido
+CO2|||Ministerio de Ambiente|||suspender
+CO2|||Ministerio de Industria, Energía y Minería|||incertidumbre
+CO2|||Ministerio de Industria, Energía y Minería|||incierto
+CO2|||Ministerio de Industria, Energía y Minería|||desconocido
+CO2|||Ministerio de Industria, Energía y Minería|||diferir
+CO2|||Ministerio de Industria, Energía y Minería|||cancelar
+CO2|||Ministerio de Industria, Energía y Minería|||rescindir
+CO2|||Ministerio de Industria, Energía y Minería|||retirar
+CO2|||Ministerio de Ambiente|||retirar
+CO2|||Ministerio de Industria, Energía y Minería|||suspender
+CO2|||Ministerio de Industria, Energía y Minería|||incierto
+CO2|||Ministerio de Industria, Energía y Minería|||retrasar
+CO2|||MIEM|||desconocido
+CO2|||MIEM|||retrasar
+CO2|||MIEM|||diferir
+CO2|||MIEM|||rescindir
+CO2|||MIEM|||incertidumbre
+CO2|||MIEM|||suspender
+calentamiento global|||política|||incierto
+calentamiento global|||política|||incierto
+calentamiento global|||política|||desconocido
+calentamiento global|||política|||ambiguo
+CO2|||MIEM|||cancelar
+calentamiento global|||política|||posponer
+CO2|||MIEM|||retirar
+calentamiento global|||política|||retrasar
+calentamiento global|||política|||diferir
+calentamiento global|||política|||retirar
+calentamiento global|||política|||incertidumbre
+calentamiento global|||política|||suspender
+calentamiento global|||políticas|||incierto
+calentamiento global|||políticas|||incertidumbre
+calentamiento global|||políticas|||desconocido
+calentamiento global|||política|||cancelar
+calentamiento global|||políticas|||ambiguo
+calentamiento global|||políticas|||posponer
+calentamiento global|||políticas|||retrasar
+calentamiento global|||políticas|||incierto
+calentamiento global|||políticas|||retirar
+calentamiento global|||regulación|||incierto
+calentamiento global|||regulación|||incertidumbre
+calentamiento global|||políticas|||diferir
+calentamiento global|||regulación|||desconocido
+calentamiento global|||regulación|||ambiguo
+calentamiento global|||políticas|||cancelar
+calentamiento global|||regulación|||posponer
+calentamiento global|||regulación|||diferir
+calentamiento global|||políticas|||suspender
+calentamiento global|||regulación|||retirar
+calentamiento global|||regulación|||incierto
+calentamiento global|||regulación|||suspender
+calentamiento global|||regulaciones|||incertidumbre
+calentamiento global|||regulaciones|||incierto
+calentamiento global|||regulación|||retrasar
+calentamiento global|||regulación|||cancelar
+calentamiento global|||regulaciones|||desconocido
+calentamiento global|||regulaciones|||retrasar
+calentamiento global|||regulaciones|||diferir
+calentamiento global|||regulaciones|||cancelar
+calentamiento global|||regulaciones|||incierto
+calentamiento global|||regulaciones|||retirar
+calentamiento global|||legislación|||incierto
+calentamiento global|||legislación|||incertidumbre
+calentamiento global|||legislación|||incierto
+calentamiento global|||regulaciones|||ambiguo
+calentamiento global|||legislación|||desconocido
+calentamiento global|||legislación|||ambiguo
+calentamiento global|||regulaciones|||suspender
+calentamiento global|||legislación|||retrasar
+calentamiento global|||legislación|||diferir
+calentamiento global|||legislación|||cancelar
+calentamiento global|||legislación|||suspender
+calentamiento global|||ley|||incierto
+calentamiento global|||ley|||incertidumbre
+calentamiento global|||ley|||incierto
+calentamiento global|||legislación|||posponer
+calentamiento global|||ley|||ambiguo
+calentamiento global|||ley|||retrasar
+calentamiento global|||legislación|||retirar
+calentamiento global|||ley|||diferir
+calentamiento global|||ley|||cancelar
+calentamiento global|||ley|||retirar
+calentamiento global|||ley|||desconocido
+calentamiento global|||Parlamento|||incierto
+calentamiento global|||Parlamento|||incertidumbre
+calentamiento global|||ley|||posponer
+calentamiento global|||Parlamento|||incierto
+calentamiento global|||Parlamento|||desconocido
+calentamiento global|||Parlamento|||ambiguo
+calentamiento global|||Parlamento|||posponer
+calentamiento global|||ley|||suspender
+calentamiento global|||Parlamento|||diferir
+calentamiento global|||Parlamento|||cancelar
+calentamiento global|||Parlamento|||retirar
+calentamiento global|||Parlamento|||suspender
+calentamiento global|||Senado|||incierto
+calentamiento global|||Senado|||desconocido
+calentamiento global|||Senado|||ambiguo
+calentamiento global|||Parlamento|||retrasar
+calentamiento global|||Senado|||posponer
+calentamiento global|||Senado|||diferir
+calentamiento global|||Senado|||cancelar
+calentamiento global|||Senado|||incierto
+calentamiento global|||Senado|||incertidumbre
+calentamiento global|||Senado|||retirar
+calentamiento global|||Senado|||suspender
+calentamiento global|||Cámara de Representantes|||incierto
+calentamiento global|||Cámara de Representantes|||incertidumbre
+calentamiento global|||Cámara de Representantes|||desconocido
+calentamiento global|||Senado|||retrasar
+calentamiento global|||Cámara de Representantes|||ambiguo
+calentamiento global|||Cámara de Representantes|||posponer
+calentamiento global|||Cámara de Representantes|||retrasar
+calentamiento global|||Cámara de Representantes|||cancelar
+calentamiento global|||Cámara de Representantes|||retirar
+calentamiento global|||Cámara de Representantes|||incierto
+calentamiento global|||Presidente|||incertidumbre
+calentamiento global|||Presidente|||incierto
+calentamiento global|||Presidente|||desconocido
+calentamiento global|||Presidente|||ambiguo
+calentamiento global|||Presidente|||posponer
+calentamiento global|||Cámara de Representantes|||diferir
+calentamiento global|||Presidente|||retrasar
+calentamiento global|||Presidente|||retirar
+calentamiento global|||Cámara de Representantes|||suspender
+calentamiento global|||Presidente|||suspender
+calentamiento global|||Ministro|||incertidumbre
+calentamiento global|||Presidente|||incierto
+calentamiento global|||Ministro|||incierto
+calentamiento global|||Ministro|||desconocido
+calentamiento global|||Ministro|||ambiguo
+calentamiento global|||Presidente|||diferir
+calentamiento global|||Ministro|||posponer
+calentamiento global|||Presidente|||cancelar
+calentamiento global|||Ministro|||incierto
+calentamiento global|||Ministro|||suspender
+calentamiento global|||Ministro|||cancelar
+calentamiento global|||Ministro|||diferir
+calentamiento global|||Ministro|||retrasar
+calentamiento global|||Gobierno|||incertidumbre
+calentamiento global|||Gobierno|||incierto
+calentamiento global|||Gobierno|||ambiguo
+calentamiento global|||Gobierno|||posponer
+calentamiento global|||Gobierno|||retrasar
+calentamiento global|||Gobierno|||diferir
+calentamiento global|||Gobierno|||cancelar
+calentamiento global|||Gobierno|||incierto
+calentamiento global|||Gobierno|||retirar
+calentamiento global|||Ministro|||retirar
+calentamiento global|||Gobierno|||desconocido
+calentamiento global|||Ministerio de Ambiente|||incierto
+calentamiento global|||Ministerio de Ambiente|||desconocido
+calentamiento global|||Ministerio de Ambiente|||retrasar
+calentamiento global|||Ministerio de Ambiente|||retirar
+calentamiento global|||Ministerio de Ambiente|||suspender
+calentamiento global|||Gobierno|||suspender
+calentamiento global|||Ministerio de Industria, Energía y Minería|||incierto
+calentamiento global|||Ministerio de Ambiente|||incierto
+calentamiento global|||Ministerio de Ambiente|||incertidumbre
+calentamiento global|||Ministerio de Ambiente|||posponer
+calentamiento global|||Ministerio de Industria, Energía y Minería|||incierto
+calentamiento global|||Ministerio de Ambiente|||diferir
+calentamiento global|||Ministerio de Ambiente|||cancelar
+calentamiento global|||Ministerio de Industria, Energía y Minería|||desconocido
+calentamiento global|||Ministerio de Industria, Energía y Minería|||posponer
+calentamiento global|||Ministerio de Industria, Energía y Minería|||incertidumbre
+calentamiento global|||Ministerio de Industria, Energía y Minería|||diferir
+calentamiento global|||Ministerio de Industria, Energía y Minería|||cancelar
+calentamiento global|||Ministerio de Industria, Energía y Minería|||retirar
+calentamiento global|||Ministerio de Industria, Energía y Minería|||suspender
+calentamiento global|||MIEM|||incertidumbre
+calentamiento global|||MIEM|||posponer
+calentamiento global|||MIEM|||retrasar
+calentamiento global|||Ministerio de Industria, Energía y Minería|||retrasar
+calentamiento global|||MIEM|||diferir
+calentamiento global|||MIEM|||cancelar
+calentamiento global|||MIEM|||retirar
+calentamiento global|||MIEM|||suspender
+clima extremo|||política|||incertidumbre
+clima extremo|||política|||incierto
+calentamiento global|||MIEM|||desconocido
+clima extremo|||política|||desconocido
+clima extremo|||política|||impredecible
+clima extremo|||política|||retrasar
+clima extremo|||política|||cancelar
+clima extremo|||política|||incierto
+clima extremo|||política|||retirar
+clima extremo|||políticas|||incierto
+clima extremo|||políticas|||incertidumbre
+clima extremo|||políticas|||desconocido
+clima extremo|||políticas|||impredecible
+clima extremo|||política|||posponer
+clima extremo|||políticas|||retrasar
+clima extremo|||políticas|||cancelar
+clima extremo|||políticas|||retirar
+clima extremo|||regulación|||incierto
+clima extremo|||regulación|||incertidumbre
+clima extremo|||políticas|||incierto
+clima extremo|||regulación|||incierto
+clima extremo|||regulación|||desconocido
+clima extremo|||regulación|||impredecible
+clima extremo|||regulación|||posponer
+clima extremo|||regulación|||retrasar
+clima extremo|||políticas|||posponer
+clima extremo|||regulación|||cancelar
+clima extremo|||regulación|||retirar
+clima extremo|||regulaciones|||incierto
+clima extremo|||regulaciones|||incertidumbre
+clima extremo|||regulaciones|||incierto
+clima extremo|||regulaciones|||desconocido
+clima extremo|||regulaciones|||impredecible
+clima extremo|||legislación|||incertidumbre
+clima extremo|||legislación|||incierto
+clima extremo|||legislación|||impredecible
+clima extremo|||legislación|||posponer
+clima extremo|||legislación|||retrasar
+clima extremo|||legislación|||cancelar
+clima extremo|||regulaciones|||retrasar
+clima extremo|||legislación|||retirar
+clima extremo|||regulaciones|||cancelar
+clima extremo|||ley|||incierto
+clima extremo|||ley|||incierto
+clima extremo|||regulaciones|||retirar
+clima extremo|||legislación|||desconocido
+clima extremo|||legislación|||incierto
+clima extremo|||ley|||posponer
+clima extremo|||ley|||retrasar
+clima extremo|||ley|||retirar
+clima extremo|||Parlamento|||incierto
+clima extremo|||Parlamento|||incertidumbre
+clima extremo|||Parlamento|||incierto
+clima extremo|||Parlamento|||desconocido
+clima extremo|||ley|||incertidumbre
+clima extremo|||ley|||desconocido
+clima extremo|||Parlamento|||posponer
+clima extremo|||ley|||impredecible
+clima extremo|||Parlamento|||retrasar
+clima extremo|||Parlamento|||cancelar
+clima extremo|||ley|||cancelar
+clima extremo|||Parlamento|||retirar
+clima extremo|||Senado|||incierto
+clima extremo|||Senado|||incierto
+clima extremo|||Parlamento|||impredecible
+clima extremo|||Senado|||impredecible
+clima extremo|||Senado|||posponer
+clima extremo|||Senado|||retrasar
+clima extremo|||Senado|||cancelar
+clima extremo|||Senado|||retirar
+clima extremo|||Cámara de Representantes|||incertidumbre
+clima extremo|||Cámara de Representantes|||incierto
+clima extremo|||Senado|||incertidumbre
+clima extremo|||Cámara de Representantes|||impredecible
+clima extremo|||Cámara de Representantes|||posponer
+clima extremo|||Senado|||desconocido
+clima extremo|||Cámara de Representantes|||retrasar
+clima extremo|||Cámara de Representantes|||cancelar
+clima extremo|||Cámara de Representantes|||incierto
+clima extremo|||Cámara de Representantes|||desconocido
+clima extremo|||Cámara de Representantes|||retirar
+clima extremo|||Presidente|||desconocido
+clima extremo|||Presidente|||impredecible
+clima extremo|||Presidente|||posponer
+clima extremo|||Presidente|||retrasar
+clima extremo|||Presidente|||cancelar
+clima extremo|||Presidente|||retirar
+clima extremo|||Ministro|||incierto
+clima extremo|||Ministro|||incertidumbre
+clima extremo|||Ministro|||incierto
+clima extremo|||Presidente|||incierto
+clima extremo|||Presidente|||incierto
+clima extremo|||Presidente|||incertidumbre
+clima extremo|||Ministro|||impredecible
+clima extremo|||Ministro|||cancelar
+clima extremo|||Ministro|||retirar
+clima extremo|||Gobierno|||incierto
+clima extremo|||Ministro|||desconocido
+clima extremo|||Ministro|||posponer
+clima extremo|||Gobierno|||incertidumbre
+clima extremo|||Gobierno|||desconocido
+clima extremo|||Gobierno|||impredecible
+clima extremo|||Ministro|||retrasar
+clima extremo|||Gobierno|||cancelar
+clima extremo|||Gobierno|||retirar
+clima extremo|||Ministerio de Ambiente|||incierto
+clima extremo|||Ministerio de Ambiente|||incertidumbre
+clima extremo|||Ministerio de Ambiente|||desconocido
+clima extremo|||Gobierno|||posponer
+clima extremo|||Gobierno|||retrasar
+clima extremo|||Ministerio de Ambiente|||impredecible
+clima extremo|||Ministerio de Ambiente|||posponer
+clima extremo|||Ministerio de Ambiente|||cancelar
+temperatura extrema|||política|||desconocido
+clima extremo|||Ministerio de Ambiente|||incierto
+temperatura extrema|||política|||retrasar
+clima extremo|||Ministerio de Ambiente|||retrasar
+temperatura extrema|||política|||retirar
+temperatura extrema|||política|||suspender
+clima extremo|||Gobierno|||incierto
+temperatura extrema|||políticas|||incertidumbre
+temperatura extrema|||políticas|||desconocido
+temperatura extrema|||política|||incertidumbre
+temperatura extrema|||política|||impredecible
+temperatura extrema|||políticas|||retrasar
+temperatura extrema|||políticas|||retirar
+clima extremo|||Ministerio de Ambiente|||retirar
+temperatura extrema|||políticas|||suspender
+temperatura extrema|||regulación|||incertidumbre
+temperatura extrema|||políticas|||impredecible
+temperatura extrema|||regulación|||impredecible
+temperatura extrema|||regulación|||suspender
+temperatura extrema|||ley|||retrasar
+temperatura extrema|||ley|||retirar
+temperatura extrema|||regulación|||desconocido
+temperatura extrema|||Senado|||incertidumbre
+temperatura extrema|||Senado|||desconocido
+temperatura extrema|||regulación|||retrasar
+temperatura extrema|||regulación|||retirar
+temperatura extrema|||Senado|||impredecible
+temperatura extrema|||ley|||incertidumbre
+temperatura extrema|||ley|||impredecible
+temperatura extrema|||ley|||desconocido
+temperatura extrema|||Senado|||retrasar
+temperatura extrema|||Senado|||retirar
+temperatura extrema|||ley|||suspender
+temperatura extrema|||Presidente|||incertidumbre
+temperatura extrema|||Presidente|||desconocido
+temperatura extrema|||Presidente|||impredecible
+temperatura extrema|||Presidente|||retrasar
+temperatura extrema|||Presidente|||retirar
+temperatura extrema|||Senado|||suspender
+temperatura extrema|||Ministro|||impredecible
+temperatura extrema|||Ministro|||retrasar
+temperatura extrema|||Ministro|||retirar
+temperatura extrema|||Gobierno|||incertidumbre
+temperatura extrema|||Gobierno|||desconocido
+temperatura extrema|||Gobierno|||impredecible
+temperatura extrema|||Gobierno|||retrasar
+temperatura extrema|||Ministro|||desconocido
+temperatura extrema|||Gobierno|||retirar
+temperatura extrema|||Presidente|||suspender
+temperatura extrema|||Gobierno|||suspender
+temperatura extrema|||Ministro|||incertidumbre
+temperatura extrema|||Ministro|||suspender
+ola de calor|||política|||incierto
+ola de calor|||política|||incertidumbre
+ola de calor|||política|||incierto
+ola de calor|||política|||impredecible
+ola de calor|||política|||retirar
+ola de calor|||política|||suspender
+ola de calor|||políticas|||incierto
+ola de calor|||políticas|||incertidumbre
+ola de calor|||políticas|||incierto
+ola de calor|||políticas|||retirar
+ola de calor|||regulación|||incierto
+ola de calor|||regulación|||incertidumbre
+ola de calor|||regulación|||retirar
+ola de calor|||regulación|||suspender
+ola de calor|||políticas|||impredecible
+ola de calor|||políticas|||suspender
+ola de calor|||regulaciones|||incierto
+ola de calor|||regulaciones|||impredecible
+ola de calor|||regulación|||incierto
+ola de calor|||regulación|||impredecible
+ola de calor|||regulaciones|||retirar
+ola de calor|||regulaciones|||suspender
+ola de calor|||legislación|||incierto
+ola de calor|||regulaciones|||incierto
+ola de calor|||regulaciones|||incertidumbre
+ola de calor|||legislación|||incertidumbre
+ola de calor|||legislación|||incierto
+ola de calor|||legislación|||impredecible
+ola de calor|||legislación|||retirar
+ola de calor|||legislación|||suspender
+ola de calor|||ley|||incierto
+ola de calor|||ley|||incertidumbre
+ola de calor|||ley|||incierto
+ola de calor|||ley|||impredecible
+ola de calor|||ley|||retirar
+ola de calor|||Parlamento|||incertidumbre
+ola de calor|||Parlamento|||retirar
+ola de calor|||Parlamento|||suspender
+ola de calor|||Senado|||incertidumbre
+ola de calor|||ley|||suspender
+ola de calor|||Senado|||retirar
+ola de calor|||Parlamento|||incierto
+ola de calor|||Parlamento|||incierto
+ola de calor|||Parlamento|||impredecible
+ola de calor|||Cámara de Representantes|||incierto
+ola de calor|||Cámara de Representantes|||incertidumbre
+ola de calor|||Senado|||incierto
+ola de calor|||Cámara de Representantes|||impredecible
+ola de calor|||Cámara de Representantes|||retirar
+ola de calor|||Senado|||incierto
+ola de calor|||Senado|||impredecible
+ola de calor|||Senado|||suspender
+ola de calor|||Cámara de Representantes|||suspender
+ola de calor|||Presidente|||incierto
+ola de calor|||Presidente|||incierto
+ola de calor|||Presidente|||impredecible
+ola de calor|||Cámara de Representantes|||incierto
+ola de calor|||Presidente|||suspender
+ola de calor|||Ministro|||incertidumbre
+ola de calor|||Ministro|||incierto
+ola de calor|||Ministro|||impredecible
+ola de calor|||Ministro|||retirar
+ola de calor|||Ministro|||suspender
+ola de calor|||Presidente|||incertidumbre
+ola de calor|||Presidente|||retirar
+ola de calor|||Ministro|||incierto
+ola de calor|||Gobierno|||incertidumbre
+ola de calor|||Gobierno|||impredecible
+ola de calor|||Gobierno|||retirar
+ola de calor|||Gobierno|||suspender
+ola de calor|||Ministerio de Ambiente|||incierto
+ola de calor|||Gobierno|||incierto
+ola de calor|||Ministerio de Ambiente|||impredecible
+ola de calor|||Gobierno|||incierto
+ola de calor|||Ministerio de Industria, Energía y Minería|||incierto
+ola de calor|||Ministerio de Industria, Energía y Minería|||impredecible
+ola de calor|||Ministerio de Industria, Energía y Minería|||retirar
+ola de calor|||Ministerio de Ambiente|||incertidumbre
+ola de calor|||Ministerio de Industria, Energía y Minería|||suspender
+ola de calor|||MIEM|||incertidumbre
+ola de calor|||Ministerio de Ambiente|||incierto
+ola de calor|||MIEM|||retirar
+ola de calor|||Ministerio de Ambiente|||suspender
+ola de calor|||Ministerio de Industria, Energía y Minería|||incierto
+ola de calor|||Ministerio de Ambiente|||retirar
+ola de calor|||Ministerio de Industria, Energía y Minería|||incertidumbre
+ola de calor|||MIEM|||suspender
+ola de frío|||política|||incierto
+ola de frío|||política|||incierto
+ola de frío|||política|||impredecible
+ola de frío|||política|||diferir
+ola de frío|||política|||cancelar
+ola de frío|||política|||retirar
+ola de frío|||políticas|||incierto
+ola de frío|||políticas|||incertidumbre
+ola de frío|||política|||incertidumbre
+ola de frío|||políticas|||impredecible
+ola de frío|||políticas|||posponer
+ola de frío|||políticas|||cancelar
+ola de frío|||política|||posponer
+ola de frío|||política|||suspender
+ola de frío|||políticas|||retirar
+ola de frío|||políticas|||incierto
+ola de frío|||regulación|||incertidumbre
+ola de frío|||regulación|||incierto
+ola de frío|||políticas|||diferir
+ola de frío|||regulación|||posponer
+ola de frío|||regulación|||cancelar
+ola de frío|||regulación|||retirar
+ola de frío|||políticas|||suspender
+ola de frío|||regulación|||suspender
+ola de frío|||regulaciones|||incierto
+ola de frío|||regulación|||incierto
+ola de frío|||regulaciones|||incertidumbre
+ola de frío|||regulación|||impredecible
+ola de frío|||regulación|||diferir
+ola de frío|||regulaciones|||impredecible
+ola de frío|||regulaciones|||diferir
+ola de frío|||regulaciones|||cancelar
+ola de frío|||regulaciones|||retirar
+ola de frío|||legislación|||incertidumbre
+ola de frío|||regulaciones|||incierto
+ola de frío|||legislación|||impredecible
+ola de frío|||legislación|||posponer
+ola de frío|||legislación|||retirar
+ola de frío|||regulaciones|||suspender
+ola de frío|||legislación|||suspender
+ola de frío|||ley|||incierto
+ola de frío|||legislación|||incierto
+ola de frío|||legislación|||incierto
+ola de frío|||ley|||incierto
+ola de frío|||ley|||impredecible
+ola de frío|||legislación|||diferir
+ola de frío|||legislación|||cancelar
+ola de frío|||ley|||cancelar
+ola de frío|||ley|||retirar
+ola de frío|||ley|||incertidumbre
+ola de frío|||ley|||suspender
+ola de frío|||Parlamento|||incierto
+ola de frío|||Parlamento|||incertidumbre
+ola de frío|||Parlamento|||incierto
+ola de frío|||Parlamento|||impredecible
+ola de frío|||Parlamento|||posponer
+ola de frío|||ley|||posponer
+ola de frío|||ley|||diferir
+ola de frío|||Parlamento|||diferir
+ola de frío|||Senado|||incierto
+ola de frío|||Senado|||incertidumbre
+ola de frío|||Senado|||incierto
+ola de frío|||Senado|||impredecible
+ola de frío|||Senado|||posponer
+ola de frío|||Senado|||cancelar
+ola de frío|||Parlamento|||suspender
+ola de frío|||Senado|||diferir
+ola de frío|||Parlamento|||cancelar
+ola de frío|||Senado|||retirar
+ola de frío|||Senado|||suspender
+ola de frío|||Parlamento|||retirar
+ola de frío|||Cámara de Representantes|||incertidumbre
+ola de frío|||Cámara de Representantes|||diferir
+ola de frío|||Cámara de Representantes|||incierto
+ola de frío|||Cámara de Representantes|||incierto
+ola de frío|||Cámara de Representantes|||retirar
+ola de frío|||Cámara de Representantes|||cancelar
+ola de frío|||Presidente|||incierto
+ola de frío|||Presidente|||diferir
+ola de frío|||Presidente|||cancelar
+ola de frío|||Cámara de Representantes|||posponer
+ola de frío|||Cámara de Representantes|||impredecible
+ola de frío|||Presidente|||posponer
+ola de frío|||Presidente|||incertidumbre
+ola de frío|||Cámara de Representantes|||suspender
+ola de frío|||Presidente|||impredecible
+ola de frío|||Presidente|||retirar
+ola de frío|||Presidente|||incierto
+ola de frío|||Ministro|||incertidumbre
+ola de frío|||Ministro|||impredecible
+ola de frío|||Ministro|||posponer
+ola de frío|||Ministro|||diferir
+ola de frío|||Ministro|||cancelar
+ola de frío|||Presidente|||suspender
+ola de frío|||Ministro|||incierto
+ola de frío|||Ministro|||incierto
+ola de frío|||Ministro|||suspender
+ola de frío|||Gobierno|||incierto
+ola de frío|||Gobierno|||impredecible
+ola de frío|||Gobierno|||posponer
+ola de frío|||Gobierno|||cancelar
+ola de frío|||Gobierno|||retirar
+ola de frío|||Ministro|||retirar
+ola de frío|||Ministerio de Ambiente|||incierto
+ola de frío|||Gobierno|||incertidumbre
+ola de frío|||Gobierno|||incierto
+ola de frío|||Ministerio de Ambiente|||incertidumbre
+ola de frío|||Ministerio de Ambiente|||incierto
+ola de frío|||Ministerio de Ambiente|||impredecible
+ola de frío|||Ministerio de Ambiente|||posponer
+ola de frío|||Ministerio de Ambiente|||diferir
+ola de frío|||Gobierno|||diferir
+ola de frío|||Ministerio de Ambiente|||cancelar
+ola de frío|||Gobierno|||suspender
+ola de frío|||Ministerio de Ambiente|||retirar
+ola de frío|||Ministerio de Ambiente|||suspender
+sequía|||política|||incierto
+sequía|||política|||desconocido
+sequía|||política|||vago
+sequía|||política|||retrasar
+sequía|||política|||diferir
+sequía|||política|||incierto
+sequía|||política|||rescindir
+sequía|||política|||suspender
+sequía|||políticas|||incierto
+sequía|||política|||impredecible
+sequía|||política|||posponer
+sequía|||política|||ambiguo
+sequía|||política|||retirar
+sequía|||política|||cancelar
+sequía|||políticas|||vago
+sequía|||políticas|||ambiguo
+sequía|||políticas|||impredecible
+sequía|||políticas|||posponer
+sequía|||políticas|||retrasar
+sequía|||políticas|||diferir
+sequía|||políticas|||incertidumbre
+sequía|||políticas|||incierto
+sequía|||políticas|||desconocido
+sequía|||políticas|||cancelar
+sequía|||políticas|||rescindir
+sequía|||políticas|||retirar
+sequía|||políticas|||suspender
+sequía|||regulación|||incierto
+sequía|||regulación|||incierto
+sequía|||regulación|||desconocido
+sequía|||regulación|||vago
+sequía|||regulación|||ambiguo
+sequía|||política|||incertidumbre
+sequía|||regulación|||diferir
+sequía|||regulación|||cancelar
+sequía|||regulación|||incertidumbre
+sequía|||regulación|||retirar
+sequía|||regulación|||suspender
+sequía|||regulación|||impredecible
+sequía|||regulaciones|||incertidumbre
+sequía|||regulaciones|||desconocido
+sequía|||regulación|||retrasar
+sequía|||regulación|||posponer
+sequía|||regulaciones|||vago
+sequía|||regulación|||rescindir
+sequía|||regulaciones|||ambiguo
+sequía|||regulaciones|||retrasar
+sequía|||regulaciones|||incierto
+sequía|||regulaciones|||diferir
+sequía|||regulaciones|||cancelar
+sequía|||regulaciones|||incierto
+sequía|||regulaciones|||rescindir
+sequía|||regulaciones|||retirar
+sequía|||regulaciones|||suspender
+sequía|||regulaciones|||impredecible
+sequía|||legislación|||incierto
+sequía|||legislación|||desconocido
+sequía|||legislación|||vago
+sequía|||legislación|||posponer
+sequía|||legislación|||incierto
+sequía|||legislación|||retrasar
+sequía|||legislación|||diferir
+sequía|||legislación|||cancelar
+sequía|||legislación|||incertidumbre
+sequía|||legislación|||retirar
+sequía|||legislación|||suspender
+sequía|||legislación|||ambiguo
+sequía|||ley|||incierto
+sequía|||ley|||incertidumbre
+sequía|||ley|||incierto
+sequía|||legislación|||impredecible
+sequía|||ley|||desconocido
+sequía|||legislación|||rescindir
+sequía|||ley|||vago
+sequía|||ley|||ambiguo
+sequía|||ley|||posponer
+sequía|||ley|||retrasar
+sequía|||ley|||diferir
+sequía|||ley|||cancelar
+sequía|||ley|||retirar
+sequía|||ley|||suspender
+sequía|||Parlamento|||incierto
+sequía|||Parlamento|||desconocido
+sequía|||ley|||impredecible
+sequía|||Parlamento|||ambiguo
+sequía|||ley|||rescindir
+sequía|||Parlamento|||posponer
+sequía|||Parlamento|||retrasar
+sequía|||Parlamento|||incierto
+sequía|||Parlamento|||cancelar
+sequía|||Parlamento|||incertidumbre
+sequía|||Parlamento|||rescindir
+sequía|||Parlamento|||vago
+sequía|||Parlamento|||retirar
+sequía|||Parlamento|||suspender
+sequía|||Senado|||incierto
+sequía|||Parlamento|||impredecible
+sequía|||Parlamento|||diferir
+sequía|||Senado|||incertidumbre
+sequía|||Senado|||incierto
+sequía|||Senado|||desconocido
+sequía|||Senado|||vago
+sequía|||Senado|||ambiguo
+sequía|||Senado|||impredecible
+sequía|||Senado|||retrasar
+sequía|||Senado|||diferir
+sequía|||Senado|||cancelar
+sequía|||Senado|||rescindir
+sequía|||Senado|||retirar
+sequía|||Cámara de Representantes|||incierto
+sequía|||Senado|||posponer
+sequía|||Cámara de Representantes|||vago
+sequía|||Cámara de Representantes|||impredecible
+sequía|||Senado|||suspender
+sequía|||Cámara de Representantes|||cancelar
+sequía|||Cámara de Representantes|||incierto
+sequía|||Cámara de Representantes|||incertidumbre
+sequía|||Cámara de Representantes|||desconocido
+sequía|||Cámara de Representantes|||retirar
+sequía|||Cámara de Representantes|||ambiguo
+sequía|||Cámara de Representantes|||posponer
+sequía|||Cámara de Representantes|||suspender
+sequía|||Presidente|||incierto
+sequía|||Cámara de Representantes|||retrasar
+sequía|||Cámara de Representantes|||diferir
+sequía|||Presidente|||incertidumbre
+sequía|||Cámara de Representantes|||rescindir
+sequía|||Presidente|||desconocido
+sequía|||Presidente|||vago
+sequía|||Presidente|||posponer
+sequía|||Presidente|||diferir
+sequía|||Presidente|||cancelar
+sequía|||Presidente|||rescindir
+sequía|||Presidente|||retirar
+sequía|||Ministro|||incierto
+sequía|||Ministro|||incertidumbre
+sequía|||Presidente|||ambiguo
+sequía|||Presidente|||impredecible
+sequía|||Presidente|||incierto
+sequía|||Presidente|||retrasar
+sequía|||Ministro|||desconocido
+sequía|||Ministro|||vago
+sequía|||Ministro|||ambiguo
+sequía|||Ministro|||impredecible
+sequía|||Presidente|||suspender
+sequía|||Ministro|||posponer
+sequía|||Ministro|||retrasar
+sequía|||Ministro|||incierto
+sequía|||Ministro|||diferir
+sequía|||Ministro|||cancelar
+sequía|||Ministro|||rescindir
+sequía|||Ministro|||retirar
+sequía|||Ministro|||suspender
+sequía|||Gobierno|||incierto
+sequía|||Gobierno|||incierto
+sequía|||Gobierno|||desconocido
+sequía|||Gobierno|||vago
+sequía|||Gobierno|||ambiguo
+sequía|||Gobierno|||retrasar
+sequía|||Gobierno|||cancelar
+sequía|||Gobierno|||rescindir
+sequía|||Gobierno|||retirar
+sequía|||Gobierno|||impredecible
+sequía|||Gobierno|||posponer
+sequía|||Ministerio de Ambiente|||impredecible
+sequía|||Gobierno|||diferir
+sequía|||Ministerio de Ambiente|||diferir
+sequía|||Ministerio de Ambiente|||cancelar
+sequía|||Gobierno|||incertidumbre
+sequía|||Ministerio de Ambiente|||rescindir
+sequía|||Gobierno|||suspender
+sequía|||Ministerio de Ambiente|||incierto
+sequía|||Ministerio de Ambiente|||incertidumbre
+sequía|||Ministerio de Ambiente|||desconocido
+sequía|||Ministerio de Ambiente|||incierto
+sequía|||Ministerio de Ambiente|||posponer
+sequía|||Ministerio de Ambiente|||retrasar
+sequía|||Ministerio de Ambiente|||retirar
+sequía|||Ministerio de Ambiente|||suspender
+sequía|||Ministerio de Industria, Energía y Minería|||incierto
+sequía|||Ministerio de Industria, Energía y Minería|||incertidumbre
+sequía|||Ministerio de Industria, Energía y Minería|||incierto
+sequía|||Ministerio de Industria, Energía y Minería|||impredecible
+sequía|||Ministerio de Industria, Energía y Minería|||posponer
+sequía|||Ministerio de Industria, Energía y Minería|||diferir
+sequía|||Ministerio de Industria, Energía y Minería|||retrasar
+sequía|||Ministerio de Industria, Energía y Minería|||rescindir
+sequía|||Ministerio de Industria, Energía y Minería|||retirar
+sequía|||Ministerio de Industria, Energía y Minería|||suspender
+sequía|||MIEM|||incertidumbre
+sequía|||MIEM|||posponer
+sequía|||MIEM|||retrasar
+sequía|||Ministerio de Industria, Energía y Minería|||desconocido
+sequía|||MIEM|||diferir
+sequía|||Ministerio de Industria, Energía y Minería|||cancelar
+sequía|||MIEM|||cancelar
+sequía|||MIEM|||desconocido
+sequía|||MIEM|||rescindir
+sequía|||MIEM|||retirar
+sequía|||MIEM|||suspender
+incendio forestal|||política|||impredecible
+incendio forestal|||política|||retirar
+incendio forestal|||políticas|||impredecible
+incendio forestal|||políticas|||retirar
+incendio forestal|||regulaciones|||impredecible
+incendio forestal|||regulaciones|||retirar
+incendio forestal|||política|||incertidumbre
+incendio forestal|||legislación|||incertidumbre
+incendio forestal|||políticas|||incertidumbre
+incendio forestal|||legislación|||impredecible
+incendio forestal|||legislación|||retirar
+incendio forestal|||ley|||incertidumbre
+incendio forestal|||ley|||impredecible
+incendio forestal|||ley|||retirar
+incendio forestal|||regulaciones|||incertidumbre
+incendio forestal|||Parlamento|||incertidumbre
+incendio forestal|||Parlamento|||retirar
+incendio forestal|||Presidente|||incertidumbre
+incendio forestal|||Presidente|||impredecible
+incendio forestal|||Parlamento|||impredecible
+incendio forestal|||Ministro|||retirar
+incendio forestal|||Gobierno|||incertidumbre
+incendio forestal|||Ministerio de Ambiente|||impredecible
+incendio forestal|||Ministerio de Ambiente|||retirar
+incendio forestal|||Presidente|||retirar
+tormenta de nieve|||política|||desconocido
+incendio forestal|||Ministro|||incertidumbre
+incendio forestal|||Ministro|||impredecible
+tormenta de nieve|||política|||cancelar
+incendio forestal|||Gobierno|||impredecible
+incendio forestal|||Gobierno|||retirar
+incendio forestal|||Ministerio de Ambiente|||incertidumbre
+tormenta de nieve|||políticas|||cancelar
+tormenta de nieve|||políticas|||retirar
+tormenta de nieve|||política|||retirar
+tormenta de nieve|||políticas|||suspender
+tormenta de nieve|||ley|||desconocido
+tormenta de nieve|||política|||suspender
+tormenta de nieve|||ley|||cancelar
+tormenta de nieve|||ley|||retirar
+tormenta de nieve|||ley|||suspender
+tormenta de nieve|||Parlamento|||desconocido
+tormenta de nieve|||políticas|||desconocido
+tormenta de nieve|||Parlamento|||retirar
+tormenta de nieve|||Senado|||desconocido
+tormenta de nieve|||Parlamento|||cancelar
+tormenta de nieve|||Senado|||suspender
+tormenta de nieve|||Cámara de Representantes|||desconocido
+tormenta de nieve|||Cámara de Representantes|||cancelar
+tormenta de nieve|||Cámara de Representantes|||retirar
+tormenta de nieve|||Cámara de Representantes|||suspender
+tormenta de nieve|||Presidente|||desconocido
+tormenta de nieve|||Parlamento|||suspender
+tormenta de nieve|||Senado|||cancelar
+tormenta de nieve|||Senado|||retirar
+tormenta de nieve|||Presidente|||suspender
+tormenta de nieve|||Ministro|||desconocido
+tormenta de nieve|||Ministro|||cancelar
+tormenta de nieve|||Ministro|||retirar
+tormenta de nieve|||Presidente|||retirar
+tormenta de nieve|||Gobierno|||desconocido
+tormenta de nieve|||Gobierno|||cancelar
+tormenta de nieve|||Presidente|||cancelar
+tormenta de nieve|||Gobierno|||retirar
+tormenta de nieve|||Gobierno|||suspender
+lluvia intensa|||política|||incierto
+lluvia intensa|||política|||incierto
+lluvia intensa|||política|||impredecible
+lluvia intensa|||política|||rescindir
+tormenta de nieve|||Ministro|||suspender
+lluvia intensa|||política|||retirar
+lluvia intensa|||política|||incertidumbre
+lluvia intensa|||política|||suspender
+lluvia intensa|||políticas|||incierto
+lluvia intensa|||políticas|||incertidumbre
+lluvia intensa|||políticas|||impredecible
+lluvia intensa|||política|||cancelar
+lluvia intensa|||políticas|||suspender
+lluvia intensa|||regulaciones|||incierto
+lluvia intensa|||políticas|||incierto
+lluvia intensa|||políticas|||rescindir
+lluvia intensa|||políticas|||retirar
+lluvia intensa|||políticas|||cancelar
+lluvia intensa|||regulaciones|||cancelar
+lluvia intensa|||regulaciones|||suspender
+lluvia intensa|||ley|||incierto
+lluvia intensa|||ley|||incertidumbre
+lluvia intensa|||regulaciones|||incertidumbre
+lluvia intensa|||regulaciones|||incierto
+lluvia intensa|||ley|||incierto
+lluvia intensa|||regulaciones|||impredecible
+lluvia intensa|||regulaciones|||rescindir
+lluvia intensa|||regulaciones|||retirar
+lluvia intensa|||ley|||cancelar
+lluvia intensa|||ley|||rescindir
+lluvia intensa|||ley|||retirar
+lluvia intensa|||ley|||suspender
+lluvia intensa|||Parlamento|||incierto
+lluvia intensa|||Parlamento|||incertidumbre
+lluvia intensa|||ley|||impredecible
+lluvia intensa|||Parlamento|||impredecible
+lluvia intensa|||Parlamento|||cancelar
+lluvia intensa|||Parlamento|||rescindir
+lluvia intensa|||Parlamento|||suspender
+lluvia intensa|||Senado|||incierto
+lluvia intensa|||Senado|||incertidumbre
+lluvia intensa|||Senado|||incierto
+lluvia intensa|||Parlamento|||incierto
+lluvia intensa|||Senado|||impredecible
+lluvia intensa|||Senado|||rescindir
+lluvia intensa|||Senado|||retirar
+lluvia intensa|||Parlamento|||retirar
+lluvia intensa|||Cámara de Representantes|||incierto
+lluvia intensa|||Cámara de Representantes|||incertidumbre
+lluvia intensa|||Cámara de Representantes|||incierto
+lluvia intensa|||Cámara de Representantes|||cancelar
+lluvia intensa|||Senado|||cancelar
+lluvia intensa|||Cámara de Representantes|||rescindir
+lluvia intensa|||Cámara de Representantes|||retirar
+lluvia intensa|||Senado|||suspender
+lluvia intensa|||Presidente|||incierto
+lluvia intensa|||Presidente|||impredecible
+lluvia intensa|||Presidente|||cancelar
+lluvia intensa|||Presidente|||rescindir
+lluvia intensa|||Cámara de Representantes|||impredecible
+lluvia intensa|||Presidente|||retirar
+lluvia intensa|||Ministro|||incierto
+lluvia intensa|||Cámara de Representantes|||suspender
+lluvia intensa|||Ministro|||incertidumbre
+lluvia intensa|||Ministro|||impredecible
+lluvia intensa|||Presidente|||incertidumbre
+lluvia intensa|||Ministro|||cancelar
+lluvia intensa|||Ministro|||rescindir
+lluvia intensa|||Presidente|||incierto
+lluvia intensa|||Ministro|||retirar
+lluvia intensa|||Ministro|||suspender
+lluvia intensa|||Presidente|||suspender
+lluvia intensa|||Gobierno|||incierto
+lluvia intensa|||Gobierno|||incierto
+lluvia intensa|||Ministro|||incierto
+lluvia intensa|||Gobierno|||impredecible
+lluvia intensa|||Gobierno|||cancelar
+lluvia intensa|||Gobierno|||retirar
+lluvia intensa|||Gobierno|||suspender
+lluvia intensa|||Ministerio de Ambiente|||incertidumbre
+lluvia intensa|||Gobierno|||incertidumbre
+lluvia intensa|||Ministerio de Ambiente|||impredecible
+lluvia intensa|||Ministerio de Ambiente|||cancelar
+lluvia intensa|||Ministerio de Ambiente|||retirar
+huracán|||política|||incierto
+lluvia intensa|||Gobierno|||rescindir
+lluvia intensa|||Ministerio de Ambiente|||incierto
+lluvia intensa|||Ministerio de Ambiente|||incierto
+huracán|||política|||incierto
+lluvia intensa|||Ministerio de Ambiente|||rescindir
+huracán|||política|||impredecible
+lluvia intensa|||Ministerio de Ambiente|||suspender
+huracán|||política|||retrasar
+huracán|||política|||cancelar
+huracán|||política|||rescindir
+huracán|||política|||retirar
+huracán|||política|||incertidumbre
+huracán|||política|||ambiguo
+huracán|||política|||suspender
+huracán|||política|||desconocido
+huracán|||políticas|||incertidumbre
+huracán|||políticas|||incierto
+huracán|||política|||posponer
+huracán|||políticas|||desconocido
+huracán|||políticas|||ambiguo
+huracán|||políticas|||impredecible
+huracán|||políticas|||retrasar
+huracán|||políticas|||cancelar
+huracán|||políticas|||incierto
+huracán|||políticas|||rescindir
+huracán|||políticas|||suspender
+huracán|||regulación|||incertidumbre
+huracán|||regulación|||incierto
+huracán|||regulación|||ambiguo
+huracán|||políticas|||posponer
+huracán|||regulación|||posponer
+huracán|||regulación|||retrasar
+huracán|||políticas|||retirar
+huracán|||regulación|||cancelar
+huracán|||regulación|||incierto
+huracán|||regulación|||desconocido
+huracán|||regulación|||rescindir
+huracán|||regulación|||retirar
+huracán|||regulación|||suspender
+huracán|||regulación|||impredecible
+huracán|||regulaciones|||incertidumbre
+huracán|||regulaciones|||desconocido
+huracán|||regulaciones|||ambiguo
+huracán|||regulaciones|||retrasar
+huracán|||regulaciones|||cancelar
+huracán|||regulaciones|||rescindir
+huracán|||regulaciones|||incierto
+huracán|||regulaciones|||incierto
+huracán|||regulaciones|||suspender
+huracán|||legislación|||incierto
+huracán|||legislación|||incertidumbre
+huracán|||legislación|||incierto
+huracán|||regulaciones|||impredecible
+huracán|||legislación|||ambiguo
+huracán|||legislación|||impredecible
+huracán|||regulaciones|||retirar
+huracán|||legislación|||retrasar
+huracán|||legislación|||cancelar
+huracán|||legislación|||desconocido
+huracán|||legislación|||rescindir
+huracán|||legislación|||retirar
+huracán|||legislación|||suspender
+huracán|||ley|||incierto
+huracán|||ley|||incierto
+huracán|||legislación|||posponer
+huracán|||ley|||desconocido
+huracán|||ley|||ambiguo
+huracán|||ley|||posponer
+huracán|||ley|||incertidumbre
+huracán|||ley|||impredecible
+huracán|||Parlamento|||incertidumbre
+huracán|||Parlamento|||desconocido
+huracán|||Parlamento|||impredecible
+huracán|||ley|||retrasar
+huracán|||Parlamento|||retrasar
+huracán|||ley|||cancelar
+huracán|||ley|||retirar
+huracán|||Parlamento|||incierto
+huracán|||ley|||rescindir
+huracán|||Parlamento|||incierto
+huracán|||ley|||suspender
+huracán|||Parlamento|||ambiguo
+huracán|||Parlamento|||posponer
+huracán|||Parlamento|||suspender
+huracán|||Senado|||incierto
+huracán|||Senado|||incertidumbre
+huracán|||Parlamento|||cancelar
+huracán|||Senado|||desconocido
+huracán|||Parlamento|||retirar
+huracán|||Parlamento|||rescindir
+huracán|||Senado|||posponer
+huracán|||Senado|||retrasar
+huracán|||Senado|||incierto
+huracán|||Senado|||retirar
+huracán|||Senado|||ambiguo
+huracán|||Senado|||impredecible
+huracán|||Cámara de Representantes|||incertidumbre
+huracán|||Senado|||cancelar
+huracán|||Senado|||rescindir
+huracán|||Cámara de Representantes|||incierto
+huracán|||Cámara de Representantes|||desconocido
+huracán|||Cámara de Representantes|||ambiguo
+huracán|||Cámara de Representantes|||posponer
+huracán|||Cámara de Representantes|||retrasar
+huracán|||Senado|||suspender
+huracán|||Cámara de Representantes|||incierto
+huracán|||Cámara de Representantes|||cancelar
+huracán|||Cámara de Representantes|||suspender
+huracán|||Presidente|||incierto
+huracán|||Cámara de Representantes|||impredecible
+huracán|||Presidente|||incertidumbre
+huracán|||Presidente|||incierto
+huracán|||Presidente|||desconocido
+huracán|||Presidente|||impredecible
+huracán|||Presidente|||posponer
+huracán|||Cámara de Representantes|||rescindir
+huracán|||Presidente|||retrasar
+huracán|||Cámara de Representantes|||retirar
+huracán|||Presidente|||cancelar
+huracán|||Presidente|||retirar
+huracán|||Presidente|||ambiguo
+huracán|||Presidente|||suspender
+huracán|||Ministro|||incierto
+huracán|||Ministro|||desconocido
+huracán|||Ministro|||ambiguo
+huracán|||Presidente|||rescindir
+huracán|||Ministro|||impredecible
+huracán|||Ministro|||retrasar
+huracán|||Ministro|||cancelar
+huracán|||Ministro|||rescindir
+huracán|||Ministro|||retirar
+huracán|||Ministro|||incierto
+huracán|||Ministro|||incertidumbre
+huracán|||Ministro|||suspender
+huracán|||Gobierno|||incertidumbre
+huracán|||Gobierno|||incierto
+huracán|||Ministro|||posponer
+huracán|||Gobierno|||desconocido
+huracán|||Gobierno|||ambiguo
+huracán|||Gobierno|||impredecible
+huracán|||Gobierno|||posponer
+huracán|||Gobierno|||retrasar
+huracán|||Gobierno|||cancelar
+huracán|||Gobierno|||incierto
+huracán|||Gobierno|||rescindir
+huracán|||Gobierno|||retirar
+huracán|||Ministerio de Ambiente|||incertidumbre
+huracán|||Ministerio de Ambiente|||incierto
+huracán|||Ministerio de Ambiente|||desconocido
+huracán|||Ministerio de Ambiente|||impredecible
+huracán|||Gobierno|||suspender
+huracán|||Ministerio de Ambiente|||incierto
+huracán|||Ministerio de Ambiente|||cancelar
+huracán|||Ministerio de Ambiente|||suspender
+inundación|||política|||incierto
+inundación|||política|||incierto
+huracán|||Ministerio de Ambiente|||retrasar
+huracán|||Ministerio de Ambiente|||posponer
+huracán|||Ministerio de Ambiente|||rescindir
+inundación|||política|||posponer
+huracán|||Ministerio de Ambiente|||retirar
+inundación|||política|||retrasar
+inundación|||política|||cancelar
+inundación|||política|||incertidumbre
+inundación|||política|||retirar
+inundación|||política|||suspender
+inundación|||política|||desconocido
+inundación|||políticas|||incierto
+inundación|||política|||impredecible
+inundación|||políticas|||incertidumbre
+inundación|||políticas|||incierto
+inundación|||políticas|||impredecible
+inundación|||políticas|||posponer
+inundación|||políticas|||retrasar
+inundación|||políticas|||retirar
+inundación|||políticas|||suspender
+inundación|||políticas|||desconocido
+inundación|||regulación|||incierto
+inundación|||regulación|||incierto
+inundación|||regulación|||desconocido
+inundación|||regulación|||posponer
+inundación|||regulación|||cancelar
+inundación|||regulación|||retirar
+inundación|||políticas|||cancelar
+inundación|||regulación|||incertidumbre
+inundación|||regulación|||impredecible
+inundación|||regulación|||retrasar
+inundación|||regulaciones|||desconocido
+inundación|||regulaciones|||impredecible
+inundación|||regulaciones|||retrasar
+inundación|||regulaciones|||cancelar
+inundación|||regulaciones|||retirar
+inundación|||regulaciones|||suspender
+inundación|||regulación|||suspender
+inundación|||regulaciones|||incierto
+inundación|||regulaciones|||incertidumbre
+inundación|||legislación|||incierto
+inundación|||regulaciones|||incierto
+inundación|||legislación|||incertidumbre
+inundación|||legislación|||incierto
+inundación|||legislación|||desconocido
+inundación|||legislación|||posponer
+inundación|||legislación|||cancelar
+inundación|||legislación|||retirar
+inundación|||legislación|||suspender
+inundación|||ley|||incierto
+inundación|||ley|||incertidumbre
+inundación|||ley|||incierto
+inundación|||ley|||desconocido
+inundación|||ley|||retrasar
+inundación|||legislación|||impredecible
+inundación|||legislación|||retrasar
+inundación|||ley|||cancelar
+inundación|||ley|||retirar
+inundación|||ley|||suspender
+inundación|||ley|||impredecible
+inundación|||Parlamento|||incertidumbre
+inundación|||ley|||posponer
+inundación|||Parlamento|||incierto
+inundación|||Parlamento|||desconocido
+inundación|||Parlamento|||retrasar
+inundación|||Parlamento|||retirar
+inundación|||Parlamento|||incierto
+inundación|||Parlamento|||suspender
+inundación|||Parlamento|||impredecible
+inundación|||Senado|||incertidumbre
+inundación|||Parlamento|||posponer
+inundación|||Senado|||incierto
+inundación|||Senado|||desconocido
+inundación|||Senado|||impredecible
+inundación|||Parlamento|||cancelar
+inundación|||Senado|||retrasar
+inundación|||Senado|||cancelar
+inundación|||Senado|||retirar
+inundación|||Senado|||incierto
+inundación|||Cámara de Representantes|||incierto
+inundación|||Senado|||posponer
+inundación|||Cámara de Representantes|||incierto
+inundación|||Cámara de Representantes|||desconocido
+inundación|||Cámara de Representantes|||impredecible
+inundación|||Cámara de Representantes|||posponer
+inundación|||Senado|||suspender
+inundación|||Cámara de Representantes|||suspender
+inundación|||Presidente|||incierto
+inundación|||Presidente|||incertidumbre
+inundación|||Cámara de Representantes|||incertidumbre
+inundación|||Cámara de Representantes|||retrasar
+inundación|||Presidente|||desconocido
+inundación|||Cámara de Representantes|||cancelar
+inundación|||Presidente|||impredecible
+inundación|||Cámara de Representantes|||retirar
+inundación|||Presidente|||posponer
+inundación|||Presidente|||retirar
+inundación|||Presidente|||incierto
+inundación|||Presidente|||retrasar
+inundación|||Presidente|||cancelar
+inundación|||Ministro|||incierto
+inundación|||Ministro|||posponer
+inundación|||Ministro|||impredecible
+inundación|||Ministro|||retrasar
+inundación|||Ministro|||incierto
+inundación|||Presidente|||suspender
+inundación|||Ministro|||incertidumbre
+inundación|||Ministro|||retirar
+inundación|||Ministro|||desconocido
+inundación|||Ministro|||suspender
+inundación|||Gobierno|||incierto
+inundación|||Gobierno|||desconocido
+inundación|||Gobierno|||impredecible
+inundación|||Gobierno|||posponer
+inundación|||Ministro|||cancelar
+inundación|||Gobierno|||cancelar
+inundación|||Gobierno|||retirar
+inundación|||Gobierno|||incertidumbre
+inundación|||Gobierno|||incierto
+inundación|||Ministerio de Ambiente|||incierto
+inundación|||Ministerio de Ambiente|||incertidumbre
+inundación|||Gobierno|||suspender
+inundación|||Ministerio de Ambiente|||incierto
+inundación|||Ministerio de Ambiente|||desconocido
+inundación|||Gobierno|||retrasar
+inundación|||Ministerio de Ambiente|||impredecible
+inundación|||Ministerio de Ambiente|||retrasar
+inundación|||Ministerio de Ambiente|||cancelar
+inundación|||Ministerio de Ambiente|||suspender
+inundación|||Ministerio de Industria, Energía y Minería|||incierto
+inundación|||Ministerio de Industria, Energía y Minería|||incertidumbre
+inundación|||Ministerio de Industria, Energía y Minería|||incierto
+inundación|||Ministerio de Ambiente|||posponer
+inundación|||Ministerio de Industria, Energía y Minería|||desconocido
+inundación|||Ministerio de Industria, Energía y Minería|||retirar
+inundación|||Ministerio de Industria, Energía y Minería|||suspender
+inundación|||MIEM|||incertidumbre
+inundación|||Ministerio de Ambiente|||retirar
+inundación|||Ministerio de Industria, Energía y Minería|||impredecible
+inundación|||Ministerio de Industria, Energía y Minería|||posponer
+inundación|||Ministerio de Industria, Energía y Minería|||retrasar
+inundación|||Ministerio de Industria, Energía y Minería|||cancelar
+inundación|||MIEM|||posponer
+inundación|||MIEM|||retrasar
+inundación|||MIEM|||cancelar
+inundación|||MIEM|||retirar
+energía verde|||política|||incierto
+energía verde|||política|||incertidumbre
+inundación|||MIEM|||desconocido
+energía verde|||política|||incierto
+energía verde|||política|||desconocido
+energía verde|||política|||ambiguo
+inundación|||MIEM|||suspender
+energía verde|||política|||impredecible
+energía verde|||política|||posponer
+energía verde|||política|||cancelar
+energía verde|||políticas|||incertidumbre
+energía verde|||políticas|||posponer
+energía verde|||políticas|||retrasar
+energía verde|||política|||retrasar
+energía verde|||política|||retirar
+energía verde|||política|||suspender
+energía verde|||políticas|||incierto
+energía verde|||políticas|||retirar
+energía verde|||regulación|||incierto
+energía verde|||políticas|||suspender
+energía verde|||políticas|||desconocido
+energía verde|||políticas|||incierto
+energía verde|||políticas|||ambiguo
+energía verde|||políticas|||impredecible
+energía verde|||políticas|||cancelar
+energía verde|||regulación|||incierto
+energía verde|||regulación|||desconocido
+energía verde|||regulación|||ambiguo
+energía verde|||regulación|||impredecible
+energía verde|||regulación|||posponer
+energía verde|||regulación|||retrasar
+energía verde|||regulación|||cancelar
+energía verde|||regulación|||incertidumbre
+energía verde|||regulaciones|||incierto
+energía verde|||regulaciones|||incertidumbre
+energía verde|||regulaciones|||incierto
+energía verde|||regulación|||suspender
+energía verde|||regulación|||retirar
+energía verde|||regulaciones|||impredecible
+energía verde|||regulaciones|||retrasar
+energía verde|||regulaciones|||suspender
+energía verde|||legislación|||incierto
+energía verde|||legislación|||incertidumbre
+energía verde|||regulaciones|||desconocido
+energía verde|||legislación|||desconocido
+energía verde|||regulaciones|||ambiguo
+energía verde|||legislación|||ambiguo
+energía verde|||legislación|||impredecible
+energía verde|||regulaciones|||cancelar
+energía verde|||regulaciones|||retirar
+energía verde|||legislación|||incierto
+energía verde|||legislación|||retrasar
+energía verde|||legislación|||suspender
+energía verde|||ley|||incierto
+energía verde|||ley|||desconocido
+energía verde|||ley|||ambiguo
+energía verde|||ley|||impredecible
+energía verde|||legislación|||retirar
+energía verde|||legislación|||posponer
+energía verde|||legislación|||cancelar
+energía verde|||ley|||retrasar
+energía verde|||ley|||cancelar
+energía verde|||ley|||incierto
+energía verde|||ley|||retirar
+energía verde|||ley|||suspender
+energía verde|||Parlamento|||incierto
+energía verde|||ley|||incertidumbre
+energía verde|||ley|||posponer
+energía verde|||Parlamento|||incierto
+energía verde|||Parlamento|||desconocido
+energía verde|||Parlamento|||impredecible
+energía verde|||Parlamento|||posponer
+energía verde|||Parlamento|||retrasar
+energía verde|||Parlamento|||retirar
+energía verde|||Parlamento|||suspender
+energía verde|||Senado|||incierto
+energía verde|||Senado|||incertidumbre
+energía verde|||Parlamento|||incertidumbre
+energía verde|||Parlamento|||ambiguo
+energía verde|||Senado|||incierto
+energía verde|||Senado|||desconocido
+energía verde|||Parlamento|||cancelar
+energía verde|||Senado|||ambiguo
+energía verde|||Senado|||posponer
+energía verde|||Senado|||retrasar
+energía verde|||Senado|||cancelar
+energía verde|||Senado|||retirar
+energía verde|||Senado|||suspender
+energía verde|||Cámara de Representantes|||incierto
+energía verde|||Cámara de Representantes|||incertidumbre
+energía verde|||Cámara de Representantes|||incierto
+energía verde|||Senado|||impredecible
+energía verde|||Cámara de Representantes|||desconocido
+energía verde|||Cámara de Representantes|||ambiguo
+energía verde|||Cámara de Representantes|||impredecible
+energía verde|||Cámara de Representantes|||posponer
+energía verde|||Cámara de Representantes|||retrasar
+energía verde|||Cámara de Representantes|||cancelar
+energía verde|||Cámara de Representantes|||retirar
+energía verde|||Presidente|||incierto
+energía verde|||Presidente|||incertidumbre
+energía verde|||Cámara de Representantes|||suspender
+energía verde|||Presidente|||incierto
+energía verde|||Presidente|||desconocido
+energía verde|||Presidente|||ambiguo
+energía verde|||Presidente|||posponer
+energía verde|||Presidente|||retrasar
+energía verde|||Presidente|||retirar
+energía verde|||Presidente|||suspender
+energía verde|||Ministro|||incertidumbre
+energía verde|||Ministro|||desconocido
+energía verde|||Presidente|||impredecible
+energía verde|||Ministro|||ambiguo
+energía verde|||Ministro|||impredecible
+energía verde|||Ministro|||posponer
+energía verde|||Presidente|||cancelar
+energía verde|||Ministro|||cancelar
+energía verde|||Gobierno|||incierto
+energía verde|||Ministro|||incierto
+energía verde|||Ministro|||incierto
+energía verde|||Gobierno|||incierto
+energía verde|||Ministro|||retrasar
+energía verde|||Gobierno|||desconocido
+energía verde|||Gobierno|||posponer
+energía verde|||Ministro|||suspender
+energía verde|||Ministro|||retirar
+energía verde|||Gobierno|||cancelar
+energía verde|||Gobierno|||incertidumbre
+energía verde|||Gobierno|||suspender
+energía verde|||Gobierno|||ambiguo
+energía verde|||Gobierno|||impredecible
+energía verde|||Ministerio de Ambiente|||incertidumbre
+energía verde|||Ministerio de Ambiente|||incierto
+energía verde|||Gobierno|||retrasar
+energía verde|||Ministerio de Ambiente|||desconocido
+energía verde|||Ministerio de Ambiente|||impredecible
+energía verde|||Gobierno|||retirar
+energía verde|||Ministerio de Ambiente|||retrasar
+energía verde|||Ministerio de Ambiente|||cancelar
+energía verde|||Ministerio de Ambiente|||retirar
+energía verde|||Ministerio de Ambiente|||incierto
+energía verde|||Ministerio de Ambiente|||suspender
+energía verde|||Ministerio de Industria, Energía y Minería|||incertidumbre
+energía verde|||Ministerio de Ambiente|||posponer
+energía verde|||Ministerio de Industria, Energía y Minería|||incierto
+energía verde|||Ministerio de Industria, Energía y Minería|||posponer
+energía verde|||Ministerio de Industria, Energía y Minería|||retrasar
+energía verde|||Ministerio de Industria, Energía y Minería|||cancelar
+energía verde|||Ministerio de Industria, Energía y Minería|||retirar
+energía verde|||Ministerio de Industria, Energía y Minería|||incierto
+energía verde|||MIEM|||posponer
+energía verde|||Ministerio de Industria, Energía y Minería|||desconocido
+energía verde|||Ministerio de Industria, Energía y Minería|||impredecible
+energía verde|||MIEM|||retrasar
+energía verde|||MIEM|||cancelar
+energía verde|||Ministerio de Industria, Energía y Minería|||suspender
+energía verde|||MIEM|||retirar
+energía verde|||MIEM|||suspender
+energía verde|||MIEM|||desconocido
+energía verde|||MIEM|||incertidumbre
+energía renovable|||política|||incierto
+energía renovable|||política|||incertidumbre
+energía renovable|||política|||incierto
+energía renovable|||política|||desconocido
+energía renovable|||política|||posponer
+energía renovable|||política|||retrasar
+energía renovable|||política|||suspender
+energía renovable|||políticas|||incierto
+energía renovable|||políticas|||incertidumbre
+energía renovable|||políticas|||incierto
+energía renovable|||políticas|||desconocido
+energía renovable|||políticas|||posponer
+energía renovable|||políticas|||retrasar
+energía renovable|||políticas|||retirar
+energía renovable|||políticas|||suspender
+energía renovable|||regulación|||incierto
+energía renovable|||política|||rescindir
+energía renovable|||política|||retirar
+energía renovable|||regulación|||incertidumbre
+energía renovable|||regulación|||desconocido
+energía renovable|||políticas|||rescindir
+energía renovable|||regulación|||posponer
+energía renovable|||regulación|||retrasar
+energía renovable|||regulación|||rescindir
+energía renovable|||regulación|||retirar
+energía renovable|||regulación|||suspender
+energía renovable|||regulación|||incierto
+energía renovable|||regulaciones|||incertidumbre
+energía renovable|||regulaciones|||incierto
+energía renovable|||regulaciones|||desconocido
+energía renovable|||regulaciones|||retrasar
+energía renovable|||regulaciones|||rescindir
+energía renovable|||regulaciones|||suspender
+energía renovable|||regulaciones|||incierto
+energía renovable|||legislación|||incierto
+energía renovable|||legislación|||incierto
+energía renovable|||legislación|||desconocido
+energía renovable|||legislación|||posponer
+energía renovable|||legislación|||retrasar
+energía renovable|||regulaciones|||retirar
+energía renovable|||legislación|||suspender
+energía renovable|||ley|||incertidumbre
+energía renovable|||legislación|||incertidumbre
+energía renovable|||ley|||desconocido
+energía renovable|||ley|||posponer
+energía renovable|||ley|||retrasar
+energía renovable|||legislación|||rescindir
+energía renovable|||legislación|||retirar
+energía renovable|||ley|||incierto
+energía renovable|||ley|||rescindir
+energía renovable|||ley|||incierto
+energía renovable|||Parlamento|||incierto
+energía renovable|||Parlamento|||incertidumbre
+energía renovable|||Parlamento|||incierto
+energía renovable|||Parlamento|||desconocido
+energía renovable|||Parlamento|||posponer
+energía renovable|||Parlamento|||rescindir
+energía renovable|||ley|||suspender
+energía renovable|||ley|||retirar
+energía renovable|||Senado|||incierto
+energía renovable|||Senado|||incertidumbre
+energía renovable|||Senado|||desconocido
+energía renovable|||Senado|||posponer
+energía renovable|||Senado|||retrasar
+energía renovable|||Senado|||rescindir
+energía renovable|||Senado|||retirar
+energía renovable|||Parlamento|||suspender
+energía renovable|||Parlamento|||retrasar
+energía renovable|||Parlamento|||retirar
+energía renovable|||Cámara de Representantes|||incierto
+energía renovable|||Senado|||incierto
+energía renovable|||Cámara de Representantes|||incertidumbre
+energía renovable|||Cámara de Representantes|||posponer
+energía renovable|||Cámara de Representantes|||retrasar
+energía renovable|||Cámara de Representantes|||rescindir
+energía renovable|||Senado|||suspender
+energía renovable|||Cámara de Representantes|||retirar
+energía renovable|||Cámara de Representantes|||suspender
+energía renovable|||Cámara de Representantes|||incierto
+energía renovable|||Presidente|||incertidumbre
+energía renovable|||Presidente|||incierto
+energía renovable|||Cámara de Representantes|||desconocido
+energía renovable|||Presidente|||desconocido
+energía renovable|||Presidente|||posponer
+energía renovable|||Presidente|||retrasar
+energía renovable|||Presidente|||rescindir
+energía renovable|||Presidente|||incierto
+energía renovable|||Presidente|||suspender
+energía renovable|||Ministro|||incierto
+energía renovable|||Ministro|||incierto
+energía renovable|||Ministro|||desconocido
+energía renovable|||Ministro|||suspender
+energía renovable|||Presidente|||retirar
+energía renovable|||Gobierno|||incertidumbre
+energía renovable|||Gobierno|||incierto
+energía renovable|||Ministro|||incertidumbre
+energía renovable|||Gobierno|||desconocido
+energía renovable|||Gobierno|||retrasar
+energía renovable|||Ministro|||posponer
+energía renovable|||Ministro|||rescindir
+energía renovable|||Ministro|||retrasar
+energía renovable|||Gobierno|||retirar
+energía renovable|||Ministro|||retirar
+energía renovable|||Gobierno|||incierto
+energía renovable|||Gobierno|||suspender
+energía renovable|||Gobierno|||posponer
+energía renovable|||Ministerio de Ambiente|||incierto
+energía renovable|||Gobierno|||rescindir
+energía renovable|||Ministerio de Ambiente|||posponer
+energía renovable|||Ministerio de Ambiente|||retrasar
+energía renovable|||Ministerio de Ambiente|||incierto
+energía renovable|||Ministerio de Ambiente|||incertidumbre
+energía renovable|||Ministerio de Ambiente|||desconocido
+energía renovable|||Ministerio de Ambiente|||rescindir
+energía renovable|||Ministerio de Ambiente|||suspender
+energía renovable|||Ministerio de Industria, Energía y Minería|||retrasar
+energía renovable|||Ministerio de Ambiente|||retirar
+energía renovable|||Ministerio de Industria, Energía y Minería|||rescindir
+energía renovable|||Ministerio de Industria, Energía y Minería|||incierto
+energía renovable|||Ministerio de Industria, Energía y Minería|||incertidumbre
+energía renovable|||Ministerio de Industria, Energía y Minería|||retirar
+energía renovable|||Ministerio de Industria, Energía y Minería|||suspender
+energía renovable|||Ministerio de Industria, Energía y Minería|||desconocido
+energía renovable|||Ministerio de Industria, Energía y Minería|||incierto
+energía renovable|||MIEM|||incertidumbre
+energía renovable|||Ministerio de Industria, Energía y Minería|||posponer
+energía renovable|||MIEM|||desconocido
+energía renovable|||MIEM|||posponer
+energía renovable|||MIEM|||retrasar
+energía renovable|||MIEM|||rescindir
+energía renovable|||MIEM|||retirar
+energía renovable|||MIEM|||suspender
+energía limpia|||política|||incertidumbre
+energía limpia|||política|||posponer
+energía limpia|||política|||retrasar
+energía limpia|||política|||retirar
+energía limpia|||políticas|||incertidumbre
+energía limpia|||políticas|||posponer
+energía limpia|||políticas|||suspender
+energía limpia|||política|||suspender
+energía limpia|||regulaciones|||incertidumbre
+energía limpia|||políticas|||retirar
+energía limpia|||regulaciones|||retirar
+energía limpia|||regulaciones|||suspender
+energía limpia|||legislación|||incertidumbre
+energía limpia|||regulación|||incertidumbre
+energía limpia|||políticas|||retrasar
+energía limpia|||legislación|||posponer
+energía limpia|||regulación|||posponer
+energía limpia|||regulación|||retirar
+energía limpia|||regulación|||retrasar
+energía limpia|||legislación|||retrasar
+energía limpia|||regulación|||suspender
+energía limpia|||regulaciones|||retrasar
+energía limpia|||legislación|||retirar
+energía limpia|||legislación|||suspender
+energía limpia|||ley|||incertidumbre
+energía limpia|||ley|||posponer
+energía limpia|||ley|||retrasar
+energía limpia|||ley|||suspender
+energía limpia|||Parlamento|||retrasar
+energía limpia|||Parlamento|||retirar
+energía limpia|||Senado|||incertidumbre
+energía limpia|||ley|||retirar
+energía limpia|||Parlamento|||posponer
+energía limpia|||Senado|||retirar
+energía limpia|||Senado|||suspender
+energía limpia|||Parlamento|||incertidumbre
+energía limpia|||Cámara de Representantes|||incertidumbre
+energía limpia|||Cámara de Representantes|||posponer
+energía limpia|||Parlamento|||suspender
+energía limpia|||Senado|||retrasar
+energía limpia|||Cámara de Representantes|||retirar
+energía limpia|||Senado|||posponer
+energía limpia|||Presidente|||incertidumbre
+energía limpia|||Presidente|||posponer
+energía limpia|||Cámara de Representantes|||retrasar
+energía limpia|||Presidente|||retrasar
+energía limpia|||Presidente|||retirar
+energía limpia|||Ministro|||incertidumbre
+energía limpia|||Cámara de Representantes|||suspender
+energía limpia|||Ministro|||posponer
+energía limpia|||Gobierno|||incertidumbre
+energía limpia|||Gobierno|||posponer
+energía limpia|||Gobierno|||retrasar
+energía limpia|||Gobierno|||suspender
+energía limpia|||Presidente|||suspender
+energía limpia|||Ministro|||retrasar
+energía limpia|||Ministro|||suspender
+energía limpia|||Ministro|||retirar
+energía limpia|||Ministerio de Ambiente|||posponer
+energía limpia|||Ministerio de Ambiente|||retrasar
+energía limpia|||Ministerio de Ambiente|||retirar
+energía limpia|||Ministerio de Ambiente|||suspender
+energía limpia|||Ministerio de Industria, Energía y Minería|||incertidumbre
+energía limpia|||Gobierno|||retirar
+energía limpia|||Ministerio de Industria, Energía y Minería|||posponer
+energía limpia|||Ministerio de Industria, Energía y Minería|||retirar
+energía limpia|||Ministerio de Ambiente|||incertidumbre
+energía limpia|||MIEM|||incertidumbre
+energía limpia|||MIEM|||posponer
+energía limpia|||MIEM|||retrasar
+energía limpia|||MIEM|||retirar
+energía limpia|||Ministerio de Industria, Energía y Minería|||retrasar
+energía limpia|||MIEM|||suspender
+energía solar|||política|||incierto
+energía solar|||política|||incertidumbre
+energía solar|||política|||incierto
+energía solar|||política|||desconocido
+energía limpia|||Ministerio de Industria, Energía y Minería|||suspender
+energía solar|||política|||rescindir
+energía solar|||política|||posponer
+energía solar|||política|||retirar
+energía solar|||políticas|||incertidumbre
+energía solar|||política|||retrasar
+energía solar|||políticas|||incierto
+energía solar|||políticas|||retrasar
+energía solar|||políticas|||diferir
+energía solar|||política|||diferir
+energía solar|||política|||cancelar
+energía solar|||políticas|||rescindir
+energía solar|||políticas|||incierto
+energía solar|||políticas|||desconocido
+energía solar|||políticas|||retirar
+energía solar|||políticas|||posponer
+energía solar|||políticas|||cancelar
+energía solar|||regulación|||incierto
+energía solar|||regulación|||incertidumbre
+energía solar|||regulación|||incierto
+energía solar|||regulación|||desconocido
+energía solar|||regulación|||posponer
+energía solar|||regulación|||retrasar
+energía solar|||regulación|||diferir
+energía solar|||regulación|||cancelar
+energía solar|||regulación|||retirar
+energía solar|||regulaciones|||incierto
+energía solar|||regulaciones|||incertidumbre
+energía solar|||regulaciones|||incierto
+energía solar|||regulaciones|||desconocido
+energía solar|||regulaciones|||diferir
+energía solar|||regulación|||rescindir
+energía solar|||legislación|||incierto
+energía solar|||legislación|||desconocido
+energía solar|||regulaciones|||retrasar
+energía solar|||regulaciones|||cancelar
+energía solar|||regulaciones|||rescindir
+energía solar|||regulaciones|||retirar
+energía solar|||legislación|||retrasar
+energía solar|||legislación|||diferir
+energía solar|||legislación|||cancelar
+energía solar|||legislación|||incierto
+energía solar|||legislación|||rescindir
+energía solar|||legislación|||incertidumbre
+energía solar|||legislación|||retirar
+energía solar|||ley|||incierto
+energía solar|||legislación|||posponer
+energía solar|||ley|||incertidumbre
+energía solar|||ley|||incierto
+energía solar|||ley|||posponer
+energía solar|||ley|||retrasar
+energía solar|||ley|||diferir
+energía solar|||ley|||cancelar
+energía solar|||ley|||rescindir
+energía solar|||ley|||retirar
+energía solar|||Parlamento|||incertidumbre
+energía solar|||Parlamento|||incierto
+energía solar|||Parlamento|||desconocido
+energía solar|||Parlamento|||retrasar
+energía solar|||ley|||desconocido
+energía solar|||Parlamento|||diferir
+energía solar|||Parlamento|||cancelar
+energía solar|||Parlamento|||rescindir
+energía solar|||Parlamento|||incierto
+energía solar|||Parlamento|||retirar
+energía solar|||Parlamento|||posponer
+energía solar|||Senado|||incertidumbre
+energía solar|||Senado|||incierto
+energía solar|||Senado|||diferir
+energía solar|||Senado|||cancelar
+energía solar|||Senado|||rescindir
+energía solar|||Cámara de Representantes|||incierto
+energía solar|||Senado|||incierto
+energía solar|||Senado|||desconocido
+energía solar|||Senado|||posponer
+energía solar|||Senado|||retrasar
+energía solar|||Cámara de Representantes|||desconocido
+energía solar|||Cámara de Representantes|||retrasar
+energía solar|||Cámara de Representantes|||diferir
+energía solar|||Senado|||retirar
+energía solar|||Cámara de Representantes|||cancelar
+energía solar|||Cámara de Representantes|||rescindir
+energía solar|||Cámara de Representantes|||retirar
+energía solar|||Cámara de Representantes|||incertidumbre
+energía solar|||Cámara de Representantes|||incierto
+energía solar|||Presidente|||incierto
+energía solar|||Presidente|||incertidumbre
+energía solar|||Cámara de Representantes|||posponer
+energía solar|||Presidente|||desconocido
+energía solar|||Presidente|||retrasar
+energía solar|||Presidente|||incierto
+energía solar|||Presidente|||diferir
+energía solar|||Presidente|||rescindir
+energía solar|||Presidente|||retirar
+energía solar|||Ministro|||incierto
+energía solar|||Ministro|||incertidumbre
+energía solar|||Presidente|||posponer
+energía solar|||Ministro|||incierto
+energía solar|||Ministro|||desconocido
+energía solar|||Ministro|||retrasar
+energía solar|||Ministro|||cancelar
+energía solar|||Presidente|||cancelar
+energía solar|||Ministro|||retirar
+energía solar|||Ministro|||diferir
+energía solar|||Ministro|||posponer
+energía solar|||Gobierno|||retrasar
+energía solar|||Gobierno|||cancelar
+energía solar|||Gobierno|||rescindir
+energía solar|||Gobierno|||retirar
+energía solar|||Ministro|||rescindir
+energía solar|||Gobierno|||incertidumbre
+energía solar|||Gobierno|||incierto
+energía solar|||Gobierno|||desconocido
+energía solar|||Ministerio de Ambiente|||incierto
+energía solar|||Ministerio de Ambiente|||incertidumbre
+energía solar|||Gobierno|||posponer
+energía solar|||Gobierno|||incierto
+energía solar|||Gobierno|||diferir
+energía solar|||Ministerio de Ambiente|||posponer
+energía solar|||Ministerio de Ambiente|||retrasar
+energía solar|||Ministerio de Ambiente|||diferir
+energía solar|||Ministerio de Ambiente|||cancelar
+energía solar|||Ministerio de Industria, Energía y Minería|||incertidumbre
+energía solar|||Ministerio de Industria, Energía y Minería|||incierto
+energía solar|||Ministerio de Ambiente|||desconocido
+energía solar|||Ministerio de Industria, Energía y Minería|||desconocido
+energía solar|||Ministerio de Ambiente|||incierto
+energía solar|||Ministerio de Industria, Energía y Minería|||retrasar
+energía solar|||Ministerio de Industria, Energía y Minería|||posponer
+energía solar|||Ministerio de Industria, Energía y Minería|||diferir
+energía solar|||Ministerio de Ambiente|||rescindir
+energía solar|||Ministerio de Industria, Energía y Minería|||cancelar
+energía solar|||Ministerio de Industria, Energía y Minería|||rescindir
+energía solar|||Ministerio de Ambiente|||retirar
+energía solar|||Ministerio de Industria, Energía y Minería|||incierto
+energía solar|||Ministerio de Industria, Energía y Minería|||retirar
+energía solar|||MIEM|||desconocido
+energía solar|||MIEM|||posponer
+energía solar|||MIEM|||retrasar
+energía solar|||MIEM|||diferir
+energía solar|||MIEM|||retirar
+energía hidroeléctrica|||política|||incierto
+energía hidroeléctrica|||política|||incertidumbre
+energía solar|||MIEM|||incertidumbre
+energía hidroeléctrica|||política|||retirar
+energía hidroeléctrica|||políticas|||incierto
+energía solar|||MIEM|||cancelar
+energía solar|||MIEM|||rescindir
+energía hidroeléctrica|||políticas|||retirar
+energía hidroeléctrica|||regulación|||incertidumbre
+energía hidroeléctrica|||regulación|||incierto
+energía hidroeléctrica|||política|||incierto
+energía hidroeléctrica|||legislación|||incierto
+energía hidroeléctrica|||políticas|||incierto
+energía hidroeléctrica|||políticas|||incertidumbre
+energía hidroeléctrica|||legislación|||retirar
+energía hidroeléctrica|||regulación|||incierto
+energía hidroeléctrica|||ley|||incierto
+energía hidroeléctrica|||regulación|||retirar
+energía hidroeléctrica|||ley|||incertidumbre
+energía hidroeléctrica|||ley|||incierto
+energía hidroeléctrica|||ley|||retirar
+energía hidroeléctrica|||Parlamento|||incierto
+energía hidroeléctrica|||Parlamento|||incertidumbre
+energía hidroeléctrica|||legislación|||incertidumbre
+energía hidroeléctrica|||Parlamento|||incierto
+energía hidroeléctrica|||legislación|||incierto
+energía hidroeléctrica|||Parlamento|||retirar
+energía hidroeléctrica|||Senado|||incierto
+energía hidroeléctrica|||Senado|||incertidumbre
+energía hidroeléctrica|||Senado|||incierto
+energía hidroeléctrica|||Senado|||retirar
+energía hidroeléctrica|||Cámara de Representantes|||incierto
+energía hidroeléctrica|||Cámara de Representantes|||incertidumbre
+energía hidroeléctrica|||Cámara de Representantes|||retirar
+energía hidroeléctrica|||Presidente|||incierto
+energía hidroeléctrica|||Presidente|||incertidumbre
+energía hidroeléctrica|||Presidente|||incierto
+energía hidroeléctrica|||Presidente|||retirar
+energía hidroeléctrica|||Ministro|||incertidumbre
+energía hidroeléctrica|||Ministro|||incierto
+energía hidroeléctrica|||Cámara de Representantes|||incierto
+energía hidroeléctrica|||Ministro|||retirar
+energía hidroeléctrica|||Gobierno|||incierto
+energía hidroeléctrica|||Gobierno|||incertidumbre
+energía hidroeléctrica|||Gobierno|||incierto
+energía hidroeléctrica|||Gobierno|||retirar
+energía hidroeléctrica|||Ministro|||incierto
+energía hidroeléctrica|||Ministerio de Ambiente|||incierto
+energía hidroeléctrica|||Ministerio de Ambiente|||incertidumbre
+energía hidroeléctrica|||Ministerio de Ambiente|||incierto
+energía hidroeléctrica|||Ministerio de Ambiente|||retirar
+energía hidroeléctrica|||Ministerio de Industria, Energía y Minería|||incierto
+energía hidroeléctrica|||Ministerio de Industria, Energía y Minería|||incertidumbre
+energía hidroeléctrica|||Ministerio de Industria, Energía y Minería|||incierto
+energía hidroeléctrica|||Ministerio de Industria, Energía y Minería|||retirar
+energía hidroeléctrica|||MIEM|||retirar
+energía eólica|||política|||incierto
+energía eólica|||política|||incertidumbre
+energía eólica|||política|||incierto
+energía eólica|||política|||posponer
+energía eólica|||política|||retrasar
+energía eólica|||política|||abolir
+energía eólica|||política|||cancelar
+energía eólica|||política|||rescindir
+energía eólica|||política|||retirar
+energía eólica|||política|||suspender
+energía hidroeléctrica|||MIEM|||incertidumbre
+energía eólica|||políticas|||incierto
+energía eólica|||políticas|||incierto
+energía eólica|||políticas|||posponer
+energía eólica|||política|||diferir
+energía eólica|||políticas|||retrasar
+energía eólica|||políticas|||diferir
+energía eólica|||políticas|||abolir
+energía eólica|||políticas|||cancelar
+energía eólica|||políticas|||rescindir
+energía eólica|||políticas|||retirar
+energía eólica|||políticas|||suspender
+energía eólica|||regulación|||incierto
+energía eólica|||políticas|||incertidumbre
+energía eólica|||regulación|||incertidumbre
+energía eólica|||regulación|||incierto
+energía eólica|||regulación|||retrasar
+energía eólica|||regulación|||abolir
+energía eólica|||regulación|||cancelar
+energía eólica|||regulación|||rescindir
+energía eólica|||regulación|||posponer
+energía eólica|||regulaciones|||incierto
+energía eólica|||regulaciones|||incertidumbre
+energía eólica|||regulaciones|||incierto
+energía eólica|||regulaciones|||retrasar
+energía eólica|||regulaciones|||diferir
+energía eólica|||regulaciones|||abolir
+energía eólica|||regulación|||diferir
+energía eólica|||regulación|||retirar
+energía eólica|||regulaciones|||rescindir
+energía eólica|||regulación|||suspender
+energía eólica|||regulaciones|||retirar
+energía eólica|||regulaciones|||suspender
+energía eólica|||legislación|||incierto
+energía eólica|||regulaciones|||cancelar
+energía eólica|||legislación|||incertidumbre
+energía eólica|||legislación|||incierto
+energía eólica|||legislación|||retrasar
+energía eólica|||legislación|||diferir
+energía eólica|||legislación|||abolir
+energía eólica|||legislación|||cancelar
+energía eólica|||legislación|||rescindir
+energía eólica|||ley|||incierto
+energía eólica|||ley|||incertidumbre
+energía eólica|||ley|||incierto
+energía eólica|||ley|||posponer
+energía eólica|||legislación|||posponer
+energía eólica|||ley|||retrasar
+energía eólica|||ley|||diferir
+energía eólica|||ley|||cancelar
+energía eólica|||legislación|||retirar
+energía eólica|||ley|||rescindir
+energía eólica|||legislación|||suspender
+energía eólica|||Parlamento|||incertidumbre
+energía eólica|||Parlamento|||incierto
+energía eólica|||Parlamento|||posponer
+energía eólica|||ley|||abolir
+energía eólica|||Parlamento|||diferir
+energía eólica|||ley|||retirar
+energía eólica|||ley|||suspender
+energía eólica|||Parlamento|||incierto
+energía eólica|||Parlamento|||abolir
+energía eólica|||Parlamento|||cancelar
+energía eólica|||Parlamento|||rescindir
+energía eólica|||Parlamento|||retirar
+energía eólica|||Parlamento|||retrasar
+energía eólica|||Senado|||incertidumbre
+energía eólica|||Senado|||incierto
+energía eólica|||Senado|||incierto
+energía eólica|||Senado|||abolir
+energía eólica|||Senado|||cancelar
+energía eólica|||Parlamento|||suspender
+energía eólica|||Senado|||rescindir
+energía eólica|||Senado|||retirar
+energía eólica|||Senado|||suspender
+energía eólica|||Cámara de Representantes|||incierto
+energía eólica|||Senado|||posponer
+energía eólica|||Senado|||retrasar
+energía eólica|||Cámara de Representantes|||incierto
+energía eólica|||Senado|||diferir
+energía eólica|||Cámara de Representantes|||posponer
+energía eólica|||Cámara de Representantes|||retrasar
+energía eólica|||Cámara de Representantes|||diferir
+energía eólica|||Cámara de Representantes|||cancelar
+energía eólica|||Cámara de Representantes|||rescindir
+energía eólica|||Cámara de Representantes|||retirar
+energía eólica|||Cámara de Representantes|||incertidumbre
+energía eólica|||Cámara de Representantes|||suspender
+energía eólica|||Presidente|||incierto
+energía eólica|||Presidente|||posponer
+energía eólica|||Presidente|||retrasar
+energía eólica|||Cámara de Representantes|||abolir
+energía eólica|||Presidente|||abolir
+energía eólica|||Presidente|||cancelar
+energía eólica|||Presidente|||incierto
+energía eólica|||Presidente|||rescindir
+energía eólica|||Presidente|||retirar
+energía eólica|||Presidente|||suspender
+energía eólica|||Presidente|||incertidumbre
+energía eólica|||Ministro|||incierto
+energía eólica|||Presidente|||diferir
+energía eólica|||Ministro|||retrasar
+energía eólica|||Ministro|||diferir
+energía eólica|||Ministro|||abolir
+energía eólica|||Ministro|||retirar
+energía eólica|||Ministro|||suspender
+energía eólica|||Ministro|||incertidumbre
+energía eólica|||Ministro|||incierto
+energía eólica|||Gobierno|||incierto
+energía eólica|||Gobierno|||incertidumbre
+energía eólica|||Gobierno|||posponer
+energía eólica|||Ministro|||posponer
+energía eólica|||Gobierno|||retrasar
+energía eólica|||Ministro|||cancelar
+energía eólica|||Ministro|||rescindir
+energía eólica|||Gobierno|||diferir
+energía eólica|||Gobierno|||cancelar
+energía eólica|||Gobierno|||incierto
+energía eólica|||Gobierno|||rescindir
+energía eólica|||Gobierno|||retirar
+energía eólica|||Gobierno|||suspender
+energía eólica|||Ministerio de Ambiente|||incierto
+energía eólica|||Ministerio de Ambiente|||incertidumbre
+energía eólica|||Ministerio de Ambiente|||posponer
+energía eólica|||Gobierno|||abolir
+energía eólica|||Ministerio de Ambiente|||retrasar
+energía eólica|||Ministerio de Ambiente|||cancelar
+energía eólica|||Ministerio de Ambiente|||rescindir
+energía eólica|||Ministerio de Ambiente|||retirar
+energía eólica|||Ministerio de Ambiente|||suspender
+energía eólica|||Ministerio de Ambiente|||incierto
+energía eólica|||Ministerio de Industria, Energía y Minería|||incierto
+energía eólica|||Ministerio de Ambiente|||diferir
+energía eólica|||Ministerio de Industria, Energía y Minería|||retrasar
+energía eólica|||Ministerio de Industria, Energía y Minería|||diferir
+energía eólica|||Ministerio de Industria, Energía y Minería|||retirar
+energía eólica|||Ministerio de Industria, Energía y Minería|||suspender
+energía eólica|||MIEM|||incertidumbre
+energía eólica|||Ministerio de Industria, Energía y Minería|||posponer
+energía eólica|||Ministerio de Industria, Energía y Minería|||incierto
+energía eólica|||Ministerio de Industria, Energía y Minería|||incertidumbre
+energía eólica|||Ministerio de Industria, Energía y Minería|||cancelar
+energía eólica|||MIEM|||diferir
+energía eólica|||Ministerio de Industria, Energía y Minería|||rescindir
+energía eólica|||MIEM|||cancelar
+energía eólica|||MIEM|||rescindir
+energía eólica|||MIEM|||retirar
+energía eólica|||MIEM|||suspender
+energía eólica|||MIEM|||posponer
+energía eólica|||MIEM|||retrasar
+bioenergía|||política|||incertidumbre
+bioenergía|||política|||posponer
+bioenergía|||política|||retirar
+bioenergía|||políticas|||incertidumbre
+bioenergía|||políticas|||posponer
+bioenergía|||políticas|||retirar
+bioenergía|||ley|||incertidumbre
+bioenergía|||ley|||posponer
+bioenergía|||ley|||retirar
+bioenergía|||Senado|||incertidumbre
+bioenergía|||Senado|||posponer
+bioenergía|||Presidente|||incertidumbre
+bioenergía|||Presidente|||retirar
+bioenergía|||Parlamento|||incertidumbre
+bioenergía|||Ministro|||incertidumbre
+bioenergía|||Ministro|||posponer
+bioenergía|||Parlamento|||posponer
+bioenergía|||Parlamento|||retirar
+bioenergía|||Gobierno|||retirar
+bioenergía|||Senado|||retirar
+energía geotérmica|||política|||incertidumbre
+bioenergía|||Presidente|||posponer
+energía geotérmica|||políticas|||incertidumbre
+bioenergía|||Gobierno|||incertidumbre
+bioenergía|||Ministro|||retirar
+bioenergía|||Gobierno|||posponer
+energía geotérmica|||Parlamento|||incertidumbre
+energía geotérmica|||Presidente|||incertidumbre
+energía geotérmica|||Gobierno|||incertidumbre
+energía oceánica|||política|||incertidumbre
+energía oceánica|||política|||diferir
+energía geotérmica|||regulaciones|||incertidumbre
+energía oceánica|||políticas|||incertidumbre
+energía oceánica|||políticas|||diferir
+energía oceánica|||ley|||incertidumbre
+energía geotérmica|||ley|||incertidumbre
+energía oceánica|||ley|||diferir
+energía geotérmica|||Ministro|||incertidumbre
+energía oceánica|||Parlamento|||incertidumbre
+energía oceánica|||Parlamento|||diferir
+energía oceánica|||Presidente|||incertidumbre
+energía oceánica|||Ministro|||diferir
+energía oceánica|||Gobierno|||incertidumbre
+energía oceánica|||Gobierno|||diferir
+energía oceánica|||Ministerio de Ambiente|||incertidumbre
+energía oceánica|||Ministerio de Industria, Energía y Minería|||incertidumbre
+energía oceánica|||Ministerio de Industria, Energía y Minería|||diferir
+energía oceánica|||Presidente|||diferir
+energía oceánica|||Ministro|||incertidumbre
+energía oceánica|||MIEM|||diferir
+energía oceánica|||MIEM|||incertidumbre
+IPCC|||política|||retirar
+energía oceánica|||Ministerio de Ambiente|||diferir
+IPCC|||políticas|||retirar
+IPCC|||regulación|||desconocido
+IPCC|||política|||desconocido
+IPCC|||regulación|||retrasar
+IPCC|||política|||retrasar
+IPCC|||regulación|||retirar
+IPCC|||regulaciones|||desconocido
+IPCC|||regulaciones|||retrasar
+IPCC|||políticas|||desconocido
+IPCC|||ley|||retrasar
+IPCC|||políticas|||retrasar
+IPCC|||ley|||retirar
+IPCC|||Parlamento|||retrasar
+IPCC|||regulaciones|||retirar
+IPCC|||ley|||desconocido
+IPCC|||Ministro|||retrasar
+IPCC|||Gobierno|||desconocido
+IPCC|||Parlamento|||desconocido
+IPCC|||Presidente|||retrasar
+IPCC|||Presidente|||desconocido
+IPCC|||Parlamento|||retirar
+IPCC|||Ministro|||desconocido
+IPCC|||Presidente|||retirar
+IPCC|||Ministerio de Ambiente|||retirar
+IPCC|||Ministro|||retirar
+IPCC|||MIEM|||desconocido
+IPCC|||Ministerio de Ambiente|||desconocido
+IPCC|||Gobierno|||retirar
+IPCC|||MIEM|||retrasar
+IPCC|||Gobierno|||retrasar
+COP|||política|||incertidumbre
+IPCC|||Ministerio de Ambiente|||retrasar
+COP|||política|||desconocido
+COP|||política|||vago
+COP|||política|||ambiguo
+COP|||política|||retirar
+COP|||políticas|||incertidumbre
+COP|||políticas|||desconocido
+COP|||políticas|||vago
+COP|||políticas|||diferir
+COP|||política|||retrasar
+IPCC|||MIEM|||retirar
+COP|||política|||diferir
+COP|||políticas|||retirar
+COP|||regulación|||incertidumbre
+COP|||regulación|||desconocido
+COP|||regulación|||vago
+COP|||políticas|||ambiguo
+COP|||políticas|||retrasar
+COP|||regulación|||retrasar
+COP|||regulación|||diferir
+COP|||regulación|||retirar
+COP|||regulaciones|||incertidumbre
+COP|||regulaciones|||desconocido
+COP|||regulación|||ambiguo
+COP|||regulaciones|||vago
+COP|||regulaciones|||retrasar
+COP|||regulaciones|||retirar
+COP|||legislación|||incertidumbre
+COP|||legislación|||desconocido
+COP|||legislación|||vago
+COP|||regulaciones|||ambiguo
+COP|||regulaciones|||diferir
+COP|||ley|||incertidumbre
+COP|||ley|||vago
+COP|||ley|||ambiguo
+COP|||ley|||retrasar
+COP|||legislación|||ambiguo
+COP|||legislación|||diferir
+COP|||legislación|||retrasar
+COP|||legislación|||retirar
+COP|||ley|||retirar
+COP|||Parlamento|||desconocido
+COP|||ley|||desconocido
+COP|||Parlamento|||vago
+COP|||Parlamento|||retrasar
+COP|||Parlamento|||diferir
+COP|||Parlamento|||retirar
+COP|||ley|||diferir
+COP|||Parlamento|||incertidumbre
+COP|||Presidente|||incertidumbre
+COP|||Presidente|||desconocido
+COP|||Presidente|||vago
+COP|||Presidente|||ambiguo
+COP|||Presidente|||diferir
+COP|||Parlamento|||ambiguo
+COP|||Ministro|||incertidumbre
+COP|||Ministro|||desconocido
+COP|||Presidente|||retrasar
+COP|||Ministro|||vago
+COP|||Ministro|||ambiguo
+COP|||Ministro|||diferir
+COP|||Presidente|||retirar
+COP|||Gobierno|||ambiguo
+COP|||Gobierno|||retrasar
+COP|||Gobierno|||diferir
+COP|||Gobierno|||retirar
+COP|||Ministerio de Ambiente|||incertidumbre
+COP|||Ministro|||retrasar
+COP|||Ministro|||retirar
+COP|||Gobierno|||incertidumbre
+COP|||Gobierno|||desconocido
+COP|||Gobierno|||vago
+COP|||Ministerio de Ambiente|||desconocido
+COP|||Ministerio de Ambiente|||retrasar
+COP|||Ministerio de Ambiente|||diferir
+COP|||Ministerio de Ambiente|||retirar
+COP|||Ministerio de Industria, Energía y Minería|||incertidumbre
+COP|||Ministerio de Industria, Energía y Minería|||diferir
+COP|||Ministerio de Industria, Energía y Minería|||retirar
+COP|||MIEM|||incertidumbre
+COP|||Ministerio de Industria, Energía y Minería|||desconocido
+COP|||MIEM|||diferir
+COP|||MIEM|||retirar
+COP|||Ministerio de Industria, Energía y Minería|||retrasar
+Acuerdo de París|||política|||incierto
+Acuerdo de París|||política|||incierto
+Acuerdo de París|||política|||incertidumbre
+Acuerdo de París|||política|||desconocido
+COP|||MIEM|||desconocido
+Acuerdo de París|||política|||retrasar
+COP|||MIEM|||retrasar
+Acuerdo de París|||política|||vago
+Acuerdo de París|||política|||ambiguo
+Acuerdo de París|||política|||rescindir
+Acuerdo de París|||política|||posponer
+Acuerdo de París|||política|||retirar
+Acuerdo de París|||políticas|||incierto
+Acuerdo de París|||política|||suspender
+Acuerdo de París|||políticas|||incertidumbre
+Acuerdo de París|||políticas|||desconocido
+Acuerdo de París|||políticas|||vago
+Acuerdo de París|||política|||diferir
+Acuerdo de París|||políticas|||ambiguo
+Acuerdo de París|||políticas|||posponer
+Acuerdo de París|||políticas|||cancelar
+Acuerdo de París|||política|||cancelar
+Acuerdo de París|||políticas|||rescindir
+Acuerdo de París|||políticas|||incierto
+Acuerdo de París|||políticas|||suspender
+Acuerdo de París|||regulación|||incierto
+Acuerdo de París|||regulación|||desconocido
+Acuerdo de París|||regulación|||ambiguo
+Acuerdo de París|||políticas|||diferir
+Acuerdo de París|||políticas|||retrasar
+Acuerdo de París|||regulación|||posponer
+Acuerdo de París|||políticas|||retirar
+Acuerdo de París|||regulación|||incierto
+Acuerdo de París|||regulación|||incertidumbre
+Acuerdo de París|||regulación|||cancelar
+Acuerdo de París|||regulación|||rescindir
+Acuerdo de París|||regulación|||retirar
+Acuerdo de París|||regulación|||vago
+Acuerdo de París|||regulaciones|||incierto
+Acuerdo de París|||regulación|||retrasar
+Acuerdo de París|||regulación|||diferir
+Acuerdo de París|||regulaciones|||desconocido
+Acuerdo de París|||regulaciones|||incierto
+Acuerdo de París|||regulaciones|||vago
+Acuerdo de París|||regulación|||suspender
+Acuerdo de París|||regulaciones|||ambiguo
+Acuerdo de París|||regulaciones|||diferir
+Acuerdo de París|||regulaciones|||retrasar
+Acuerdo de París|||regulaciones|||cancelar
+Acuerdo de París|||regulaciones|||rescindir
+Acuerdo de París|||regulaciones|||suspender
+Acuerdo de París|||regulaciones|||incertidumbre
+Acuerdo de París|||legislación|||incierto
+Acuerdo de París|||legislación|||incertidumbre
+Acuerdo de París|||legislación|||incierto
+Acuerdo de París|||legislación|||vago
+Acuerdo de París|||legislación|||posponer
+Acuerdo de París|||legislación|||cancelar
+Acuerdo de París|||regulaciones|||retirar
+Acuerdo de París|||legislación|||rescindir
+Acuerdo de París|||legislación|||desconocido
+Acuerdo de París|||ley|||incertidumbre
+Acuerdo de París|||legislación|||retrasar
+Acuerdo de París|||legislación|||ambiguo
+Acuerdo de París|||legislación|||diferir
+Acuerdo de París|||ley|||incierto
+Acuerdo de París|||ley|||desconocido
+Acuerdo de París|||ley|||vago
+Acuerdo de París|||ley|||ambiguo
+Acuerdo de París|||ley|||posponer
+Acuerdo de París|||legislación|||retirar
+Acuerdo de París|||legislación|||suspender
+Acuerdo de París|||ley|||incierto
+Acuerdo de París|||ley|||rescindir
+Acuerdo de París|||ley|||retirar
+Acuerdo de París|||ley|||suspender
+Acuerdo de París|||Parlamento|||incierto
+Acuerdo de París|||ley|||retrasar
+Acuerdo de París|||Parlamento|||incertidumbre
+Acuerdo de París|||Parlamento|||incierto
+Acuerdo de París|||ley|||diferir
+Acuerdo de París|||Parlamento|||desconocido
+Acuerdo de París|||Parlamento|||vago
+Acuerdo de París|||Parlamento|||posponer
+Acuerdo de París|||Parlamento|||retrasar
+Acuerdo de París|||Parlamento|||diferir
+Acuerdo de París|||ley|||cancelar
+Acuerdo de París|||Parlamento|||cancelar
+Acuerdo de París|||Parlamento|||retirar
+Acuerdo de París|||Parlamento|||ambiguo
+Acuerdo de París|||Senado|||ambiguo
+Acuerdo de París|||Parlamento|||rescindir
+Acuerdo de París|||Senado|||cancelar
+Acuerdo de París|||Senado|||incierto
+Acuerdo de París|||Senado|||incierto
+Acuerdo de París|||Parlamento|||suspender
+Acuerdo de París|||Senado|||desconocido
+Acuerdo de París|||Senado|||vago
+Acuerdo de París|||Senado|||incertidumbre
+Acuerdo de París|||Senado|||retirar
+Acuerdo de París|||Senado|||posponer
+Acuerdo de París|||Senado|||retrasar
+Acuerdo de París|||Senado|||diferir
+Acuerdo de París|||Senado|||suspender
+Acuerdo de París|||Cámara de Representantes|||incierto
+Acuerdo de París|||Senado|||rescindir
+Acuerdo de París|||Cámara de Representantes|||incertidumbre
+Acuerdo de París|||Cámara de Representantes|||incierto
+Acuerdo de París|||Cámara de Representantes|||desconocido
+Acuerdo de París|||Cámara de Representantes|||vago
+Acuerdo de París|||Cámara de Representantes|||ambiguo
+Acuerdo de París|||Cámara de Representantes|||posponer
+Acuerdo de París|||Cámara de Representantes|||retrasar
+Acuerdo de París|||Cámara de Representantes|||cancelar
+Acuerdo de París|||Cámara de Representantes|||rescindir
+Acuerdo de París|||Cámara de Representantes|||suspender
+Acuerdo de París|||Presidente|||incertidumbre
+Acuerdo de París|||Presidente|||desconocido
+Acuerdo de París|||Cámara de Representantes|||diferir
+Acuerdo de París|||Presidente|||vago
+Acuerdo de París|||Cámara de Representantes|||retirar
+Acuerdo de París|||Presidente|||retrasar
+Acuerdo de París|||Presidente|||diferir
+Acuerdo de París|||Presidente|||incierto
+Acuerdo de París|||Presidente|||suspender
+Acuerdo de París|||Ministro|||incierto
+Acuerdo de París|||Presidente|||incierto
+Acuerdo de París|||Presidente|||ambiguo
+Acuerdo de París|||Ministro|||incertidumbre
+Acuerdo de París|||Presidente|||posponer
+Acuerdo de París|||Presidente|||rescindir
+Acuerdo de París|||Presidente|||cancelar
+Acuerdo de París|||Ministro|||vago
+Acuerdo de París|||Presidente|||retirar
+Acuerdo de París|||Ministro|||posponer
+Acuerdo de París|||Ministro|||ambiguo
+Acuerdo de París|||Ministro|||retrasar
+Acuerdo de París|||Ministro|||diferir
+Acuerdo de París|||Ministro|||incierto
+Acuerdo de París|||Ministro|||desconocido
+Acuerdo de París|||Ministro|||rescindir
+Acuerdo de París|||Ministro|||suspender
+Acuerdo de París|||Gobierno|||incertidumbre
+Acuerdo de París|||Gobierno|||desconocido
+Acuerdo de París|||Ministro|||cancelar
+Acuerdo de París|||Gobierno|||posponer
+Acuerdo de París|||Gobierno|||retrasar
+Acuerdo de París|||Ministro|||retirar
+Acuerdo de París|||Gobierno|||vago
+Acuerdo de París|||Gobierno|||incierto
+Acuerdo de París|||Gobierno|||incierto
+Acuerdo de París|||Gobierno|||suspender
+Acuerdo de París|||Gobierno|||ambiguo
+Acuerdo de París|||Ministerio de Ambiente|||incierto
+Acuerdo de París|||Ministerio de Ambiente|||incertidumbre
+Acuerdo de París|||Gobierno|||diferir
+Acuerdo de París|||Ministerio de Ambiente|||desconocido
+Acuerdo de París|||Ministerio de Ambiente|||posponer
+Acuerdo de París|||Gobierno|||rescindir
+Acuerdo de París|||Gobierno|||retirar
+Acuerdo de París|||Gobierno|||cancelar
+Acuerdo de París|||Ministerio de Ambiente|||incierto
+Acuerdo de París|||Ministerio de Ambiente|||retrasar
+Acuerdo de París|||Ministerio de Ambiente|||cancelar
+Acuerdo de París|||Ministerio de Ambiente|||rescindir
+Acuerdo de París|||Ministerio de Ambiente|||retirar
+Acuerdo de París|||Ministerio de Ambiente|||suspender
+Acuerdo de París|||Ministerio de Industria, Energía y Minería|||incierto
+Acuerdo de París|||Ministerio de Industria, Energía y Minería|||incertidumbre
+Acuerdo de París|||Ministerio de Industria, Energía y Minería|||incierto
+Acuerdo de París|||Ministerio de Industria, Energía y Minería|||desconocido
+Acuerdo de París|||Ministerio de Ambiente|||diferir
+Acuerdo de París|||Ministerio de Industria, Energía y Minería|||retrasar
+Acuerdo de París|||Ministerio de Industria, Energía y Minería|||diferir
+Acuerdo de París|||Ministerio de Industria, Energía y Minería|||cancelar
+Acuerdo de París|||Ministerio de Industria, Energía y Minería|||rescindir
+Acuerdo de París|||Ministerio de Industria, Energía y Minería|||retirar
+Acuerdo de París|||MIEM|||incertidumbre
+Acuerdo de París|||Ministerio de Industria, Energía y Minería|||posponer
+Acuerdo de París|||MIEM|||retrasar
+Acuerdo de París|||MIEM|||diferir
+Acuerdo de París|||MIEM|||rescindir
+Acuerdo de París|||Ministerio de Industria, Energía y Minería|||suspender
+Acuerdo de París|||MIEM|||retirar
+Acuerdo de París|||MIEM|||desconocido
+Acuerdo de París|||MIEM|||suspender
+Acuerdo de París|||MIEM|||posponer
+Acuerdo de París|||MIEM|||cancelar

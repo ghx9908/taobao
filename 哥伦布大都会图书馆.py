@@ -40,7 +40,7 @@ login_page = 'https://webproxy3.columbuslibrary.org/login?url=https://infoweb.ne
 #    - 更高效，但需要先完成二组合处理
 # 
 # 使用方法：修改下面的值即可
-SKIP_TWO_COMBO = True  # True = 直接三组合模式, False = 正常模式
+SKIP_TWO_COMBO = False  # True = 直接三组合模式, False = 正常模式
 # =====================================================
 
 # 账号配置 - 每个账号对应一个驱动和线程
