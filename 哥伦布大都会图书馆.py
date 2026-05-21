@@ -1885,9 +1885,11 @@ def crawl_data(file_name, pubname, date_range, climate, policy, uncertainty, log
             year_data = current_driver.page_source
             year_total = get_total(year_data)
             logger_thread.info(f'[统计线程|年份统计] 📈 {year}年统计完成，总数: {year_total} 条')
+            log_year_summary(year, year_total, current_url, file_name)
             return year, year_total
         except Exception as e:
             logger_thread.error(f'❌ [统计线程|年份统计]  {year}年统计失败: {e}')
+            log_year_summary(year, 0, current_driver.current_url if current_driver else '', file_name)
             return year, "0"
         finally:
             # 将driver放回队列
@@ -2051,6 +2053,18 @@ def log_search_summary(climate, policy, uncertainty, total_count, search_url, ta
             f.write(summary_line)
     except Exception as e:
         print(f"记录搜索摘要失败: {e}")
+
+
+def log_year_summary(year, total_count, search_url, task_filename):
+    """记录年份统计摘要到与搜索摘要相同的文件中，便于事后核对"""
+    try:
+        summary_filename = task_filename.replace('.xlsx', '_summary.txt')
+        summary_path = f'search_summary_logs/{summary_filename}'
+        summary_line = f"年份: {year} | 结果: {total_count} 条 | URL: {search_url}\n"
+        with open(summary_path, 'a', encoding='utf-8') as f:
+            f.write(summary_line)
+    except Exception as e:
+        print(f"记录年份统计摘要失败: {e}")
 
 def archive_task_files(task_filename):
     """归档任务相关的文件到专门的文件夹"""
