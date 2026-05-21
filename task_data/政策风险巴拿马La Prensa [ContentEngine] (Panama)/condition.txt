@@ -1,0 +1,418 @@
+cambio climático|||política|||abolir
+cambio climático|||política|||posponer
+cambio climático|||política|||incierto
+cambio climático|||política|||retrasar
+cambio climático|||política|||cancelar
+cambio climático|||política|||rescindir
+cambio climático|||política|||ambiguo
+cambio climático|||política|||retirar
+cambio climático|||política|||incierto
+cambio climático|||política|||impredecible
+cambio climático|||políticas|||incierto
+cambio climático|||política|||diferir
+cambio climático|||política|||incertidumbre
+cambio climático|||política|||desconocido
+cambio climático|||política|||suspender
+cambio climático|||políticas|||incertidumbre
+cambio climático|||políticas|||desconocido
+cambio climático|||políticas|||incierto
+cambio climático|||políticas|||diferir
+cambio climático|||políticas|||retrasar
+cambio climático|||políticas|||posponer
+cambio climático|||políticas|||abolir
+cambio climático|||regulación|||incertidumbre
+cambio climático|||políticas|||impredecible
+cambio climático|||políticas|||ambiguo
+cambio climático|||políticas|||rescindir
+cambio climático|||políticas|||retirar
+crisis climática|||Presidente|||abolir
+cambio climático|||regulación|||incierto
+crisis climática|||gobierno|||desconocido
+crisis climática|||gobierno|||ambiguo
+crisis climática|||gobierno|||impredecible
+crisis climática|||Ministerio de Ambiente|||desconocido
+crisis climática|||MiAmbiente|||incierto
+cambio climático|||políticas|||suspender
+cambio climático|||políticas|||cancelar
+cambio climático|||regulación|||incierto
+crisis climática|||Secretaría Nacional de Energía|||retirar
+crisis climática|||Secretaría Nacional de Energía|||suspender
+gases de efecto invernadero|||políticas|||incierto
+crisis climática|||Ministerio de Ambiente|||suspender
+cambio climático|||regulación|||ambiguo
+cambio climático|||regulación|||desconocido
+gases de efecto invernadero|||legislación|||incierto
+gases de efecto invernadero|||Presidente|||incierto
+gases de efecto invernadero|||regulación|||incertidumbre
+gases de efecto invernadero|||Ministro|||incierto
+gases de efecto invernadero|||Ministro|||impredecible
+gases de efecto invernadero|||gobierno|||incierto
+gases de efecto invernadero|||legislación|||impredecible
+gases de efecto invernadero|||MiAmbiente|||incierto
+gases de efecto invernadero|||SNE|||incertidumbre
+gases de efecto invernadero|||Presidente|||incertidumbre
+CO2|||política|||incertidumbre
+CO2|||Asamblea Nacional|||retirar
+CO2|||Presidente|||incertidumbre
+gases de efecto invernadero|||MiAmbiente|||incertidumbre
+CO2|||Presidente|||retirar
+CO2|||Ministro|||incertidumbre
+CO2|||Ministerio de Ambiente|||retirar
+CO2|||MiAmbiente|||incertidumbre
+calentamiento global|||política|||desconocido
+calentamiento global|||política|||retrasar
+calentamiento global|||regulaciones|||incierto
+calentamiento global|||regulaciones|||incierto
+calentamiento global|||regulaciones|||desconocido
+calentamiento global|||regulaciones|||impredecible
+calentamiento global|||política|||impredecible
+calentamiento global|||políticas|||incierto
+calentamiento global|||legislación|||retirar
+calentamiento global|||regulación|||desconocido
+calentamiento global|||regulaciones|||incertidumbre
+calentamiento global|||Presidente|||incierto
+calentamiento global|||legislación|||incertidumbre
+calentamiento global|||Presidente|||incertidumbre
+calentamiento global|||Presidente|||incierto
+calentamiento global|||Presidente|||suspender
+calentamiento global|||ley|||desconocido
+calentamiento global|||Ministro|||impredecible
+calentamiento global|||gobierno|||incertidumbre
+calentamiento global|||gobierno|||incierto
+calentamiento global|||Ministerio de Ambiente|||desconocido
+calentamiento global|||MiAmbiente|||retirar
+calentamiento global|||MiAmbiente|||suspender
+calentamiento global|||Secretaría Nacional de Energía|||incierto
+calentamiento global|||Secretaría Nacional de Energía|||incertidumbre
+calentamiento global|||SNE|||incertidumbre
+calentamiento global|||SNE|||retirar
+clima extremo|||política|||retrasar
+calentamiento global|||MiAmbiente|||incierto
+calentamiento global|||MiAmbiente|||retrasar
+clima extremo|||regulaciones|||incierto
+clima extremo|||Asamblea Nacional|||incierto
+clima extremo|||Asamblea Nacional|||incertidumbre
+clima extremo|||Presidente|||incierto
+clima extremo|||Presidente|||incertidumbre
+clima extremo|||política|||abolir
+clima extremo|||Ministro|||incertidumbre
+clima extremo|||gobierno|||abolir
+clima extremo|||MiAmbiente|||incierto
+clima extremo|||Presidente|||incierto
+temperatura extrema|||gobierno|||incertidumbre
+clima extremo|||gobierno|||incierto
+temperatura extrema|||gobierno|||desconocido
+ola de calor|||política|||cancelar
+ola de calor|||políticas|||desconocido
+clima extremo|||Ministerio de Ambiente|||retrasar
+ola de calor|||Presidente|||desconocido
+temperatura extrema|||Presidente|||incertidumbre
+temperatura extrema|||Presidente|||desconocido
+ola de calor|||Ministro|||cancelar
+ola de calor|||gobierno|||suspender
+ola de calor|||Ministerio de Ambiente|||desconocido
+ola de calor|||Ministerio de Ambiente|||cancelar
+ola de calor|||MiAmbiente|||suspender
+ola de calor|||ley|||incertidumbre
+ola de frío|||ley|||incertidumbre
+ola de frío|||Presidente|||posponer
+ola de frío|||Ministro|||cancelar
+ola de frío|||gobierno|||incertidumbre
+ola de calor|||Ministerio de Ambiente|||incertidumbre
+ola de frío|||Secretaría Nacional de Energía|||posponer
+sequía|||política|||incierto
+sequía|||política|||desconocido
+sequía|||política|||suspender
+sequía|||políticas|||incierto
+ola de frío|||Ministro|||suspender
+sequía|||políticas|||retrasar
+sequía|||regulación|||retrasar
+sequía|||regulación|||cancelar
+sequía|||regulaciones|||incierto
+sequía|||regulaciones|||desconocido
+sequía|||regulaciones|||suspender
+sequía|||legislación|||incierto
+sequía|||legislación|||retrasar
+sequía|||legislación|||cancelar
+sequía|||legislación|||retirar
+sequía|||Asamblea Nacional|||impredecible
+sequía|||Presidente|||incierto
+sequía|||Presidente|||incertidumbre
+sequía|||Presidente|||incierto
+sequía|||Presidente|||retirar
+sequía|||Ministro|||desconocido
+sequía|||ley|||desconocido
+sequía|||Ministro|||impredecible
+sequía|||gobierno|||incierto
+sequía|||ley|||suspender
+sequía|||Ministerio de Ambiente|||retrasar
+sequía|||Ministerio de Ambiente|||cancelar
+sequía|||MiAmbiente|||incierto
+sequía|||MiAmbiente|||desconocido
+sequía|||MiAmbiente|||suspender
+sequía|||Secretaría Nacional de Energía|||incierto
+sequía|||Secretaría Nacional de Energía|||incierto
+sequía|||Secretaría Nacional de Energía|||suspender
+sequía|||gobierno|||incertidumbre
+incendio forestal|||política|||desconocido
+incendio forestal|||políticas|||desconocido
+tormenta de nieve|||Presidente|||posponer
+lluvia intensa|||política|||desconocido
+lluvia intensa|||política|||suspender
+lluvia intensa|||políticas|||suspender
+lluvia intensa|||ley|||incertidumbre
+lluvia intensa|||ley|||desconocido
+lluvia intensa|||Asamblea Nacional|||desconocido
+lluvia intensa|||Asamblea Nacional|||impredecible
+tormenta de nieve|||Secretaría Nacional de Energía|||suspender
+lluvia intensa|||políticas|||desconocido
+lluvia intensa|||Ministro|||cancelar
+lluvia intensa|||Asamblea Nacional|||incertidumbre
+huracán|||política|||incierto
+huracán|||política|||abolir
+huracán|||política|||retirar
+huracán|||políticas|||incierto
+huracán|||políticas|||impredecible
+huracán|||regulación|||incierto
+lluvia intensa|||gobierno|||cancelar
+lluvia intensa|||gobierno|||impredecible
+huracán|||política|||cancelar
+huracán|||regulaciones|||cancelar
+huracán|||regulaciones|||retirar
+huracán|||legislación|||impredecible
+huracán|||regulación|||impredecible
+huracán|||legislación|||retirar
+huracán|||regulación|||retirar
+huracán|||ley|||desconocido
+huracán|||ley|||posponer
+huracán|||ley|||retrasar
+huracán|||legislación|||desconocido
+huracán|||Asamblea Nacional|||impredecible
+huracán|||Asamblea Nacional|||cancelar
+huracán|||Presidente|||incierto
+huracán|||Presidente|||abolir
+huracán|||Presidente|||cancelar
+huracán|||Presidente|||retirar
+huracán|||Presidente|||suspender
+huracán|||Ministro|||cancelar
+huracán|||gobierno|||posponer
+huracán|||gobierno|||retirar
+huracán|||Ministerio de Ambiente|||desconocido
+huracán|||Ministerio de Ambiente|||impredecible
+huracán|||Ministro|||retirar
+huracán|||Ministerio de Ambiente|||suspender
+huracán|||MiAmbiente|||incierto
+huracán|||Ministro|||suspender
+huracán|||MiAmbiente|||retrasar
+huracán|||MiAmbiente|||cancelar
+huracán|||Secretaría Nacional de Energía|||retirar
+inundación|||política|||incertidumbre
+inundación|||políticas|||incertidumbre
+inundación|||políticas|||impredecible
+inundación|||regulación|||desconocido
+inundación|||regulaciones|||desconocido
+inundación|||regulaciones|||impredecible
+inundación|||regulaciones|||retirar
+inundación|||regulaciones|||suspender
+inundación|||legislación|||desconocido
+inundación|||ley|||incertidumbre
+inundación|||Asamblea Nacional|||incertidumbre
+inundación|||Presidente|||desconocido
+inundación|||Ministro|||incertidumbre
+inundación|||gobierno|||incertidumbre
+inundación|||gobierno|||desconocido
+inundación|||Ministerio de Ambiente|||desconocido
+inundación|||Ministerio de Ambiente|||impredecible
+inundación|||MiAmbiente|||impredecible
+inundación|||MiAmbiente|||retirar
+inundación|||Secretaría Nacional de Energía|||incertidumbre
+energía verde|||regulación|||desconocido
+inundación|||MiAmbiente|||suspender
+energía verde|||regulación|||retrasar
+energía verde|||política|||retirar
+energía verde|||regulaciones|||retirar
+energía verde|||regulaciones|||suspender
+energía verde|||legislación|||desconocido
+energía verde|||legislación|||suspender
+energía verde|||políticas|||retrasar
+energía verde|||regulaciones|||incertidumbre
+energía verde|||legislación|||incertidumbre
+energía verde|||Asamblea Nacional|||retirar
+energía verde|||Presidente|||incertidumbre
+energía verde|||Presidente|||rescindir
+energía verde|||Ministro|||impredecible
+energía verde|||Ministro|||retrasar
+energía verde|||Ministro|||retirar
+energía verde|||gobierno|||impredecible
+energía verde|||gobierno|||retrasar
+energía verde|||gobierno|||retirar
+energía verde|||MiAmbiente|||incertidumbre
+energía verde|||MiAmbiente|||suspender
+energía verde|||Secretaría Nacional de Energía|||suspender
+energía renovable|||política|||incertidumbre
+energía renovable|||política|||retirar
+energía renovable|||políticas|||cancelar
+energía renovable|||políticas|||rescindir
+energía renovable|||regulación|||rescindir
+energía renovable|||regulación|||retirar
+energía verde|||SNE|||incertidumbre
+energía renovable|||legislación|||retrasar
+energía renovable|||ley|||desconocido
+energía renovable|||ley|||retrasar
+energía renovable|||regulación|||incertidumbre
+energía renovable|||Asamblea Nacional|||desconocido
+energía renovable|||Presidente|||incertidumbre
+energía renovable|||Presidente|||retrasar
+energía renovable|||Presidente|||cancelar
+energía renovable|||Ministro|||retrasar
+energía renovable|||Ministerio de Ambiente|||rescindir
+energía renovable|||MiAmbiente|||retirar
+energía renovable|||Secretaría Nacional de Energía|||desconocido
+energía renovable|||Ministro|||cancelar
+energía renovable|||SNE|||cancelar
+energía renovable|||gobierno|||retrasar
+energía limpia|||política|||posponer
+energía limpia|||política|||cancelar
+energía limpia|||políticas|||incierto
+energía renovable|||MiAmbiente|||cancelar
+energía limpia|||regulación|||posponer
+energía limpia|||política|||retrasar
+energía limpia|||regulaciones|||incertidumbre
+energía limpia|||regulaciones|||cancelar
+energía limpia|||regulaciones|||suspender
+energía limpia|||legislación|||cancelar
+energía limpia|||ley|||incierto
+energía limpia|||ley|||retrasar
+energía limpia|||Asamblea Nacional|||incierto
+energía limpia|||regulaciones|||retirar
+energía limpia|||Presidente|||incertidumbre
+energía limpia|||legislación|||retrasar
+energía limpia|||Presidente|||posponer
+energía limpia|||Presidente|||suspender
+energía limpia|||Ministro|||incertidumbre
+energía limpia|||gobierno|||posponer
+energía limpia|||Ministro|||cancelar
+energía limpia|||MiAmbiente|||incierto
+energía limpia|||MiAmbiente|||cancelar
+energía limpia|||MiAmbiente|||retirar
+energía limpia|||Secretaría Nacional de Energía|||incierto
+energía limpia|||gobierno|||incierto
+energía limpia|||Secretaría Nacional de Energía|||cancelar
+energía limpia|||SNE|||cancelar
+energía limpia|||Ministerio de Ambiente|||incierto
+energía limpia|||Ministerio de Ambiente|||cancelar
+energía solar|||políticas|||retrasar
+energía solar|||regulación|||retirar
+energía solar|||regulaciones|||retirar
+energía solar|||legislación|||retirar
+energía solar|||ley|||cancelar
+energía solar|||Asamblea Nacional|||incertidumbre
+energía solar|||Asamblea Nacional|||suspender
+energía solar|||Presidente|||retrasar
+energía solar|||regulaciones|||incertidumbre
+energía solar|||regulaciones|||suspender
+energía solar|||legislación|||suspender
+energía solar|||ley|||incertidumbre
+energía solar|||gobierno|||retrasar
+energía solar|||gobierno|||rescindir
+energía solar|||Ministerio de Ambiente|||retrasar
+energía solar|||MiAmbiente|||incertidumbre
+energía solar|||SNE|||cancelar
+energía solar|||SNE|||retirar
+energía hidroeléctrica|||política|||retirar
+energía hidroeléctrica|||políticas|||suspender
+energía hidroeléctrica|||regulación|||incertidumbre
+energía hidroeléctrica|||regulaciones|||suspender
+energía solar|||MiAmbiente|||cancelar
+energía hidroeléctrica|||ley|||retirar
+energía hidroeléctrica|||ley|||suspender
+energía hidroeléctrica|||Ministro|||incertidumbre
+energía hidroeléctrica|||Secretaría Nacional de Energía|||suspender
+energía eólica|||política|||incertidumbre
+energía eólica|||política|||suspender
+energía hidroeléctrica|||Presidente|||retirar
+energía eólica|||políticas|||cancelar
+energía eólica|||regulación|||cancelar
+energía eólica|||regulación|||suspender
+energía eólica|||regulaciones|||incertidumbre
+energía hidroeléctrica|||MiAmbiente|||incertidumbre
+energía eólica|||ley|||incertidumbre
+energía hidroeléctrica|||MiAmbiente|||retirar
+energía eólica|||Ministro|||retirar
+energía eólica|||Ministerio de Ambiente|||cancelar
+energía eólica|||Ministerio de Ambiente|||suspender
+energía eólica|||Secretaría Nacional de Energía|||suspender
+energía eólica|||SNE|||incertidumbre
+energía oceánica|||regulaciones|||incertidumbre
+energía eólica|||Presidente|||retirar
+energía oceánica|||Presidente|||incertidumbre
+energía eólica|||gobierno|||incertidumbre
+energía eólica|||gobierno|||cancelar
+IPCC|||ley|||impredecible
+energía oceánica|||ley|||retirar
+IPCC|||gobierno|||incertidumbre
+IPCC|||gobierno|||impredecible
+IPCC|||Ministerio de Ambiente|||impredecible
+COP|||política|||incierto
+COP|||política|||posponer
+COP|||políticas|||incertidumbre
+COP|||políticas|||desconocido
+COP|||regulación|||incierto
+COP|||regulaciones|||incierto
+COP|||políticas|||impredecible
+COP|||regulaciones|||retirar
+COP|||legislación|||incierto
+COP|||legislación|||posponer
+COP|||legislación|||rescindir
+COP|||legislación|||incertidumbre
+COP|||Presidente|||retirar
+COP|||ley|||desconocido
+COP|||ley|||posponer
+COP|||Asamblea Nacional|||incertidumbre
+COP|||Ministro|||impredecible
+COP|||Ministro|||rescindir
+COP|||gobierno|||incertidumbre
+COP|||Asamblea Nacional|||desconocido
+COP|||MiAmbiente|||incertidumbre
+COP|||Ministro|||posponer
+COP|||gobierno|||incierto
+COP|||Secretaría Nacional de Energía|||incertidumbre
+COP|||Secretaría Nacional de Energía|||incierto
+Acuerdo de París|||política|||incierto
+Acuerdo de París|||política|||incierto
+Acuerdo de París|||política|||desconocido
+Acuerdo de París|||política|||impredecible
+Acuerdo de París|||política|||suspender
+Acuerdo de París|||regulación|||posponer
+Acuerdo de París|||política|||cancelar
+Acuerdo de París|||regulaciones|||impredecible
+Acuerdo de París|||regulaciones|||retirar
+Acuerdo de París|||regulaciones|||suspender
+Acuerdo de París|||legislación|||incierto
+Acuerdo de París|||legislación|||posponer
+Acuerdo de París|||regulación|||incertidumbre
+Acuerdo de París|||regulación|||cancelar
+Acuerdo de París|||regulaciones|||incertidumbre
+Acuerdo de París|||regulaciones|||incierto
+Acuerdo de París|||ley|||cancelar
+Acuerdo de París|||Asamblea Nacional|||incertidumbre
+Acuerdo de París|||Asamblea Nacional|||retrasar
+Acuerdo de París|||Asamblea Nacional|||cancelar
+Acuerdo de París|||Presidente|||incertidumbre
+Acuerdo de París|||Presidente|||incierto
+Acuerdo de París|||Presidente|||impredecible
+Acuerdo de París|||Presidente|||retirar
+Acuerdo de París|||Ministro|||incierto
+Acuerdo de París|||Ministro|||impredecible
+Acuerdo de París|||gobierno|||incierto
+Acuerdo de París|||gobierno|||impredecible
+Acuerdo de París|||gobierno|||retirar
+Acuerdo de París|||Ministerio de Ambiente|||incierto
+Acuerdo de París|||Ministerio de Ambiente|||impredecible
+Acuerdo de París|||Ministro|||cancelar
+Acuerdo de París|||Ministerio de Ambiente|||suspender
+Acuerdo de París|||MiAmbiente|||impredecible
+Acuerdo de París|||Secretaría Nacional de Energía|||incertidumbre
+Acuerdo de París|||Ministerio de Ambiente|||posponer
+Acuerdo de París|||SNE|||retirar
+Acuerdo de París|||MiAmbiente|||cancelar

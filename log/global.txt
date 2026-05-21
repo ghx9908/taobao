@@ -1036,3 +1036,21 @@ Country                                               Panama
 不确定        incierto/incertidumbre/incierto/desconocido/va...
 Name: 3, dtype: object
 2026-05-21 12:43:31,435 - INFO - 文件 'search_results/政策风险巴拿马La Prensa [ContentEngine] (Panama).xlsx' 在 search_results/ 目录中不存在
+2026-05-21 13:04:12,571 - INFO - 访问网页失败!!! 
+2026-05-21 13:04:20,435 - INFO - 访问网页失败!!! 
+2026-05-21 13:04:53,018 - INFO - 访问网页失败!!! 
+2026-05-21 13:04:53,705 - INFO - 访问网页失败!!! 
+2026-05-21 13:04:56,577 - INFO - 访问网页失败!!! 
+2026-05-21 13:05:03,877 - INFO - 访问网页失败!!! 
+2026-05-21 13:05:04,012 - INFO - 访问网页失败!!! 
+2026-05-21 13:21:57,997 - INFO - 第 4 行数据：
+2026-05-21 13:21:57,998 - INFO - 所属洲                                                      南美洲
+国家                                                       阿根廷
+Country                                            Argentina
+指定报纸报道                   La Nación (Buenos Aires, Argentina)
+爬取时间                                               2005-2026
+气候         cambio climático/crisis climática/gases de efe...
+政策         política/políticas/regulación/regulaciones/leg...
+不确定        incierto/incertidumbre/incierto/desconocido/va...
+Name: 4, dtype: object
+2026-05-21 13:21:57,998 - INFO - 文件 'search_results/政策风险阿根廷La Nación (Buenos Aires, Argentina).xlsx' 在 search_results/ 目录中不存在

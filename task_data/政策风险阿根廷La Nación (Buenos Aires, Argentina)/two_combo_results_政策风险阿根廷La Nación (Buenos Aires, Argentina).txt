@@ -1,0 +1,481 @@
+climate_policy|||cambio climático|||regulación|||172
+climate_policy|||cambio climático||| Secretaría de Ambiente y Desarrollo Sustentable|||60
+climate_policy|||cambio climático|||regulaciones|||119
+climate_policy|||cambio climático|||ley|||748
+climate_policy|||cambio climático|||Congreso Nacional|||290
+climate_policy|||cambio climático|||Senado|||194
+climate_policy|||cambio climático|||Ministro|||745
+climate_policy|||cambio climático|||Gabinete|||330
+climate_policy|||cambio climático|||políticas|||1150
+climate_policy|||cambio climático||| Secretaría de Energía|||146
+climate_policy|||cambio climático|||Presidente|||1687
+climate_policy|||cambio climático|||Secretaría de Cambio Climático, Desarrollo Sostenible e Innovación|||11
+climate_policy|||crisis climática|||ley|||162
+climate_policy|||crisis climática|||Senado|||37
+climate_policy|||crisis climática|||Gabinete|||51
+climate_policy|||crisis climática|||política|||345
+climate_policy|||crisis climática|||políticas|||201
+climate_policy|||crisis climática|||regulaciones|||13
+climate_policy|||crisis climática|||legislación|||18
+climate_policy|||crisis climática|||Presidente|||264
+climate_policy|||crisis climática|||Congreso Nacional|||65
+climate_policy|||crisis climática|||Ministro|||114
+climate_policy|||crisis climática|||Cámara de Diputados|||28
+climate_policy|||crisis climática|||regulación|||36
+climate_policy|||crisis climática||| Secretaría de Ambiente y Desarrollo Sustentable|||5
+climate_policy|||crisis climática||| Secretaría de Energía|||18
+climate_policy|||crisis climática|||Secretaría de Cambio Climático, Desarrollo Sostenible e Innovación|||2
+climate_policy|||gases de efecto invernadero|||política|||265
+climate_policy|||gases de efecto invernadero|||regulación|||42
+climate_policy|||gases de efecto invernadero|||regulaciones|||24
+climate_policy|||gases de efecto invernadero|||legislación|||34
+climate_policy|||gases de efecto invernadero|||ley|||174
+climate_policy|||crisis climática|||gobierno|||306
+climate_policy|||gases de efecto invernadero|||Congreso Nacional|||58
+climate_policy|||gases de efecto invernadero|||Presidente|||233
+climate_policy|||gases de efecto invernadero|||Ministro|||79
+climate_policy|||gases de efecto invernadero|||políticas|||291
+climate_policy|||gases de efecto invernadero|||Senado|||25
+climate_policy|||gases de efecto invernadero|||Cámara de Diputados|||21
+climate_policy|||gases de efecto invernadero||| Secretaría de Ambiente y Desarrollo Sustentable|||24
+climate_policy|||gases de efecto invernadero||| Secretaría de Energía|||65
+climate_policy|||gases de efecto invernadero|||Secretaría de Cambio Climático, Desarrollo Sostenible e Innovación|||3
+climate_policy|||gases de efecto invernadero|||Gabinete|||42
+climate_policy|||CO2|||política|||130
+climate_policy|||CO2|||políticas|||129
+climate_policy|||CO2|||regulaciones|||24
+climate_policy|||gases de efecto invernadero|||gobierno|||301
+climate_policy|||CO2|||legislación|||8
+climate_policy|||CO2|||ley|||80
+climate_policy|||CO2|||Congreso Nacional|||13
+climate_policy|||CO2|||Presidente|||124
+climate_policy|||CO2|||Gabinete|||16
+climate_policy|||CO2|||regulación|||12
+climate_policy|||CO2|||Ministro|||53
+climate_policy|||CO2||| Secretaría de Ambiente y Desarrollo Sustentable|||3
+climate_policy|||CO2|||Senado|||1
+climate_policy|||CO2||| Secretaría de Energía|||20
+climate_policy|||CO2|||Cámara de Diputados|||3
+climate_policy|||CO2|||Secretaría de Cambio Climático, Desarrollo Sostenible e Innovación|||1
+climate_policy|||calentamiento global|||política|||369
+climate_policy|||calentamiento global|||regulación|||30
+climate_policy|||calentamiento global|||regulaciones|||30
+climate_policy|||calentamiento global|||legislación|||13
+climate_policy|||CO2|||gobierno|||182
+climate_policy|||calentamiento global|||ley|||146
+climate_policy|||calentamiento global|||políticas|||248
+climate_policy|||calentamiento global|||Presidente|||309
+climate_policy|||calentamiento global|||Gabinete|||33
+climate_policy|||calentamiento global|||Ministro|||89
+climate_policy|||calentamiento global|||gobierno|||342
+climate_policy|||calentamiento global||| Secretaría de Ambiente y Desarrollo Sustentable|||13
+climate_policy|||calentamiento global||| Secretaría de Energía|||27
+climate_policy|||calentamiento global|||Congreso Nacional|||59
+climate_policy|||calentamiento global|||Senado|||27
+climate_policy|||calentamiento global|||Cámara de Diputados|||16
+climate_policy|||calentamiento global|||Secretaría de Cambio Climático, Desarrollo Sostenible e Innovación|||0
+climate_policy|||clima extremo|||política|||450
+climate_policy|||clima extremo|||políticas|||197
+climate_policy|||clima extremo|||legislación|||17
+climate_policy|||clima extremo|||ley|||199
+climate_policy|||clima extremo|||regulación|||15
+climate_policy|||clima extremo|||Presidente|||384
+climate_policy|||clima extremo|||regulaciones|||16
+climate_policy|||clima extremo|||Gabinete|||98
+climate_policy|||clima extremo|||Ministro|||196
+climate_policy|||clima extremo|||Cámara de Diputados|||72
+climate_policy|||clima extremo|||gobierno|||488
+climate_policy|||clima extremo||| Secretaría de Ambiente y Desarrollo Sustentable|||3
+climate_policy|||clima extremo|||Congreso Nacional|||86
+climate_policy|||clima extremo|||Senado|||77
+climate_policy|||temperatura extrema|||política|||45
+climate_policy|||temperatura extrema|||políticas|||32
+climate_policy|||temperatura extrema|||regulación|||7
+climate_policy|||temperatura extrema|||regulaciones|||0
+climate_policy|||clima extremo||| Secretaría de Energía|||17
+climate_policy|||temperatura extrema|||legislación|||2
+climate_policy|||temperatura extrema|||ley|||15
+climate_policy|||clima extremo|||Secretaría de Cambio Climático, Desarrollo Sostenible e Innovación|||0
+climate_policy|||temperatura extrema|||Presidente|||53
+climate_policy|||temperatura extrema|||Gabinete|||15
+climate_policy|||temperatura extrema|||Ministro|||26
+climate_policy|||temperatura extrema|||Senado|||9
+climate_policy|||temperatura extrema|||Congreso Nacional|||7
+climate_policy|||temperatura extrema|||gobierno|||64
+climate_policy|||temperatura extrema||| Secretaría de Energía|||12
+climate_policy|||temperatura extrema|||Secretaría de Cambio Climático, Desarrollo Sostenible e Innovación|||0
+climate_policy|||ola de calor|||política|||228
+climate_policy|||temperatura extrema|||Cámara de Diputados|||2
+climate_policy|||temperatura extrema||| Secretaría de Ambiente y Desarrollo Sustentable|||0
+climate_policy|||ola de calor|||regulación|||21
+climate_policy|||ola de calor|||legislación|||4
+climate_policy|||ola de calor|||ley|||97
+climate_policy|||ola de calor|||Congreso Nacional|||40
+climate_policy|||ola de calor|||Gabinete|||77
+climate_policy|||ola de calor|||políticas|||90
+climate_policy|||ola de calor|||regulaciones|||7
+climate_policy|||ola de calor|||Senado|||10
+climate_policy|||ola de calor|||gobierno|||390
+climate_policy|||ola de calor||| Secretaría de Ambiente y Desarrollo Sustentable|||2
+climate_policy|||ola de calor|||Presidente|||222
+climate_policy|||ola de calor||| Secretaría de Energía|||48
+climate_policy|||ola de calor|||Secretaría de Cambio Climático, Desarrollo Sostenible e Innovación|||0
+climate_policy|||ola de calor|||Ministro|||142
+climate_policy|||ola de frío|||política|||159
+climate_policy|||ola de calor|||Cámara de Diputados|||18
+climate_policy|||ola de frío|||políticas|||47
+climate_policy|||ola de frío|||regulación|||9
+climate_policy|||ola de frío|||regulaciones|||3
+climate_policy|||ola de frío|||legislación|||4
+climate_policy|||ola de frío|||Congreso Nacional|||32
+climate_policy|||ola de frío|||Presidente|||161
+climate_policy|||ola de frío|||gobierno|||283
+climate_policy|||ola de frío||| Secretaría de Energía|||26
+climate_policy|||ola de frío|||ley|||51
+climate_policy|||ola de frío|||Gabinete|||43
+climate_policy|||ola de frío|||Senado|||18
+climate_policy|||ola de frío|||Secretaría de Cambio Climático, Desarrollo Sostenible e Innovación|||0
+climate_policy|||ola de frío|||Ministro|||96
+climate_policy|||sequía|||política|||1879
+climate_policy|||ola de frío|||Cámara de Diputados|||13
+climate_policy|||sequía|||políticas|||741
+climate_policy|||ola de frío||| Secretaría de Ambiente y Desarrollo Sustentable|||2
+climate_policy|||sequía|||regulación|||70
+climate_policy|||sequía|||regulaciones|||76
+climate_policy|||sequía|||legislación|||46
+climate_policy|||sequía|||Presidente|||1766
+climate_policy|||sequía|||Gabinete|||357
+climate_policy|||sequía|||Senado|||181
+climate_policy|||sequía||| Secretaría de Ambiente y Desarrollo Sustentable|||10
+climate_policy|||sequía||| Secretaría de Energía|||120
+climate_policy|||sequía|||ley|||613
+climate_policy|||sequía|||Congreso Nacional|||254
+climate_policy|||sequía|||Secretaría de Cambio Climático, Desarrollo Sostenible e Innovación|||0
+climate_policy|||sequía|||Ministro|||1340
+climate_policy|||sequía|||Cámara de Diputados|||174
+climate_policy|||incendio forestal|||política|||45
+climate_policy|||incendio forestal|||políticas|||17
+climate_policy|||sequía|||gobierno|||2708
+climate_policy|||incendio forestal|||regulación|||3
+climate_policy|||incendio forestal|||regulaciones|||3
+climate_policy|||incendio forestal|||ley|||28
+climate_policy|||incendio forestal|||Presidente|||55
+climate_policy|||incendio forestal|||Gabinete|||18
+climate_policy|||incendio forestal|||Ministro|||46
+climate_policy|||incendio forestal|||Cámara de Diputados|||1
+climate_policy|||incendio forestal|||legislación|||10
+climate_policy|||incendio forestal|||Congreso Nacional|||17
+climate_policy|||incendio forestal||| Secretaría de Energía|||3
+climate_policy|||incendio forestal|||Senado|||3
+climate_policy|||incendio forestal|||Secretaría de Cambio Climático, Desarrollo Sostenible e Innovación|||0
+climate_policy|||tormenta de nieve|||política|||37
+climate_policy|||incendio forestal||| Secretaría de Ambiente y Desarrollo Sustentable|||3
+climate_policy|||tormenta de nieve|||políticas|||9
+climate_policy|||tormenta de nieve|||regulaciones|||1
+climate_policy|||incendio forestal|||gobierno|||116
+climate_policy|||tormenta de nieve|||legislación|||1
+climate_policy|||tormenta de nieve|||ley|||19
+climate_policy|||tormenta de nieve|||Congreso Nacional|||5
+climate_policy|||tormenta de nieve|||Presidente|||37
+climate_policy|||tormenta de nieve|||regulación|||1
+climate_policy|||tormenta de nieve|||Gabinete|||3
+climate_policy|||tormenta de nieve|||Ministro|||10
+climate_policy|||tormenta de nieve|||Senado|||3
+climate_policy|||tormenta de nieve|||gobierno|||47
+climate_policy|||tormenta de nieve||| Secretaría de Ambiente y Desarrollo Sustentable|||0
+climate_policy|||tormenta de nieve||| Secretaría de Energía|||2
+climate_policy|||tormenta de nieve|||Cámara de Diputados|||1
+climate_policy|||lluvia intensa|||políticas|||27
+climate_policy|||lluvia intensa|||regulación|||2
+climate_policy|||lluvia intensa|||regulaciones|||0
+climate_policy|||lluvia intensa|||legislación|||2
+climate_policy|||lluvia intensa|||Congreso Nacional|||11
+climate_policy|||lluvia intensa|||Presidente|||116
+climate_policy|||tormenta de nieve|||Secretaría de Cambio Climático, Desarrollo Sostenible e Innovación|||0
+climate_policy|||lluvia intensa|||Gabinete|||31
+climate_policy|||lluvia intensa|||política|||98
+climate_policy|||lluvia intensa|||ley|||32
+climate_policy|||lluvia intensa|||Senado|||6
+climate_policy|||lluvia intensa|||Cámara de Diputados|||13
+climate_policy|||lluvia intensa|||gobierno|||171
+climate_policy|||lluvia intensa||| Secretaría de Energía|||1
+climate_policy|||huracán|||política|||746
+climate_policy|||lluvia intensa||| Secretaría de Ambiente y Desarrollo Sustentable|||0
+climate_policy|||huracán|||políticas|||230
+climate_policy|||lluvia intensa|||Ministro|||57
+climate_policy|||huracán|||regulación|||15
+climate_policy|||lluvia intensa|||Secretaría de Cambio Climático, Desarrollo Sostenible e Innovación|||0
+climate_policy|||huracán|||regulaciones|||14
+climate_policy|||huracán|||legislación|||23
+climate_policy|||huracán|||ley|||265
+climate_policy|||huracán|||Presidente|||1382
+climate_policy|||huracán|||Gabinete|||178
+climate_policy|||huracán|||Ministro|||307
+climate_policy|||huracán|||Cámara de Diputados|||107
+climate_policy|||huracán|||gobierno|||839
+climate_policy|||huracán||| Secretaría de Energía|||17
+climate_policy|||huracán|||Secretaría de Cambio Climático, Desarrollo Sostenible e Innovación|||0
+climate_policy|||huracán|||Congreso Nacional|||124
+climate_policy|||huracán||| Secretaría de Ambiente y Desarrollo Sustentable|||0
+climate_policy|||huracán|||Senado|||93
+climate_policy|||inundación|||regulaciones|||9
+climate_policy|||inundación|||legislación|||16
+climate_policy|||inundación|||ley|||191
+climate_policy|||inundación|||política|||421
+climate_policy|||inundación|||Gabinete|||112
+climate_policy|||inundación|||políticas|||163
+climate_policy|||inundación|||Ministro|||291
+climate_policy|||inundación|||regulación|||27
+climate_policy|||inundación|||Cámara de Diputados|||46
+climate_policy|||inundación|||gobierno|||691
+climate_policy|||inundación||| Secretaría de Energía|||20
+climate_policy|||inundación|||Congreso Nacional|||75
+climate_policy|||inundación|||Presidente|||401
+climate_policy|||inundación|||Secretaría de Cambio Climático, Desarrollo Sostenible e Innovación|||0
+climate_policy|||energía verde|||política|||491
+climate_policy|||inundación|||Senado|||54
+climate_policy|||energía verde|||políticas|||276
+climate_policy|||energía verde|||regulación|||47
+climate_policy|||inundación||| Secretaría de Ambiente y Desarrollo Sustentable|||12
+climate_policy|||energía verde|||legislación|||46
+climate_policy|||energía verde|||Gabinete|||132
+climate_policy|||energía verde|||Congreso Nacional|||109
+climate_policy|||energía verde|||Ministro|||296
+climate_policy|||energía verde|||Senado|||67
+climate_policy|||energía verde|||Cámara de Diputados|||64
+climate_policy|||energía verde|||regulaciones|||24
+climate_policy|||energía verde|||ley|||303
+climate_policy|||energía verde|||Secretaría de Cambio Climático, Desarrollo Sostenible e Innovación|||3
+climate_policy|||energía verde|||Presidente|||515
+climate_policy|||energía renovable|||política|||220
+climate_policy|||energía verde||| Secretaría de Ambiente y Desarrollo Sustentable|||12
+climate_policy|||energía renovable|||regulación|||34
+climate_policy|||energía verde|||gobierno|||668
+climate_policy|||energía renovable|||regulaciones|||36
+climate_policy|||energía verde||| Secretaría de Energía|||172
+climate_policy|||energía renovable|||políticas|||149
+climate_policy|||energía renovable|||Congreso Nacional|||52
+climate_policy|||energía renovable|||Presidente|||296
+climate_policy|||energía renovable|||Ministro|||123
+climate_policy|||energía renovable|||legislación|||23
+climate_policy|||energía renovable|||gobierno|||347
+climate_policy|||energía renovable|||Gabinete|||49
+climate_policy|||energía renovable|||ley|||150
+climate_policy|||energía renovable|||Secretaría de Cambio Climático, Desarrollo Sostenible e Innovación|||2
+climate_policy|||energía renovable||| Secretaría de Energía|||100
+climate_policy|||energía limpia|||políticas|||102
+climate_policy|||energía renovable||| Secretaría de Ambiente y Desarrollo Sustentable|||4
+climate_policy|||energía renovable|||Senado|||26
+climate_policy|||energía limpia|||política|||189
+climate_policy|||energía renovable|||Cámara de Diputados|||22
+climate_policy|||energía limpia|||legislación|||23
+climate_policy|||energía limpia|||ley|||131
+climate_policy|||energía limpia|||Congreso Nacional|||55
+climate_policy|||energía limpia|||regulación|||26
+climate_policy|||energía limpia|||regulaciones|||10
+climate_policy|||energía limpia|||Cámara de Diputados|||23
+climate_policy|||energía limpia|||gobierno|||260
+climate_policy|||energía limpia|||Gabinete|||53
+climate_policy|||energía limpia||| Secretaría de Ambiente y Desarrollo Sustentable|||6
+climate_policy|||energía limpia|||Presidente|||237
+climate_policy|||energía limpia|||Senado|||39
+climate_policy|||energía limpia|||Ministro|||107
+climate_policy|||energía limpia|||Secretaría de Cambio Climático, Desarrollo Sostenible e Innovación|||2
+climate_policy|||energía solar|||política|||356
+climate_policy|||energía solar|||regulación|||90
+climate_policy|||energía solar|||regulaciones|||28
+climate_policy|||energía limpia||| Secretaría de Energía|||77
+climate_policy|||energía solar|||legislación|||51
+climate_policy|||energía solar|||ley|||313
+climate_policy|||energía solar|||políticas|||220
+climate_policy|||energía solar|||Presidente|||419
+climate_policy|||energía solar|||Gabinete|||86
+climate_policy|||energía solar|||Ministro|||205
+climate_policy|||energía solar|||Cámara de Diputados|||58
+climate_policy|||energía solar|||Congreso Nacional|||114
+climate_policy|||energía solar||| Secretaría de Ambiente y Desarrollo Sustentable|||10
+climate_policy|||energía solar||| Secretaría de Energía|||139
+climate_policy|||energía solar|||Secretaría de Cambio Climático, Desarrollo Sostenible e Innovación|||2
+climate_policy|||energía solar|||Senado|||102
+climate_policy|||energía hidroeléctrica|||política|||170
+climate_policy|||energía hidroeléctrica|||regulaciones|||6
+climate_policy|||energía hidroeléctrica|||legislación|||5
+climate_policy|||energía solar|||gobierno|||533
+climate_policy|||energía hidroeléctrica|||ley|||71
+climate_policy|||energía hidroeléctrica|||Congreso Nacional|||30
+climate_policy|||energía hidroeléctrica|||regulación|||17
+climate_policy|||energía hidroeléctrica|||políticas|||61
+climate_policy|||energía hidroeléctrica|||Gabinete|||42
+climate_policy|||energía hidroeléctrica|||Presidente|||188
+climate_policy|||energía hidroeléctrica|||Senado|||20
+climate_policy|||energía hidroeléctrica|||Cámara de Diputados|||13
+climate_policy|||energía hidroeléctrica|||gobierno|||279
+climate_policy|||energía hidroeléctrica||| Secretaría de Ambiente y Desarrollo Sustentable|||1
+climate_policy|||energía hidroeléctrica|||Secretaría de Cambio Climático, Desarrollo Sostenible e Innovación|||0
+climate_policy|||energía eólica|||regulación|||25
+climate_policy|||energía eólica|||regulaciones|||16
+climate_policy|||energía eólica|||legislación|||17
+climate_policy|||energía hidroeléctrica|||Ministro|||138
+climate_policy|||energía eólica|||ley|||127
+climate_policy|||energía eólica|||Congreso Nacional|||44
+climate_policy|||energía eólica|||Presidente|||252
+climate_policy|||energía hidroeléctrica||| Secretaría de Energía|||106
+climate_policy|||energía eólica|||política|||207
+climate_policy|||energía eólica|||políticas|||140
+climate_policy|||energía eólica|||Gabinete|||41
+climate_policy|||energía eólica|||Cámara de Diputados|||19
+climate_policy|||energía eólica|||gobierno|||299
+climate_policy|||energía eólica||| Secretaría de Energía|||63
+climate_policy|||bioenergía|||política|||28
+climate_policy|||bioenergía|||políticas|||13
+climate_policy|||energía eólica|||Senado|||21
+climate_policy|||bioenergía|||regulación|||0
+climate_policy|||energía eólica|||Ministro|||112
+climate_policy|||bioenergía|||regulaciones|||2
+climate_policy|||energía eólica||| Secretaría de Ambiente y Desarrollo Sustentable|||12
+climate_policy|||bioenergía|||ley|||13
+climate_policy|||energía eólica|||Secretaría de Cambio Climático, Desarrollo Sostenible e Innovación|||2
+climate_policy|||bioenergía|||Congreso Nacional|||3
+climate_policy|||bioenergía|||Presidente|||30
+climate_policy|||bioenergía|||Gabinete|||3
+climate_policy|||bioenergía|||Ministro|||15
+climate_policy|||bioenergía|||Senado|||0
+climate_policy|||bioenergía|||legislación|||1
+climate_policy|||bioenergía|||gobierno|||29
+climate_policy|||bioenergía||| Secretaría de Ambiente y Desarrollo Sustentable|||0
+climate_policy|||bioenergía|||Secretaría de Cambio Climático, Desarrollo Sostenible e Innovación|||0
+climate_policy|||energía geotérmica|||política|||11
+climate_policy|||bioenergía|||Cámara de Diputados|||1
+climate_policy|||energía geotérmica|||políticas|||3
+climate_policy|||energía geotérmica|||regulación|||0
+climate_policy|||energía geotérmica|||legislación|||0
+climate_policy|||bioenergía||| Secretaría de Energía|||5
+climate_policy|||energía geotérmica|||Congreso Nacional|||1
+climate_policy|||energía geotérmica|||Presidente|||7
+climate_policy|||energía geotérmica|||Ministro|||3
+climate_policy|||energía geotérmica|||Senado|||1
+climate_policy|||energía geotérmica|||regulaciones|||1
+climate_policy|||energía geotérmica|||Cámara de Diputados|||1
+climate_policy|||energía geotérmica|||ley|||10
+climate_policy|||energía geotérmica|||gobierno|||14
+climate_policy|||energía geotérmica||| Secretaría de Ambiente y Desarrollo Sustentable|||0
+climate_policy|||energía geotérmica||| Secretaría de Energía|||1
+climate_policy|||energía geotérmica|||Secretaría de Cambio Climático, Desarrollo Sostenible e Innovación|||0
+climate_policy|||energía geotérmica|||Gabinete|||0
+climate_policy|||energía oceánica|||política|||6
+climate_policy|||energía oceánica|||políticas|||3
+climate_policy|||energía oceánica|||regulación|||2
+climate_policy|||energía oceánica|||regulaciones|||0
+climate_policy|||energía oceánica|||legislación|||0
+climate_policy|||energía oceánica|||ley|||5
+climate_policy|||energía oceánica|||Presidente|||11
+climate_policy|||energía oceánica|||Ministro|||5
+climate_policy|||energía oceánica|||Senado|||0
+climate_policy|||energía oceánica||| Secretaría de Energía|||3
+climate_policy|||energía oceánica|||Congreso Nacional|||1
+climate_policy|||energía oceánica|||Gabinete|||3
+climate_policy|||energía oceánica|||Cámara de Diputados|||0
+climate_policy|||IPCC|||política|||52
+climate_policy|||IPCC|||políticas|||59
+climate_policy|||IPCC|||regulación|||8
+climate_policy|||IPCC|||regulaciones|||4
+climate_policy|||energía oceánica|||gobierno|||10
+climate_policy|||energía oceánica|||Secretaría de Cambio Climático, Desarrollo Sostenible e Innovación|||0
+climate_policy|||energía oceánica||| Secretaría de Ambiente y Desarrollo Sustentable|||0
+climate_policy|||IPCC|||legislación|||5
+climate_policy|||IPCC|||Congreso Nacional|||8
+climate_policy|||IPCC|||Presidente|||45
+climate_policy|||IPCC|||Gabinete|||9
+climate_policy|||IPCC|||Ministro|||10
+climate_policy|||IPCC|||Senado|||4
+climate_policy|||IPCC|||Cámara de Diputados|||0
+climate_policy|||IPCC|||gobierno|||49
+climate_policy|||IPCC||| Secretaría de Energía|||7
+climate_policy|||IPCC||| Secretaría de Ambiente y Desarrollo Sustentable|||2
+climate_policy|||IPCC|||Secretaría de Cambio Climático, Desarrollo Sostenible e Innovación|||0
+climate_policy|||cambio climático|||política|||1906
+climate_policy|||IPCC|||ley|||36
+climate_policy|||COP|||política|||107
+climate_policy|||COP|||políticas|||74
+climate_policy|||COP|||regulaciones|||6
+climate_policy|||COP|||ley|||44
+climate_policy|||COP|||Congreso Nacional|||16
+climate_policy|||COP|||Presidente|||102
+climate_policy|||COP|||regulación|||8
+climate_policy|||cambio climático|||gobierno|||1880
+climate_policy|||COP|||Ministro|||44
+climate_policy|||COP|||legislación|||6
+climate_policy|||COP|||Cámara de Diputados|||6
+climate_policy|||cambio climático|||legislación|||107
+climate_policy|||COP|||Secretaría de Cambio Climático, Desarrollo Sostenible e Innovación|||1
+climate_policy|||COP|||Gabinete|||13
+climate_policy|||COP|||Senado|||5
+climate_policy|||cambio climático|||Cámara de Diputados|||150
+climate_policy|||COP||| Secretaría de Ambiente y Desarrollo Sustentable|||2
+climate_policy|||Acuerdo de París|||regulación|||71
+climate_policy|||Acuerdo de París|||regulaciones|||80
+climate_policy|||COP|||gobierno|||100
+climate_policy|||Acuerdo de París|||legislación|||109
+climate_policy|||Acuerdo de París|||ley|||636
+climate_policy|||Acuerdo de París|||política|||1971
+climate_policy|||Acuerdo de París|||Ministro|||1362
+climate_policy|||Acuerdo de París|||Senado|||212
+climate_policy|||Acuerdo de París|||políticas|||748
+climate_policy|||Acuerdo de París|||Cámara de Diputados|||173
+climate_policy|||Acuerdo de París|||gobierno|||2270
+climate_policy|||Acuerdo de París||| Secretaría de Ambiente y Desarrollo Sustentable|||12
+climate_policy|||Acuerdo de París|||Congreso Nacional|||261
+climate_policy|||Acuerdo de París||| Secretaría de Energía|||95
+climate_policy|||Acuerdo de París|||Secretaría de Cambio Climático, Desarrollo Sostenible e Innovación|||2
+climate_uncertainty|||cambio climático|||incierto|||75
+climate_uncertainty|||cambio climático|||incertidumbre|||252
+climate_policy|||Acuerdo de París|||Presidente|||1873
+climate_policy|||Acuerdo de París|||Gabinete|||443
+climate_uncertainty|||cambio climático|||incierto|||75
+climate_uncertainty|||cambio climático|||desconocido|||71
+climate_uncertainty|||cambio climático|||vago|||4
+climate_uncertainty|||cambio climático|||ambiguo|||6
+climate_uncertainty|||cambio climático|||impredecible|||33
+climate_uncertainty|||cambio climático|||retrasar|||23
+climate_uncertainty|||cambio climático|||diferir|||7
+climate_uncertainty|||cambio climático|||abolir|||6
+climate_uncertainty|||cambio climático|||cancelar|||26
+climate_uncertainty|||cambio climático|||retirar|||71
+climate_uncertainty|||cambio climático|||suspender|||70
+climate_uncertainty|||crisis climática|||incierto|||8
+climate_uncertainty|||cambio climático|||posponer|||9
+climate_uncertainty|||crisis climática|||desconocido|||13
+climate_uncertainty|||cambio climático|||rescindir|||1
+climate_uncertainty|||crisis climática|||vago|||0
+climate_uncertainty|||crisis climática|||posponer|||5
+climate_uncertainty|||crisis climática|||retrasar|||5
+climate_uncertainty|||crisis climática|||diferir|||1
+climate_uncertainty|||crisis climática|||incierto|||8
+climate_uncertainty|||crisis climática|||abolir|||10
+climate_uncertainty|||crisis climática|||cancelar|||1
+climate_uncertainty|||crisis climática|||ambiguo|||0
+climate_uncertainty|||crisis climática|||incertidumbre|||60
+climate_uncertainty|||crisis climática|||impredecible|||4
+climate_uncertainty|||crisis climática|||retirar|||11
+climate_uncertainty|||gases de efecto invernadero|||incierto|||5
+climate_uncertainty|||gases de efecto invernadero|||incertidumbre|||36
+climate_uncertainty|||gases de efecto invernadero|||incierto|||5
+climate_uncertainty|||gases de efecto invernadero|||desconocido|||18
+climate_uncertainty|||gases de efecto invernadero|||impredecible|||5
+climate_uncertainty|||gases de efecto invernadero|||posponer|||1
+climate_uncertainty|||crisis climática|||rescindir|||1
+climate_uncertainty|||crisis climática|||suspender|||14
+climate_uncertainty|||gases de efecto invernadero|||retrasar|||8
+climate_uncertainty|||gases de efecto invernadero|||diferir|||0
+climate_uncertainty|||gases de efecto invernadero|||vago|||0
+climate_uncertainty|||gases de efecto invernadero|||ambiguo|||0
+climate_uncertainty|||gases de efecto invernadero|||rescindir|||0
+climate_uncertainty|||gases de efecto invernadero|||retirar|||22
+climate_uncertainty|||gases de efecto invernadero|||suspender|||3
+climate_uncertainty|||gases de efecto invernadero|||cancelar|||0
+climate_uncertainty|||CO2|||incierto|||4
+climate_uncertainty|||CO2|||desconocido|||13
+climate_uncertainty|||gases de efecto invernadero|||abolir|||1
+climate_uncertainty|||CO2|||ambiguo|||0
+climate_uncertainty|||CO2|||impredecible|||2
+climate_uncertainty|||CO2|||posponer|||6
