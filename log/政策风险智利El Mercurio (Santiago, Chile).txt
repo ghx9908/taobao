@@ -1,0 +1,64 @@
+2026-05-21 17:35:00,883 - INFO - 🚀 开始处理任务: 政策风险智利El Mercurio (Santiago, Chile).xlsx
+2026-05-21 17:35:00,883 - INFO - 开始初始化所有driver到2025年页面: https://infoweb-newsbank-com.webproxy3.columbuslibrary.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=pubname%3ACEM1%21El%2BMercurio%2B%2528Santiago%252C%2BChile%2529&maxresults=60&f=advanced&fld-nav-0=YMD_date&val-nav-0=-2026.4
+2026-05-21 17:35:19,270 - INFO - 账号 PACREG3448109 的driver成功访问2025年页面
+2026-05-21 17:35:19,272 - INFO - ✅ 账号 PACREG3448109 的driver初始化成功
+2026-05-21 17:35:19,449 - INFO - 账号 PACREG3448127 的driver成功访问2025年页面
+2026-05-21 17:35:19,449 - INFO - ✅ 账号 PACREG3448127 的driver初始化成功
+2026-05-21 17:35:19,767 - INFO - 账号 PACREG3448128 的driver成功访问2025年页面
+2026-05-21 17:35:19,767 - INFO - ✅ 账号 PACREG3448128 的driver初始化成功
+2026-05-21 17:35:19,902 - INFO - 账号 PACREG3448122 的driver成功访问2025年页面
+2026-05-21 17:35:19,902 - INFO - ✅ 账号 PACREG3448122 的driver初始化成功
+2026-05-21 17:35:19,947 - INFO - 账号 PACREG3448126 的driver成功访问2025年页面
+2026-05-21 17:35:19,947 - INFO - ✅ 账号 PACREG3448126 的driver初始化成功
+2026-05-21 17:35:20,160 - INFO - 账号 PACREG3448107 的driver成功访问2025年页面
+2026-05-21 17:35:20,161 - INFO - ✅ 账号 PACREG3448107 的driver初始化成功
+2026-05-21 17:35:20,276 - INFO - 账号 PACREG3448121 的driver成功访问2025年页面
+2026-05-21 17:35:20,277 - INFO - ✅ 账号 PACREG3448121 的driver初始化成功
+2026-05-21 17:35:21,566 - INFO - 账号 PACREG3448120 的driver成功访问2025年页面
+2026-05-21 17:35:21,567 - INFO - ✅ 账号 PACREG3448120 的driver初始化成功
+2026-05-21 17:35:28,178 - INFO - 账号 PACREG3447692 的driver成功访问2025年页面
+2026-05-21 17:35:28,179 - INFO - ✅ 账号 PACREG3447692 的driver初始化成功
+2026-05-21 17:35:28,311 - INFO - 账号 PACREG3448124 的driver成功访问2025年页面
+2026-05-21 17:35:28,312 - INFO - ✅ 账号 PACREG3448124 的driver初始化成功
+2026-05-21 17:35:28,518 - INFO - 账号 PACREG3448119 的driver成功访问2025年页面
+2026-05-21 17:35:28,519 - INFO - ✅ 账号 PACREG3448119 的driver初始化成功
+2026-05-21 17:35:28,789 - INFO - 账号 PACREG3448110 的driver成功访问2025年页面
+2026-05-21 17:35:28,789 - INFO - ✅ 账号 PACREG3448110 的driver初始化成功
+2026-05-21 17:35:29,205 - INFO - 账号 PACREG3448108 的driver成功访问2025年页面
+2026-05-21 17:35:29,205 - INFO - ✅ 账号 PACREG3448108 的driver初始化成功
+2026-05-21 17:35:29,653 - INFO - 账号 PACREG3448123 的driver成功访问2025年页面
+2026-05-21 17:35:29,654 - INFO - ✅ 账号 PACREG3448123 的driver初始化成功
+2026-05-21 17:35:30,031 - INFO - 账号 PACREG3448125 的driver成功访问2025年页面
+2026-05-21 17:35:30,032 - INFO - ✅ 账号 PACREG3448125 的driver初始化成功
+2026-05-21 17:35:30,034 - INFO - 所有driver初始化完成
+2026-05-21 17:35:30,034 - INFO - ================================================================================
+2026-05-21 17:35:30,034 - INFO - 📋 正常模式：先处理二组合，再基于有效二组合生成三组合
+2026-05-21 17:35:30,034 - INFO - ================================================================================
+2026-05-21 17:35:30,034 - INFO - 开始处理 993 个二组合:
+2026-05-21 17:35:30,034 - INFO -   - climate+policy: 378 个
+2026-05-21 17:35:30,034 - INFO -   - climate+uncertainty: 405 个
+2026-05-21 17:35:30,034 - INFO -   - policy+uncertainty: 210 个
+2026-05-21 17:35:30,036 - INFO - 需要处理 993 个新的二组合
+2026-05-21 17:35:30,037 - INFO - 总计需要处理 993 个二组合
+2026-05-21 17:35:30,037 - INFO - 使用 15 个线程处理二组合
+2026-05-21 17:35:30,038 - INFO - [线程6186659840|账号PACREG3447692] 🔍 开始处理新二组合(climate_policy)：cambio climático + política 
+2026-05-21 17:35:30,038 - INFO - [线程6203486208|账号PACREG3448107] 🔍 开始处理新二组合(climate_policy)：cambio climático + políticas 
+2026-05-21 17:35:30,040 - INFO - [线程6220312576|账号PACREG3448108] 🔍 开始处理新二组合(climate_policy)：cambio climático + regulación 
+2026-05-21 17:35:30,040 - INFO - [线程6237138944|账号PACREG3448109] 🔍 开始处理新二组合(climate_policy)：cambio climático + regulaciones 
+2026-05-21 17:35:30,041 - INFO - [线程6253965312|账号PACREG3448110] 🔍 开始处理新二组合(climate_policy)：cambio climático + legislación 
+2026-05-21 17:35:30,042 - INFO - [线程6270791680|账号PACREG3448119] 🔍 开始处理新二组合(climate_policy)：cambio climático + ley 
+2026-05-21 17:35:30,042 - INFO - [线程6287618048|账号PACREG3448120] 🔍 开始处理新二组合(climate_policy)：cambio climático + Congreso Nacional 
+2026-05-21 17:35:30,042 - INFO - [线程6304444416|账号PACREG3448121] 🔍 开始处理新二组合(climate_policy)：cambio climático + Presidencia 
+2026-05-21 17:35:30,043 - INFO - [线程6321270784|账号PACREG3448122] 🔍 开始处理新二组合(climate_policy)：cambio climático + Senado 
+2026-05-21 17:35:30,045 - INFO - [线程6338097152|账号PACREG3448123] 🔍 开始处理新二组合(climate_policy)：cambio climático + Cámara de Diputados 
+2026-05-21 17:35:30,046 - INFO - [线程6354923520|账号PACREG3448124] 🔍 开始处理新二组合(climate_policy)：cambio climático + gobierno 
+2026-05-21 17:35:30,047 - INFO - [线程6371749888|账号PACREG3448125] 🔍 开始处理新二组合(climate_policy)：cambio climático + Ministerio del Medio Ambiente 
+2026-05-21 17:35:30,049 - INFO - [线程6388576256|账号PACREG3448126] 🔍 开始处理新二组合(climate_policy)：cambio climático + MMA 
+2026-05-21 17:35:30,051 - INFO - [线程6405402624|账号PACREG3448127] 🔍 开始处理新二组合(climate_policy)：cambio climático + Ministerio de Energía 
+2026-05-21 17:35:30,053 - INFO - [线程6422228992|账号PACREG3448128] 🔍 开始处理新二组合(climate_policy)：crisis climática + política 
+2026-05-21 17:35:48,655 - INFO - [线程6388576256|账号PACREG3448126] ✅ 二组合(climate_policy) cambio climático + MMA 有 26 条结果 📍 URL: https://infoweb-newsbank-com.webproxy3.columbuslibrary.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=pubname%3ACEM1%21El%2BMercurio%2B%2528Santiago%252C%2BChile%2529&maxresults=60&f=advanced&val-base-0=cambio%20clim%C3%A1tico&fld-base-0=alltext&bln-base-1=and&val-base-1=MMA&fld-base-1=alltext&fld-nav-0=YMD_date&val-nav-0=-2026.4
+2026-05-21 17:35:48,656 - INFO - [线程6388576256|账号PACREG3448126] 🔍 开始处理新二组合(climate_policy)：crisis climática + políticas 
+2026-05-21 17:35:48,656 - INFO - ✅ 二组合 ('climate_policy', 'cambio climático', 'MMA') 处理成功 (1/993)
+2026-05-21 17:35:51,483 - INFO - [线程6371749888|账号PACREG3448125] ✅ 二组合(climate_policy) cambio climático + Ministerio del Medio Ambiente 有 422 条结果 📍 URL: https://infoweb-newsbank-com.webproxy3.columbuslibrary.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=pubname%3ACEM1%21El%2BMercurio%2B%2528Santiago%252C%2BChile%2529&maxresults=60&f=advanced&val-base-0=cambio%20clim%C3%A1tico&fld-base-0=alltext&bln-base-1=and&val-base-1=Ministerio%20del%20Medio%20Ambiente&fld-base-1=alltext&fld-nav-0=YMD_date&val-nav-0=-2026.4
+2026-05-21 17:35:51,484 - INFO - [线程6371749888|账号PACREG3448125] 🔍 开始处理新二组合(climate_policy)：crisis climática + regulación 
+2026-05-21 17:35:51,484 - INFO - ✅ 二组合 ('climate_policy', 'cambio climático', 'Ministerio del Medio Ambiente') 处理成功 (2/993)
