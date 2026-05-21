@@ -1054,3 +1054,160 @@ Country                                            Argentina
 不确定        incierto/incertidumbre/incierto/desconocido/va...
 Name: 4, dtype: object
 2026-05-21 13:21:57,998 - INFO - 文件 'search_results/政策风险阿根廷La Nación (Buenos Aires, Argentina).xlsx' 在 search_results/ 目录中不存在
+2026-05-21 13:35:37,613 - INFO - 线程 8676352192 开始执行
+2026-05-21 13:35:37,613 - INFO - 开始清理根目录下的旧文件...
+2026-05-21 13:35:37,614 - INFO - ✅ 旧文件清理完成
+2026-05-21 13:35:37,614 - INFO - 开始创建15个浏览器实例...
+2026-05-21 13:35:37,614 - INFO - [浏览器1] 动态生成UA: Mozilla/5.0 (Macintosh; Intel Mac OS X 13_6_0) AppleWebKit/5... 视口: 1366x768
+2026-05-21 13:35:37,614 - INFO - [浏览器2] 动态生成UA: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.2) Gecko/20... 视口: 1920x1080
+2026-05-21 13:35:37,615 - INFO - [浏览器3] 动态生成UA: Mozilla/5.0 (Macintosh; Intel Mac OS X 14_2_0) AppleWebKit/6... 视口: 1440x900
+2026-05-21 13:35:37,617 - INFO - [浏览器4] 动态生成UA: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.40... 视口: 1536x864
+2026-05-21 13:35:37,618 - INFO - [浏览器6] 动态生成UA: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.6) Gecko/20... 视口: 1280x800
+2026-05-21 13:35:37,618 - INFO - [浏览器5] 动态生成UA: Mozilla/5.0 (Macintosh; Intel Mac OS X 13_6_0) AppleWebKit/5... 视口: 1600x900
+2026-05-21 13:35:37,621 - INFO - [浏览器8] 动态生成UA: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.44... 视口: 2560x1440
+2026-05-21 13:35:37,621 - INFO - [浏览器7] 动态生成UA: Mozilla/5.0 (Macintosh; Intel Mac OS X 14_2_0) AppleWebKit/6... 视口: 1680x1050
+2026-05-21 13:35:37,624 - INFO - [浏览器9] 动态生成UA: Mozilla/5.0 (Macintosh; Intel Mac OS X 13_6_0) AppleWebKit/5... 视口: 1280x1024
+2026-05-21 13:35:37,624 - INFO - [浏览器10] 动态生成UA: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20... 视口: 1024x768
+2026-05-21 13:35:37,625 - INFO - [浏览器11] 动态生成UA: Mozilla/5.0 (Macintosh; Intel Mac OS X 14_2_0) AppleWebKit/6... 视口: 1152x864
+2026-05-21 13:35:37,629 - INFO - [浏览器12] 动态生成UA: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.38... 视口: 1280x720
+2026-05-21 13:35:37,635 - INFO - [浏览器14] 动态生成UA: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.4) Gecko/20... 视口: 1600x1200
+2026-05-21 13:35:37,640 - INFO - [浏览器13] 动态生成UA: Mozilla/5.0 (Macintosh; Intel Mac OS X 13_6_0) AppleWebKit/5... 视口: 1360x768
+2026-05-21 13:35:37,640 - INFO - [浏览器15] 动态生成UA: Mozilla/5.0 (Macintosh; Intel Mac OS X 14_2_0) AppleWebKit/6... 视口: 1920x1200
+2026-05-21 13:35:39,708 - INFO - [浏览器13|账号PACREG3448126] ✅ 浏览器启动成功！
+2026-05-21 13:35:39,708 - INFO - ✅ 账号 PACREG3448126 浏览器创建成功
+2026-05-21 13:35:39,708 - INFO - [浏览器14|账号PACREG3448127] ✅ 浏览器启动成功！
+2026-05-21 13:35:39,708 - INFO - ✅ 账号 PACREG3448127 浏览器创建成功
+2026-05-21 13:35:39,709 - INFO - [浏览器6|账号PACREG3448119] ✅ 浏览器启动成功！
+2026-05-21 13:35:39,709 - INFO - ✅ 账号 PACREG3448119 浏览器创建成功
+2026-05-21 13:35:39,755 - INFO - [浏览器2|账号PACREG3448107] ✅ 浏览器启动成功！
+2026-05-21 13:35:39,759 - INFO - ✅ 账号 PACREG3448107 浏览器创建成功
+2026-05-21 13:35:39,834 - INFO - [浏览器7|账号PACREG3448120] ✅ 浏览器启动成功！
+2026-05-21 13:35:39,837 - INFO - ✅ 账号 PACREG3448120 浏览器创建成功
+2026-05-21 13:35:39,840 - INFO - [浏览器15|账号PACREG3448128] ✅ 浏览器启动成功！
+2026-05-21 13:35:39,851 - INFO - ✅ 账号 PACREG3448128 浏览器创建成功
+2026-05-21 13:35:39,991 - INFO - [浏览器10|账号PACREG3448123] ✅ 浏览器启动成功！
+2026-05-21 13:35:39,993 - INFO - ✅ 账号 PACREG3448123 浏览器创建成功
+2026-05-21 13:35:40,002 - INFO - [浏览器9|账号PACREG3448122] ✅ 浏览器启动成功！
+2026-05-21 13:35:40,006 - INFO - ✅ 账号 PACREG3448122 浏览器创建成功
+2026-05-21 13:35:40,086 - INFO - [浏览器1|账号PACREG3447692] ✅ 浏览器启动成功！
+2026-05-21 13:35:40,126 - INFO - ✅ 账号 PACREG3447692 浏览器创建成功
+2026-05-21 13:35:40,150 - INFO - [浏览器4|账号PACREG3448109] ✅ 浏览器启动成功！
+2026-05-21 13:35:40,195 - INFO - [浏览器3|账号PACREG3448108] ✅ 浏览器启动成功！
+2026-05-21 13:35:40,201 - INFO - ✅ 账号 PACREG3448109 浏览器创建成功
+2026-05-21 13:35:40,204 - INFO - ✅ 账号 PACREG3448108 浏览器创建成功
+2026-05-21 13:35:40,225 - INFO - [浏览器8|账号PACREG3448121] ✅ 浏览器启动成功！
+2026-05-21 13:35:40,244 - INFO - ✅ 账号 PACREG3448121 浏览器创建成功
+2026-05-21 13:35:40,277 - INFO - [浏览器12|账号PACREG3448125] ✅ 浏览器启动成功！
+2026-05-21 13:35:40,290 - INFO - [浏览器5|账号PACREG3448110] ✅ 浏览器启动成功！
+2026-05-21 13:35:40,290 - INFO - ✅ 账号 PACREG3448125 浏览器创建成功
+2026-05-21 13:35:40,312 - INFO - ✅ 账号 PACREG3448110 浏览器创建成功
+2026-05-21 13:35:40,438 - INFO - [浏览器11|账号PACREG3448124] ✅ 浏览器启动成功！
+2026-05-21 13:35:40,438 - INFO - ✅ 账号 PACREG3448124 浏览器创建成功
+2026-05-21 13:35:40,460 - INFO - 开始为15个浏览器并行登录...
+2026-05-21 13:35:40,460 - INFO - [线程1|账号PACREG3447692] 开始登录，访问登录页面...
+2026-05-21 13:35:40,461 - INFO - [线程2|账号PACREG3448107] 开始登录，访问登录页面...
+2026-05-21 13:35:40,461 - INFO - [线程3|账号PACREG3448108] 开始登录，访问登录页面...
+2026-05-21 13:35:40,462 - INFO - [线程4|账号PACREG3448109] 开始登录，访问登录页面...
+2026-05-21 13:35:40,468 - INFO - [线程5|账号PACREG3448110] 开始登录，访问登录页面...
+2026-05-21 13:35:40,473 - INFO - [线程6|账号PACREG3448119] 开始登录，访问登录页面...
+2026-05-21 13:35:40,474 - INFO - [线程7|账号PACREG3448120] 开始登录，访问登录页面...
+2026-05-21 13:35:40,486 - INFO - [线程8|账号PACREG3448121] 开始登录，访问登录页面...
+2026-05-21 13:35:40,496 - INFO - [线程9|账号PACREG3448122] 开始登录，访问登录页面...
+2026-05-21 13:35:40,509 - INFO - [线程10|账号PACREG3448123] 开始登录，访问登录页面...
+2026-05-21 13:35:40,518 - INFO - [线程11|账号PACREG3448124] 开始登录，访问登录页面...
+2026-05-21 13:35:40,520 - INFO - [线程12|账号PACREG3448125] 开始登录，访问登录页面...
+2026-05-21 13:35:40,540 - INFO - [线程13|账号PACREG3448126] 开始登录，访问登录页面...
+2026-05-21 13:35:40,553 - INFO - [线程14|账号PACREG3448127] 开始登录，访问登录页面...
+2026-05-21 13:35:40,567 - INFO - [线程15|账号PACREG3448128] 开始登录，访问登录页面...
+2026-05-21 13:36:49,557 - INFO - [线程3|账号PACREG3448108] ✅ 登录成功
+2026-05-21 13:36:49,559 - INFO - ✅ 账号 PACREG3448108 登录成功
+2026-05-21 13:36:52,671 - INFO - [线程11|账号PACREG3448124] ✅ 登录成功
+2026-05-21 13:36:52,671 - INFO - ✅ 账号 PACREG3448124 登录成功
+2026-05-21 13:36:52,782 - INFO - [线程7|账号PACREG3448120] ✅ 登录成功
+2026-05-21 13:36:52,783 - INFO - ✅ 账号 PACREG3448120 登录成功
+2026-05-21 13:36:53,336 - INFO - [线程2|账号PACREG3448107] ✅ 登录成功
+2026-05-21 13:36:53,336 - INFO - ✅ 账号 PACREG3448107 登录成功
+2026-05-21 13:36:54,266 - INFO - [线程10|账号PACREG3448123] ✅ 登录成功
+2026-05-21 13:36:54,266 - INFO - ✅ 账号 PACREG3448123 登录成功
+2026-05-21 13:36:54,944 - INFO - [线程5|账号PACREG3448110] ✅ 登录成功
+2026-05-21 13:36:54,944 - INFO - ✅ 账号 PACREG3448110 登录成功
+2026-05-21 13:36:55,322 - INFO - [线程1|账号PACREG3447692] ✅ 登录成功
+2026-05-21 13:36:55,323 - INFO - ✅ 账号 PACREG3447692 登录成功
+2026-05-21 13:36:56,893 - INFO - [线程4|账号PACREG3448109] ✅ 登录成功
+2026-05-21 13:36:56,893 - INFO - ✅ 账号 PACREG3448109 登录成功
+2026-05-21 13:36:57,533 - INFO - [线程15|账号PACREG3448128] ✅ 登录成功
+2026-05-21 13:36:57,533 - INFO - ✅ 账号 PACREG3448128 登录成功
+2026-05-21 13:37:02,920 - INFO - [线程12|账号PACREG3448125] ✅ 登录成功
+2026-05-21 13:37:02,920 - INFO - ✅ 账号 PACREG3448125 登录成功
+2026-05-21 13:37:05,518 - INFO - [线程8|账号PACREG3448121] ✅ 登录成功
+2026-05-21 13:37:05,519 - INFO - ✅ 账号 PACREG3448121 登录成功
+2026-05-21 13:37:07,868 - INFO - [线程9|账号PACREG3448122] ✅ 登录成功
+2026-05-21 13:37:07,868 - INFO - ✅ 账号 PACREG3448122 登录成功
+2026-05-21 13:37:12,718 - INFO - [线程6|账号PACREG3448119] ✅ 登录成功
+2026-05-21 13:37:12,718 - INFO - ✅ 账号 PACREG3448119 登录成功
+2026-05-21 13:37:15,321 - INFO - [线程13|账号PACREG3448126] ✅ 登录成功
+2026-05-21 13:37:15,322 - INFO - ✅ 账号 PACREG3448126 登录成功
+2026-05-21 13:38:43,633 - INFO - [线程14|账号PACREG3448127] ✅ 登录成功
+2026-05-21 13:38:43,633 - INFO - ✅ 账号 PACREG3448127 登录成功
+2026-05-21 13:38:43,634 - INFO - 线程 8676352192 执行结束
+2026-05-21 13:38:43,722 - INFO - 成功读取文件: country_small.txt
+2026-05-21 13:38:43,727 - INFO - sheet表名为政策风险的基本信息：
+2026-05-21 13:38:43,744 - INFO - sheet表名为技术风险的基本信息：
+2026-05-21 13:38:43,754 - INFO - sheet表名为市场风险的基本信息：
+2026-05-21 13:38:43,764 - INFO - {'La Prensa Grafica (San Salvador, El Salvador)': 'pubname:LPGS!La+Prensa+Grafica+%28San+Salvador%2C+El+Salvador%29', 'La Nacion (San Jose, Costa Rica)': 'pubname:LN91!La+Nacion+%28San+Jose%2C+Costa+Rica%29', 'La Prensa (Nicaragua)': 'pubname:NLPM!La+Prensa+%28Nicaragua%29', 'La Prensa [ContentEngine] (Panama)': 'pubname:PLAPR!La+Prensa+%5BContentEngine%5D+%28Panama%29', 'La Nación (Buenos Aires, Argentina)': 'pubname:ALNB!La+Naci%C3%B3n+%28Buenos+Aires%2C+Argentina%29', 'El Mercurio (Santiago, Chile)': 'pubname:CEM1!El+Mercurio+%28Santiago%2C+Chile%29', 'El Comercio (Lima, Peru)': 'pubname:EECQ!El+Comercio+%28Lima%2C+Peru%29', 'El País (Montevideo, Uruguay)': 'pubname:UEPM!El+Pa%C3%ADs+%28Montevideo%2C+Uruguay%29', 'El Nacional (Caracas, Venezuela)': 'pubname:ENSVC!El+Nacional+%28Caracas%2C+Venezuela%29', 'El Universal (Venezuela)': 'pubname:VEUC!El+Universal+%28Venezuela%29', 'El Comercio (Quito, Ecuador)': 'pubname:ELCOM!El+Comercio+%28Quito%2C+Ecuador%29', 'Revista Lideres (Quito, Ecuador)': 'pubname:REVLI!Revista+Lideres+%28Quito%2C+Ecuador%29'}
+2026-05-21 13:38:43,766 - INFO - sheet表名为政策风险的基本信息：None
+2026-05-21 13:38:43,766 - INFO - 第 0 行数据：
+2026-05-21 13:38:43,766 - INFO - 所属洲                                                      北美洲
+国家                                                      萨尔瓦多
+Country                                          El Salvador
+指定报纸报道         La Prensa Grafica (San Salvador, El Salvador)
+爬取时间                                               2005-2026
+气候         cambio climático/crisis climática/gases de efe...
+政策         política/políticas/regulación/regulaciones/leg...
+不确定        incierto/incertidumbre/incierto/desconocido/va...
+Name: 0, dtype: object
+2026-05-21 13:38:43,766 - INFO - 文件 'search_results/政策风险萨尔瓦多La Prensa Grafica (San Salvador, El Salvador).xlsx' 在 search_results/ 目录中存在
+2026-05-21 13:38:43,766 - INFO - 第 1 行数据：
+2026-05-21 13:38:43,766 - INFO - 所属洲                                                      NaN
+国家                                               哥斯达黎加（西班牙语）
+Country                                           Costa Rica
+指定报纸报道                      La Nacion (San Jose, Costa Rica)
+爬取时间                                               2005-2026
+气候         cambio climático/crisis climática/gases de efe...
+政策         política/políticas/regulación/regulaciones/leg...
+不确定        incierto/incertidumbre/incierto/desconocido/va...
+Name: 1, dtype: object
+2026-05-21 13:38:43,767 - INFO - 文件 'search_results/政策风险哥斯达黎加（西班牙语）La Nacion (San Jose, Costa Rica).xlsx' 在 search_results/ 目录中存在
+2026-05-21 13:38:43,767 - INFO - 第 2 行数据：
+2026-05-21 13:38:43,767 - INFO - 所属洲                                                      NaN
+国家                                                      尼加拉瓜
+Country                                            Nicaragua
+指定报纸报道                                 La Prensa (Nicaragua)
+爬取时间                                               2005-2026
+气候         cambio climático/crisis climática/gases de efe...
+政策         política/políticas/regulación/regulaciones/leg...
+不确定        incierto/incertidumbre/incierto/desconocido/va...
+Name: 2, dtype: object
+2026-05-21 13:38:43,767 - INFO - 文件 'search_results/政策风险尼加拉瓜La Prensa (Nicaragua).xlsx' 在 search_results/ 目录中存在
+2026-05-21 13:38:43,767 - INFO - 第 3 行数据：
+2026-05-21 13:38:43,767 - INFO - 所属洲                                                      NaN
+国家                                                       巴拿马
+Country                                               Panama
+指定报纸报道                    La Prensa [ContentEngine] (Panama)
+爬取时间                                               2005-2026
+气候         cambio climático/crisis climática/gases de efe...
+政策         política/políticas/regulación/regulaciones/leg...
+不确定        incierto/incertidumbre/incierto/desconocido/va...
+Name: 3, dtype: object
+2026-05-21 13:38:43,767 - INFO - 文件 'search_results/政策风险巴拿马La Prensa [ContentEngine] (Panama).xlsx' 在 search_results/ 目录中不存在
+2026-05-21 14:05:55,436 - INFO - 第 4 行数据：
+2026-05-21 14:05:55,436 - INFO - 所属洲                                                      南美洲
+国家                                                       阿根廷
+Country                                            Argentina
+指定报纸报道                   La Nación (Buenos Aires, Argentina)
+爬取时间                                               2005-2026
+气候         cambio climático/crisis climática/gases de efe...
+政策         política/políticas/regulación/regulaciones/leg...
+不确定        incierto/incertidumbre/incierto/desconocido/va...
+Name: 4, dtype: object
+2026-05-21 14:05:55,437 - INFO - 文件 'search_results/政策风险阿根廷La Nación (Buenos Aires, Argentina).xlsx' 在 search_results/ 目录中不存在

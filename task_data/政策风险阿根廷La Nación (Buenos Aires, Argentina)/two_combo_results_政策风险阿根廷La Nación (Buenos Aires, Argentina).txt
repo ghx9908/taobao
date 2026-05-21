@@ -479,3 +479,130 @@ climate_uncertainty|||gases de efecto invernadero|||abolir|||1
 climate_uncertainty|||CO2|||ambiguo|||0
 climate_uncertainty|||CO2|||impredecible|||2
 climate_uncertainty|||CO2|||posponer|||6
+climate_policy|||calentamiento global||| Secretaría de Energía|||27
+climate_policy|||crisis climática||| Secretaría de Ambiente y Desarrollo Sustentable|||5
+climate_policy|||clima extremo||| Secretaría de Ambiente y Desarrollo Sustentable|||3
+climate_policy|||calentamiento global||| Secretaría de Ambiente y Desarrollo Sustentable|||13
+climate_policy|||ola de calor||| Secretaría de Ambiente y Desarrollo Sustentable|||2
+climate_policy|||CO2||| Secretaría de Energía|||20
+climate_policy|||temperatura extrema||| Secretaría de Ambiente y Desarrollo Sustentable|||0
+climate_policy|||crisis climática||| Secretaría de Energía|||18
+climate_policy|||gases de efecto invernadero||| Secretaría de Ambiente y Desarrollo Sustentable|||24
+climate_policy|||temperatura extrema||| Secretaría de Energía|||12
+climate_policy|||cambio climático||| Secretaría de Ambiente y Desarrollo Sustentable|||60
+climate_policy|||CO2||| Secretaría de Ambiente y Desarrollo Sustentable|||3
+climate_policy|||clima extremo||| Secretaría de Energía|||17
+climate_policy|||cambio climático||| Secretaría de Energía|||146
+climate_policy|||gases de efecto invernadero||| Secretaría de Energía|||65
+climate_policy|||ola de frío||| Secretaría de Energía|||26
+climate_policy|||ola de frío||| Secretaría de Ambiente y Desarrollo Sustentable|||2
+climate_policy|||ola de calor||| Secretaría de Energía|||48
+climate_policy|||sequía||| Secretaría de Ambiente y Desarrollo Sustentable|||10
+climate_policy|||sequía||| Secretaría de Energía|||120
+climate_policy|||incendio forestal||| Secretaría de Energía|||3
+climate_policy|||incendio forestal||| Secretaría de Ambiente y Desarrollo Sustentable|||3
+climate_policy|||tormenta de nieve||| Secretaría de Ambiente y Desarrollo Sustentable|||0
+climate_policy|||lluvia intensa||| Secretaría de Energía|||1
+climate_policy|||huracán||| Secretaría de Ambiente y Desarrollo Sustentable|||0
+climate_policy|||inundación||| Secretaría de Energía|||20
+climate_policy|||energía verde||| Secretaría de Energía|||172
+climate_policy|||tormenta de nieve||| Secretaría de Energía|||2
+climate_policy|||energía renovable||| Secretaría de Ambiente y Desarrollo Sustentable|||4
+climate_policy|||lluvia intensa||| Secretaría de Ambiente y Desarrollo Sustentable|||0
+climate_policy|||energía limpia||| Secretaría de Ambiente y Desarrollo Sustentable|||6
+climate_policy|||huracán||| Secretaría de Energía|||17
+climate_policy|||inundación||| Secretaría de Ambiente y Desarrollo Sustentable|||12
+climate_policy|||energía verde||| Secretaría de Ambiente y Desarrollo Sustentable|||12
+climate_policy|||energía hidroeléctrica||| Secretaría de Ambiente y Desarrollo Sustentable|||1
+climate_policy|||energía eólica||| Secretaría de Ambiente y Desarrollo Sustentable|||12
+climate_policy|||energía eólica||| Secretaría de Energía|||63
+climate_policy|||bioenergía||| Secretaría de Ambiente y Desarrollo Sustentable|||0
+climate_policy|||bioenergía||| Secretaría de Energía|||5
+climate_policy|||energía solar||| Secretaría de Ambiente y Desarrollo Sustentable|||10
+climate_policy|||energía renovable||| Secretaría de Energía|||100
+climate_policy|||energía geotérmica||| Secretaría de Ambiente y Desarrollo Sustentable|||0
+climate_policy|||energía limpia||| Secretaría de Energía|||77
+climate_policy|||energía geotérmica||| Secretaría de Energía|||1
+climate_policy|||energía solar||| Secretaría de Energía|||139
+climate_policy|||energía oceánica||| Secretaría de Ambiente y Desarrollo Sustentable|||0
+climate_policy|||energía hidroeléctrica||| Secretaría de Energía|||106
+climate_policy|||energía oceánica||| Secretaría de Energía|||3
+climate_policy|||IPCC||| Secretaría de Energía|||7
+climate_policy|||COP||| Secretaría de Ambiente y Desarrollo Sustentable|||2
+climate_policy|||Acuerdo de París||| Secretaría de Ambiente y Desarrollo Sustentable|||12
+climate_uncertainty|||CO2|||incertidumbre|||17
+climate_uncertainty|||CO2|||diferir|||1
+climate_uncertainty|||CO2|||abolir|||0
+climate_uncertainty|||CO2|||rescindir|||0
+climate_policy|||IPCC||| Secretaría de Ambiente y Desarrollo Sustentable|||2
+climate_uncertainty|||CO2|||retirar|||12
+climate_uncertainty|||CO2|||suspender|||3
+climate_uncertainty|||calentamiento global|||incierto|||33
+climate_policy|||Acuerdo de París||| Secretaría de Energía|||95
+climate_uncertainty|||calentamiento global|||incertidumbre|||53
+climate_uncertainty|||CO2|||vago|||0
+climate_policy|||COP||| Secretaría de Energía|||17
+climate_uncertainty|||CO2|||retrasar|||2
+climate_uncertainty|||CO2|||cancelar|||3
+climate_uncertainty|||calentamiento global|||desconocido|||25
+climate_uncertainty|||calentamiento global|||vago|||1
+climate_uncertainty|||calentamiento global|||ambiguo|||3
+climate_uncertainty|||calentamiento global|||impredecible|||8
+climate_uncertainty|||calentamiento global|||posponer|||3
+climate_uncertainty|||calentamiento global|||retrasar|||11
+climate_uncertainty|||calentamiento global|||rescindir|||0
+climate_uncertainty|||calentamiento global|||incierto|||33
+climate_uncertainty|||calentamiento global|||diferir|||0
+climate_uncertainty|||calentamiento global|||retirar|||15
+climate_uncertainty|||calentamiento global|||suspender|||10
+climate_uncertainty|||clima extremo|||incierto|||27
+climate_uncertainty|||clima extremo|||incierto|||27
+climate_uncertainty|||calentamiento global|||cancelar|||3
+climate_uncertainty|||clima extremo|||impredecible|||6
+climate_uncertainty|||calentamiento global|||abolir|||2
+climate_uncertainty|||clima extremo|||ambiguo|||0
+climate_uncertainty|||clima extremo|||vago|||0
+climate_uncertainty|||clima extremo|||abolir|||3
+climate_uncertainty|||clima extremo|||cancelar|||6
+climate_uncertainty|||clima extremo|||rescindir|||0
+climate_uncertainty|||clima extremo|||desconocido|||40
+climate_uncertainty|||clima extremo|||suspender|||23
+climate_uncertainty|||clima extremo|||posponer|||1
+climate_uncertainty|||clima extremo|||incertidumbre|||97
+climate_uncertainty|||clima extremo|||retrasar|||7
+climate_uncertainty|||temperatura extrema|||incierto|||5
+climate_uncertainty|||clima extremo|||diferir|||4
+climate_uncertainty|||temperatura extrema|||desconocido|||8
+climate_uncertainty|||temperatura extrema|||vago|||1
+climate_uncertainty|||temperatura extrema|||ambiguo|||0
+climate_uncertainty|||temperatura extrema|||posponer|||0
+climate_uncertainty|||temperatura extrema|||impredecible|||0
+climate_uncertainty|||temperatura extrema|||retrasar|||0
+climate_uncertainty|||temperatura extrema|||incierto|||5
+climate_uncertainty|||temperatura extrema|||incertidumbre|||13
+climate_uncertainty|||clima extremo|||retirar|||56
+climate_uncertainty|||temperatura extrema|||diferir|||0
+climate_uncertainty|||temperatura extrema|||cancelar|||4
+climate_uncertainty|||temperatura extrema|||rescindir|||0
+climate_uncertainty|||temperatura extrema|||suspender|||9
+climate_uncertainty|||temperatura extrema|||abolir|||0
+climate_uncertainty|||ola de calor|||incierto|||13
+climate_uncertainty|||ola de calor|||incertidumbre|||61
+climate_uncertainty|||ola de calor|||incierto|||13
+climate_uncertainty|||ola de calor|||vago|||0
+climate_uncertainty|||ola de calor|||desconocido|||4
+climate_uncertainty|||temperatura extrema|||retirar|||4
+climate_uncertainty|||ola de calor|||retrasar|||2
+climate_uncertainty|||ola de calor|||abolir|||0
+climate_uncertainty|||ola de calor|||cancelar|||10
+climate_uncertainty|||ola de calor|||suspender|||43
+climate_uncertainty|||ola de calor|||ambiguo|||0
+climate_uncertainty|||ola de calor|||impredecible|||7
+climate_uncertainty|||ola de calor|||posponer|||3
+climate_uncertainty|||ola de calor|||diferir|||1
+climate_uncertainty|||ola de frío|||incierto|||13
+climate_uncertainty|||ola de frío|||incertidumbre|||54
+climate_uncertainty|||ola de frío|||incierto|||13
+climate_uncertainty|||ola de frío|||vago|||0
+climate_uncertainty|||ola de frío|||ambiguo|||0
+climate_uncertainty|||ola de frío|||impredecible|||10
