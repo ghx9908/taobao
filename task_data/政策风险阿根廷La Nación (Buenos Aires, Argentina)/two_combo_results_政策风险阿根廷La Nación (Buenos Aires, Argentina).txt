@@ -606,3 +606,524 @@ climate_uncertainty|||ola de frío|||incierto|||13
 climate_uncertainty|||ola de frío|||vago|||0
 climate_uncertainty|||ola de frío|||ambiguo|||0
 climate_uncertainty|||ola de frío|||impredecible|||10
+climate_uncertainty|||ola de calor|||rescindir|||1
+climate_uncertainty|||ola de calor|||retirar|||74
+climate_uncertainty|||ola de frío|||diferir|||1
+climate_uncertainty|||ola de frío|||abolir|||0
+climate_uncertainty|||ola de frío|||cancelar|||3
+climate_uncertainty|||ola de frío|||rescindir|||0
+climate_uncertainty|||ola de frío|||posponer|||1
+climate_uncertainty|||ola de frío|||desconocido|||6
+climate_uncertainty|||sequía|||incierto|||87
+climate_uncertainty|||sequía|||incertidumbre|||522
+climate_uncertainty|||sequía|||desconocido|||31
+climate_uncertainty|||ola de frío|||retrasar|||5
+climate_uncertainty|||sequía|||ambiguo|||8
+climate_uncertainty|||ola de frío|||retirar|||21
+climate_uncertainty|||ola de frío|||suspender|||34
+climate_uncertainty|||sequía|||impredecible|||29
+climate_uncertainty|||sequía|||posponer|||13
+climate_uncertainty|||sequía|||incierto|||87
+climate_uncertainty|||sequía|||suspender|||73
+climate_uncertainty|||sequía|||retrasar|||10
+climate_uncertainty|||sequía|||vago|||13
+climate_uncertainty|||sequía|||cancelar|||53
+climate_uncertainty|||sequía|||rescindir|||3
+climate_uncertainty|||sequía|||retirar|||47
+climate_uncertainty|||sequía|||abolir|||2
+climate_uncertainty|||sequía|||diferir|||21
+climate_uncertainty|||incendio forestal|||ambiguo|||0
+climate_uncertainty|||incendio forestal|||posponer|||0
+climate_uncertainty|||incendio forestal|||retrasar|||0
+climate_uncertainty|||incendio forestal|||incierto|||3
+climate_uncertainty|||incendio forestal|||cancelar|||2
+climate_uncertainty|||incendio forestal|||incertidumbre|||3
+climate_uncertainty|||incendio forestal|||vago|||0
+climate_uncertainty|||incendio forestal|||incierto|||3
+climate_uncertainty|||incendio forestal|||abolir|||0
+climate_uncertainty|||incendio forestal|||retirar|||5
+climate_uncertainty|||incendio forestal|||suspender|||3
+climate_uncertainty|||incendio forestal|||desconocido|||2
+climate_uncertainty|||incendio forestal|||impredecible|||7
+climate_uncertainty|||incendio forestal|||diferir|||1
+climate_uncertainty|||incendio forestal|||rescindir|||0
+climate_uncertainty|||tormenta de nieve|||incierto|||14
+climate_uncertainty|||tormenta de nieve|||desconocido|||8
+climate_uncertainty|||tormenta de nieve|||ambiguo|||1
+climate_uncertainty|||tormenta de nieve|||impredecible|||0
+climate_uncertainty|||tormenta de nieve|||incierto|||14
+climate_uncertainty|||tormenta de nieve|||retrasar|||3
+climate_uncertainty|||tormenta de nieve|||incertidumbre|||24
+climate_uncertainty|||tormenta de nieve|||diferir|||1
+climate_uncertainty|||tormenta de nieve|||abolir|||0
+climate_uncertainty|||tormenta de nieve|||cancelar|||8
+climate_uncertainty|||tormenta de nieve|||vago|||0
+climate_uncertainty|||tormenta de nieve|||suspender|||19
+climate_uncertainty|||tormenta de nieve|||posponer|||0
+climate_uncertainty|||lluvia intensa|||incierto|||4
+climate_uncertainty|||lluvia intensa|||desconocido|||5
+climate_uncertainty|||lluvia intensa|||vago|||0
+climate_uncertainty|||tormenta de nieve|||rescindir|||0
+climate_uncertainty|||lluvia intensa|||ambiguo|||0
+climate_uncertainty|||lluvia intensa|||posponer|||3
+climate_uncertainty|||lluvia intensa|||retrasar|||2
+climate_uncertainty|||tormenta de nieve|||retirar|||9
+climate_uncertainty|||lluvia intensa|||diferir|||0
+climate_uncertainty|||lluvia intensa|||incierto|||4
+climate_uncertainty|||lluvia intensa|||abolir|||0
+climate_uncertainty|||lluvia intensa|||incertidumbre|||25
+climate_uncertainty|||lluvia intensa|||retirar|||35
+climate_uncertainty|||lluvia intensa|||impredecible|||1
+climate_uncertainty|||lluvia intensa|||suspender|||25
+climate_uncertainty|||huracán|||incierto|||53
+climate_uncertainty|||huracán|||incertidumbre|||221
+climate_uncertainty|||huracán|||incierto|||53
+climate_uncertainty|||huracán|||ambiguo|||2
+climate_uncertainty|||lluvia intensa|||rescindir|||0
+climate_uncertainty|||lluvia intensa|||cancelar|||5
+climate_uncertainty|||huracán|||posponer|||9
+climate_uncertainty|||huracán|||retrasar|||8
+climate_uncertainty|||huracán|||diferir|||3
+climate_uncertainty|||huracán|||abolir|||5
+climate_uncertainty|||huracán|||cancelar|||20
+climate_uncertainty|||huracán|||vago|||7
+climate_uncertainty|||huracán|||impredecible|||18
+climate_uncertainty|||huracán|||desconocido|||76
+climate_uncertainty|||huracán|||retirar|||47
+climate_uncertainty|||inundación|||incierto|||21
+climate_uncertainty|||inundación|||incierto|||21
+climate_uncertainty|||inundación|||vago|||2
+climate_uncertainty|||inundación|||desconocido|||30
+climate_uncertainty|||inundación|||ambiguo|||0
+climate_uncertainty|||inundación|||retrasar|||2
+climate_uncertainty|||huracán|||suspender|||66
+climate_uncertainty|||inundación|||abolir|||0
+climate_uncertainty|||huracán|||rescindir|||22
+climate_uncertainty|||inundación|||rescindir|||0
+climate_uncertainty|||inundación|||incertidumbre|||68
+climate_uncertainty|||inundación|||retirar|||47
+climate_uncertainty|||inundación|||impredecible|||5
+climate_uncertainty|||energía verde|||incertidumbre|||85
+climate_uncertainty|||inundación|||posponer|||1
+climate_uncertainty|||inundación|||diferir|||2
+climate_uncertainty|||energía verde|||ambiguo|||2
+climate_uncertainty|||inundación|||cancelar|||7
+climate_uncertainty|||energía verde|||incierto|||10
+climate_uncertainty|||energía verde|||posponer|||2
+climate_uncertainty|||inundación|||suspender|||32
+climate_uncertainty|||energía verde|||incierto|||10
+climate_uncertainty|||energía verde|||retrasar|||6
+climate_uncertainty|||energía verde|||desconocido|||45
+climate_uncertainty|||energía verde|||vago|||8
+climate_uncertainty|||energía verde|||impredecible|||12
+climate_uncertainty|||energía verde|||cancelar|||9
+climate_uncertainty|||energía verde|||abolir|||0
+climate_uncertainty|||energía verde|||diferir|||4
+climate_uncertainty|||energía verde|||rescindir|||4
+climate_uncertainty|||energía renovable|||impredecible|||0
+climate_uncertainty|||energía renovable|||posponer|||5
+climate_uncertainty|||energía verde|||retirar|||39
+climate_uncertainty|||energía renovable|||retrasar|||0
+climate_uncertainty|||energía verde|||suspender|||19
+climate_uncertainty|||energía renovable|||incierto|||7
+climate_uncertainty|||energía renovable|||incierto|||7
+climate_uncertainty|||energía renovable|||ambiguo|||0
+climate_uncertainty|||energía renovable|||incertidumbre|||48
+climate_uncertainty|||energía renovable|||desconocido|||5
+climate_uncertainty|||energía renovable|||vago|||3
+climate_uncertainty|||energía renovable|||retirar|||5
+climate_uncertainty|||energía renovable|||abolir|||2
+climate_uncertainty|||energía renovable|||rescindir|||2
+climate_uncertainty|||energía renovable|||cancelar|||8
+climate_uncertainty|||energía renovable|||diferir|||5
+climate_uncertainty|||energía limpia|||incierto|||10
+climate_uncertainty|||energía renovable|||suspender|||13
+climate_uncertainty|||energía limpia|||incierto|||10
+climate_uncertainty|||energía solar|||incierto|||11
+climate_uncertainty|||energía limpia|||impredecible|||0
+climate_uncertainty|||energía limpia|||vago|||2
+climate_uncertainty|||energía limpia|||ambiguo|||1
+climate_uncertainty|||energía limpia|||posponer|||1
+climate_uncertainty|||energía limpia|||diferir|||0
+climate_uncertainty|||energía limpia|||retrasar|||3
+climate_uncertainty|||energía limpia|||incertidumbre|||34
+climate_uncertainty|||energía limpia|||desconocido|||19
+climate_uncertainty|||energía limpia|||rescindir|||0
+climate_uncertainty|||energía limpia|||cancelar|||1
+climate_uncertainty|||energía limpia|||abolir|||0
+climate_uncertainty|||energía limpia|||retirar|||19
+climate_uncertainty|||energía limpia|||suspender|||7
+climate_uncertainty|||energía solar|||incierto|||11
+climate_uncertainty|||energía solar|||desconocido|||40
+climate_uncertainty|||energía solar|||ambiguo|||0
+climate_uncertainty|||energía solar|||posponer|||2
+climate_uncertainty|||energía solar|||retrasar|||36
+climate_uncertainty|||energía solar|||diferir|||1
+climate_uncertainty|||energía solar|||incertidumbre|||64
+climate_uncertainty|||energía solar|||impredecible|||1
+climate_uncertainty|||energía solar|||vago|||20
+climate_uncertainty|||energía solar|||abolir|||1
+climate_uncertainty|||energía solar|||suspender|||16
+climate_uncertainty|||energía hidroeléctrica|||impredecible|||0
+climate_uncertainty|||energía solar|||cancelar|||5
+climate_uncertainty|||energía hidroeléctrica|||incierto|||7
+climate_uncertainty|||energía solar|||retirar|||24
+climate_uncertainty|||energía hidroeléctrica|||vago|||0
+climate_uncertainty|||energía hidroeléctrica|||incierto|||7
+climate_uncertainty|||energía hidroeléctrica|||incertidumbre|||17
+climate_uncertainty|||energía hidroeléctrica|||desconocido|||4
+climate_uncertainty|||energía hidroeléctrica|||ambiguo|||0
+climate_uncertainty|||energía solar|||rescindir|||2
+climate_uncertainty|||energía hidroeléctrica|||cancelar|||4
+climate_uncertainty|||energía hidroeléctrica|||posponer|||1
+climate_uncertainty|||energía hidroeléctrica|||rescindir|||1
+climate_uncertainty|||energía hidroeléctrica|||retirar|||2
+climate_uncertainty|||energía hidroeléctrica|||diferir|||0
+climate_uncertainty|||energía hidroeléctrica|||abolir|||0
+climate_uncertainty|||energía hidroeléctrica|||retrasar|||2
+climate_uncertainty|||energía eólica|||vago|||0
+climate_uncertainty|||energía eólica|||incierto|||8
+climate_uncertainty|||energía eólica|||posponer|||1
+climate_uncertainty|||energía eólica|||diferir|||1
+climate_uncertainty|||energía eólica|||rescindir|||2
+climate_uncertainty|||energía eólica|||retirar|||4
+climate_uncertainty|||energía eólica|||ambiguo|||0
+climate_uncertainty|||energía hidroeléctrica|||suspender|||8
+climate_uncertainty|||energía eólica|||incierto|||8
+climate_uncertainty|||energía eólica|||desconocido|||13
+climate_uncertainty|||energía eólica|||impredecible|||1
+climate_uncertainty|||energía eólica|||retrasar|||3
+climate_uncertainty|||bioenergía|||incierto|||0
+climate_uncertainty|||energía eólica|||incertidumbre|||32
+climate_uncertainty|||energía eólica|||abolir|||0
+climate_uncertainty|||bioenergía|||incierto|||0
+climate_uncertainty|||energía eólica|||cancelar|||2
+climate_uncertainty|||bioenergía|||vago|||0
+climate_uncertainty|||bioenergía|||incertidumbre|||5
+climate_uncertainty|||bioenergía|||ambiguo|||0
+climate_uncertainty|||bioenergía|||posponer|||0
+climate_uncertainty|||bioenergía|||diferir|||0
+climate_uncertainty|||bioenergía|||abolir|||0
+climate_uncertainty|||bioenergía|||cancelar|||1
+climate_uncertainty|||energía eólica|||suspender|||6
+climate_uncertainty|||bioenergía|||rescindir|||0
+climate_uncertainty|||bioenergía|||retirar|||2
+climate_uncertainty|||bioenergía|||suspender|||0
+climate_uncertainty|||bioenergía|||desconocido|||0
+climate_uncertainty|||energía geotérmica|||incierto|||0
+climate_uncertainty|||energía geotérmica|||incertidumbre|||0
+climate_uncertainty|||bioenergía|||impredecible|||0
+climate_uncertainty|||bioenergía|||retrasar|||0
+climate_uncertainty|||energía geotérmica|||incierto|||0
+climate_uncertainty|||energía geotérmica|||vago|||0
+climate_uncertainty|||energía geotérmica|||ambiguo|||0
+climate_uncertainty|||energía geotérmica|||posponer|||0
+climate_uncertainty|||energía geotérmica|||abolir|||0
+climate_uncertainty|||energía geotérmica|||cancelar|||1
+climate_uncertainty|||energía geotérmica|||retirar|||1
+climate_uncertainty|||energía geotérmica|||suspender|||0
+climate_uncertainty|||energía geotérmica|||desconocido|||0
+climate_uncertainty|||energía geotérmica|||impredecible|||0
+climate_uncertainty|||energía geotérmica|||retrasar|||0
+climate_uncertainty|||energía geotérmica|||diferir|||0
+climate_uncertainty|||energía oceánica|||incierto|||0
+climate_uncertainty|||energía oceánica|||desconocido|||0
+climate_uncertainty|||energía oceánica|||impredecible|||0
+climate_uncertainty|||energía geotérmica|||rescindir|||0
+climate_uncertainty|||energía oceánica|||retrasar|||0
+climate_uncertainty|||energía oceánica|||incertidumbre|||2
+climate_uncertainty|||energía oceánica|||incierto|||0
+climate_uncertainty|||energía oceánica|||diferir|||0
+climate_uncertainty|||energía oceánica|||abolir|||0
+climate_uncertainty|||energía oceánica|||vago|||0
+climate_uncertainty|||energía oceánica|||ambiguo|||0
+climate_uncertainty|||energía oceánica|||retirar|||0
+climate_uncertainty|||energía oceánica|||suspender|||0
+climate_uncertainty|||energía oceánica|||posponer|||1
+climate_uncertainty|||IPCC|||incertidumbre|||9
+climate_uncertainty|||IPCC|||incierto|||5
+climate_uncertainty|||energía oceánica|||cancelar|||0
+climate_uncertainty|||energía oceánica|||rescindir|||0
+climate_uncertainty|||IPCC|||impredecible|||1
+climate_uncertainty|||IPCC|||posponer|||1
+climate_uncertainty|||IPCC|||retrasar|||4
+climate_uncertainty|||IPCC|||incierto|||5
+climate_uncertainty|||IPCC|||rescindir|||0
+climate_uncertainty|||IPCC|||retirar|||2
+climate_uncertainty|||IPCC|||desconocido|||2
+climate_uncertainty|||IPCC|||suspender|||1
+climate_uncertainty|||IPCC|||vago|||0
+climate_uncertainty|||IPCC|||ambiguo|||0
+climate_uncertainty|||COP|||incierto|||6
+climate_uncertainty|||COP|||incierto|||6
+climate_uncertainty|||IPCC|||diferir|||0
+climate_uncertainty|||COP|||incertidumbre|||13
+climate_uncertainty|||IPCC|||abolir|||0
+climate_uncertainty|||COP|||ambiguo|||0
+climate_uncertainty|||IPCC|||cancelar|||0
+climate_uncertainty|||COP|||impredecible|||0
+climate_uncertainty|||COP|||diferir|||0
+climate_uncertainty|||COP|||vago|||0
+climate_uncertainty|||COP|||desconocido|||5
+climate_uncertainty|||COP|||rescindir|||0
+climate_uncertainty|||COP|||retirar|||5
+climate_uncertainty|||Acuerdo de París|||incierto|||44
+climate_uncertainty|||COP|||posponer|||0
+climate_uncertainty|||COP|||retrasar|||0
+climate_uncertainty|||COP|||abolir|||0
+climate_uncertainty|||COP|||cancelar|||1
+climate_uncertainty|||COP|||suspender|||3
+climate_uncertainty|||Acuerdo de París|||incierto|||44
+climate_uncertainty|||Acuerdo de París|||incertidumbre|||203
+climate_uncertainty|||Acuerdo de París|||vago|||4
+climate_uncertainty|||Acuerdo de París|||ambiguo|||14
+climate_uncertainty|||Acuerdo de París|||retirar|||86
+climate_uncertainty|||Acuerdo de París|||diferir|||10
+climate_uncertainty|||Acuerdo de París|||posponer|||15
+climate_uncertainty|||Acuerdo de París|||impredecible|||18
+climate_uncertainty|||Acuerdo de París|||retrasar|||18
+climate_uncertainty|||Acuerdo de París|||desconocido|||84
+climate_uncertainty|||Acuerdo de París|||rescindir|||5
+climate_uncertainty|||Acuerdo de París|||abolir|||3
+climate_uncertainty|||Acuerdo de París|||cancelar|||120
+climate_uncertainty|||Acuerdo de París|||suspender|||79
+policy_uncertainty|||política|||incierto|||1968
+policy_uncertainty|||política|||desconocido|||1586
+policy_uncertainty|||política|||suspender|||3571
+policy_uncertainty|||política|||retirar|||2162
+policy_uncertainty|||política|||incertidumbre|||8483
+policy_uncertainty|||política|||impredecible|||531
+policy_uncertainty|||política|||retrasar|||334
+policy_uncertainty|||política|||vago|||252
+policy_uncertainty|||políticas|||incertidumbre|||2885
+policy_uncertainty|||política|||incierto|||1968
+policy_uncertainty|||política|||rescindir|||169
+policy_uncertainty|||políticas|||incierto|||688
+policy_uncertainty|||políticas|||incierto|||688
+policy_uncertainty|||políticas|||vago|||66
+policy_uncertainty|||políticas|||desconocido|||491
+policy_uncertainty|||políticas|||ambiguo|||125
+policy_uncertainty|||políticas|||retrasar|||150
+policy_uncertainty|||políticas|||impredecible|||201
+policy_uncertainty|||políticas|||diferir|||56
+policy_uncertainty|||políticas|||abolir|||74
+policy_uncertainty|||políticas|||cancelar|||353
+policy_uncertainty|||regulación|||ambiguo|||14
+policy_uncertainty|||regulación|||vago|||16
+policy_uncertainty|||regulación|||incertidumbre|||373
+policy_uncertainty|||regulación|||impredecible|||17
+policy_uncertainty|||regulación|||incierto|||40
+policy_uncertainty|||regulación|||desconocido|||45
+policy_uncertainty|||políticas|||rescindir|||30
+policy_uncertainty|||regulación|||posponer|||17
+policy_uncertainty|||regulación|||retrasar|||46
+policy_uncertainty|||regulación|||abolir|||6
+policy_uncertainty|||regulación|||rescindir|||20
+policy_uncertainty|||regulación|||cancelar|||51
+policy_uncertainty|||regulación|||retirar|||114
+policy_uncertainty|||regulación|||suspender|||106
+policy_uncertainty|||regulaciones|||incierto|||75
+policy_uncertainty|||regulación|||diferir|||21
+policy_uncertainty|||regulaciones|||incierto|||75
+policy_uncertainty|||política|||posponer|||422
+policy_uncertainty|||política|||abolir|||152
+policy_uncertainty|||regulación|||incierto|||40
+policy_uncertainty|||políticas|||retirar|||579
+policy_uncertainty|||regulaciones|||desconocido|||30
+policy_uncertainty|||política|||ambiguo|||344
+policy_uncertainty|||regulaciones|||ambiguo|||11
+policy_uncertainty|||política|||diferir|||154
+policy_uncertainty|||regulaciones|||incertidumbre|||342
+policy_uncertainty|||regulaciones|||abolir|||10
+policy_uncertainty|||regulaciones|||retirar|||83
+policy_uncertainty|||regulaciones|||impredecible|||14
+policy_uncertainty|||regulaciones|||vago|||7
+policy_uncertainty|||políticas|||posponer|||92
+policy_uncertainty|||regulaciones|||diferir|||9
+policy_uncertainty|||regulaciones|||cancelar|||48
+policy_uncertainty|||regulaciones|||posponer|||5
+policy_uncertainty|||regulaciones|||retrasar|||19
+policy_uncertainty|||legislación|||incertidumbre|||427
+policy_uncertainty|||política|||cancelar|||1402
+policy_uncertainty|||regulaciones|||rescindir|||23
+policy_uncertainty|||legislación|||incierto|||82
+policy_uncertainty|||legislación|||desconocido|||62
+policy_uncertainty|||regulaciones|||suspender|||72
+policy_uncertainty|||legislación|||incierto|||82
+policy_uncertainty|||legislación|||impredecible|||28
+policy_uncertainty|||legislación|||diferir|||13
+policy_uncertainty|||legislación|||abolir|||17
+policy_uncertainty|||legislación|||vago|||5
+policy_uncertainty|||legislación|||ambiguo|||20
+policy_uncertainty|||políticas|||suspender|||778
+policy_uncertainty|||ley|||incertidumbre|||3268
+policy_uncertainty|||legislación|||posponer|||22
+policy_uncertainty|||legislación|||retrasar|||34
+policy_uncertainty|||legislación|||rescindir|||22
+policy_uncertainty|||legislación|||cancelar|||89
+policy_uncertainty|||ley|||vago|||88
+policy_uncertainty|||ley|||ambiguo|||153
+policy_uncertainty|||legislación|||retirar|||130
+policy_uncertainty|||legislación|||suspender|||182
+policy_uncertainty|||ley|||incierto|||786
+policy_uncertainty|||ley|||desconocido|||636
+policy_uncertainty|||ley|||incierto|||786
+policy_uncertainty|||ley|||diferir|||91
+policy_uncertainty|||ley|||cancelar|||765
+policy_uncertainty|||ley|||rescindir|||194
+policy_uncertainty|||ley|||impredecible|||172
+policy_uncertainty|||ley|||posponer|||173
+policy_uncertainty|||Congreso Nacional|||incierto|||363
+policy_uncertainty|||Congreso Nacional|||desconocido|||252
+policy_uncertainty|||ley|||retrasar|||194
+policy_uncertainty|||ley|||abolir|||92
+policy_uncertainty|||Congreso Nacional|||ambiguo|||78
+policy_uncertainty|||Congreso Nacional|||posponer|||60
+policy_uncertainty|||ley|||retirar|||1151
+policy_uncertainty|||ley|||suspender|||1971
+policy_uncertainty|||Congreso Nacional|||incierto|||363
+policy_uncertainty|||Congreso Nacional|||incertidumbre|||1356
+policy_uncertainty|||Congreso Nacional|||retrasar|||70
+policy_uncertainty|||Congreso Nacional|||abolir|||29
+policy_uncertainty|||Congreso Nacional|||cancelar|||258
+policy_uncertainty|||Congreso Nacional|||vago|||29
+policy_uncertainty|||Congreso Nacional|||impredecible|||70
+policy_uncertainty|||Congreso Nacional|||suspender|||798
+policy_uncertainty|||Presidente|||incierto|||1654
+policy_uncertainty|||Congreso Nacional|||diferir|||28
+policy_uncertainty|||Congreso Nacional|||rescindir|||25
+policy_uncertainty|||Presidente|||posponer|||314
+policy_uncertainty|||Congreso Nacional|||retirar|||360
+policy_uncertainty|||Presidente|||incertidumbre|||7409
+policy_uncertainty|||Presidente|||incierto|||1654
+policy_uncertainty|||Presidente|||vago|||211
+policy_uncertainty|||Presidente|||desconocido|||1319
+policy_uncertainty|||Presidente|||impredecible|||477
+policy_uncertainty|||Presidente|||ambiguo|||283
+policy_uncertainty|||Presidente|||diferir|||140
+policy_uncertainty|||Presidente|||retrasar|||297
+policy_uncertainty|||Presidente|||abolir|||124
+policy_uncertainty|||Presidente|||cancelar|||1268
+policy_uncertainty|||Presidente|||rescindir|||251
+policy_uncertainty|||Gabinete|||incierto|||456
+policy_uncertainty|||Presidente|||retirar|||1815
+policy_uncertainty|||Presidente|||suspender|||2921
+policy_uncertainty|||Gabinete|||incierto|||456
+policy_uncertainty|||Gabinete|||desconocido|||289
+policy_uncertainty|||Gabinete|||incertidumbre|||1869
+policy_uncertainty|||Gabinete|||vago|||59
+policy_uncertainty|||Ministro|||incertidumbre|||4197
+policy_uncertainty|||Ministro|||desconocido|||582
+policy_uncertainty|||Gabinete|||ambiguo|||78
+policy_uncertainty|||Gabinete|||diferir|||37
+policy_uncertainty|||Gabinete|||impredecible|||131
+policy_uncertainty|||Gabinete|||posponer|||111
+policy_uncertainty|||Gabinete|||retrasar|||72
+policy_uncertainty|||Gabinete|||abolir|||16
+policy_uncertainty|||Gabinete|||retirar|||386
+policy_uncertainty|||Gabinete|||rescindir|||58
+policy_uncertainty|||Ministro|||incierto|||867
+policy_uncertainty|||Gabinete|||cancelar|||344
+policy_uncertainty|||Gabinete|||suspender|||820
+policy_uncertainty|||Ministro|||incierto|||867
+policy_uncertainty|||Ministro|||posponer|||208
+policy_uncertainty|||Ministro|||rescindir|||98
+policy_uncertainty|||Ministro|||ambiguo|||157
+policy_uncertainty|||Ministro|||impredecible|||225
+policy_uncertainty|||Ministro|||vago|||103
+policy_uncertainty|||Ministro|||abolir|||51
+policy_uncertainty|||Ministro|||diferir|||111
+policy_uncertainty|||Ministro|||retrasar|||176
+policy_uncertainty|||Ministro|||cancelar|||902
+policy_uncertainty|||Senado|||vago|||34
+policy_uncertainty|||Senado|||ambiguo|||64
+policy_uncertainty|||Senado|||desconocido|||183
+policy_uncertainty|||Senado|||incierto|||358
+policy_uncertainty|||Ministro|||retirar|||981
+policy_uncertainty|||Ministro|||suspender|||1716
+policy_uncertainty|||Senado|||incierto|||358
+policy_uncertainty|||Senado|||incertidumbre|||1186
+policy_uncertainty|||Senado|||impredecible|||81
+policy_uncertainty|||Senado|||posponer|||72
+policy_uncertainty|||Senado|||retrasar|||57
+policy_uncertainty|||Senado|||abolir|||27
+policy_uncertainty|||Senado|||diferir|||14
+policy_uncertainty|||Cámara de Diputados|||incierto|||313
+policy_uncertainty|||Senado|||cancelar|||223
+policy_uncertainty|||Senado|||retirar|||301
+policy_uncertainty|||Senado|||suspender|||713
+policy_uncertainty|||Senado|||rescindir|||30
+policy_uncertainty|||Cámara de Diputados|||ambiguo|||64
+policy_uncertainty|||Cámara de Diputados|||impredecible|||75
+policy_uncertainty|||Cámara de Diputados|||vago|||21
+policy_uncertainty|||Cámara de Diputados|||incertidumbre|||1119
+policy_uncertainty|||Cámara de Diputados|||incierto|||313
+policy_uncertainty|||Cámara de Diputados|||posponer|||71
+policy_uncertainty|||Cámara de Diputados|||desconocido|||152
+policy_uncertainty|||gobierno|||incierto|||2057
+policy_uncertainty|||Cámara de Diputados|||retrasar|||44
+policy_uncertainty|||Cámara de Diputados|||abolir|||20
+policy_uncertainty|||Cámara de Diputados|||diferir|||20
+policy_uncertainty|||Cámara de Diputados|||suspender|||807
+policy_uncertainty|||Cámara de Diputados|||cancelar|||199
+policy_uncertainty|||Cámara de Diputados|||retirar|||278
+policy_uncertainty|||Cámara de Diputados|||rescindir|||30
+policy_uncertainty|||gobierno|||incertidumbre|||9664
+policy_uncertainty|||gobierno|||abolir|||136
+policy_uncertainty|||gobierno|||desconocido|||1497
+policy_uncertainty|||gobierno|||vago|||213
+policy_uncertainty|||gobierno|||ambiguo|||331
+policy_uncertainty|||gobierno|||posponer|||422
+policy_uncertainty|||gobierno|||incierto|||2057
+policy_uncertainty|||gobierno|||retrasar|||427
+policy_uncertainty|||gobierno|||diferir|||259
+policy_uncertainty|||gobierno|||impredecible|||536
+policy_uncertainty|||gobierno|||cancelar|||1930
+policy_uncertainty|||gobierno|||rescindir|||259
+policy_uncertainty|||gobierno|||retirar|||2562
+policy_uncertainty||| Secretaría de Ambiente y Desarrollo Sustentable|||incierto|||4
+policy_uncertainty|||gobierno|||suspender|||4082
+policy_uncertainty||| Secretaría de Ambiente y Desarrollo Sustentable|||incertidumbre|||8
+policy_uncertainty||| Secretaría de Ambiente y Desarrollo Sustentable|||diferir|||0
+policy_uncertainty||| Secretaría de Ambiente y Desarrollo Sustentable|||incierto|||4
+policy_uncertainty||| Secretaría de Ambiente y Desarrollo Sustentable|||cancelar|||0
+policy_uncertainty||| Secretaría de Ambiente y Desarrollo Sustentable|||retirar|||11
+policy_uncertainty||| Secretaría de Ambiente y Desarrollo Sustentable|||desconocido|||2
+policy_uncertainty||| Secretaría de Ambiente y Desarrollo Sustentable|||vago|||1
+policy_uncertainty||| Secretaría de Ambiente y Desarrollo Sustentable|||ambiguo|||0
+policy_uncertainty||| Secretaría de Ambiente y Desarrollo Sustentable|||retrasar|||0
+policy_uncertainty||| Secretaría de Ambiente y Desarrollo Sustentable|||impredecible|||1
+policy_uncertainty||| Secretaría de Ambiente y Desarrollo Sustentable|||abolir|||2
+policy_uncertainty||| Secretaría de Ambiente y Desarrollo Sustentable|||posponer|||0
+policy_uncertainty||| Secretaría de Energía|||incierto|||53
+policy_uncertainty||| Secretaría de Energía|||desconocido|||30
+policy_uncertainty||| Secretaría de Ambiente y Desarrollo Sustentable|||rescindir|||0
+policy_uncertainty||| Secretaría de Energía|||vago|||4
+policy_uncertainty||| Secretaría de Ambiente y Desarrollo Sustentable|||suspender|||12
+policy_uncertainty||| Secretaría de Energía|||incertidumbre|||253
+policy_uncertainty||| Secretaría de Energía|||rescindir|||5
+policy_uncertainty||| Secretaría de Energía|||incierto|||53
+policy_uncertainty||| Secretaría de Energía|||retirar|||83
+policy_uncertainty||| Secretaría de Energía|||suspender|||107
+policy_uncertainty||| Secretaría de Energía|||ambiguo|||5
+policy_uncertainty||| Secretaría de Energía|||impredecible|||6
+policy_uncertainty||| Secretaría de Energía|||posponer|||13
+policy_uncertainty||| Secretaría de Energía|||retrasar|||15
+policy_uncertainty||| Secretaría de Energía|||diferir|||21
+policy_uncertainty||| Secretaría de Energía|||abolir|||2
+policy_uncertainty||| Secretaría de Energía|||cancelar|||65
+policy_uncertainty|||Secretaría de Cambio Climático, Desarrollo Sostenible e Innovación|||desconocido|||0
+policy_uncertainty|||Secretaría de Cambio Climático, Desarrollo Sostenible e Innovación|||incierto|||0
+policy_uncertainty|||Secretaría de Cambio Climático, Desarrollo Sostenible e Innovación|||ambiguo|||0
+policy_uncertainty|||Secretaría de Cambio Climático, Desarrollo Sostenible e Innovación|||retrasar|||0
+policy_uncertainty|||Secretaría de Cambio Climático, Desarrollo Sostenible e Innovación|||incertidumbre|||4
+policy_uncertainty|||Secretaría de Cambio Climático, Desarrollo Sostenible e Innovación|||incierto|||0
+policy_uncertainty|||Secretaría de Cambio Climático, Desarrollo Sostenible e Innovación|||cancelar|||0
+policy_uncertainty|||Secretaría de Cambio Climático, Desarrollo Sostenible e Innovación|||vago|||0
+policy_uncertainty|||Secretaría de Cambio Climático, Desarrollo Sostenible e Innovación|||retirar|||0
+policy_uncertainty|||Secretaría de Cambio Climático, Desarrollo Sostenible e Innovación|||impredecible|||0
+policy_uncertainty|||Secretaría de Cambio Climático, Desarrollo Sostenible e Innovación|||suspender|||0
+policy_uncertainty|||Secretaría de Cambio Climático, Desarrollo Sostenible e Innovación|||posponer|||1
+policy_uncertainty|||Secretaría de Cambio Climático, Desarrollo Sostenible e Innovación|||diferir|||0
+policy_uncertainty|||Secretaría de Cambio Climático, Desarrollo Sostenible e Innovación|||abolir|||0
+policy_uncertainty|||Secretaría de Cambio Climático, Desarrollo Sostenible e Innovación|||rescindir|||0

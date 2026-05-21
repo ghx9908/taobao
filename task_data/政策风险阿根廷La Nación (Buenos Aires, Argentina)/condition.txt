@@ -1,0 +1,201 @@
+cambio climático|||política|||ambiguo
+cambio climático|||política|||diferir
+cambio climático|||política|||rescindir
+cambio climático|||política|||posponer
+cambio climático|||política|||incierto
+cambio climático|||política|||cancelar
+cambio climático|||política|||abolir
+cambio climático|||política|||desconocido
+cambio climático|||política|||retirar
+cambio climático|||política|||impredecible
+cambio climático|||política|||vago
+cambio climático|||política|||retrasar
+cambio climático|||política|||incierto
+cambio climático|||política|||suspender
+cambio climático|||políticas|||incierto
+cambio climático|||políticas|||impredecible
+cambio climático|||políticas|||abolir
+cambio climático|||políticas|||retirar
+cambio climático|||políticas|||suspender
+cambio climático|||políticas|||vago
+cambio climático|||políticas|||desconocido
+cambio climático|||políticas|||incierto
+cambio climático|||políticas|||ambiguo
+cambio climático|||políticas|||rescindir
+cambio climático|||políticas|||cancelar
+cambio climático|||políticas|||retrasar
+cambio climático|||políticas|||diferir
+cambio climático|||políticas|||posponer
+cambio climático|||regulación|||incertidumbre
+cambio climático|||regulación|||incierto
+cambio climático|||políticas|||incertidumbre
+cambio climático|||regulación|||desconocido
+cambio climático|||regulación|||vago
+cambio climático|||regulación|||impredecible
+cambio climático|||regulación|||incierto
+cambio climático|||regulación|||posponer
+cambio climático|||política|||incertidumbre
+cambio climático|||regulación|||ambiguo
+cambio climático|||regulación|||diferir
+cambio climático|||regulación|||retrasar
+cambio climático|||regulación|||abolir
+cambio climático|||regulación|||cancelar
+cambio climático|||regulación|||rescindir
+cambio climático|||regulaciones|||desconocido
+cambio climático|||regulación|||retirar
+cambio climático|||regulación|||suspender
+cambio climático|||regulaciones|||ambiguo
+cambio climático|||regulaciones|||impredecible
+cambio climático|||regulaciones|||incierto
+cambio climático|||regulaciones|||posponer
+cambio climático|||regulaciones|||incertidumbre
+cambio climático|||regulaciones|||incierto
+cambio climático|||regulaciones|||vago
+cambio climático|||regulaciones|||retrasar
+cambio climático|||regulaciones|||cancelar
+cambio climático|||regulaciones|||rescindir
+cambio climático|||regulaciones|||retirar
+cambio climático|||regulaciones|||suspender
+cambio climático|||legislación|||incierto
+cambio climático|||legislación|||incertidumbre
+cambio climático|||regulaciones|||diferir
+cambio climático|||regulaciones|||abolir
+cambio climático|||legislación|||ambiguo
+cambio climático|||legislación|||impredecible
+cambio climático|||legislación|||diferir
+cambio climático|||legislación|||incierto
+cambio climático|||legislación|||desconocido
+cambio climático|||legislación|||vago
+cambio climático|||legislación|||posponer
+cambio climático|||legislación|||retrasar
+cambio climático|||ley|||incierto
+cambio climático|||ley|||incierto
+cambio climático|||legislación|||abolir
+cambio climático|||ley|||desconocido
+cambio climático|||legislación|||rescindir
+cambio climático|||legislación|||cancelar
+cambio climático|||legislación|||suspender
+cambio climático|||legislación|||retirar
+cambio climático|||ley|||ambiguo
+cambio climático|||ley|||impredecible
+cambio climático|||ley|||incertidumbre
+cambio climático|||ley|||vago
+cambio climático|||ley|||cancelar
+cambio climático|||ley|||posponer
+cambio climático|||ley|||retrasar
+cambio climático|||ley|||abolir
+cambio climático|||Congreso Nacional|||incierto
+cambio climático|||ley|||diferir
+cambio climático|||Congreso Nacional|||vago
+cambio climático|||Congreso Nacional|||ambiguo
+cambio climático|||ley|||rescindir
+cambio climático|||ley|||retirar
+cambio climático|||Congreso Nacional|||incierto
+cambio climático|||ley|||suspender
+cambio climático|||Congreso Nacional|||retrasar
+cambio climático|||Congreso Nacional|||desconocido
+cambio climático|||Congreso Nacional|||incertidumbre
+cambio climático|||Congreso Nacional|||abolir
+cambio climático|||Congreso Nacional|||impredecible
+cambio climático|||Congreso Nacional|||posponer
+cambio climático|||Congreso Nacional|||diferir
+cambio climático|||Congreso Nacional|||rescindir
+cambio climático|||Congreso Nacional|||cancelar
+cambio climático|||Congreso Nacional|||retirar
+cambio climático|||Congreso Nacional|||suspender
+cambio climático|||Presidente|||incierto
+cambio climático|||Presidente|||retrasar
+cambio climático|||Presidente|||incierto
+cambio climático|||Presidente|||abolir
+cambio climático|||Presidente|||cancelar
+cambio climático|||Presidente|||ambiguo
+cambio climático|||Presidente|||desconocido
+cambio climático|||Presidente|||retirar
+cambio climático|||Presidente|||vago
+cambio climático|||Presidente|||impredecible
+cambio climático|||Presidente|||posponer
+cambio climático|||Presidente|||diferir
+cambio climático|||Gabinete|||incertidumbre
+cambio climático|||Presidente|||rescindir
+cambio climático|||Gabinete|||vago
+cambio climático|||Gabinete|||desconocido
+cambio climático|||Gabinete|||incierto
+cambio climático|||Presidente|||suspender
+cambio climático|||Presidente|||incertidumbre
+cambio climático|||Gabinete|||rescindir
+cambio climático|||Gabinete|||incierto
+cambio climático|||Gabinete|||cancelar
+cambio climático|||Gabinete|||retirar
+cambio climático|||Gabinete|||ambiguo
+cambio climático|||Gabinete|||impredecible
+cambio climático|||Gabinete|||posponer
+cambio climático|||Gabinete|||retrasar
+cambio climático|||Gabinete|||abolir
+cambio climático|||Gabinete|||diferir
+cambio climático|||Ministro|||incertidumbre
+cambio climático|||Ministro|||desconocido
+cambio climático|||Ministro|||impredecible
+cambio climático|||Ministro|||posponer
+cambio climático|||Ministro|||incierto
+cambio climático|||Gabinete|||suspender
+cambio climático|||Ministro|||retrasar
+cambio climático|||Ministro|||abolir
+cambio climático|||Ministro|||vago
+cambio climático|||Ministro|||incierto
+cambio climático|||Ministro|||ambiguo
+cambio climático|||Ministro|||suspender
+cambio climático|||Senado|||incertidumbre
+cambio climático|||Senado|||incierto
+cambio climático|||Ministro|||diferir
+cambio climático|||Senado|||incierto
+cambio climático|||Ministro|||rescindir
+cambio climático|||Ministro|||cancelar
+cambio climático|||Ministro|||retirar
+cambio climático|||Senado|||ambiguo
+cambio climático|||Senado|||desconocido
+cambio climático|||Senado|||retirar
+cambio climático|||Senado|||vago
+cambio climático|||Senado|||posponer
+cambio climático|||Senado|||retrasar
+cambio climático|||Senado|||impredecible
+cambio climático|||Senado|||abolir
+cambio climático|||Senado|||rescindir
+cambio climático|||Senado|||diferir
+cambio climático|||Senado|||cancelar
+cambio climático|||Cámara de Diputados|||vago
+cambio climático|||Cámara de Diputados|||ambiguo
+cambio climático|||Cámara de Diputados|||incierto
+cambio climático|||Cámara de Diputados|||impredecible
+cambio climático|||Senado|||suspender
+cambio climático|||Cámara de Diputados|||posponer
+cambio climático|||Cámara de Diputados|||incierto
+cambio climático|||Cámara de Diputados|||incertidumbre
+cambio climático|||Cámara de Diputados|||cancelar
+cambio climático|||Cámara de Diputados|||rescindir
+cambio climático|||Cámara de Diputados|||retirar
+cambio climático|||Cámara de Diputados|||desconocido
+cambio climático|||gobierno|||incierto
+cambio climático|||Cámara de Diputados|||retrasar
+cambio climático|||Cámara de Diputados|||diferir
+cambio climático|||Cámara de Diputados|||abolir
+cambio climático|||gobierno|||vago
+cambio climático|||gobierno|||ambiguo
+cambio climático|||Cámara de Diputados|||suspender
+cambio climático|||gobierno|||incierto
+cambio climático|||gobierno|||desconocido
+cambio climático|||gobierno|||impredecible
+cambio climático|||gobierno|||posponer
+cambio climático||| Secretaría de Ambiente y Desarrollo Sustentable|||incierto
+cambio climático|||gobierno|||retrasar
+cambio climático|||gobierno|||diferir
+cambio climático||| Secretaría de Ambiente y Desarrollo Sustentable|||incierto
+cambio climático|||gobierno|||abolir
+cambio climático|||gobierno|||cancelar
+cambio climático|||gobierno|||rescindir
+cambio climático|||gobierno|||retirar
+cambio climático||| Secretaría de Ambiente y Desarrollo Sustentable|||vago
+cambio climático|||gobierno|||suspender
+cambio climático||| Secretaría de Ambiente y Desarrollo Sustentable|||incertidumbre
+cambio climático||| Secretaría de Ambiente y Desarrollo Sustentable|||desconocido
+cambio climático||| Secretaría de Energía|||incierto
+cambio climático||| Secretaría de Energía|||vago

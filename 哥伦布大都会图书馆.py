@@ -135,6 +135,66 @@ account_configs = [
         'driver': None,
         'thread_id': 15
     },
+    {
+        'username': 'PACREG3448140',
+        'password': '1234',
+        'driver': None,
+        'thread_id': 16
+    },
+    {
+        'username': 'PACREG3448141',
+        'password': '1234',
+        'driver': None,
+        'thread_id': 17
+    },
+    {
+        'username': 'PACREG3448142',
+        'password': '1234',
+        'driver': None,
+        'thread_id': 18
+    },
+    {
+        'username': 'PACREG3448143',
+        'password': '1234',
+        'driver': None,
+        'thread_id': 19
+    },
+    {
+        'username': 'PACREG3448145',
+        'password': '1234',
+        'driver': None,
+        'thread_id': 20
+    },
+    {
+        'username': 'PACREG3448147',
+        'password': '1234',
+        'driver': None,
+        'thread_id': 21
+    },
+    {
+        'username': 'PACREG3448148',
+        'password': '1234',
+        'driver': None,
+        'thread_id': 22
+    },
+    {
+        'username': 'PACREG3448149',
+        'password': '1234',
+        'driver': None,
+        'thread_id': 23
+    },
+    {
+        'username': 'PACREG3448151',
+        'password': '1234',
+        'driver': None,
+        'thread_id': 24
+    },
+    {
+        'username': 'PACREG3448153',
+        'password': '1234',
+        'driver': None,
+        'thread_id': 25
+    },
 ]
 
 domain_url = 'https://infoweb-newsbank-com.webproxy3.columbuslibrary.org'
