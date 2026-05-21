@@ -904,3 +904,721 @@ inundación|||Ministro|||cancelar
 inundación|||Ministro|||incierto
 inundación|||Ministro|||incertidumbre
 inundación|||gobierno|||incertidumbre
+inundación|||Ministro|||desconocido
+inundación|||gobierno|||incierto
+inundación|||Ministro|||retirar
+inundación|||gobierno|||desconocido
+inundación|||gobierno|||impredecible
+inundación|||gobierno|||cancelar
+inundación|||Ministro|||suspender
+inundación|||gobierno|||retirar
+inundación|||Ministerio de Ambiente y Energía|||incertidumbre
+inundación|||gobierno|||incierto
+inundación|||Ministerio de Ambiente y Energía|||desconocido
+inundación|||gobierno|||suspender
+inundación|||Ministerio de Ambiente y Energía|||retirar
+inundación|||Ministerio de Ambiente y Energía|||incierto
+inundación|||Ministerio de Ambiente y Energía|||incierto
+inundación|||MINAE|||cancelar
+inundación|||Ministerio de Ambiente y Energía|||cancelar
+inundación|||Ministerio de Ambiente y Energía|||suspender
+energía verde|||política|||incierto
+inundación|||MINAE|||incierto
+inundación|||MINAE|||incertidumbre
+inundación|||MINAE|||incierto
+inundación|||MINAE|||desconocido
+inundación|||MINAE|||impredecible
+energía verde|||política|||incertidumbre
+energía verde|||política|||posponer
+energía verde|||política|||abolir
+inundación|||MINAE|||retirar
+inundación|||MINAE|||suspender
+energía verde|||política|||retirar
+energía verde|||política|||incierto
+energía verde|||políticas|||incierto
+energía verde|||política|||cancelar
+energía verde|||política|||suspender
+energía verde|||regulación|||posponer
+energía verde|||políticas|||incierto
+energía verde|||políticas|||incertidumbre
+energía verde|||políticas|||posponer
+energía verde|||políticas|||abolir
+energía verde|||políticas|||cancelar
+energía verde|||regulación|||cancelar
+energía verde|||políticas|||suspender
+energía verde|||políticas|||retirar
+energía verde|||regulación|||incierto
+energía verde|||regulación|||incertidumbre
+energía verde|||regulación|||incierto
+energía verde|||regulación|||suspender
+energía verde|||regulación|||retirar
+energía verde|||regulaciones|||cancelar
+energía verde|||regulaciones|||suspender
+energía verde|||legislación|||incierto
+energía verde|||legislación|||incertidumbre
+energía verde|||regulaciones|||incertidumbre
+energía verde|||regulaciones|||posponer
+energía verde|||legislación|||cancelar
+energía verde|||legislación|||retirar
+energía verde|||regulaciones|||retirar
+energía verde|||legislación|||suspender
+energía verde|||legislación|||incierto
+energía verde|||ley|||posponer
+energía verde|||ley|||abolir
+energía verde|||legislación|||posponer
+energía verde|||legislación|||abolir
+energía verde|||ley|||incierto
+energía verde|||ley|||incertidumbre
+energía verde|||ley|||incierto
+energía verde|||ley|||cancelar
+energía verde|||ley|||retirar
+energía verde|||Asamblea Legislativa|||cancelar
+energía verde|||ley|||suspender
+energía verde|||Presidente|||incierto
+energía verde|||Asamblea Legislativa|||incierto
+energía verde|||Asamblea Legislativa|||incierto
+energía verde|||Asamblea Legislativa|||incertidumbre
+energía verde|||Asamblea Legislativa|||posponer
+energía verde|||Asamblea Legislativa|||abolir
+energía verde|||Presidente|||incierto
+energía verde|||Presidente|||posponer
+energía verde|||Asamblea Legislativa|||retirar
+energía verde|||Asamblea Legislativa|||suspender
+energía verde|||Presidente|||abolir
+energía verde|||Presidente|||cancelar
+energía verde|||Presidente|||incertidumbre
+energía verde|||Presidente|||retirar
+energía verde|||Casa Presidencial|||incertidumbre
+energía verde|||Casa Presidencial|||incierto
+energía verde|||Casa Presidencial|||posponer
+energía verde|||Casa Presidencial|||retirar
+energía verde|||Presidente|||suspender
+energía verde|||Casa Presidencial|||incierto
+energía verde|||Ministro|||incierto
+energía verde|||Ministro|||posponer
+energía verde|||Casa Presidencial|||abolir
+energía verde|||Casa Presidencial|||cancelar
+energía verde|||Casa Presidencial|||suspender
+energía verde|||gobierno|||incertidumbre
+energía verde|||Ministro|||abolir
+energía verde|||Ministro|||incierto
+energía verde|||Ministro|||incertidumbre
+energía verde|||Ministro|||cancelar
+energía verde|||Ministro|||suspender
+energía verde|||gobierno|||posponer
+energía verde|||Ministro|||retirar
+energía verde|||gobierno|||abolir
+energía verde|||gobierno|||retirar
+energía verde|||gobierno|||suspender
+energía verde|||gobierno|||incierto
+energía verde|||Ministerio de Ambiente y Energía|||incierto
+energía verde|||Ministerio de Ambiente y Energía|||incertidumbre
+energía verde|||gobierno|||incierto
+energía verde|||Ministerio de Ambiente y Energía|||abolir
+energía verde|||Ministerio de Ambiente y Energía|||cancelar
+energía verde|||gobierno|||cancelar
+energía verde|||Ministerio de Ambiente y Energía|||suspender
+energía verde|||MINAE|||incertidumbre
+energía verde|||Ministerio de Ambiente y Energía|||incierto
+energía verde|||Ministerio de Ambiente y Energía|||posponer
+energía verde|||MINAE|||retirar
+energía verde|||MINAE|||incierto
+energía renovable|||política|||incierto
+energía renovable|||política|||incierto
+energía verde|||MINAE|||incierto
+energía verde|||MINAE|||abolir
+energía verde|||MINAE|||cancelar
+energía verde|||MINAE|||posponer
+energía verde|||MINAE|||suspender
+energía renovable|||política|||cancelar
+energía renovable|||política|||retirar
+energía renovable|||política|||diferir
+energía renovable|||política|||posponer
+energía renovable|||políticas|||incierto
+energía renovable|||política|||abolir
+energía renovable|||políticas|||posponer
+energía renovable|||políticas|||cancelar
+energía renovable|||regulación|||incierto
+energía renovable|||políticas|||incierto
+energía renovable|||políticas|||diferir
+energía renovable|||regulación|||diferir
+energía verde|||Ministerio de Ambiente y Energía|||retirar
+energía renovable|||políticas|||abolir
+energía renovable|||políticas|||retirar
+energía renovable|||regulaciones|||posponer
+energía renovable|||regulaciones|||diferir
+energía renovable|||regulaciones|||cancelar
+energía renovable|||regulación|||incierto
+energía renovable|||regulaciones|||retirar
+energía renovable|||regulación|||posponer
+energía renovable|||legislación|||incierto
+energía renovable|||regulación|||cancelar
+energía renovable|||legislación|||posponer
+energía renovable|||regulación|||retirar
+energía renovable|||legislación|||incierto
+energía renovable|||legislación|||cancelar
+energía renovable|||legislación|||retirar
+energía renovable|||legislación|||abolir
+energía renovable|||ley|||incierto
+energía renovable|||ley|||diferir
+energía renovable|||ley|||incierto
+energía renovable|||ley|||posponer
+energía renovable|||ley|||abolir
+energía renovable|||Asamblea Legislativa|||posponer
+energía renovable|||ley|||retirar
+energía renovable|||Asamblea Legislativa|||incierto
+energía renovable|||ley|||cancelar
+energía renovable|||Asamblea Legislativa|||incierto
+energía renovable|||Presidente|||incierto
+energía renovable|||Asamblea Legislativa|||diferir
+energía renovable|||Presidente|||incierto
+energía renovable|||Asamblea Legislativa|||abolir
+energía renovable|||Asamblea Legislativa|||cancelar
+energía renovable|||Asamblea Legislativa|||retirar
+energía renovable|||Presidente|||abolir
+energía renovable|||Presidente|||cancelar
+energía renovable|||Casa Presidencial|||incierto
+energía renovable|||Casa Presidencial|||incierto
+energía renovable|||Casa Presidencial|||posponer
+energía renovable|||Casa Presidencial|||diferir
+energía renovable|||Presidente|||diferir
+energía renovable|||Presidente|||posponer
+energía renovable|||Casa Presidencial|||abolir
+energía renovable|||Casa Presidencial|||cancelar
+energía renovable|||Presidente|||retirar
+energía renovable|||Casa Presidencial|||retirar
+energía renovable|||Ministro|||incierto
+energía renovable|||Ministro|||incierto
+energía renovable|||Ministro|||posponer
+energía renovable|||Ministro|||abolir
+energía renovable|||Ministro|||retirar
+energía renovable|||gobierno|||diferir
+energía renovable|||gobierno|||posponer
+energía renovable|||Ministro|||diferir
+energía renovable|||Ministro|||cancelar
+energía renovable|||Ministerio de Ambiente y Energía|||incierto
+energía renovable|||gobierno|||incierto
+energía renovable|||gobierno|||abolir
+energía renovable|||gobierno|||retirar
+energía renovable|||Ministerio de Ambiente y Energía|||incierto
+energía renovable|||gobierno|||cancelar
+energía renovable|||Ministerio de Ambiente y Energía|||abolir
+energía renovable|||gobierno|||incierto
+energía renovable|||Ministerio de Ambiente y Energía|||posponer
+energía renovable|||Ministerio de Ambiente y Energía|||cancelar
+energía renovable|||MINAE|||abolir
+energía renovable|||Ministerio de Ambiente y Energía|||retirar
+energía renovable|||MINAE|||incierto
+energía renovable|||MINAE|||incierto
+energía renovable|||MINAE|||posponer
+energía limpia|||política|||incertidumbre
+energía renovable|||MINAE|||cancelar
+energía limpia|||política|||abolir
+energía limpia|||política|||rescindir
+energía limpia|||política|||retirar
+energía limpia|||políticas|||abolir
+energía limpia|||políticas|||rescindir
+energía limpia|||políticas|||retirar
+energía renovable|||MINAE|||retirar
+energía limpia|||regulación|||incertidumbre
+energía limpia|||regulación|||retirar
+energía limpia|||políticas|||incertidumbre
+energía limpia|||regulaciones|||incertidumbre
+energía limpia|||ley|||rescindir
+energía limpia|||Asamblea Legislativa|||abolir
+energía limpia|||legislación|||incertidumbre
+energía limpia|||legislación|||abolir
+energía limpia|||regulaciones|||retirar
+energía limpia|||legislación|||retirar
+energía limpia|||legislación|||rescindir
+energía limpia|||ley|||abolir
+energía limpia|||Presidente|||incertidumbre
+energía limpia|||ley|||incertidumbre
+energía limpia|||ley|||retirar
+energía limpia|||Presidente|||rescindir
+energía limpia|||Asamblea Legislativa|||rescindir
+energía limpia|||Asamblea Legislativa|||incertidumbre
+energía limpia|||Asamblea Legislativa|||retirar
+energía limpia|||Presidente|||retirar
+energía limpia|||Presidente|||abolir
+energía limpia|||Casa Presidencial|||abolir
+energía limpia|||Casa Presidencial|||retirar
+energía limpia|||Ministro|||incertidumbre
+energía limpia|||Ministro|||abolir
+energía limpia|||Ministro|||rescindir
+energía limpia|||Ministro|||retirar
+energía limpia|||gobierno|||incertidumbre
+energía limpia|||Casa Presidencial|||incertidumbre
+energía limpia|||Casa Presidencial|||rescindir
+energía limpia|||gobierno|||retirar
+energía limpia|||Ministerio de Ambiente y Energía|||rescindir
+energía limpia|||gobierno|||rescindir
+energía limpia|||Ministerio de Ambiente y Energía|||abolir
+energía limpia|||gobierno|||abolir
+energía limpia|||Ministerio de Ambiente y Energía|||incertidumbre
+energía limpia|||Ministerio de Ambiente y Energía|||retirar
+energía solar|||política|||desconocido
+energía limpia|||MINAE|||abolir
+energía solar|||política|||abolir
+energía limpia|||MINAE|||incertidumbre
+energía limpia|||MINAE|||retirar
+energía limpia|||MINAE|||rescindir
+energía solar|||política|||incierto
+energía solar|||política|||incertidumbre
+energía solar|||política|||incierto
+energía solar|||política|||retirar
+energía solar|||política|||suspender
+energía solar|||políticas|||incertidumbre
+energía solar|||política|||cancelar
+energía solar|||políticas|||incierto
+energía solar|||políticas|||desconocido
+energía solar|||políticas|||abolir
+energía solar|||políticas|||cancelar
+energía solar|||políticas|||retirar
+energía solar|||políticas|||suspender
+energía solar|||regulación|||incertidumbre
+energía solar|||políticas|||incierto
+energía solar|||regulación|||incierto
+energía solar|||regulación|||desconocido
+energía solar|||regulación|||cancelar
+energía solar|||regulaciones|||incertidumbre
+energía solar|||regulación|||incierto
+energía solar|||regulaciones|||retirar
+energía solar|||legislación|||incierto
+energía solar|||legislación|||desconocido
+energía solar|||regulación|||suspender
+energía solar|||regulación|||retirar
+energía solar|||legislación|||cancelar
+energía solar|||regulaciones|||cancelar
+energía solar|||legislación|||suspender
+energía solar|||regulaciones|||suspender
+energía solar|||legislación|||incierto
+energía solar|||legislación|||incertidumbre
+energía solar|||ley|||incierto
+energía solar|||ley|||incertidumbre
+energía solar|||ley|||incierto
+energía solar|||legislación|||abolir
+energía solar|||legislación|||retirar
+energía solar|||ley|||abolir
+energía solar|||ley|||cancelar
+energía solar|||ley|||retirar
+energía solar|||ley|||desconocido
+energía solar|||Presidente|||incertidumbre
+energía solar|||ley|||suspender
+energía solar|||Presidente|||abolir
+energía solar|||Asamblea Legislativa|||incertidumbre
+energía solar|||Asamblea Legislativa|||incierto
+energía solar|||Asamblea Legislativa|||desconocido
+energía solar|||Asamblea Legislativa|||incierto
+energía solar|||Asamblea Legislativa|||abolir
+energía solar|||Asamblea Legislativa|||cancelar
+energía solar|||Asamblea Legislativa|||suspender
+energía solar|||Asamblea Legislativa|||retirar
+energía solar|||Presidente|||incierto
+energía solar|||Presidente|||cancelar
+energía solar|||Presidente|||desconocido
+energía solar|||Presidente|||incierto
+energía solar|||Presidente|||suspender
+energía solar|||Casa Presidencial|||incierto
+energía solar|||Casa Presidencial|||incertidumbre
+energía solar|||Casa Presidencial|||incierto
+energía solar|||Casa Presidencial|||retirar
+energía solar|||Casa Presidencial|||suspender
+energía solar|||Ministro|||incierto
+energía solar|||Ministro|||incertidumbre
+energía solar|||Ministro|||incierto
+energía solar|||Presidente|||retirar
+energía solar|||Casa Presidencial|||cancelar
+energía solar|||Casa Presidencial|||abolir
+energía solar|||Casa Presidencial|||desconocido
+energía solar|||Ministro|||cancelar
+energía solar|||gobierno|||incierto
+energía solar|||Ministro|||suspender
+energía solar|||gobierno|||incertidumbre
+energía solar|||gobierno|||incierto
+energía solar|||Ministro|||desconocido
+energía solar|||gobierno|||abolir
+energía solar|||gobierno|||cancelar
+energía solar|||Ministro|||abolir
+energía solar|||gobierno|||retirar
+energía solar|||Ministro|||retirar
+energía solar|||gobierno|||suspender
+energía solar|||gobierno|||desconocido
+energía solar|||Ministerio de Ambiente y Energía|||incierto
+energía solar|||Ministerio de Ambiente y Energía|||desconocido
+energía solar|||Ministerio de Ambiente y Energía|||cancelar
+energía solar|||Ministerio de Ambiente y Energía|||retirar
+energía solar|||MINAE|||incertidumbre
+energía solar|||Ministerio de Ambiente y Energía|||incertidumbre
+energía solar|||Ministerio de Ambiente y Energía|||incierto
+energía solar|||MINAE|||desconocido
+energía solar|||Ministerio de Ambiente y Energía|||abolir
+energía solar|||MINAE|||cancelar
+energía solar|||Ministerio de Ambiente y Energía|||suspender
+energía solar|||MINAE|||suspender
+energía hidroeléctrica|||política|||incierto
+energía solar|||MINAE|||retirar
+energía solar|||MINAE|||incierto
+energía solar|||MINAE|||incierto
+energía solar|||MINAE|||abolir
+energía hidroeléctrica|||política|||retirar
+energía hidroeléctrica|||política|||cancelar
+energía hidroeléctrica|||políticas|||incierto
+energía hidroeléctrica|||políticas|||incertidumbre
+energía hidroeléctrica|||política|||incertidumbre
+energía hidroeléctrica|||regulación|||incierto
+energía hidroeléctrica|||regulación|||incertidumbre
+energía hidroeléctrica|||política|||incierto
+energía hidroeléctrica|||regulación|||cancelar
+energía hidroeléctrica|||regulación|||retirar
+energía hidroeléctrica|||política|||suspender
+energía hidroeléctrica|||regulación|||suspender
+energía hidroeléctrica|||políticas|||incierto
+energía hidroeléctrica|||regulaciones|||incertidumbre
+energía hidroeléctrica|||políticas|||cancelar
+energía hidroeléctrica|||políticas|||suspender
+energía hidroeléctrica|||políticas|||retirar
+energía hidroeléctrica|||regulación|||incierto
+energía hidroeléctrica|||regulaciones|||retirar
+energía hidroeléctrica|||regulaciones|||suspender
+energía hidroeléctrica|||legislación|||incierto
+energía hidroeléctrica|||legislación|||incertidumbre
+energía hidroeléctrica|||legislación|||incierto
+energía hidroeléctrica|||regulaciones|||cancelar
+energía hidroeléctrica|||legislación|||cancelar
+energía hidroeléctrica|||legislación|||retirar
+energía hidroeléctrica|||ley|||incierto
+energía hidroeléctrica|||ley|||incertidumbre
+energía hidroeléctrica|||ley|||incierto
+energía hidroeléctrica|||ley|||suspender
+energía hidroeléctrica|||Asamblea Legislativa|||incertidumbre
+energía hidroeléctrica|||Asamblea Legislativa|||incierto
+energía hidroeléctrica|||Asamblea Legislativa|||cancelar
+energía hidroeléctrica|||legislación|||suspender
+energía hidroeléctrica|||ley|||retirar
+energía hidroeléctrica|||ley|||cancelar
+energía hidroeléctrica|||Asamblea Legislativa|||incierto
+energía hidroeléctrica|||Asamblea Legislativa|||suspender
+energía hidroeléctrica|||Presidente|||incertidumbre
+energía hidroeléctrica|||Presidente|||incierto
+energía hidroeléctrica|||Presidente|||cancelar
+energía hidroeléctrica|||Presidente|||incierto
+energía hidroeléctrica|||Casa Presidencial|||incierto
+energía hidroeléctrica|||Presidente|||retirar
+energía hidroeléctrica|||Casa Presidencial|||incertidumbre
+energía hidroeléctrica|||Casa Presidencial|||retirar
+energía hidroeléctrica|||Ministro|||incierto
+energía hidroeléctrica|||Ministro|||incertidumbre
+energía hidroeléctrica|||Asamblea Legislativa|||retirar
+energía hidroeléctrica|||Ministro|||incierto
+energía hidroeléctrica|||Ministro|||cancelar
+energía hidroeléctrica|||Ministro|||suspender
+energía hidroeléctrica|||Presidente|||suspender
+energía hidroeléctrica|||Casa Presidencial|||incierto
+energía hidroeléctrica|||Casa Presidencial|||suspender
+energía hidroeléctrica|||gobierno|||incierto
+energía hidroeléctrica|||gobierno|||incierto
+energía hidroeléctrica|||Casa Presidencial|||cancelar
+energía hidroeléctrica|||gobierno|||cancelar
+energía hidroeléctrica|||Ministro|||retirar
+energía hidroeléctrica|||gobierno|||retirar
+energía hidroeléctrica|||gobierno|||suspender
+energía hidroeléctrica|||Ministerio de Ambiente y Energía|||incierto
+energía hidroeléctrica|||gobierno|||incertidumbre
+energía hidroeléctrica|||Ministerio de Ambiente y Energía|||retirar
+energía hidroeléctrica|||MINAE|||incierto
+energía hidroeléctrica|||Ministerio de Ambiente y Energía|||suspender
+energía hidroeléctrica|||MINAE|||incierto
+energía hidroeléctrica|||MINAE|||cancelar
+energía hidroeléctrica|||MINAE|||retirar
+energía hidroeléctrica|||MINAE|||suspender
+energía hidroeléctrica|||Ministerio de Ambiente y Energía|||cancelar
+energía hidroeléctrica|||Ministerio de Ambiente y Energía|||incertidumbre
+energía eólica|||política|||incertidumbre
+energía hidroeléctrica|||Ministerio de Ambiente y Energía|||incierto
+energía eólica|||política|||incierto
+energía hidroeléctrica|||MINAE|||incertidumbre
+energía eólica|||política|||abolir
+energía eólica|||política|||rescindir
+energía eólica|||política|||incierto
+energía eólica|||política|||retirar
+energía eólica|||políticas|||incierto
+energía eólica|||políticas|||incertidumbre
+energía eólica|||políticas|||incierto
+energía eólica|||políticas|||posponer
+energía eólica|||políticas|||abolir
+energía eólica|||políticas|||cancelar
+energía eólica|||política|||posponer
+energía eólica|||políticas|||rescindir
+energía eólica|||política|||cancelar
+energía eólica|||regulación|||incierto
+energía eólica|||regulación|||incertidumbre
+energía eólica|||regulación|||incierto
+energía eólica|||regulación|||cancelar
+energía eólica|||regulación|||retirar
+energía eólica|||políticas|||retirar
+energía eólica|||legislación|||incierto
+energía eólica|||legislación|||incertidumbre
+energía eólica|||legislación|||posponer
+energía eólica|||legislación|||abolir
+energía eólica|||legislación|||cancelar
+energía eólica|||legislación|||rescindir
+energía eólica|||legislación|||retirar
+energía eólica|||regulación|||posponer
+energía eólica|||ley|||incertidumbre
+energía eólica|||ley|||incierto
+energía eólica|||ley|||posponer
+energía eólica|||legislación|||incierto
+energía eólica|||ley|||abolir
+energía eólica|||Asamblea Legislativa|||incierto
+energía eólica|||Asamblea Legislativa|||incertidumbre
+energía eólica|||Asamblea Legislativa|||posponer
+energía eólica|||ley|||incierto
+energía eólica|||Asamblea Legislativa|||abolir
+energía eólica|||Asamblea Legislativa|||cancelar
+energía eólica|||Presidente|||incierto
+energía eólica|||Presidente|||incertidumbre
+energía eólica|||ley|||rescindir
+energía eólica|||ley|||retirar
+energía eólica|||ley|||cancelar
+energía eólica|||Asamblea Legislativa|||incierto
+energía eólica|||Presidente|||posponer
+energía eólica|||Presidente|||abolir
+energía eólica|||Presidente|||retirar
+energía eólica|||Asamblea Legislativa|||rescindir
+energía eólica|||Asamblea Legislativa|||retirar
+energía eólica|||Presidente|||incierto
+energía eólica|||Casa Presidencial|||posponer
+energía eólica|||Casa Presidencial|||abolir
+energía eólica|||Casa Presidencial|||cancelar
+energía eólica|||Casa Presidencial|||rescindir
+energía eólica|||Presidente|||rescindir
+energía eólica|||Presidente|||cancelar
+energía eólica|||Casa Presidencial|||retirar
+energía eólica|||Ministro|||incierto
+energía eólica|||Casa Presidencial|||incierto
+energía eólica|||Ministro|||incertidumbre
+energía eólica|||Casa Presidencial|||incertidumbre
+energía eólica|||Casa Presidencial|||incierto
+energía eólica|||Ministro|||incierto
+energía eólica|||Ministro|||abolir
+energía eólica|||Ministro|||cancelar
+energía eólica|||Ministro|||rescindir
+energía eólica|||gobierno|||incierto
+energía eólica|||Ministro|||retirar
+energía eólica|||gobierno|||posponer
+energía eólica|||gobierno|||abolir
+energía eólica|||gobierno|||cancelar
+energía eólica|||gobierno|||rescindir
+energía eólica|||Ministro|||posponer
+energía eólica|||gobierno|||retirar
+energía eólica|||Ministerio de Ambiente y Energía|||incierto
+energía eólica|||Ministerio de Ambiente y Energía|||incertidumbre
+energía eólica|||gobierno|||incierto
+energía eólica|||gobierno|||incertidumbre
+energía eólica|||Ministerio de Ambiente y Energía|||abolir
+energía eólica|||Ministerio de Ambiente y Energía|||cancelar
+energía eólica|||Ministerio de Ambiente y Energía|||rescindir
+energía eólica|||Ministerio de Ambiente y Energía|||retirar
+energía eólica|||MINAE|||incierto
+energía eólica|||MINAE|||posponer
+energía eólica|||MINAE|||abolir
+energía eólica|||Ministerio de Ambiente y Energía|||incierto
+energía eólica|||MINAE|||rescindir
+energía eólica|||Ministerio de Ambiente y Energía|||posponer
+energía geotérmica|||política|||incierto
+energía eólica|||MINAE|||incertidumbre
+energía eólica|||MINAE|||incierto
+energía geotérmica|||política|||posponer
+energía geotérmica|||política|||cancelar
+energía eólica|||MINAE|||cancelar
+energía geotérmica|||políticas|||incertidumbre
+energía eólica|||MINAE|||retirar
+energía geotérmica|||políticas|||posponer
+energía geotérmica|||política|||incertidumbre
+energía geotérmica|||políticas|||cancelar
+energía geotérmica|||regulación|||incierto
+energía geotérmica|||política|||incierto
+energía geotérmica|||políticas|||incierto
+energía geotérmica|||regulación|||incierto
+energía geotérmica|||regulación|||posponer
+energía geotérmica|||regulación|||cancelar
+energía geotérmica|||legislación|||incierto
+energía geotérmica|||políticas|||incierto
+energía geotérmica|||legislación|||incertidumbre
+energía geotérmica|||legislación|||incierto
+energía geotérmica|||legislación|||posponer
+energía geotérmica|||regulación|||incertidumbre
+energía geotérmica|||legislación|||cancelar
+energía geotérmica|||ley|||incertidumbre
+energía geotérmica|||ley|||incierto
+energía geotérmica|||ley|||cancelar
+energía geotérmica|||Asamblea Legislativa|||incierto
+energía geotérmica|||Asamblea Legislativa|||incierto
+energía geotérmica|||Asamblea Legislativa|||posponer
+energía geotérmica|||Asamblea Legislativa|||cancelar
+energía geotérmica|||Presidente|||incierto
+energía geotérmica|||ley|||incierto
+energía geotérmica|||Presidente|||incertidumbre
+energía geotérmica|||Presidente|||incierto
+energía geotérmica|||Presidente|||posponer
+energía geotérmica|||ley|||posponer
+energía geotérmica|||Casa Presidencial|||incierto
+energía geotérmica|||Asamblea Legislativa|||incertidumbre
+energía geotérmica|||Casa Presidencial|||incertidumbre
+energía geotérmica|||Casa Presidencial|||posponer
+energía geotérmica|||Casa Presidencial|||cancelar
+energía geotérmica|||Ministro|||incierto
+energía geotérmica|||Ministro|||posponer
+energía geotérmica|||Presidente|||cancelar
+energía geotérmica|||gobierno|||incertidumbre
+energía geotérmica|||gobierno|||incierto
+energía geotérmica|||Casa Presidencial|||incierto
+energía geotérmica|||gobierno|||cancelar
+energía geotérmica|||Ministerio de Ambiente y Energía|||incierto
+energía geotérmica|||Ministro|||incertidumbre
+energía geotérmica|||Ministro|||incierto
+energía geotérmica|||Ministro|||cancelar
+energía geotérmica|||Ministerio de Ambiente y Energía|||incertidumbre
+energía geotérmica|||Ministerio de Ambiente y Energía|||incierto
+energía geotérmica|||gobierno|||incierto
+energía geotérmica|||Ministerio de Ambiente y Energía|||cancelar
+energía geotérmica|||MINAE|||incierto
+energía geotérmica|||gobierno|||posponer
+energía geotérmica|||MINAE|||incierto
+energía geotérmica|||MINAE|||cancelar
+IPCC|||política|||incertidumbre
+IPCC|||políticas|||incertidumbre
+IPCC|||legislación|||incertidumbre
+energía geotérmica|||Ministerio de Ambiente y Energía|||posponer
+IPCC|||ley|||incertidumbre
+IPCC|||ley|||abolir
+energía geotérmica|||MINAE|||incertidumbre
+energía geotérmica|||MINAE|||posponer
+IPCC|||Presidente|||abolir
+IPCC|||política|||abolir
+IPCC|||Ministro|||incertidumbre
+IPCC|||Ministro|||abolir
+IPCC|||regulación|||incertidumbre
+IPCC|||políticas|||abolir
+IPCC|||gobierno|||incertidumbre
+IPCC|||legislación|||abolir
+IPCC|||gobierno|||abolir
+IPCC|||Presidente|||incertidumbre
+IPCC|||MINAE|||incertidumbre
+COP|||política|||abolir
+COP|||política|||suspender
+COP|||políticas|||abolir
+COP|||políticas|||suspender
+COP|||ley|||abolir
+COP|||ley|||suspender
+IPCC|||Ministerio de Ambiente y Energía|||incertidumbre
+COP|||Presidente|||suspender
+IPCC|||Ministerio de Ambiente y Energía|||abolir
+COP|||Ministro|||abolir
+IPCC|||MINAE|||abolir
+COP|||Ministro|||suspender
+COP|||gobierno|||abolir
+COP|||Ministerio de Ambiente y Energía|||abolir
+COP|||MINAE|||abolir
+COP|||Presidente|||abolir
+COP|||MINAE|||suspender
+Acuerdo de París|||política|||incierto
+Acuerdo de París|||política|||incertidumbre
+Acuerdo de París|||política|||incierto
+Acuerdo de París|||política|||desconocido
+Acuerdo de París|||política|||retrasar
+Acuerdo de París|||política|||abolir
+Acuerdo de París|||política|||suspender
+COP|||gobierno|||suspender
+Acuerdo de París|||políticas|||incierto
+COP|||Ministerio de Ambiente y Energía|||suspender
+Acuerdo de París|||políticas|||incertidumbre
+Acuerdo de París|||políticas|||incierto
+Acuerdo de París|||política|||cancelar
+Acuerdo de París|||políticas|||cancelar
+Acuerdo de París|||regulación|||incierto
+Acuerdo de París|||regulación|||desconocido
+Acuerdo de París|||regulación|||cancelar
+Acuerdo de París|||políticas|||retrasar
+Acuerdo de París|||políticas|||desconocido
+Acuerdo de París|||regulación|||suspender
+Acuerdo de París|||políticas|||abolir
+Acuerdo de París|||políticas|||suspender
+Acuerdo de París|||regulaciones|||retrasar
+Acuerdo de París|||regulación|||incierto
+Acuerdo de París|||regulación|||incertidumbre
+Acuerdo de París|||regulaciones|||cancelar
+Acuerdo de París|||regulaciones|||suspender
+Acuerdo de París|||regulación|||retrasar
+Acuerdo de París|||regulaciones|||incertidumbre
+Acuerdo de París|||legislación|||incierto
+Acuerdo de París|||legislación|||retrasar
+Acuerdo de París|||legislación|||cancelar
+Acuerdo de París|||legislación|||incierto
+Acuerdo de París|||legislación|||suspender
+Acuerdo de París|||ley|||incierto
+Acuerdo de París|||legislación|||incertidumbre
+Acuerdo de París|||legislación|||desconocido
+Acuerdo de París|||legislación|||abolir
+Acuerdo de París|||ley|||incierto
+Acuerdo de París|||ley|||incertidumbre
+Acuerdo de París|||ley|||suspender
+Acuerdo de París|||Asamblea Legislativa|||incierto
+Acuerdo de París|||Asamblea Legislativa|||incertidumbre
+Acuerdo de París|||Asamblea Legislativa|||desconocido
+Acuerdo de París|||ley|||cancelar
+Acuerdo de París|||Asamblea Legislativa|||incierto
+Acuerdo de París|||Asamblea Legislativa|||retrasar
+Acuerdo de París|||ley|||abolir
+Acuerdo de París|||Presidente|||incertidumbre
+Acuerdo de París|||ley|||retrasar
+Acuerdo de París|||Presidente|||incierto
+Acuerdo de París|||Asamblea Legislativa|||abolir
+Acuerdo de París|||ley|||desconocido
+Acuerdo de París|||Presidente|||desconocido
+Acuerdo de París|||Presidente|||incierto
+Acuerdo de París|||Asamblea Legislativa|||suspender
+Acuerdo de París|||Casa Presidencial|||incierto
+Acuerdo de París|||Presidente|||suspender
+Acuerdo de París|||Casa Presidencial|||desconocido
+Acuerdo de París|||Presidente|||abolir
+Acuerdo de París|||Asamblea Legislativa|||cancelar
+Acuerdo de París|||Presidente|||retrasar
+Acuerdo de París|||Casa Presidencial|||retrasar
+Acuerdo de París|||Casa Presidencial|||suspender
+Acuerdo de París|||Ministro|||incierto
+Acuerdo de París|||Casa Presidencial|||incierto
+Acuerdo de París|||Casa Presidencial|||incertidumbre
+Acuerdo de París|||Presidente|||cancelar
+Acuerdo de París|||Casa Presidencial|||abolir
+Acuerdo de París|||Ministro|||desconocido
+Acuerdo de París|||Ministro|||abolir
+Acuerdo de París|||Ministro|||cancelar
+Acuerdo de París|||Ministro|||retrasar
+Acuerdo de París|||Ministro|||suspender
+Acuerdo de París|||Casa Presidencial|||cancelar
+Acuerdo de París|||gobierno|||incierto
+Acuerdo de París|||gobierno|||incertidumbre
+Acuerdo de París|||gobierno|||incierto
+Acuerdo de París|||Ministro|||incierto
+Acuerdo de París|||Ministro|||incertidumbre
+Acuerdo de París|||gobierno|||retrasar
+Acuerdo de París|||gobierno|||cancelar
+Acuerdo de París|||Ministerio de Ambiente y Energía|||abolir
+Acuerdo de París|||Ministerio de Ambiente y Energía|||desconocido
+Acuerdo de París|||Ministerio de Ambiente y Energía|||cancelar
+Acuerdo de París|||Ministerio de Ambiente y Energía|||suspender
+Acuerdo de París|||MINAE|||incierto
+Acuerdo de París|||gobierno|||desconocido
+Acuerdo de París|||gobierno|||abolir
+Acuerdo de París|||gobierno|||suspender
+Acuerdo de París|||MINAE|||incertidumbre
+Acuerdo de París|||MINAE|||incierto
+Acuerdo de París|||Ministerio de Ambiente y Energía|||incierto
+Acuerdo de París|||Ministerio de Ambiente y Energía|||incierto
+Acuerdo de París|||MINAE|||desconocido
+Acuerdo de París|||Ministerio de Ambiente y Energía|||incertidumbre
+Acuerdo de París|||MINAE|||abolir
+Acuerdo de París|||MINAE|||cancelar
+Acuerdo de París|||MINAE|||suspender
