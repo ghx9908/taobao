@@ -254,3 +254,670 @@ climate_policy|||bono verde|||individuo|||0
 climate_policy|||crédito verde|||inversor|||10
 climate_policy|||crédito verde|||institución financiera|||6
 climate_policy|||crédito verde|||compañía|||8
+climate_policy|||ESG|||tomador de decisiones|||0
+climate_policy|||crédito verde|||empresa|||44
+climate_policy|||ESG|||institución financiera|||6
+climate_policy|||ESG|||hogar|||3
+climate_policy|||crédito verde|||cliente|||12
+climate_policy|||crédito verde|||tomador de decisiones|||0
+climate_policy|||ESG|||inversor|||6
+climate_uncertainty|||desarrollo verde|||aceptar|||20
+climate_policy|||ESG|||compañía|||9
+climate_policy|||ESG|||consumidor|||3
+climate_policy|||crédito verde|||residente|||2
+climate_policy|||ESG|||individuo|||0
+climate_uncertainty|||desarrollo verde|||aprobar|||14
+climate_policy|||ESG|||público|||21
+climate_policy|||crédito verde|||consumidor|||9
+climate_policy|||ESG|||cliente|||7
+climate_uncertainty|||desarrollo verde|||apoyar|||47
+climate_policy|||crédito verde|||público|||41
+climate_policy|||crédito verde|||hogar|||5
+climate_policy|||crédito verde|||individuo|||3
+climate_uncertainty|||desarrollo verde|||encantar|||3
+climate_uncertainty|||desarrollo verde|||favorecer|||16
+climate_uncertainty|||desarrollo verde|||respaldar|||6
+climate_uncertainty|||desarrollo verde|||prioridad|||38
+climate_uncertainty|||desarrollo verde|||entusias|||0
+climate_uncertainty|||desarrollo verde|||confiar|||5
+climate_uncertainty|||desarrollo verde|||gustar|||2
+climate_uncertainty|||desarrollo verde|||priorizar|||18
+climate_uncertainty|||desarrollo verde|||apreciar|||9
+climate_policy|||ESG|||empresa|||0
+climate_uncertainty|||desarrollo verde|||preferir|||2
+climate_uncertainty|||economía verde|||respaldar|||12
+climate_uncertainty|||economía verde|||confiar|||6
+climate_uncertainty|||desarrollo verde|||preferencia|||7
+climate_uncertainty|||desarrollo verde|||tender a|||3
+climate_uncertainty|||desarrollo verde|||inclinarse por|||2
+climate_uncertainty|||desarrollo verde|||estar dispuesto a|||4
+climate_uncertainty|||economía verde|||aprobar|||28
+climate_uncertainty|||economía verde|||aceptar|||24
+climate_uncertainty|||desarrollo verde|||disposición a|||48
+climate_uncertainty|||economía verde|||encantar|||2
+climate_uncertainty|||economía verde|||gustar|||2
+climate_uncertainty|||economía verde|||apoyar|||48
+climate_uncertainty|||economía verde|||favorecer|||19
+climate_uncertainty|||economía verde|||preferir|||2
+climate_uncertainty|||economía verde|||apreciar|||17
+climate_uncertainty|||economía verde|||preferencia|||13
+climate_uncertainty|||transición verde|||respaldar|||6
+climate_uncertainty|||economía verde|||tender a|||7
+climate_uncertainty|||economía verde|||priorizar|||18
+climate_uncertainty|||economía verde|||prioridad|||44
+climate_uncertainty|||economía verde|||entusias|||0
+climate_uncertainty|||economía verde|||inclinarse por|||4
+climate_uncertainty|||transición verde|||aceptar|||5
+climate_uncertainty|||transición verde|||aprobar|||0
+climate_uncertainty|||transición verde|||apoyar|||18
+climate_uncertainty|||economía verde|||estar dispuesto a|||5
+climate_uncertainty|||transición verde|||confiar|||2
+climate_uncertainty|||transición verde|||encantar|||0
+climate_uncertainty|||transición verde|||gustar|||0
+climate_uncertainty|||transición verde|||priorizar|||9
+climate_uncertainty|||transición verde|||favorecer|||6
+climate_uncertainty|||transición verde|||preferir|||0
+climate_uncertainty|||transición verde|||preferencia|||2
+climate_uncertainty|||transición verde|||apreciar|||0
+climate_uncertainty|||transición verde|||prioridad|||12
+climate_uncertainty|||economía verde|||disposición a|||158
+climate_uncertainty|||transición verde|||tender a|||0
+climate_uncertainty|||transición verde|||inclinarse por|||0
+climate_uncertainty|||transición verde|||estar dispuesto a|||1
+climate_uncertainty|||transición verde|||entusias|||0
+climate_uncertainty|||tecnología verde|||apoyar|||18
+climate_uncertainty|||transición verde|||disposición a|||9
+climate_uncertainty|||tecnología verde|||aceptar|||5
+climate_uncertainty|||tecnología verde|||aprobar|||3
+climate_uncertainty|||tecnología verde|||gustar|||1
+climate_uncertainty|||tecnología verde|||confiar|||1
+climate_uncertainty|||tecnología verde|||respaldar|||3
+climate_uncertainty|||tecnología verde|||preferir|||0
+climate_uncertainty|||tecnología verde|||favorecer|||3
+climate_uncertainty|||tecnología verde|||encantar|||1
+climate_uncertainty|||tecnología verde|||preferencia|||4
+climate_uncertainty|||tecnología verde|||apreciar|||2
+climate_uncertainty|||tecnología verde|||priorizar|||7
+climate_uncertainty|||innovación verde|||aprobar|||3
+climate_uncertainty|||tecnología verde|||prioridad|||18
+climate_uncertainty|||tecnología verde|||tender a|||1
+climate_uncertainty|||tecnología verde|||entusias|||0
+climate_uncertainty|||tecnología verde|||inclinarse por|||1
+climate_policy|||ESG|||residente|||0
+climate_uncertainty|||tecnología verde|||estar dispuesto a|||3
+climate_uncertainty|||tecnología verde|||disposición a|||14
+climate_uncertainty|||innovación verde|||aceptar|||1
+climate_uncertainty|||innovación verde|||respaldar|||0
+climate_uncertainty|||innovación verde|||apoyar|||19
+climate_uncertainty|||innovación verde|||apreciar|||3
+climate_uncertainty|||innovación verde|||gustar|||0
+climate_uncertainty|||innovación verde|||preferir|||1
+climate_uncertainty|||innovación verde|||favorecer|||1
+climate_uncertainty|||innovación verde|||priorizar|||3
+climate_uncertainty|||innovación verde|||tender a|||0
+climate_uncertainty|||innovación verde|||confiar|||1
+climate_uncertainty|||innovación verde|||preferencia|||1
+climate_uncertainty|||innovación verde|||encantar|||1
+climate_uncertainty|||innovación verde|||prioridad|||12
+climate_uncertainty|||innovación verde|||inclinarse por|||0
+climate_uncertainty|||energía verde|||apoyar|||35
+climate_uncertainty|||energía verde|||gustar|||0
+climate_uncertainty|||innovación verde|||entusias|||0
+climate_uncertainty|||energía verde|||respaldar|||6
+climate_uncertainty|||innovación verde|||estar dispuesto a|||1
+climate_uncertainty|||energía verde|||encantar|||1
+climate_uncertainty|||energía verde|||aceptar|||13
+climate_uncertainty|||energía verde|||aprobar|||8
+climate_uncertainty|||innovación verde|||disposición a|||11
+climate_uncertainty|||energía verde|||confiar|||3
+climate_uncertainty|||energía verde|||inclinarse por|||2
+climate_uncertainty|||energía verde|||favorecer|||6
+climate_uncertainty|||energía verde|||preferir|||0
+climate_uncertainty|||energía verde|||entusias|||0
+climate_uncertainty|||energía verde|||priorizar|||13
+climate_uncertainty|||energía verde|||tender a|||2
+climate_uncertainty|||energía verde|||preferencia|||3
+climate_uncertainty|||energía verde|||prioridad|||31
+climate_uncertainty|||energía verde|||apreciar|||5
+climate_uncertainty|||energía verde|||estar dispuesto a|||3
+climate_uncertainty|||energía verde|||disposición a|||32
+climate_uncertainty|||energía limpia|||gustar|||0
+climate_uncertainty|||energía limpia|||confiar|||2
+climate_uncertainty|||energía limpia|||encantar|||0
+climate_uncertainty|||energía limpia|||aprobar|||5
+climate_uncertainty|||energía limpia|||aceptar|||4
+climate_uncertainty|||energía limpia|||preferir|||0
+climate_uncertainty|||energía limpia|||apreciar|||1
+climate_uncertainty|||energía limpia|||respaldar|||4
+climate_uncertainty|||energía limpia|||apoyar|||17
+climate_uncertainty|||energía limpia|||favorecer|||2
+climate_uncertainty|||energía limpia|||preferencia|||2
+climate_uncertainty|||energía limpia|||priorizar|||1
+climate_uncertainty|||energía limpia|||entusias|||0
+climate_uncertainty|||energía limpia|||tender a|||1
+climate_uncertainty|||energía limpia|||prioridad|||14
+climate_uncertainty|||energía limpia|||inclinarse por|||0
+climate_uncertainty|||energía limpia|||disposición a|||13
+climate_uncertainty|||energía renovable|||aceptar|||2
+climate_uncertainty|||energía limpia|||estar dispuesto a|||1
+climate_uncertainty|||energía renovable|||apoyar|||25
+climate_uncertainty|||energía renovable|||aprobar|||6
+climate_uncertainty|||energía renovable|||confiar|||1
+climate_uncertainty|||energía renovable|||gustar|||0
+climate_uncertainty|||energía renovable|||preferir|||0
+climate_uncertainty|||energía renovable|||encantar|||0
+climate_uncertainty|||energía renovable|||respaldar|||4
+climate_uncertainty|||energía renovable|||preferencia|||3
+climate_uncertainty|||energía renovable|||priorizar|||4
+climate_uncertainty|||energía renovable|||prioridad|||12
+climate_uncertainty|||energía renovable|||apreciar|||2
+climate_uncertainty|||energía renovable|||favorecer|||3
+climate_uncertainty|||energía solar|||confiar|||2
+climate_uncertainty|||energía renovable|||tender a|||0
+climate_uncertainty|||energía renovable|||entusias|||0
+climate_uncertainty|||energía renovable|||inclinarse por|||0
+climate_uncertainty|||energía solar|||aceptar|||5
+climate_uncertainty|||energía solar|||aprobar|||8
+climate_uncertainty|||energía renovable|||estar dispuesto a|||2
+climate_uncertainty|||energía solar|||apoyar|||24
+climate_uncertainty|||energía solar|||respaldar|||9
+climate_uncertainty|||energía renovable|||disposición a|||23
+climate_uncertainty|||energía solar|||gustar|||0
+climate_uncertainty|||energía solar|||encantar|||0
+climate_uncertainty|||energía solar|||favorecer|||2
+climate_uncertainty|||energía solar|||apreciar|||6
+climate_uncertainty|||energía solar|||preferir|||0
+climate_uncertainty|||energía solar|||preferencia|||2
+climate_uncertainty|||energía solar|||priorizar|||2
+climate_uncertainty|||energía solar|||tender a|||1
+climate_uncertainty|||energía solar|||entusias|||0
+climate_uncertainty|||energía solar|||inclinarse por|||0
+climate_uncertainty|||energía solar|||prioridad|||15
+climate_uncertainty|||energía hidráulica|||encantar|||0
+climate_uncertainty|||energía hidráulica|||gustar|||0
+climate_uncertainty|||energía solar|||estar dispuesto a|||2
+climate_uncertainty|||energía hidráulica|||apreciar|||0
+climate_uncertainty|||energía hidráulica|||preferir|||0
+climate_uncertainty|||energía hidráulica|||confiar|||0
+climate_uncertainty|||energía solar|||disposición a|||24
+climate_uncertainty|||energía hidráulica|||respaldar|||5
+climate_uncertainty|||energía hidráulica|||aceptar|||4
+climate_uncertainty|||energía hidráulica|||aprobar|||1
+climate_uncertainty|||energía hidráulica|||apoyar|||8
+climate_uncertainty|||energía hidráulica|||favorecer|||1
+climate_uncertainty|||energía eólica|||aceptar|||8
+climate_uncertainty|||energía eólica|||respaldar|||9
+climate_uncertainty|||energía hidráulica|||priorizar|||0
+climate_uncertainty|||energía hidráulica|||preferencia|||2
+climate_uncertainty|||energía eólica|||confiar|||3
+climate_uncertainty|||energía hidráulica|||entusias|||0
+climate_uncertainty|||energía hidráulica|||estar dispuesto a|||0
+climate_uncertainty|||energía hidráulica|||inclinarse por|||0
+climate_uncertainty|||energía hidráulica|||tender a|||2
+climate_uncertainty|||energía hidráulica|||prioridad|||6
+climate_uncertainty|||energía hidráulica|||disposición a|||10
+climate_uncertainty|||energía eólica|||aprobar|||11
+climate_uncertainty|||energía eólica|||apoyar|||28
+climate_uncertainty|||energía eólica|||apreciar|||3
+climate_uncertainty|||energía eólica|||encantar|||0
+climate_uncertainty|||energía eólica|||gustar|||0
+climate_uncertainty|||energía eólica|||preferir|||0
+climate_uncertainty|||energía eólica|||preferencia|||5
+climate_uncertainty|||energía eólica|||favorecer|||2
+climate_uncertainty|||energía eólica|||priorizar|||4
+climate_uncertainty|||energía eólica|||entusias|||0
+climate_uncertainty|||energía eólica|||inclinarse por|||1
+climate_uncertainty|||energía eólica|||tender a|||4
+climate_uncertainty|||energía eólica|||prioridad|||29
+climate_uncertainty|||energía eólica|||estar dispuesto a|||5
+climate_uncertainty|||bioenergía|||apoyar|||3
+climate_uncertainty|||bioenergía|||aprobar|||0
+climate_uncertainty|||bioenergía|||gustar|||0
+climate_uncertainty|||bioenergía|||encantar|||0
+climate_uncertainty|||bioenergía|||respaldar|||1
+climate_uncertainty|||bioenergía|||confiar|||0
+climate_uncertainty|||energía eólica|||disposición a|||31
+climate_uncertainty|||bioenergía|||favorecer|||2
+climate_uncertainty|||bioenergía|||aceptar|||1
+climate_uncertainty|||bioenergía|||preferir|||0
+climate_uncertainty|||bioenergía|||preferencia|||0
+climate_uncertainty|||bioenergía|||tender a|||0
+climate_uncertainty|||bioenergía|||apreciar|||0
+climate_uncertainty|||bioenergía|||prioridad|||2
+climate_uncertainty|||bioenergía|||disposición a|||0
+climate_uncertainty|||bioenergía|||entusias|||0
+climate_uncertainty|||bioenergía|||inclinarse por|||0
+climate_uncertainty|||bioenergía|||priorizar|||0
+climate_uncertainty|||bioenergía|||estar dispuesto a|||0
+climate_uncertainty|||energía geotérmica|||aceptar|||0
+climate_uncertainty|||energía geotérmica|||apoyar|||1
+climate_uncertainty|||energía geotérmica|||confiar|||0
+climate_uncertainty|||energía geotérmica|||respaldar|||0
+climate_uncertainty|||energía geotérmica|||encantar|||0
+climate_uncertainty|||energía geotérmica|||prioridad|||1
+climate_uncertainty|||energía geotérmica|||favorecer|||0
+climate_uncertainty|||energía geotérmica|||aprobar|||1
+climate_uncertainty|||energía geotérmica|||gustar|||0
+climate_uncertainty|||energía geotérmica|||preferir|||0
+climate_uncertainty|||energía geotérmica|||apreciar|||0
+climate_uncertainty|||energía geotérmica|||preferencia|||0
+climate_uncertainty|||energía geotérmica|||priorizar|||3
+climate_uncertainty|||energía geotérmica|||estar dispuesto a|||0
+climate_uncertainty|||energía oceánica|||apoyar|||0
+climate_uncertainty|||energía oceánica|||aprobar|||0
+climate_uncertainty|||energía oceánica|||aceptar|||0
+climate_uncertainty|||energía oceánica|||respaldar|||0
+climate_uncertainty|||energía oceánica|||gustar|||0
+climate_uncertainty|||energía geotérmica|||tender a|||0
+climate_uncertainty|||energía geotérmica|||disposición a|||1
+climate_uncertainty|||energía geotérmica|||entusias|||0
+climate_uncertainty|||energía oceánica|||favorecer|||0
+climate_uncertainty|||energía oceánica|||confiar|||0
+climate_uncertainty|||energía geotérmica|||inclinarse por|||0
+climate_uncertainty|||energía oceánica|||encantar|||0
+climate_uncertainty|||energía oceánica|||preferir|||0
+climate_uncertainty|||energía oceánica|||apreciar|||0
+climate_uncertainty|||energía oceánica|||priorizar|||0
+climate_uncertainty|||energía oceánica|||inclinarse por|||0
+climate_uncertainty|||energía oceánica|||tender a|||0
+climate_uncertainty|||energía oceánica|||preferencia|||0
+climate_uncertainty|||energía oceánica|||prioridad|||3
+climate_uncertainty|||energía oceánica|||entusias|||0
+climate_uncertainty|||energía oceánica|||estar dispuesto a|||0
+climate_uncertainty|||energía oceánica|||disposición a|||0
+climate_uncertainty|||hidrógeno|||aceptar|||5
+climate_uncertainty|||hidrógeno|||gustar|||0
+climate_uncertainty|||hidrógeno|||aprobar|||5
+climate_uncertainty|||hidrógeno|||confiar|||1
+climate_uncertainty|||hidrógeno|||encantar|||1
+climate_uncertainty|||hidrógeno|||favorecer|||4
+climate_uncertainty|||hidrógeno|||respaldar|||5
+climate_uncertainty|||hidrógeno|||apoyar|||22
+climate_uncertainty|||hidrógeno|||apreciar|||3
+climate_uncertainty|||hidrógeno|||preferir|||0
+climate_uncertainty|||hidrógeno|||tender a|||0
+climate_uncertainty|||hidrógeno|||entusias|||0
+climate_uncertainty|||hidrógeno|||inclinarse por|||0
+climate_uncertainty|||hidrógeno|||priorizar|||9
+climate_uncertainty|||hidrógeno|||preferencia|||3
+climate_uncertainty|||hidrógeno|||estar dispuesto a|||2
+climate_uncertainty|||hidrógeno|||prioridad|||23
+climate_uncertainty|||hidrógeno|||disposición a|||23
+climate_uncertainty|||producto verde|||encantar|||2
+climate_uncertainty|||producto verde|||apoyar|||13
+climate_uncertainty|||producto verde|||aceptar|||10
+climate_uncertainty|||producto verde|||confiar|||3
+climate_uncertainty|||producto verde|||preferir|||0
+climate_uncertainty|||producto verde|||gustar|||2
+climate_uncertainty|||producto verde|||aprobar|||4
+climate_uncertainty|||producto verde|||respaldar|||2
+climate_uncertainty|||producto verde|||favorecer|||4
+climate_uncertainty|||producto verde|||apreciar|||8
+climate_uncertainty|||producto verde|||preferencia|||5
+climate_uncertainty|||producto verde|||entusias|||0
+climate_uncertainty|||producto verde|||inclinarse por|||0
+climate_uncertainty|||producto verde|||priorizar|||6
+climate_uncertainty|||producto verde|||tender a|||2
+climate_uncertainty|||producto ecológico|||apoyar|||3
+climate_uncertainty|||producto verde|||estar dispuesto a|||5
+climate_uncertainty|||producto verde|||disposición a|||25
+climate_uncertainty|||producto verde|||prioridad|||17
+climate_uncertainty|||producto ecológico|||favorecer|||0
+climate_uncertainty|||producto ecológico|||aceptar|||0
+climate_uncertainty|||producto ecológico|||respaldar|||0
+climate_uncertainty|||producto ecológico|||gustar|||0
+climate_uncertainty|||producto ecológico|||encantar|||1
+climate_uncertainty|||producto ecológico|||confiar|||0
+climate_uncertainty|||producto ecológico|||preferencia|||1
+climate_uncertainty|||producto ecológico|||apreciar|||0
+climate_uncertainty|||producto ecológico|||aprobar|||1
+climate_uncertainty|||producto ecológico|||preferir|||0
+climate_uncertainty|||producto ecológico|||priorizar|||0
+climate_uncertainty|||producto ecológico|||prioridad|||4
+climate_uncertainty|||producto ecológico|||estar dispuesto a|||1
+climate_uncertainty|||producto bajo carbono|||apoyar|||0
+climate_uncertainty|||producto bajo carbono|||confiar|||0
+climate_uncertainty|||producto ecológico|||inclinarse por|||0
+climate_uncertainty|||producto ecológico|||entusias|||0
+climate_uncertainty|||producto bajo carbono|||respaldar|||0
+climate_uncertainty|||producto bajo carbono|||aprobar|||2
+climate_uncertainty|||producto bajo carbono|||aceptar|||0
+climate_uncertainty|||producto ecológico|||tender a|||1
+climate_uncertainty|||producto ecológico|||disposición a|||6
+climate_uncertainty|||producto bajo carbono|||apreciar|||1
+climate_uncertainty|||producto bajo carbono|||gustar|||0
+climate_uncertainty|||producto bajo carbono|||encantar|||0
+climate_uncertainty|||producto bajo carbono|||favorecer|||0
+climate_uncertainty|||producto bajo carbono|||preferir|||0
+climate_uncertainty|||producto bajo carbono|||tender a|||0
+climate_uncertainty|||producto bajo carbono|||inclinarse por|||0
+climate_uncertainty|||producto bajo carbono|||priorizar|||0
+climate_uncertainty|||producto bajo carbono|||preferencia|||1
+climate_uncertainty|||producto bajo carbono|||estar dispuesto a|||0
+climate_uncertainty|||producto bajo carbono|||disposición a|||0
+climate_uncertainty|||producto bajo carbono|||entusias|||0
+climate_uncertainty|||producto bajo carbono|||prioridad|||1
+climate_uncertainty|||producto sostenible|||favorecer|||6
+climate_uncertainty|||producto sostenible|||confiar|||0
+climate_uncertainty|||producto sostenible|||gustar|||2
+climate_uncertainty|||producto sostenible|||apreciar|||5
+climate_uncertainty|||producto sostenible|||encantar|||1
+climate_uncertainty|||producto sostenible|||aceptar|||9
+climate_uncertainty|||producto sostenible|||preferir|||0
+climate_uncertainty|||producto sostenible|||respaldar|||3
+climate_uncertainty|||producto sostenible|||aprobar|||7
+climate_uncertainty|||producto sostenible|||apoyar|||19
+climate_uncertainty|||producto sostenible|||preferencia|||3
+climate_uncertainty|||producto sostenible|||entusias|||0
+climate_uncertainty|||producto sostenible|||estar dispuesto a|||3
+climate_uncertainty|||consumo verde|||aprobar|||6
+climate_uncertainty|||producto sostenible|||inclinarse por|||0
+climate_uncertainty|||producto sostenible|||tender a|||8
+climate_uncertainty|||consumo verde|||respaldar|||1
+climate_uncertainty|||producto sostenible|||prioridad|||25
+climate_uncertainty|||producto sostenible|||priorizar|||14
+climate_uncertainty|||producto sostenible|||disposición a|||15
+climate_uncertainty|||consumo verde|||aceptar|||6
+climate_uncertainty|||consumo verde|||apoyar|||15
+climate_uncertainty|||consumo verde|||preferir|||0
+climate_uncertainty|||consumo verde|||preferencia|||4
+climate_uncertainty|||consumo verde|||confiar|||1
+climate_uncertainty|||consumo verde|||encantar|||1
+climate_uncertainty|||consumo verde|||apreciar|||3
+climate_uncertainty|||consumo verde|||priorizar|||9
+climate_uncertainty|||consumo verde|||gustar|||1
+climate_uncertainty|||consumo verde|||favorecer|||5
+climate_uncertainty|||consumo verde|||estar dispuesto a|||3
+climate_uncertainty|||inversión verde|||favorecer|||9
+climate_uncertainty|||consumo verde|||prioridad|||11
+climate_uncertainty|||consumo verde|||entusias|||0
+climate_uncertainty|||consumo verde|||tender a|||3
+climate_uncertainty|||consumo verde|||inclinarse por|||0
+climate_uncertainty|||inversión verde|||gustar|||1
+climate_uncertainty|||inversión verde|||apoyar|||27
+climate_uncertainty|||inversión verde|||respaldar|||8
+climate_uncertainty|||inversión verde|||aceptar|||13
+climate_uncertainty|||inversión verde|||confiar|||3
+climate_uncertainty|||inversión verde|||aprobar|||13
+climate_uncertainty|||consumo verde|||disposición a|||24
+climate_uncertainty|||inversión verde|||encantar|||1
+climate_uncertainty|||inversión verde|||preferir|||0
+climate_uncertainty|||inversión verde|||tender a|||0
+climate_uncertainty|||inversión verde|||entusias|||0
+climate_uncertainty|||inversión verde|||preferencia|||7
+climate_uncertainty|||inversión verde|||apreciar|||3
+climate_uncertainty|||inversión verde|||inclinarse por|||1
+climate_uncertainty|||inversión verde|||priorizar|||16
+climate_uncertainty|||inversión verde|||estar dispuesto a|||3
+climate_uncertainty|||inversión verde|||prioridad|||38
+climate_uncertainty|||finanzas verdes|||confiar|||1
+climate_uncertainty|||inversión verde|||disposición a|||37
+climate_uncertainty|||finanzas verdes|||apoyar|||7
+climate_uncertainty|||finanzas verdes|||aceptar|||2
+climate_uncertainty|||finanzas verdes|||gustar|||0
+climate_uncertainty|||finanzas verdes|||preferir|||0
+climate_uncertainty|||finanzas verdes|||aprobar|||2
+climate_uncertainty|||finanzas verdes|||apreciar|||0
+climate_uncertainty|||finanzas verdes|||respaldar|||1
+climate_uncertainty|||finanzas verdes|||preferencia|||1
+climate_uncertainty|||finanzas verdes|||favorecer|||1
+climate_uncertainty|||finanzas verdes|||encantar|||0
+climate_uncertainty|||finanzas verdes|||tender a|||0
+climate_uncertainty|||finanzas verdes|||entusias|||0
+climate_uncertainty|||finanzas verdes|||priorizar|||1
+climate_uncertainty|||finanzas verdes|||inclinarse por|||0
+climate_uncertainty|||finanzas verdes|||estar dispuesto a|||0
+climate_uncertainty|||finanzas verdes|||prioridad|||7
+climate_uncertainty|||finanzas verdes|||disposición a|||4
+climate_uncertainty|||bono verde|||aceptar|||1
+climate_uncertainty|||bono verde|||apoyar|||5
+climate_uncertainty|||bono verde|||aprobar|||0
+climate_uncertainty|||bono verde|||respaldar|||0
+climate_uncertainty|||bono verde|||gustar|||0
+climate_uncertainty|||bono verde|||confiar|||0
+climate_uncertainty|||bono verde|||apreciar|||0
+climate_uncertainty|||bono verde|||preferir|||0
+climate_uncertainty|||bono verde|||encantar|||0
+climate_uncertainty|||bono verde|||entusias|||0
+climate_uncertainty|||bono verde|||favorecer|||1
+climate_uncertainty|||bono verde|||priorizar|||0
+climate_uncertainty|||bono verde|||inclinarse por|||0
+climate_uncertainty|||bono verde|||tender a|||1
+climate_uncertainty|||bono verde|||preferencia|||1
+climate_uncertainty|||bono verde|||prioridad|||2
+climate_uncertainty|||crédito verde|||confiar|||2
+climate_uncertainty|||bono verde|||estar dispuesto a|||0
+climate_uncertainty|||crédito verde|||respaldar|||0
+climate_uncertainty|||bono verde|||disposición a|||5
+climate_uncertainty|||crédito verde|||apoyar|||7
+climate_uncertainty|||crédito verde|||aceptar|||7
+climate_uncertainty|||crédito verde|||aprobar|||6
+climate_uncertainty|||crédito verde|||tender a|||1
+climate_uncertainty|||crédito verde|||entusias|||0
+climate_uncertainty|||crédito verde|||gustar|||1
+climate_uncertainty|||crédito verde|||favorecer|||5
+climate_uncertainty|||crédito verde|||encantar|||1
+climate_uncertainty|||crédito verde|||preferencia|||0
+climate_uncertainty|||crédito verde|||apreciar|||4
+climate_uncertainty|||crédito verde|||preferir|||0
+climate_uncertainty|||crédito verde|||priorizar|||2
+climate_uncertainty|||crédito verde|||inclinarse por|||1
+climate_uncertainty|||ESG|||apoyar|||4
+climate_uncertainty|||crédito verde|||prioridad|||4
+climate_uncertainty|||crédito verde|||estar dispuesto a|||6
+climate_uncertainty|||ESG|||aprobar|||1
+climate_uncertainty|||crédito verde|||disposición a|||6
+climate_uncertainty|||ESG|||apreciar|||0
+climate_uncertainty|||ESG|||favorecer|||4
+climate_uncertainty|||ESG|||aceptar|||0
+climate_uncertainty|||ESG|||preferencia|||0
+climate_uncertainty|||ESG|||encantar|||0
+climate_uncertainty|||ESG|||gustar|||0
+climate_uncertainty|||ESG|||respaldar|||1
+climate_uncertainty|||ESG|||confiar|||0
+climate_uncertainty|||ESG|||preferir|||0
+climate_uncertainty|||ESG|||priorizar|||1
+climate_uncertainty|||ESG|||tender a|||0
+climate_uncertainty|||ESG|||inclinarse por|||0
+climate_uncertainty|||ESG|||prioridad|||7
+climate_uncertainty|||ESG|||entusias|||0
+climate_uncertainty|||ESG|||estar dispuesto a|||0
+policy_uncertainty|||inversor|||respaldar|||17
+climate_uncertainty|||ESG|||disposición a|||5
+policy_uncertainty|||inversor|||gustar|||4
+policy_uncertainty|||inversor|||confiar|||25
+policy_uncertainty|||inversor|||aprobar|||58
+policy_uncertainty|||inversor|||aceptar|||73
+policy_uncertainty|||inversor|||apoyar|||62
+policy_uncertainty|||inversor|||encantar|||1
+policy_uncertainty|||inversor|||favorecer|||30
+policy_uncertainty|||inversor|||inclinarse por|||2
+policy_uncertainty|||inversor|||apreciar|||17
+policy_uncertainty|||inversor|||preferir|||4
+policy_uncertainty|||inversor|||priorizar|||22
+policy_uncertainty|||inversor|||preferencia|||46
+policy_uncertainty|||inversor|||prioridad|||87
+policy_uncertainty|||inversor|||entusias|||0
+policy_uncertainty|||inversor|||tender a|||6
+policy_uncertainty|||inversor|||estar dispuesto a|||21
+policy_uncertainty|||institución financiera|||preferencia|||8
+policy_uncertainty|||institución financiera|||encantar|||0
+policy_uncertainty|||institución financiera|||apoyar|||45
+policy_uncertainty|||inversor|||disposición a|||93
+policy_uncertainty|||institución financiera|||aceptar|||39
+policy_uncertainty|||institución financiera|||favorecer|||10
+policy_uncertainty|||institución financiera|||preferir|||1
+policy_uncertainty|||institución financiera|||aprobar|||25
+policy_uncertainty|||institución financiera|||gustar|||1
+policy_uncertainty|||institución financiera|||apreciar|||4
+policy_uncertainty|||institución financiera|||confiar|||10
+policy_uncertainty|||institución financiera|||entusias|||0
+policy_uncertainty|||institución financiera|||respaldar|||11
+policy_uncertainty|||institución financiera|||priorizar|||13
+policy_uncertainty|||empresa|||aceptar|||726
+policy_uncertainty|||institución financiera|||tender a|||3
+policy_uncertainty|||institución financiera|||prioridad|||32
+policy_uncertainty|||institución financiera|||inclinarse por|||1
+policy_uncertainty|||institución financiera|||estar dispuesto a|||17
+policy_uncertainty|||institución financiera|||disposición a|||71
+policy_uncertainty|||empresa|||apoyar|||755
+policy_uncertainty|||empresa|||tender a|||85
+policy_uncertainty|||empresa|||entusias|||0
+policy_uncertainty|||empresa|||preferencia|||274
+policy_uncertainty|||empresa|||favorecer|||256
+policy_uncertainty|||empresa|||inclinarse por|||23
+policy_uncertainty|||empresa|||apreciar|||182
+policy_uncertainty|||empresa|||confiar|||145
+policy_uncertainty|||empresa|||gustar|||78
+policy_uncertainty|||empresa|||prioridad|||891
+policy_uncertainty|||empresa|||preferir|||19
+policy_uncertainty|||empresa|||respaldar|||172
+policy_uncertainty|||empresa|||encantar|||12
+policy_uncertainty|||empresa|||priorizar|||173
+policy_uncertainty|||empresa|||aprobar|||484
+policy_uncertainty|||compañía|||aprobar|||66
+policy_uncertainty|||compañía|||respaldar|||55
+policy_uncertainty|||compañía|||aceptar|||183
+policy_uncertainty|||empresa|||disposición a|||1401
+policy_uncertainty|||empresa|||estar dispuesto a|||273
+policy_uncertainty|||compañía|||apoyar|||222
+policy_uncertainty|||compañía|||preferir|||12
+policy_uncertainty|||compañía|||priorizar|||51
+policy_uncertainty|||compañía|||encantar|||12
+policy_uncertainty|||compañía|||entusias|||0
+policy_uncertainty|||compañía|||confiar|||69
+policy_uncertainty|||compañía|||tender a|||18
+policy_uncertainty|||compañía|||inclinarse por|||6
+policy_uncertainty|||compañía|||apreciar|||89
+policy_uncertainty|||compañía|||prioridad|||233
+policy_uncertainty|||compañía|||favorecer|||68
+policy_uncertainty|||compañía|||estar dispuesto a|||68
+policy_uncertainty|||compañía|||preferencia|||80
+policy_uncertainty|||compañía|||gustar|||72
+policy_uncertainty|||compañía|||disposición a|||321
+policy_uncertainty|||tomador de decisiones|||favorecer|||0
+policy_uncertainty|||tomador de decisiones|||respaldar|||0
+policy_uncertainty|||tomador de decisiones|||aceptar|||0
+policy_uncertainty|||tomador de decisiones|||apoyar|||2
+policy_uncertainty|||tomador de decisiones|||confiar|||0
+policy_uncertainty|||tomador de decisiones|||gustar|||0
+policy_uncertainty|||tomador de decisiones|||encantar|||0
+policy_uncertainty|||tomador de decisiones|||aprobar|||1
+policy_uncertainty|||tomador de decisiones|||apreciar|||0
+policy_uncertainty|||tomador de decisiones|||tender a|||0
+policy_uncertainty|||tomador de decisiones|||estar dispuesto a|||0
+policy_uncertainty|||tomador de decisiones|||inclinarse por|||0
+policy_uncertainty|||consumidor|||apoyar|||65
+policy_uncertainty|||tomador de decisiones|||preferir|||0
+policy_uncertainty|||tomador de decisiones|||preferencia|||0
+policy_uncertainty|||tomador de decisiones|||priorizar|||0
+policy_uncertainty|||tomador de decisiones|||disposición a|||1
+policy_uncertainty|||tomador de decisiones|||entusias|||0
+policy_uncertainty|||tomador de decisiones|||prioridad|||1
+policy_uncertainty|||consumidor|||aprobar|||42
+policy_uncertainty|||consumidor|||aceptar|||76
+policy_uncertainty|||consumidor|||gustar|||9
+policy_uncertainty|||consumidor|||confiar|||16
+policy_uncertainty|||consumidor|||encantar|||2
+policy_uncertainty|||consumidor|||apreciar|||37
+policy_uncertainty|||consumidor|||inclinarse por|||4
+policy_uncertainty|||consumidor|||respaldar|||6
+policy_uncertainty|||consumidor|||entusias|||0
+policy_uncertainty|||consumidor|||favorecer|||36
+policy_uncertainty|||consumidor|||tender a|||15
+policy_uncertainty|||consumidor|||preferir|||11
+policy_uncertainty|||consumidor|||priorizar|||23
+policy_uncertainty|||consumidor|||preferencia|||97
+policy_uncertainty|||consumidor|||prioridad|||89
+policy_uncertainty|||cliente|||aceptar|||103
+policy_uncertainty|||cliente|||respaldar|||16
+policy_uncertainty|||consumidor|||estar dispuesto a|||31
+policy_uncertainty|||cliente|||preferir|||8
+policy_uncertainty|||cliente|||favorecer|||35
+policy_uncertainty|||cliente|||encantar|||7
+policy_uncertainty|||cliente|||confiar|||38
+policy_uncertainty|||consumidor|||disposición a|||140
+policy_uncertainty|||cliente|||aprobar|||47
+policy_uncertainty|||cliente|||apoyar|||79
+policy_uncertainty|||cliente|||gustar|||16
+policy_uncertainty|||cliente|||apreciar|||30
+policy_uncertainty|||cliente|||preferencia|||49
+policy_uncertainty|||hogar|||apoyar|||137
+policy_uncertainty|||cliente|||entusias|||0
+policy_uncertainty|||cliente|||inclinarse por|||5
+policy_uncertainty|||cliente|||tender a|||18
+policy_uncertainty|||cliente|||priorizar|||42
+policy_uncertainty|||cliente|||estar dispuesto a|||48
+policy_uncertainty|||cliente|||prioridad|||106
+policy_uncertainty|||cliente|||disposición a|||253
+policy_uncertainty|||hogar|||aceptar|||138
+policy_uncertainty|||hogar|||inclinarse por|||7
+policy_uncertainty|||hogar|||preferir|||13
+policy_uncertainty|||hogar|||encantar|||7
+policy_uncertainty|||hogar|||respaldar|||22
+policy_uncertainty|||hogar|||apreciar|||53
+policy_uncertainty|||hogar|||tender a|||12
+policy_uncertainty|||hogar|||preferencia|||46
+policy_uncertainty|||hogar|||gustar|||23
+policy_uncertainty|||hogar|||aprobar|||57
+policy_uncertainty|||hogar|||confiar|||33
+policy_uncertainty|||hogar|||favorecer|||45
+policy_uncertainty|||hogar|||priorizar|||39
+policy_uncertainty|||hogar|||prioridad|||152
+policy_uncertainty|||hogar|||disposición a|||278
+policy_uncertainty|||residente|||confiar|||8
+policy_uncertainty|||hogar|||entusias|||0
+policy_uncertainty|||residente|||aprobar|||12
+policy_uncertainty|||residente|||apoyar|||19
+policy_uncertainty|||residente|||aceptar|||13
+policy_uncertainty|||residente|||respaldar|||4
+policy_uncertainty|||hogar|||estar dispuesto a|||60
+policy_uncertainty|||residente|||preferencia|||11
+policy_uncertainty|||residente|||preferir|||0
+policy_uncertainty|||residente|||encantar|||0
+policy_uncertainty|||residente|||inclinarse por|||3
+policy_uncertainty|||residente|||entusias|||0
+policy_uncertainty|||residente|||gustar|||3
+policy_uncertainty|||residente|||priorizar|||7
+policy_uncertainty|||residente|||favorecer|||9
+policy_uncertainty|||residente|||apreciar|||9
+policy_uncertainty|||residente|||estar dispuesto a|||7
+policy_uncertainty|||residente|||prioridad|||31
+policy_uncertainty|||residente|||tender a|||6
+policy_uncertainty|||residente|||disposición a|||51
+policy_uncertainty|||público|||apoyar|||1004
+policy_uncertainty|||público|||aceptar|||1031
+policy_uncertainty|||público|||encantar|||33
+policy_uncertainty|||público|||favorecer|||301
+policy_uncertainty|||público|||confiar|||208
+policy_uncertainty|||público|||aprobar|||648
+policy_uncertainty|||público|||respaldar|||243
+policy_uncertainty|||público|||gustar|||411
+policy_uncertainty|||público|||disposición a|||1923
+policy_uncertainty|||público|||apreciar|||547
+policy_uncertainty|||público|||entusias|||0
+policy_uncertainty|||individuo|||respaldar|||4
+policy_uncertainty|||individuo|||aprobar|||19
+policy_uncertainty|||público|||preferencia|||355
+policy_uncertainty|||público|||prioridad|||1029
+policy_uncertainty|||público|||preferir|||61
+policy_uncertainty|||público|||priorizar|||311
+policy_uncertainty|||público|||inclinarse por|||42
+policy_uncertainty|||individuo|||apoyar|||45
+policy_uncertainty|||individuo|||aceptar|||59
+policy_uncertainty|||público|||tender a|||161
+policy_uncertainty|||público|||estar dispuesto a|||386
+policy_uncertainty|||individuo|||preferir|||4
+policy_uncertainty|||individuo|||preferencia|||16
+policy_uncertainty|||individuo|||prioridad|||42
+policy_uncertainty|||individuo|||encantar|||0
+policy_uncertainty|||individuo|||gustar|||7
+policy_uncertainty|||individuo|||apreciar|||18
+policy_uncertainty|||individuo|||favorecer|||12
+policy_uncertainty|||individuo|||confiar|||20
+policy_uncertainty|||individuo|||priorizar|||19
+policy_uncertainty|||individuo|||entusias|||0
+policy_uncertainty|||individuo|||tender a|||11
+policy_uncertainty|||individuo|||inclinarse por|||3
+policy_uncertainty|||individuo|||estar dispuesto a|||17
+policy_uncertainty|||individuo|||disposición a|||148
