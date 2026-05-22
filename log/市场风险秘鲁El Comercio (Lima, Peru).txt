@@ -1,0 +1,211 @@
+2026-05-22 14:46:11,464 - INFO - 🚀 开始处理任务: 市场风险秘鲁El Comercio (Lima, Peru).xlsx
+2026-05-22 14:46:11,464 - INFO - 开始初始化所有driver到2025年页面: https://infoweb-newsbank-com.webproxy3.columbuslibrary.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=pubname%3AEECQ%21El%2BComercio%2B%2528Lima%252C%2BPeru%2529&maxresults=60&f=advanced&fld-nav-0=YMD_date&val-nav-0=-2026.4
+2026-05-22 14:46:29,546 - INFO - 账号 PACREG3448148 的driver成功访问2025年页面
+2026-05-22 14:46:29,546 - INFO - ✅ 账号 PACREG3448148 的driver初始化成功
+2026-05-22 14:46:29,865 - INFO - 账号 PACREG3448140 的driver成功访问2025年页面
+2026-05-22 14:46:29,866 - INFO - ✅ 账号 PACREG3448140 的driver初始化成功
+2026-05-22 14:46:29,868 - INFO - 账号 PACREG3448142 的driver成功访问2025年页面
+2026-05-22 14:46:29,868 - INFO - ✅ 账号 PACREG3448142 的driver初始化成功
+2026-05-22 14:46:29,869 - INFO - 账号 PACREG3448145 的driver成功访问2025年页面
+2026-05-22 14:46:29,871 - INFO - ✅ 账号 PACREG3448145 的driver初始化成功
+2026-05-22 14:46:30,037 - INFO - 账号 PACREG3449081 的driver成功访问2025年页面
+2026-05-22 14:46:30,038 - INFO - ✅ 账号 PACREG3449081 的driver初始化成功
+2026-05-22 14:46:36,889 - INFO - 账号 PACREG3449078 的driver成功访问2025年页面
+2026-05-22 14:46:36,899 - INFO - ✅ 账号 PACREG3449078 的driver初始化成功
+2026-05-22 14:46:36,954 - INFO - 账号 PACREG3448153 的driver成功访问2025年页面
+2026-05-22 14:46:36,955 - INFO - ✅ 账号 PACREG3448153 的driver初始化成功
+2026-05-22 14:46:37,366 - INFO - 账号 PACREG3449077 的driver成功访问2025年页面
+2026-05-22 14:46:37,367 - INFO - ✅ 账号 PACREG3449077 的driver初始化成功
+2026-05-22 14:46:37,616 - INFO - 账号 PACREG3449079 的driver成功访问2025年页面
+2026-05-22 14:46:37,617 - INFO - ✅ 账号 PACREG3449079 的driver初始化成功
+2026-05-22 14:46:38,201 - INFO - 账号 PACREG3448141 的driver成功访问2025年页面
+2026-05-22 14:46:38,201 - INFO - 账号 PACREG3449082 的driver成功访问2025年页面
+2026-05-22 14:46:38,201 - INFO - 账号 PACREG3448149 的driver成功访问2025年页面
+2026-05-22 14:46:38,201 - INFO - 账号 PACREG3448143 的driver成功访问2025年页面
+2026-05-22 14:46:38,201 - INFO - 账号 PACREG3448147 的driver成功访问2025年页面
+2026-05-22 14:46:38,201 - INFO - 账号 PACREG3448151 的driver成功访问2025年页面
+2026-05-22 14:46:38,201 - INFO - ✅ 账号 PACREG3448141 的driver初始化成功
+2026-05-22 14:46:38,201 - INFO - ✅ 账号 PACREG3449082 的driver初始化成功
+2026-05-22 14:46:38,202 - INFO - ✅ 账号 PACREG3448149 的driver初始化成功
+2026-05-22 14:46:38,202 - INFO - ✅ 账号 PACREG3448143 的driver初始化成功
+2026-05-22 14:46:38,202 - INFO - ✅ 账号 PACREG3448147 的driver初始化成功
+2026-05-22 14:46:38,202 - INFO - ✅ 账号 PACREG3448151 的driver初始化成功
+2026-05-22 14:46:38,203 - INFO - 所有driver初始化完成
+2026-05-22 14:46:38,203 - INFO - ================================================================================
+2026-05-22 14:46:38,203 - INFO - 📋 正常模式：先处理二组合，再基于有效二组合生成三组合
+2026-05-22 14:46:38,203 - INFO - ================================================================================
+2026-05-22 14:46:38,203 - INFO - 开始处理 923 个二组合:
+2026-05-22 14:46:38,203 - INFO -   - climate+policy: 275 个
+2026-05-22 14:46:38,203 - INFO -   - climate+uncertainty: 450 个
+2026-05-22 14:46:38,203 - INFO -   - policy+uncertainty: 198 个
+2026-05-22 14:46:38,203 - INFO - 需要处理 923 个新的二组合
+2026-05-22 14:46:38,203 - INFO - 总计需要处理 923 个二组合
+2026-05-22 14:46:38,203 - INFO - 使用 15 个线程处理二组合
+2026-05-22 14:46:38,204 - INFO - [线程6114979840|账号PACREG3449077] 🔍 开始处理新二组合(climate_policy)：desarrollo verde + inversor 
+2026-05-22 14:46:38,208 - INFO - [线程6131806208|账号PACREG3449078] 🔍 开始处理新二组合(climate_policy)：desarrollo verde + institución financiera 
+2026-05-22 14:46:38,211 - INFO - [线程6148632576|账号PACREG3449079] 🔍 开始处理新二组合(climate_policy)：desarrollo verde + empresa 
+2026-05-22 14:46:38,212 - INFO - [线程6165458944|账号PACREG3449081] 🔍 开始处理新二组合(climate_policy)：desarrollo verde + compañía 
+2026-05-22 14:46:38,212 - INFO - [线程6182285312|账号PACREG3449082] 🔍 开始处理新二组合(climate_policy)：desarrollo verde + tomador de decisiones 
+2026-05-22 14:46:38,213 - INFO - [线程6199111680|账号PACREG3448140] 🔍 开始处理新二组合(climate_policy)：desarrollo verde + consumidor 
+2026-05-22 14:46:38,213 - INFO - [线程6215938048|账号PACREG3448141] 🔍 开始处理新二组合(climate_policy)：desarrollo verde + cliente 
+2026-05-22 14:46:38,214 - INFO - [线程6232764416|账号PACREG3448142] 🔍 开始处理新二组合(climate_policy)：desarrollo verde + hogar 
+2026-05-22 14:46:38,218 - INFO - [线程6249590784|账号PACREG3448143] 🔍 开始处理新二组合(climate_policy)：desarrollo verde + residente 
+2026-05-22 14:46:38,218 - INFO - [线程6266417152|账号PACREG3448145] 🔍 开始处理新二组合(climate_policy)：desarrollo verde + público 
+2026-05-22 14:46:38,219 - INFO - [线程6283243520|账号PACREG3448147] 🔍 开始处理新二组合(climate_policy)：desarrollo verde + individuo 
+2026-05-22 14:46:38,220 - INFO - [线程6300069888|账号PACREG3448148] 🔍 开始处理新二组合(climate_policy)：economía verde + inversor 
+2026-05-22 14:46:38,220 - INFO - [线程6316896256|账号PACREG3448149] 🔍 开始处理新二组合(climate_policy)：economía verde + institución financiera 
+2026-05-22 14:46:38,220 - INFO - [线程6333722624|账号PACREG3448151] 🔍 开始处理新二组合(climate_policy)：economía verde + empresa 
+2026-05-22 14:46:38,221 - INFO - [线程6350548992|账号PACREG3448153] 🔍 开始处理新二组合(climate_policy)：economía verde + compañía 
+2026-05-22 14:47:14,938 - INFO - [线程6131806208|账号PACREG3449078] ✅ 二组合(climate_policy) desarrollo verde + institución financiera 有 5 条结果 📍 URL: https://infoweb-newsbank-com.webproxy3.columbuslibrary.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=pubname%3AEECQ%21El%2BComercio%2B%2528Lima%252C%2BPeru%2529&maxresults=60&f=advanced&val-base-0=desarrollo%20verde&fld-base-0=alltext&bln-base-1=and&val-base-1=instituci%C3%B3n%20financiera&fld-base-1=alltext&fld-nav-0=YMD_date&val-nav-0=-2026.4
+2026-05-22 14:47:14,939 - INFO - [线程6131806208|账号PACREG3449078] 🔍 开始处理新二组合(climate_policy)：economía verde + tomador de decisiones 
+2026-05-22 14:47:14,939 - INFO - ✅ 二组合 ('climate_policy', 'desarrollo verde', 'institución financiera') 处理成功 (1/923)
+2026-05-22 14:47:14,942 - INFO - [线程6316896256|账号PACREG3448149] ✅ 二组合(climate_policy) economía verde + institución financiera 有 9 条结果 📍 URL: https://infoweb-newsbank-com.webproxy3.columbuslibrary.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=pubname%3AEECQ%21El%2BComercio%2B%2528Lima%252C%2BPeru%2529&maxresults=60&f=advanced&val-base-0=econom%C3%ADa%20verde&fld-base-0=alltext&bln-base-1=and&val-base-1=instituci%C3%B3n%20financiera&fld-base-1=alltext&fld-nav-0=YMD_date&val-nav-0=-2026.4
+2026-05-22 14:47:14,942 - INFO - [线程6316896256|账号PACREG3448149] 🔍 开始处理新二组合(climate_policy)：economía verde + consumidor 
+2026-05-22 14:47:14,942 - INFO - ✅ 二组合 ('climate_policy', 'economía verde', 'institución financiera') 处理成功 (2/923)
+2026-05-22 14:47:15,194 - INFO - [线程6199111680|账号PACREG3448140] ✅ 二组合(climate_policy) desarrollo verde + consumidor 有 14 条结果 📍 URL: https://infoweb-newsbank-com.webproxy3.columbuslibrary.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=pubname%3AEECQ%21El%2BComercio%2B%2528Lima%252C%2BPeru%2529&maxresults=60&f=advanced&val-base-0=desarrollo%20verde&fld-base-0=alltext&bln-base-1=and&val-base-1=consumidor&fld-base-1=alltext&fld-nav-0=YMD_date&val-nav-0=-2026.4
+2026-05-22 14:47:15,194 - INFO - [线程6199111680|账号PACREG3448140] 🔍 开始处理新二组合(climate_policy)：economía verde + cliente 
+2026-05-22 14:47:15,194 - INFO - ✅ 二组合 ('climate_policy', 'desarrollo verde', 'consumidor') 处理成功 (3/923)
+2026-05-22 14:47:15,430 - INFO - [线程6182285312|账号PACREG3449082] ❌ 二组合(climate_policy) desarrollo verde + tomador de decisiones 无结果 📍 URL: https://infoweb-newsbank-com.webproxy3.columbuslibrary.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=pubname%3AEECQ%21El%2BComercio%2B%2528Lima%252C%2BPeru%2529&maxresults=60&f=advanced&val-base-0=desarrollo%20verde&fld-base-0=alltext&bln-base-1=and&val-base-1=tomador%20de%20decisiones&fld-base-1=alltext&fld-nav-0=YMD_date&val-nav-0=-2026.4
+2026-05-22 14:47:15,431 - INFO - [线程6182285312|账号PACREG3449082] 🔍 开始处理新二组合(climate_policy)：economía verde + hogar 
+2026-05-22 14:47:15,431 - INFO - ✅ 二组合 ('climate_policy', 'desarrollo verde', 'tomador de decisiones') 处理成功 (4/923)
+2026-05-22 14:47:15,682 - INFO - [线程6283243520|账号PACREG3448147] ✅ 二组合(climate_policy) desarrollo verde + individuo 有 3 条结果 📍 URL: https://infoweb-newsbank-com.webproxy3.columbuslibrary.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=pubname%3AEECQ%21El%2BComercio%2B%2528Lima%252C%2BPeru%2529&maxresults=60&f=advanced&val-base-0=desarrollo%20verde&fld-base-0=alltext&bln-base-1=and&val-base-1=individuo&fld-base-1=alltext&fld-nav-0=YMD_date&val-nav-0=-2026.4
+2026-05-22 14:47:15,682 - INFO - [线程6283243520|账号PACREG3448147] 🔍 开始处理新二组合(climate_policy)：economía verde + residente 
+2026-05-22 14:47:15,682 - INFO - ✅ 二组合 ('climate_policy', 'desarrollo verde', 'individuo') 处理成功 (5/923)
+2026-05-22 14:47:15,685 - INFO - [线程6114979840|账号PACREG3449077] ✅ 二组合(climate_policy) desarrollo verde + inversor 有 1 条结果 📍 URL: https://infoweb-newsbank-com.webproxy3.columbuslibrary.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=pubname%3AEECQ%21El%2BComercio%2B%2528Lima%252C%2BPeru%2529&maxresults=60&f=advanced&val-base-0=desarrollo%20verde&fld-base-0=alltext&bln-base-1=and&val-base-1=inversor&fld-base-1=alltext&fld-nav-0=YMD_date&val-nav-0=-2026.4
+2026-05-22 14:47:15,686 - INFO - [线程6114979840|账号PACREG3449077] 🔍 开始处理新二组合(climate_policy)：economía verde + público 
+2026-05-22 14:47:15,686 - INFO - ✅ 二组合 ('climate_policy', 'desarrollo verde', 'inversor') 处理成功 (6/923)
+2026-05-22 14:47:16,082 - INFO - [线程6249590784|账号PACREG3448143] ✅ 二组合(climate_policy) desarrollo verde + residente 有 6 条结果 📍 URL: https://infoweb-newsbank-com.webproxy3.columbuslibrary.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=pubname%3AEECQ%21El%2BComercio%2B%2528Lima%252C%2BPeru%2529&maxresults=60&f=advanced&val-base-0=desarrollo%20verde&fld-base-0=alltext&bln-base-1=and&val-base-1=residente&fld-base-1=alltext&fld-nav-0=YMD_date&val-nav-0=-2026.4
+2026-05-22 14:47:16,082 - INFO - [线程6249590784|账号PACREG3448143] 🔍 开始处理新二组合(climate_policy)：economía verde + individuo 
+2026-05-22 14:47:16,083 - INFO - ✅ 二组合 ('climate_policy', 'desarrollo verde', 'residente') 处理成功 (7/923)
+2026-05-22 14:47:16,095 - INFO - [线程6232764416|账号PACREG3448142] ✅ 二组合(climate_policy) desarrollo verde + hogar 有 15 条结果 📍 URL: https://infoweb-newsbank-com.webproxy3.columbuslibrary.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=pubname%3AEECQ%21El%2BComercio%2B%2528Lima%252C%2BPeru%2529&maxresults=60&f=advanced&val-base-0=desarrollo%20verde&fld-base-0=alltext&bln-base-1=and&val-base-1=hogar&fld-base-1=alltext&fld-nav-0=YMD_date&val-nav-0=-2026.4
+2026-05-22 14:47:16,095 - INFO - [线程6232764416|账号PACREG3448142] 🔍 开始处理新二组合(climate_policy)：transición verde + inversor 
+2026-05-22 14:47:16,096 - INFO - ✅ 二组合 ('climate_policy', 'desarrollo verde', 'hogar') 处理成功 (8/923)
+2026-05-22 14:47:16,098 - INFO - [线程6300069888|账号PACREG3448148] ✅ 二组合(climate_policy) economía verde + inversor 有 2 条结果 📍 URL: https://infoweb-newsbank-com.webproxy3.columbuslibrary.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=pubname%3AEECQ%21El%2BComercio%2B%2528Lima%252C%2BPeru%2529&maxresults=60&f=advanced&val-base-0=econom%C3%ADa%20verde&fld-base-0=alltext&bln-base-1=and&val-base-1=inversor&fld-base-1=alltext&fld-nav-0=YMD_date&val-nav-0=-2026.4
+2026-05-22 14:47:16,098 - INFO - [线程6300069888|账号PACREG3448148] 🔍 开始处理新二组合(climate_policy)：transición verde + institución financiera 
+2026-05-22 14:47:16,098 - INFO - ✅ 二组合 ('climate_policy', 'economía verde', 'inversor') 处理成功 (9/923)
+2026-05-22 14:47:16,107 - INFO - [线程6215938048|账号PACREG3448141] ✅ 二组合(climate_policy) desarrollo verde + cliente 有 10 条结果 📍 URL: https://infoweb-newsbank-com.webproxy3.columbuslibrary.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=pubname%3AEECQ%21El%2BComercio%2B%2528Lima%252C%2BPeru%2529&maxresults=60&f=advanced&val-base-0=desarrollo%20verde&fld-base-0=alltext&bln-base-1=and&val-base-1=cliente&fld-base-1=alltext&fld-nav-0=YMD_date&val-nav-0=-2026.4
+2026-05-22 14:47:16,108 - INFO - [线程6215938048|账号PACREG3448141] 🔍 开始处理新二组合(climate_policy)：transición verde + empresa 
+2026-05-22 14:47:16,108 - INFO - ✅ 二组合 ('climate_policy', 'desarrollo verde', 'cliente') 处理成功 (10/923)
+2026-05-22 14:47:16,136 - INFO - [线程6165458944|账号PACREG3449081] ✅ 二组合(climate_policy) desarrollo verde + compañía 有 49 条结果 📍 URL: https://infoweb-newsbank-com.webproxy3.columbuslibrary.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=pubname%3AEECQ%21El%2BComercio%2B%2528Lima%252C%2BPeru%2529&maxresults=60&f=advanced&val-base-0=desarrollo%20verde&fld-base-0=alltext&bln-base-1=and&val-base-1=compa%C3%B1%C3%ADa&fld-base-1=alltext&fld-nav-0=YMD_date&val-nav-0=-2026.4
+2026-05-22 14:47:16,137 - INFO - [线程6165458944|账号PACREG3449081] 🔍 开始处理新二组合(climate_policy)：transición verde + compañía 
+2026-05-22 14:47:16,139 - INFO - ✅ 二组合 ('climate_policy', 'desarrollo verde', 'compañía') 处理成功 (11/923)
+2026-05-22 14:47:16,509 - INFO - [线程6350548992|账号PACREG3448153] ✅ 二组合(climate_policy) economía verde + compañía 有 127 条结果 📍 URL: https://infoweb-newsbank-com.webproxy3.columbuslibrary.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=pubname%3AEECQ%21El%2BComercio%2B%2528Lima%252C%2BPeru%2529&maxresults=60&f=advanced&val-base-0=econom%C3%ADa%20verde&fld-base-0=alltext&bln-base-1=and&val-base-1=compa%C3%B1%C3%ADa&fld-base-1=alltext&fld-nav-0=YMD_date&val-nav-0=-2026.4
+2026-05-22 14:47:16,516 - INFO - [线程6350548992|账号PACREG3448153] 🔍 开始处理新二组合(climate_policy)：transición verde + tomador de decisiones 
+2026-05-22 14:47:16,565 - INFO - ✅ 二组合 ('climate_policy', 'economía verde', 'compañía') 处理成功 (12/923)
+2026-05-22 14:47:17,430 - INFO - [线程6266417152|账号PACREG3448145] ✅ 二组合(climate_policy) desarrollo verde + público 有 245 条结果 📍 URL: https://infoweb-newsbank-com.webproxy3.columbuslibrary.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=pubname%3AEECQ%21El%2BComercio%2B%2528Lima%252C%2BPeru%2529&maxresults=60&f=advanced&val-base-0=desarrollo%20verde&fld-base-0=alltext&bln-base-1=and&val-base-1=p%C3%BAblico&fld-base-1=alltext&fld-nav-0=YMD_date&val-nav-0=-2026.4
+2026-05-22 14:47:17,430 - INFO - [线程6266417152|账号PACREG3448145] 🔍 开始处理新二组合(climate_policy)：transición verde + consumidor 
+2026-05-22 14:47:17,430 - INFO - ✅ 二组合 ('climate_policy', 'desarrollo verde', 'público') 处理成功 (13/923)
+2026-05-22 14:47:17,929 - INFO - [线程6148632576|账号PACREG3449079] ✅ 二组合(climate_policy) desarrollo verde + empresa 有 213 条结果 📍 URL: https://infoweb-newsbank-com.webproxy3.columbuslibrary.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=pubname%3AEECQ%21El%2BComercio%2B%2528Lima%252C%2BPeru%2529&maxresults=60&f=advanced&val-base-0=desarrollo%20verde&fld-base-0=alltext&bln-base-1=and&val-base-1=empresa&fld-base-1=alltext&fld-nav-0=YMD_date&val-nav-0=-2026.4
+2026-05-22 14:47:17,929 - INFO - [线程6148632576|账号PACREG3449079] 🔍 开始处理新二组合(climate_policy)：transición verde + cliente 
+2026-05-22 14:47:17,930 - INFO - ✅ 二组合 ('climate_policy', 'desarrollo verde', 'empresa') 处理成功 (14/923)
+2026-05-22 14:47:18,774 - INFO - [线程6333722624|账号PACREG3448151] ✅ 二组合(climate_policy) economía verde + empresa 有 346 条结果 📍 URL: https://infoweb-newsbank-com.webproxy3.columbuslibrary.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=pubname%3AEECQ%21El%2BComercio%2B%2528Lima%252C%2BPeru%2529&maxresults=60&f=advanced&val-base-0=econom%C3%ADa%20verde&fld-base-0=alltext&bln-base-1=and&val-base-1=empresa&fld-base-1=alltext&fld-nav-0=YMD_date&val-nav-0=-2026.4
+2026-05-22 14:47:18,775 - INFO - [线程6333722624|账号PACREG3448151] 🔍 开始处理新二组合(climate_policy)：transición verde + hogar 
+2026-05-22 14:47:18,775 - INFO - ✅ 二组合 ('climate_policy', 'economía verde', 'empresa') 处理成功 (15/923)
+2026-05-22 14:47:28,955 - INFO - [线程6131806208|账号PACREG3449078] ❌ 二组合(climate_policy) economía verde + tomador de decisiones 无结果 📍 URL: https://infoweb-newsbank-com.webproxy3.columbuslibrary.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=pubname%3AEECQ%21El%2BComercio%2B%2528Lima%252C%2BPeru%2529&maxresults=60&f=advanced&val-base-0=econom%C3%ADa%20verde&fld-base-0=alltext&bln-base-1=and&val-base-1=tomador%20de%20decisiones&fld-base-1=alltext&fld-nav-0=YMD_date&val-nav-0=-2026.4
+2026-05-22 14:47:28,955 - INFO - [线程6131806208|账号PACREG3449078] 🔍 开始处理新二组合(climate_policy)：transición verde + residente 
+2026-05-22 14:47:28,956 - INFO - ✅ 二组合 ('climate_policy', 'economía verde', 'tomador de decisiones') 处理成功 (16/923)
+2026-05-22 14:47:31,665 - INFO - [线程6283243520|账号PACREG3448147] ✅ 二组合(climate_policy) economía verde + residente 有 4 条结果 📍 URL: https://infoweb-newsbank-com.webproxy3.columbuslibrary.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=pubname%3AEECQ%21El%2BComercio%2B%2528Lima%252C%2BPeru%2529&maxresults=60&f=advanced&val-base-0=econom%C3%ADa%20verde&fld-base-0=alltext&bln-base-1=and&val-base-1=residente&fld-base-1=alltext&fld-nav-0=YMD_date&val-nav-0=-2026.4
+2026-05-22 14:47:31,665 - INFO - [线程6283243520|账号PACREG3448147] 🔍 开始处理新二组合(climate_policy)：transición verde + público 
+2026-05-22 14:47:31,665 - INFO - ✅ 二组合 ('climate_policy', 'economía verde', 'residente') 处理成功 (17/923)
+2026-05-22 14:47:32,005 - INFO - [线程6350548992|账号PACREG3448153] ❌ 二组合(climate_policy) transición verde + tomador de decisiones 无结果 📍 URL: https://infoweb-newsbank-com.webproxy3.columbuslibrary.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=pubname%3AEECQ%21El%2BComercio%2B%2528Lima%252C%2BPeru%2529&maxresults=60&f=advanced&val-base-0=transici%C3%B3n%20verde&fld-base-0=alltext&bln-base-1=and&val-base-1=tomador%20de%20decisiones&fld-base-1=alltext&fld-nav-0=YMD_date&val-nav-0=-2026.4
+2026-05-22 14:47:32,005 - INFO - [线程6350548992|账号PACREG3448153] 🔍 开始处理新二组合(climate_policy)：transición verde + individuo 
+2026-05-22 14:47:32,006 - INFO - ✅ 二组合 ('climate_policy', 'transición verde', 'tomador de decisiones') 处理成功 (18/923)
+2026-05-22 14:47:32,366 - INFO - [线程6148632576|账号PACREG3449079] ❌ 二组合(climate_policy) transición verde + cliente 无结果 📍 URL: https://infoweb-newsbank-com.webproxy3.columbuslibrary.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=pubname%3AEECQ%21El%2BComercio%2B%2528Lima%252C%2BPeru%2529&maxresults=60&f=advanced&val-base-0=transici%C3%B3n%20verde&fld-base-0=alltext&bln-base-1=and&val-base-1=cliente&fld-base-1=alltext&fld-nav-0=YMD_date&val-nav-0=-2026.4
+2026-05-22 14:47:32,366 - INFO - [线程6148632576|账号PACREG3449079] 🔍 开始处理新二组合(climate_policy)：tecnología verde + inversor 
+2026-05-22 14:47:32,367 - INFO - ✅ 二组合 ('climate_policy', 'transición verde', 'cliente') 处理成功 (19/923)
+2026-05-22 14:47:32,379 - INFO - [线程6249590784|账号PACREG3448143] ✅ 二组合(climate_policy) economía verde + individuo 有 2 条结果 📍 URL: https://infoweb-newsbank-com.webproxy3.columbuslibrary.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=pubname%3AEECQ%21El%2BComercio%2B%2528Lima%252C%2BPeru%2529&maxresults=60&f=advanced&val-base-0=econom%C3%ADa%20verde&fld-base-0=alltext&bln-base-1=and&val-base-1=individuo&fld-base-1=alltext&fld-nav-0=YMD_date&val-nav-0=-2026.4
+2026-05-22 14:47:32,380 - INFO - [线程6249590784|账号PACREG3448143] 🔍 开始处理新二组合(climate_policy)：tecnología verde + institución financiera 
+2026-05-22 14:47:32,380 - INFO - ✅ 二组合 ('climate_policy', 'economía verde', 'individuo') 处理成功 (20/923)
+2026-05-22 14:47:32,392 - INFO - [线程6182285312|账号PACREG3449082] ✅ 二组合(climate_policy) economía verde + hogar 有 17 条结果 📍 URL: https://infoweb-newsbank-com.webproxy3.columbuslibrary.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=pubname%3AEECQ%21El%2BComercio%2B%2528Lima%252C%2BPeru%2529&maxresults=60&f=advanced&val-base-0=econom%C3%ADa%20verde&fld-base-0=alltext&bln-base-1=and&val-base-1=hogar&fld-base-1=alltext&fld-nav-0=YMD_date&val-nav-0=-2026.4
+2026-05-22 14:47:32,393 - INFO - [线程6182285312|账号PACREG3449082] 🔍 开始处理新二组合(climate_policy)：tecnología verde + empresa 
+2026-05-22 14:47:32,393 - INFO - ✅ 二组合 ('climate_policy', 'economía verde', 'hogar') 处理成功 (21/923)
+2026-05-22 14:47:32,413 - INFO - [线程6199111680|账号PACREG3448140] ✅ 二组合(climate_policy) economía verde + cliente 有 33 条结果 📍 URL: https://infoweb-newsbank-com.webproxy3.columbuslibrary.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=pubname%3AEECQ%21El%2BComercio%2B%2528Lima%252C%2BPeru%2529&maxresults=60&f=advanced&val-base-0=econom%C3%ADa%20verde&fld-base-0=alltext&bln-base-1=and&val-base-1=cliente&fld-base-1=alltext&fld-nav-0=YMD_date&val-nav-0=-2026.4
+2026-05-22 14:47:32,413 - INFO - [线程6199111680|账号PACREG3448140] 🔍 开始处理新二组合(climate_policy)：tecnología verde + compañía 
+2026-05-22 14:47:32,414 - INFO - ✅ 二组合 ('climate_policy', 'economía verde', 'cliente') 处理成功 (22/923)
+2026-05-22 14:47:33,509 - INFO - [线程6114979840|账号PACREG3449077] ✅ 二组合(climate_policy) economía verde + público 有 208 条结果 📍 URL: https://infoweb-newsbank-com.webproxy3.columbuslibrary.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=pubname%3AEECQ%21El%2BComercio%2B%2528Lima%252C%2BPeru%2529&maxresults=60&f=advanced&val-base-0=econom%C3%ADa%20verde&fld-base-0=alltext&bln-base-1=and&val-base-1=p%C3%BAblico&fld-base-1=alltext&fld-nav-0=YMD_date&val-nav-0=-2026.4
+2026-05-22 14:47:33,511 - INFO - [线程6114979840|账号PACREG3449077] 🔍 开始处理新二组合(climate_policy)：tecnología verde + tomador de decisiones 
+2026-05-22 14:47:33,513 - INFO - ✅ 二组合 ('climate_policy', 'economía verde', 'público') 处理成功 (23/923)
+2026-05-22 14:47:33,799 - INFO - [线程6333722624|账号PACREG3448151] ✅ 二组合(climate_policy) transición verde + hogar 有 1 条结果 📍 URL: https://infoweb-newsbank-com.webproxy3.columbuslibrary.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=pubname%3AEECQ%21El%2BComercio%2B%2528Lima%252C%2BPeru%2529&maxresults=60&f=advanced&val-base-0=transici%C3%B3n%20verde&fld-base-0=alltext&bln-base-1=and&val-base-1=hogar&fld-base-1=alltext&fld-nav-0=YMD_date&val-nav-0=-2026.4
+2026-05-22 14:47:33,800 - INFO - [线程6333722624|账号PACREG3448151] 🔍 开始处理新二组合(climate_policy)：tecnología verde + consumidor 
+2026-05-22 14:47:33,801 - INFO - ✅ 二组合 ('climate_policy', 'transición verde', 'hogar') 处理成功 (24/923)
+2026-05-22 14:47:34,449 - INFO - [线程6316896256|账号PACREG3448149] ✅ 二组合(climate_policy) economía verde + consumidor 有 67 条结果 📍 URL: https://infoweb-newsbank-com.webproxy3.columbuslibrary.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=pubname%3AEECQ%21El%2BComercio%2B%2528Lima%252C%2BPeru%2529&maxresults=60&f=advanced&val-base-0=econom%C3%ADa%20verde&fld-base-0=alltext&bln-base-1=and&val-base-1=consumidor&fld-base-1=alltext&fld-nav-0=YMD_date&val-nav-0=-2026.4
+2026-05-22 14:47:34,449 - INFO - [线程6316896256|账号PACREG3448149] 🔍 开始处理新二组合(climate_policy)：tecnología verde + cliente 
+2026-05-22 14:47:34,449 - INFO - ✅ 二组合 ('climate_policy', 'economía verde', 'consumidor') 处理成功 (25/923)
+2026-05-22 14:47:44,850 - INFO - [线程6232764416|账号PACREG3448142] ❌ 二组合(climate_policy) transición verde + inversor 无结果 📍 URL: https://infoweb-newsbank-com.webproxy3.columbuslibrary.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=pubname%3AEECQ%21El%2BComercio%2B%2528Lima%252C%2BPeru%2529&maxresults=60&f=advanced&val-base-0=transici%C3%B3n%20verde&fld-base-0=alltext&bln-base-1=and&val-base-1=inversor&fld-base-1=alltext&fld-nav-0=YMD_date&val-nav-0=-2026.4
+2026-05-22 14:47:44,850 - INFO - [线程6232764416|账号PACREG3448142] 🔍 开始处理新二组合(climate_policy)：tecnología verde + hogar 
+2026-05-22 14:47:44,851 - INFO - ✅ 二组合 ('climate_policy', 'transición verde', 'inversor') 处理成功 (26/923)
+2026-05-22 14:47:45,018 - INFO - [线程6300069888|账号PACREG3448148] ❌ 二组合(climate_policy) transición verde + institución financiera 无结果 📍 URL: https://infoweb-newsbank-com.webproxy3.columbuslibrary.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=pubname%3AEECQ%21El%2BComercio%2B%2528Lima%252C%2BPeru%2529&maxresults=60&f=advanced&val-base-0=transici%C3%B3n%20verde&fld-base-0=alltext&bln-base-1=and&val-base-1=instituci%C3%B3n%20financiera&fld-base-1=alltext&fld-nav-0=YMD_date&val-nav-0=-2026.4
+2026-05-22 14:47:45,019 - INFO - [线程6300069888|账号PACREG3448148] 🔍 开始处理新二组合(climate_policy)：tecnología verde + residente 
+2026-05-22 14:47:45,019 - INFO - ✅ 二组合 ('climate_policy', 'transición verde', 'institución financiera') 处理成功 (27/923)
+2026-05-22 14:47:45,075 - INFO - [线程6283243520|账号PACREG3448147] ✅ 二组合(climate_policy) transición verde + público 有 16 条结果 📍 URL: https://infoweb-newsbank-com.webproxy3.columbuslibrary.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=pubname%3AEECQ%21El%2BComercio%2B%2528Lima%252C%2BPeru%2529&maxresults=60&f=advanced&val-base-0=transici%C3%B3n%20verde&fld-base-0=alltext&bln-base-1=and&val-base-1=p%C3%BAblico&fld-base-1=alltext&fld-nav-0=YMD_date&val-nav-0=-2026.4
+2026-05-22 14:47:45,078 - INFO - [线程6283243520|账号PACREG3448147] 🔍 开始处理新二组合(climate_policy)：tecnología verde + público 
+2026-05-22 14:47:45,078 - INFO - ✅ 二组合 ('climate_policy', 'transición verde', 'público') 处理成功 (28/923)
+2026-05-22 14:47:45,660 - INFO - [线程6165458944|账号PACREG3449081] ✅ 二组合(climate_policy) transición verde + compañía 有 4 条结果 📍 URL: https://infoweb-newsbank-com.webproxy3.columbuslibrary.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=pubname%3AEECQ%21El%2BComercio%2B%2528Lima%252C%2BPeru%2529&maxresults=60&f=advanced&val-base-0=transici%C3%B3n%20verde&fld-base-0=alltext&bln-base-1=and&val-base-1=compa%C3%B1%C3%ADa&fld-base-1=alltext&fld-nav-0=YMD_date&val-nav-0=-2026.4
+2026-05-22 14:47:45,660 - INFO - [线程6165458944|账号PACREG3449081] 🔍 开始处理新二组合(climate_policy)：tecnología verde + individuo 
+2026-05-22 14:47:45,660 - INFO - ✅ 二组合 ('climate_policy', 'transición verde', 'compañía') 处理成功 (29/923)
+2026-05-22 14:47:46,128 - INFO - [线程6215938048|账号PACREG3448141] ✅ 二组合(climate_policy) transición verde + empresa 有 15 条结果 📍 URL: https://infoweb-newsbank-com.webproxy3.columbuslibrary.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=pubname%3AEECQ%21El%2BComercio%2B%2528Lima%252C%2BPeru%2529&maxresults=60&f=advanced&val-base-0=transici%C3%B3n%20verde&fld-base-0=alltext&bln-base-1=and&val-base-1=empresa&fld-base-1=alltext&fld-nav-0=YMD_date&val-nav-0=-2026.4
+2026-05-22 14:47:46,128 - INFO - [线程6215938048|账号PACREG3448141] 🔍 开始处理新二组合(climate_policy)：innovación verde + inversor 
+2026-05-22 14:47:46,128 - INFO - ✅ 二组合 ('climate_policy', 'transición verde', 'empresa') 处理成功 (30/923)
+2026-05-22 14:47:46,510 - INFO - [线程6266417152|账号PACREG3448145] ❌ 二组合(climate_policy) transición verde + consumidor 无结果 📍 URL: https://infoweb-newsbank-com.webproxy3.columbuslibrary.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=pubname%3AEECQ%21El%2BComercio%2B%2528Lima%252C%2BPeru%2529&maxresults=60&f=advanced&val-base-0=transici%C3%B3n%20verde&fld-base-0=alltext&bln-base-1=and&val-base-1=consumidor&fld-base-1=alltext&fld-nav-0=YMD_date&val-nav-0=-2026.4
+2026-05-22 14:47:46,510 - INFO - [线程6266417152|账号PACREG3448145] 🔍 开始处理新二组合(climate_policy)：innovación verde + institución financiera 
+2026-05-22 14:47:46,510 - INFO - ✅ 二组合 ('climate_policy', 'transición verde', 'consumidor') 处理成功 (31/923)
+2026-05-22 14:47:46,774 - INFO - [线程6249590784|账号PACREG3448143] ✅ 二组合(climate_policy) tecnología verde + institución financiera 有 2 条结果 📍 URL: https://infoweb-newsbank-com.webproxy3.columbuslibrary.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=pubname%3AEECQ%21El%2BComercio%2B%2528Lima%252C%2BPeru%2529&maxresults=60&f=advanced&val-base-0=tecnolog%C3%ADa%20verde&fld-base-0=alltext&bln-base-1=and&val-base-1=instituci%C3%B3n%20financiera&fld-base-1=alltext&fld-nav-0=YMD_date&val-nav-0=-2026.4
+2026-05-22 14:47:46,774 - INFO - [线程6249590784|账号PACREG3448143] 🔍 开始处理新二组合(climate_policy)：innovación verde + empresa 
+2026-05-22 14:47:46,774 - INFO - ✅ 二组合 ('climate_policy', 'tecnología verde', 'institución financiera') 处理成功 (32/923)
+2026-05-22 14:47:47,452 - INFO - [线程6114979840|账号PACREG3449077] ❌ 二组合(climate_policy) tecnología verde + tomador de decisiones 无结果 📍 URL: https://infoweb-newsbank-com.webproxy3.columbuslibrary.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=pubname%3AEECQ%21El%2BComercio%2B%2528Lima%252C%2BPeru%2529&maxresults=60&f=advanced&val-base-0=tecnolog%C3%ADa%20verde&fld-base-0=alltext&bln-base-1=and&val-base-1=tomador%20de%20decisiones&fld-base-1=alltext&fld-nav-0=YMD_date&val-nav-0=-2026.4
+2026-05-22 14:47:47,452 - INFO - [线程6114979840|账号PACREG3449077] 🔍 开始处理新二组合(climate_policy)：innovación verde + compañía 
+2026-05-22 14:47:47,452 - INFO - ✅ 二组合 ('climate_policy', 'tecnología verde', 'tomador de decisiones') 处理成功 (33/923)
+2026-05-22 14:47:47,772 - INFO - [线程6316896256|账号PACREG3448149] ✅ 二组合(climate_policy) tecnología verde + cliente 有 6 条结果 📍 URL: https://infoweb-newsbank-com.webproxy3.columbuslibrary.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=pubname%3AEECQ%21El%2BComercio%2B%2528Lima%252C%2BPeru%2529&maxresults=60&f=advanced&val-base-0=tecnolog%C3%ADa%20verde&fld-base-0=alltext&bln-base-1=and&val-base-1=cliente&fld-base-1=alltext&fld-nav-0=YMD_date&val-nav-0=-2026.4
+2026-05-22 14:47:47,772 - INFO - [线程6316896256|账号PACREG3448149] 🔍 开始处理新二组合(climate_policy)：innovación verde + tomador de decisiones 
+2026-05-22 14:47:47,772 - INFO - ✅ 二组合 ('climate_policy', 'tecnología verde', 'cliente') 处理成功 (34/923)
+2026-05-22 14:47:48,306 - INFO - [线程6333722624|账号PACREG3448151] ✅ 二组合(climate_policy) tecnología verde + consumidor 有 13 条结果 📍 URL: https://infoweb-newsbank-com.webproxy3.columbuslibrary.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=pubname%3AEECQ%21El%2BComercio%2B%2528Lima%252C%2BPeru%2529&maxresults=60&f=advanced&val-base-0=tecnolog%C3%ADa%20verde&fld-base-0=alltext&bln-base-1=and&val-base-1=consumidor&fld-base-1=alltext&fld-nav-0=YMD_date&val-nav-0=-2026.4
+2026-05-22 14:47:48,307 - INFO - [线程6333722624|账号PACREG3448151] 🔍 开始处理新二组合(climate_policy)：innovación verde + consumidor 
+2026-05-22 14:47:48,307 - INFO - ✅ 二组合 ('climate_policy', 'tecnología verde', 'consumidor') 处理成功 (35/923)
+2026-05-22 14:47:56,162 - INFO - [线程6131806208|账号PACREG3449078] ✅ 二组合(climate_policy) transición verde + residente 有 1 条结果 📍 URL: https://infoweb-newsbank-com.webproxy3.columbuslibrary.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=pubname%3AEECQ%21El%2BComercio%2B%2528Lima%252C%2BPeru%2529&maxresults=60&f=advanced&val-base-0=transici%C3%B3n%20verde&fld-base-0=alltext&bln-base-1=and&val-base-1=residente&fld-base-1=alltext&fld-nav-0=YMD_date&val-nav-0=-2026.4
+2026-05-22 14:47:56,163 - INFO - [线程6131806208|账号PACREG3449078] 🔍 开始处理新二组合(climate_policy)：innovación verde + cliente 
+2026-05-22 14:47:56,163 - INFO - ✅ 二组合 ('climate_policy', 'transición verde', 'residente') 处理成功 (36/923)
+2026-05-22 14:47:56,164 - INFO - [线程6148632576|账号PACREG3449079] ❌ 二组合(climate_policy) tecnología verde + inversor 无结果 📍 URL: https://infoweb-newsbank-com.webproxy3.columbuslibrary.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=pubname%3AEECQ%21El%2BComercio%2B%2528Lima%252C%2BPeru%2529&maxresults=60&f=advanced&val-base-0=tecnolog%C3%ADa%20verde&fld-base-0=alltext&bln-base-1=and&val-base-1=inversor&fld-base-1=alltext&fld-nav-0=YMD_date&val-nav-0=-2026.4
+2026-05-22 14:47:56,164 - INFO - [线程6148632576|账号PACREG3449079] 🔍 开始处理新二组合(climate_policy)：innovación verde + hogar 
+2026-05-22 14:47:56,165 - INFO - ✅ 二组合 ('climate_policy', 'tecnología verde', 'inversor') 处理成功 (37/923)
+2026-05-22 14:47:56,981 - INFO - [线程6350548992|账号PACREG3448153] ❌ 二组合(climate_policy) transición verde + individuo 无结果 📍 URL: https://infoweb-newsbank-com.webproxy3.columbuslibrary.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=pubname%3AEECQ%21El%2BComercio%2B%2528Lima%252C%2BPeru%2529&maxresults=60&f=advanced&val-base-0=transici%C3%B3n%20verde&fld-base-0=alltext&bln-base-1=and&val-base-1=individuo&fld-base-1=alltext&fld-nav-0=YMD_date&val-nav-0=-2026.4
+2026-05-22 14:47:56,981 - INFO - [线程6350548992|账号PACREG3448153] 🔍 开始处理新二组合(climate_policy)：innovación verde + residente 
+2026-05-22 14:47:56,981 - INFO - ✅ 二组合 ('climate_policy', 'transición verde', 'individuo') 处理成功 (38/923)
+2026-05-22 14:47:57,485 - INFO - [线程6199111680|账号PACREG3448140] ✅ 二组合(climate_policy) tecnología verde + compañía 有 18 条结果 📍 URL: https://infoweb-newsbank-com.webproxy3.columbuslibrary.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=pubname%3AEECQ%21El%2BComercio%2B%2528Lima%252C%2BPeru%2529&maxresults=60&f=advanced&val-base-0=tecnolog%C3%ADa%20verde&fld-base-0=alltext&bln-base-1=and&val-base-1=compa%C3%B1%C3%ADa&fld-base-1=alltext&fld-nav-0=YMD_date&val-nav-0=-2026.4
+2026-05-22 14:47:57,485 - INFO - [线程6199111680|账号PACREG3448140] 🔍 开始处理新二组合(climate_policy)：innovación verde + público 
+2026-05-22 14:47:57,485 - INFO - ✅ 二组合 ('climate_policy', 'tecnología verde', 'compañía') 处理成功 (39/923)
+2026-05-22 14:47:58,237 - INFO - [线程6232764416|账号PACREG3448142] ✅ 二组合(climate_policy) tecnología verde + hogar 有 7 条结果 📍 URL: https://infoweb-newsbank-com.webproxy3.columbuslibrary.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=pubname%3AEECQ%21El%2BComercio%2B%2528Lima%252C%2BPeru%2529&maxresults=60&f=advanced&val-base-0=tecnolog%C3%ADa%20verde&fld-base-0=alltext&bln-base-1=and&val-base-1=hogar&fld-base-1=alltext&fld-nav-0=YMD_date&val-nav-0=-2026.4
+2026-05-22 14:47:58,238 - INFO - [线程6232764416|账号PACREG3448142] 🔍 开始处理新二组合(climate_policy)：innovación verde + individuo 
+2026-05-22 14:47:58,238 - INFO - ✅ 二组合 ('climate_policy', 'tecnología verde', 'hogar') 处理成功 (40/923)
+2026-05-22 14:47:58,950 - INFO - [线程6165458944|账号PACREG3449081] ❌ 二组合(climate_policy) tecnología verde + individuo 无结果 📍 URL: https://infoweb-newsbank-com.webproxy3.columbuslibrary.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=pubname%3AEECQ%21El%2BComercio%2B%2528Lima%252C%2BPeru%2529&maxresults=60&f=advanced&val-base-0=tecnolog%C3%ADa%20verde&fld-base-0=alltext&bln-base-1=and&val-base-1=individuo&fld-base-1=alltext&fld-nav-0=YMD_date&val-nav-0=-2026.4
+2026-05-22 14:47:58,950 - INFO - [线程6165458944|账号PACREG3449081] 🔍 开始处理新二组合(climate_policy)：energía verde + inversor 
+2026-05-22 14:47:58,950 - INFO - ✅ 二组合 ('climate_policy', 'tecnología verde', 'individuo') 处理成功 (41/923)
+2026-05-22 14:47:59,474 - INFO - [线程6215938048|账号PACREG3448141] ❌ 二组合(climate_policy) innovación verde + inversor 无结果 📍 URL: https://infoweb-newsbank-com.webproxy3.columbuslibrary.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=pubname%3AEECQ%21El%2BComercio%2B%2528Lima%252C%2BPeru%2529&maxresults=60&f=advanced&val-base-0=innovaci%C3%B3n%20verde&fld-base-0=alltext&bln-base-1=and&val-base-1=inversor&fld-base-1=alltext&fld-nav-0=YMD_date&val-nav-0=-2026.4
+2026-05-22 14:47:59,474 - INFO - [线程6215938048|账号PACREG3448141] 🔍 开始处理新二组合(climate_policy)：energía verde + institución financiera 
+2026-05-22 14:47:59,474 - INFO - ✅ 二组合 ('climate_policy', 'innovación verde', 'inversor') 处理成功 (42/923)
+2026-05-22 14:47:59,628 - INFO - [线程6182285312|账号PACREG3449082] ✅ 二组合(climate_policy) tecnología verde + empresa 有 65 条结果 📍 URL: https://infoweb-newsbank-com.webproxy3.columbuslibrary.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=pubname%3AEECQ%21El%2BComercio%2B%2528Lima%252C%2BPeru%2529&maxresults=60&f=advanced&val-base-0=tecnolog%C3%ADa%20verde&fld-base-0=alltext&bln-base-1=and&val-base-1=empresa&fld-base-1=alltext&fld-nav-0=YMD_date&val-nav-0=-2026.4
+2026-05-22 14:47:59,629 - INFO - [线程6182285312|账号PACREG3449082] 🔍 开始处理新二组合(climate_policy)：energía verde + empresa 
+2026-05-22 14:47:59,629 - INFO - ✅ 二组合 ('climate_policy', 'tecnología verde', 'empresa') 处理成功 (43/923)
+2026-05-22 14:47:59,930 - INFO - [线程6266417152|账号PACREG3448145] ❌ 二组合(climate_policy) innovación verde + institución financiera 无结果 📍 URL: https://infoweb-newsbank-com.webproxy3.columbuslibrary.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=pubname%3AEECQ%21El%2BComercio%2B%2528Lima%252C%2BPeru%2529&maxresults=60&f=advanced&val-base-0=innovaci%C3%B3n%20verde&fld-base-0=alltext&bln-base-1=and&val-base-1=instituci%C3%B3n%20financiera&fld-base-1=alltext&fld-nav-0=YMD_date&val-nav-0=-2026.4
+2026-05-22 14:47:59,930 - INFO - [线程6266417152|账号PACREG3448145] 🔍 开始处理新二组合(climate_policy)：energía verde + compañía 
+2026-05-22 14:47:59,930 - INFO - ✅ 二组合 ('climate_policy', 'innovación verde', 'institución financiera') 处理成功 (44/923)
+2026-05-22 14:48:00,953 - INFO - [线程6249590784|账号PACREG3448143] ✅ 二组合(climate_policy) innovación verde + empresa 有 23 条结果 📍 URL: https://infoweb-newsbank-com.webproxy3.columbuslibrary.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=pubname%3AEECQ%21El%2BComercio%2B%2528Lima%252C%2BPeru%2529&maxresults=60&f=advanced&val-base-0=innovaci%C3%B3n%20verde&fld-base-0=alltext&bln-base-1=and&val-base-1=empresa&fld-base-1=alltext&fld-nav-0=YMD_date&val-nav-0=-2026.4
+2026-05-22 14:48:00,955 - INFO - [线程6249590784|账号PACREG3448143] 🔍 开始处理新二组合(climate_policy)：energía verde + tomador de decisiones 
+2026-05-22 14:48:00,955 - INFO - ✅ 二组合 ('climate_policy', 'innovación verde', 'empresa') 处理成功 (45/923)
+2026-05-22 14:48:01,040 - INFO - [线程6316896256|账号PACREG3448149] ❌ 二组合(climate_policy) innovación verde + tomador de decisiones 无结果 📍 URL: https://infoweb-newsbank-com.webproxy3.columbuslibrary.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=pubname%3AEECQ%21El%2BComercio%2B%2528Lima%252C%2BPeru%2529&maxresults=60&f=advanced&val-base-0=innovaci%C3%B3n%20verde&fld-base-0=alltext&bln-base-1=and&val-base-1=tomador%20de%20decisiones&fld-base-1=alltext&fld-nav-0=YMD_date&val-nav-0=-2026.4
+2026-05-22 14:48:01,044 - INFO - [线程6316896256|账号PACREG3448149] 🔍 开始处理新二组合(climate_policy)：energía verde + consumidor 
+2026-05-22 14:48:01,044 - INFO - ✅ 二组合 ('climate_policy', 'innovación verde', 'tomador de decisiones') 处理成功 (46/923)
+2026-05-22 14:48:01,596 - INFO - [线程6333722624|账号PACREG3448151] ✅ 二组合(climate_policy) innovación verde + consumidor 有 7 条结果 📍 URL: https://infoweb-newsbank-com.webproxy3.columbuslibrary.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=pubname%3AEECQ%21El%2BComercio%2B%2528Lima%252C%2BPeru%2529&maxresults=60&f=advanced&val-base-0=innovaci%C3%B3n%20verde&fld-base-0=alltext&bln-base-1=and&val-base-1=consumidor&fld-base-1=alltext&fld-nav-0=YMD_date&val-nav-0=-2026.4
+2026-05-22 14:48:01,596 - INFO - [线程6333722624|账号PACREG3448151] 🔍 开始处理新二组合(climate_policy)：energía verde + cliente 
+2026-05-22 14:48:01,596 - INFO - ✅ 二组合 ('climate_policy', 'innovación verde', 'consumidor') 处理成功 (47/923)
+2026-05-22 14:48:10,205 - INFO - [线程6148632576|账号PACREG3449079] ✅ 二组合(climate_policy) innovación verde + hogar 有 2 条结果 📍 URL: https://infoweb-newsbank-com.webproxy3.columbuslibrary.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=pubname%3AEECQ%21El%2BComercio%2B%2528Lima%252C%2BPeru%2529&maxresults=60&f=advanced&val-base-0=innovaci%C3%B3n%20verde&fld-base-0=alltext&bln-base-1=and&val-base-1=hogar&fld-base-1=alltext&fld-nav-0=YMD_date&val-nav-0=-2026.4
+2026-05-22 14:48:10,206 - INFO - [线程6148632576|账号PACREG3449079] 🔍 开始处理新二组合(climate_policy)：energía verde + hogar 
+2026-05-22 14:48:10,206 - INFO - ✅ 二组合 ('climate_policy', 'innovación verde', 'hogar') 处理成功 (48/923)
+2026-05-22 14:48:10,457 - INFO - [线程6300069888|账号PACREG3448148] ❌ 二组合(climate_policy) tecnología verde + residente 无结果 📍 URL: https://infoweb-newsbank-com.webproxy3.columbuslibrary.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=pubname%3AEECQ%21El%2BComercio%2B%2528Lima%252C%2BPeru%2529&maxresults=60&f=advanced&val-base-0=tecnolog%C3%ADa%20verde&fld-base-0=alltext&bln-base-1=and&val-base-1=residente&fld-base-1=alltext&fld-nav-0=YMD_date&val-nav-0=-2026.4
+2026-05-22 14:48:10,458 - INFO - [线程6300069888|账号PACREG3448148] 🔍 开始处理新二组合(climate_policy)：energía verde + residente 
+2026-05-22 14:48:10,458 - INFO - ✅ 二组合 ('climate_policy', 'tecnología verde', 'residente') 处理成功 (49/923)
+2026-05-22 14:48:11,517 - INFO - [线程6232764416|账号PACREG3448142] ❌ 二组合(climate_policy) innovación verde + individuo 无结果 📍 URL: https://infoweb-newsbank-com.webproxy3.columbuslibrary.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=pubname%3AEECQ%21El%2BComercio%2B%2528Lima%252C%2BPeru%2529&maxresults=60&f=advanced&val-base-0=innovaci%C3%B3n%20verde&fld-base-0=alltext&bln-base-1=and&val-base-1=individuo&fld-base-1=alltext&fld-nav-0=YMD_date&val-nav-0=-2026.4
+2026-05-22 14:48:11,517 - INFO - [线程6232764416|账号PACREG3448142] 🔍 开始处理新二组合(climate_policy)：energía verde + público 
+2026-05-22 14:48:11,517 - INFO - ✅ 二组合 ('climate_policy', 'innovación verde', 'individuo') 处理成功 (50/923)
+2026-05-22 14:48:12,322 - INFO - [线程6165458944|账号PACREG3449081] ❌ 二组合(climate_policy) energía verde + inversor 无结果 📍 URL: https://infoweb-newsbank-com.webproxy3.columbuslibrary.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=pubname%3AEECQ%21El%2BComercio%2B%2528Lima%252C%2BPeru%2529&maxresults=60&f=advanced&val-base-0=energ%C3%ADa%20verde&fld-base-0=alltext&bln-base-1=and&val-base-1=inversor&fld-base-1=alltext&fld-nav-0=YMD_date&val-nav-0=-2026.4
+2026-05-22 14:48:12,322 - INFO - [线程6165458944|账号PACREG3449081] 🔍 开始处理新二组合(climate_policy)：energía verde + individuo 
+2026-05-22 14:48:12,322 - INFO - ✅ 二组合 ('climate_policy', 'energía verde', 'inversor') 处理成功 (51/923)

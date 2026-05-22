@@ -2938,3 +2938,568 @@ Country                                                Chile
 偏好         apoyar/aceptar/aprobar/respaldar/confiar/gusta...
 Name: 5, dtype: object
 2026-05-22 13:05:16,040 - INFO - 文件 'search_results/市场风险智利El Mercurio (Santiago, Chile).xlsx' 在 search_results/ 目录中不存在
+2026-05-22 13:41:41,646 - INFO - 线程 8685166784 开始执行
+2026-05-22 13:41:41,646 - INFO - 开始清理根目录下的旧文件...
+2026-05-22 13:41:41,647 - INFO - ✅ 旧文件清理完成
+2026-05-22 13:41:41,647 - INFO - 开始创建15个浏览器实例...
+2026-05-22 13:41:41,647 - INFO - [浏览器3] 动态生成UA: Mozilla/5.0 (Macintosh; Intel Mac OS X 14_2_0) AppleWebKit/6... 视口: 1440x900
+2026-05-22 13:41:41,647 - INFO - [浏览器2] 动态生成UA: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.2) Gecko/20... 视口: 1920x1080
+2026-05-22 13:41:41,647 - INFO - [浏览器4] 动态生成UA: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.40... 视口: 1536x864
+2026-05-22 13:41:41,648 - INFO - [浏览器1] 动态生成UA: Mozilla/5.0 (Macintosh; Intel Mac OS X 13_6_0) AppleWebKit/5... 视口: 1366x768
+2026-05-22 13:41:41,652 - INFO - [浏览器5] 动态生成UA: Mozilla/5.0 (Macintosh; Intel Mac OS X 13_6_0) AppleWebKit/5... 视口: 1600x900
+2026-05-22 13:41:41,655 - INFO - [浏览器16] 动态生成UA: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.42... 视口: 2048x1152
+2026-05-22 13:41:41,655 - INFO - [浏览器17] 动态生成UA: Mozilla/5.0 (Macintosh; Intel Mac OS X 13_6_0) AppleWebKit/5... 视口: 2560x1600
+2026-05-22 13:41:41,655 - INFO - [浏览器18] 动态生成UA: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.8) Gecko/20... 视口: 3840x2160
+2026-05-22 13:41:41,656 - INFO - [浏览器20] 动态生成UA: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36... 视口: 1920x1080
+2026-05-22 13:41:41,656 - INFO - [浏览器19] 动态生成UA: Mozilla/5.0 (Macintosh; Intel Mac OS X 14_2_0) AppleWebKit/6... 视口: 1366x768
+2026-05-22 13:41:41,656 - INFO - [浏览器22] 动态生成UA: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.2) Gecko/20... 视口: 1536x864
+2026-05-22 13:41:41,657 - INFO - [浏览器23] 动态生成UA: Mozilla/5.0 (Macintosh; Intel Mac OS X 14_2_0) AppleWebKit/6... 视口: 1600x900
+2026-05-22 13:41:41,658 - INFO - [浏览器21] 动态生成UA: Mozilla/5.0 (Macintosh; Intel Mac OS X 13_6_0) AppleWebKit/5... 视口: 1440x900
+2026-05-22 13:41:41,658 - INFO - [浏览器24] 动态生成UA: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.40... 视口: 1280x800
+2026-05-22 13:41:41,659 - INFO - [浏览器25] 动态生成UA: Mozilla/5.0 (Macintosh; Intel Mac OS X 13_6_0) AppleWebKit/5... 视口: 1680x1050
+2026-05-22 13:41:44,206 - INFO - [浏览器19|账号PACREG3448143] ✅ 浏览器启动成功！
+2026-05-22 13:41:44,272 - INFO - ✅ 账号 PACREG3448143 浏览器创建成功
+2026-05-22 13:41:44,325 - INFO - [浏览器3|账号PACREG3449079] ✅ 浏览器启动成功！
+2026-05-22 13:41:44,334 - INFO - [浏览器1|账号PACREG3449077] ✅ 浏览器启动成功！
+2026-05-22 13:41:44,395 - INFO - ✅ 账号 PACREG3449079 浏览器创建成功
+2026-05-22 13:41:44,479 - INFO - ✅ 账号 PACREG3449077 浏览器创建成功
+2026-05-22 13:41:44,517 - INFO - [浏览器4|账号PACREG3449081] ✅ 浏览器启动成功！
+2026-05-22 13:41:44,519 - INFO - [浏览器25|账号PACREG3448153] ✅ 浏览器启动成功！
+2026-05-22 13:41:44,521 - INFO - [浏览器16|账号PACREG3448140] ✅ 浏览器启动成功！
+2026-05-22 13:41:44,527 - INFO - ✅ 账号 PACREG3449081 浏览器创建成功
+2026-05-22 13:41:44,530 - INFO - ✅ 账号 PACREG3448153 浏览器创建成功
+2026-05-22 13:41:44,530 - INFO - ✅ 账号 PACREG3448140 浏览器创建成功
+2026-05-22 13:41:44,531 - INFO - [浏览器22|账号PACREG3448148] ✅ 浏览器启动成功！
+2026-05-22 13:41:44,529 - INFO - [浏览器20|账号PACREG3448145] ✅ 浏览器启动成功！
+2026-05-22 13:41:44,531 - INFO - ✅ 账号 PACREG3448148 浏览器创建成功
+2026-05-22 13:41:44,531 - INFO - ✅ 账号 PACREG3448145 浏览器创建成功
+2026-05-22 13:41:44,573 - INFO - [浏览器17|账号PACREG3448141] ✅ 浏览器启动成功！
+2026-05-22 13:41:44,586 - INFO - [浏览器23|账号PACREG3448149] ✅ 浏览器启动成功！
+2026-05-22 13:41:44,586 - INFO - [浏览器24|账号PACREG3448151] ✅ 浏览器启动成功！
+2026-05-22 13:41:44,587 - INFO - ✅ 账号 PACREG3448141 浏览器创建成功
+2026-05-22 13:41:44,587 - INFO - ✅ 账号 PACREG3448149 浏览器创建成功
+2026-05-22 13:41:44,587 - INFO - [浏览器5|账号PACREG3449082] ✅ 浏览器启动成功！
+2026-05-22 13:41:44,587 - INFO - ✅ 账号 PACREG3448151 浏览器创建成功
+2026-05-22 13:41:44,588 - INFO - [浏览器18|账号PACREG3448142] ✅ 浏览器启动成功！
+2026-05-22 13:41:44,588 - INFO - ✅ 账号 PACREG3449082 浏览器创建成功
+2026-05-22 13:41:44,588 - INFO - ✅ 账号 PACREG3448142 浏览器创建成功
+2026-05-22 13:41:44,787 - INFO - [浏览器21|账号PACREG3448147] ✅ 浏览器启动成功！
+2026-05-22 13:41:44,788 - INFO - ✅ 账号 PACREG3448147 浏览器创建成功
+2026-05-22 13:41:44,808 - INFO - [浏览器2|账号PACREG3449078] ✅ 浏览器启动成功！
+2026-05-22 13:41:44,819 - INFO - ✅ 账号 PACREG3449078 浏览器创建成功
+2026-05-22 13:41:44,890 - INFO - 开始为15个浏览器并行登录...
+2026-05-22 13:41:44,899 - INFO - [线程1|账号PACREG3449077] 开始登录，访问登录页面...
+2026-05-22 13:41:44,899 - INFO - [线程2|账号PACREG3449078] 开始登录，访问登录页面...
+2026-05-22 13:41:44,929 - INFO - [线程3|账号PACREG3449079] 开始登录，访问登录页面...
+2026-05-22 13:41:44,937 - INFO - [线程4|账号PACREG3449081] 开始登录，访问登录页面...
+2026-05-22 13:41:44,949 - INFO - [线程5|账号PACREG3449082] 开始登录，访问登录页面...
+2026-05-22 13:41:44,973 - INFO - [线程16|账号PACREG3448140] 开始登录，访问登录页面...
+2026-05-22 13:41:44,991 - INFO - [线程17|账号PACREG3448141] 开始登录，访问登录页面...
+2026-05-22 13:41:45,004 - INFO - [线程18|账号PACREG3448142] 开始登录，访问登录页面...
+2026-05-22 13:41:45,018 - INFO - [线程19|账号PACREG3448143] 开始登录，访问登录页面...
+2026-05-22 13:41:45,019 - INFO - [线程20|账号PACREG3448145] 开始登录，访问登录页面...
+2026-05-22 13:41:45,035 - INFO - [线程21|账号PACREG3448147] 开始登录，访问登录页面...
+2026-05-22 13:41:45,042 - INFO - [线程22|账号PACREG3448148] 开始登录，访问登录页面...
+2026-05-22 13:41:45,056 - INFO - [线程23|账号PACREG3448149] 开始登录，访问登录页面...
+2026-05-22 13:41:45,069 - INFO - [线程24|账号PACREG3448151] 开始登录，访问登录页面...
+2026-05-22 13:41:45,097 - INFO - [线程25|账号PACREG3448153] 开始登录，访问登录页面...
+2026-05-22 13:42:46,340 - INFO - [线程2|账号PACREG3449078] ✅ 登录成功
+2026-05-22 13:42:46,341 - INFO - ✅ 账号 PACREG3449078 登录成功
+2026-05-22 13:42:53,115 - INFO - [线程4|账号PACREG3449081] ✅ 登录成功
+2026-05-22 13:42:53,116 - INFO - ✅ 账号 PACREG3449081 登录成功
+2026-05-22 13:43:19,150 - INFO - [线程25|账号PACREG3448153] ✅ 登录成功
+2026-05-22 13:43:19,150 - INFO - ✅ 账号 PACREG3448153 登录成功
+2026-05-22 13:43:33,332 - INFO - [线程20|账号PACREG3448145] ✅ 登录成功
+2026-05-22 13:43:33,333 - INFO - ✅ 账号 PACREG3448145 登录成功
+2026-05-22 13:44:04,301 - ERROR - ❌ [线程18|账号PACREG3448142] 登录异常: Message: stale element reference: stale element not found
+  (Session info: chrome=148.0.7778.179); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+0   chromedriver                        0x0000000105460c40 cxxbridge1$str$ptr + 3221216
+1   chromedriver                        0x0000000105458b1c cxxbridge1$str$ptr + 3188156
+2   chromedriver                        0x0000000104f1b8f4 _RNvCsiKAbIcglKMQ_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 75152
+3   chromedriver                        0x0000000104f2d5b4 _RNvCsiKAbIcglKMQ_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 148048
+4   chromedriver                        0x0000000104f2c664 _RNvCsiKAbIcglKMQ_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 144128
+5   chromedriver                        0x0000000104f22380 _RNvCsiKAbIcglKMQ_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 102428
+6   chromedriver                        0x0000000104f2248c _RNvCsiKAbIcglKMQ_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 102696
+7   chromedriver                        0x0000000104f20b60 _RNvCsiKAbIcglKMQ_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 96252
+8   chromedriver                        0x0000000104f24004 _RNvCsiKAbIcglKMQ_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 109728
+9   chromedriver                        0x0000000104fa4690 _RNvCsiKAbIcglKMQ_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 635692
+10  chromedriver                        0x0000000104fa36f4 _RNvCsiKAbIcglKMQ_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 631696
+11  chromedriver                        0x0000000104f599c0 _RNvCsiKAbIcglKMQ_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 329308
+12  chromedriver                        0x000000010541eb70 cxxbridge1$str$ptr + 2950672
+13  chromedriver                        0x00000001054222c8 cxxbridge1$str$ptr + 2964840
+14  chromedriver                        0x00000001054038a8 cxxbridge1$str$ptr + 2839368
+15  chromedriver                        0x0000000105422b48 cxxbridge1$str$ptr + 2967016
+16  chromedriver                        0x00000001053f43d4 cxxbridge1$str$ptr + 2776692
+17  chromedriver                        0x00000001054477ac cxxbridge1$str$ptr + 3117644
+18  chromedriver                        0x000000010544790c cxxbridge1$str$ptr + 3117996
+19  chromedriver                        0x0000000105458774 cxxbridge1$str$ptr + 3187220
+20  libsystem_pthread.dylib             0x0000000197b3fc0c _pthread_start + 136
+21  libsystem_pthread.dylib             0x0000000197b3ab80 thread_start + 8
+
+2026-05-22 13:44:04,302 - ERROR - ❌ 账号 PACREG3448142 登录失败
+2026-05-22 13:44:04,783 - ERROR - ❌ [线程16|账号PACREG3448140] 登录异常: Message: stale element reference: stale element not found
+  (Session info: chrome=148.0.7778.179); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+0   chromedriver                        0x000000010493cc40 cxxbridge1$str$ptr + 3221216
+1   chromedriver                        0x0000000104934b1c cxxbridge1$str$ptr + 3188156
+2   chromedriver                        0x00000001043f78f4 _RNvCsiKAbIcglKMQ_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 75152
+3   chromedriver                        0x00000001044095b4 _RNvCsiKAbIcglKMQ_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 148048
+4   chromedriver                        0x0000000104408664 _RNvCsiKAbIcglKMQ_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 144128
+5   chromedriver                        0x00000001043fe380 _RNvCsiKAbIcglKMQ_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 102428
+6   chromedriver                        0x00000001043fe48c _RNvCsiKAbIcglKMQ_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 102696
+7   chromedriver                        0x00000001043fcb60 _RNvCsiKAbIcglKMQ_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 96252
+8   chromedriver                        0x0000000104400004 _RNvCsiKAbIcglKMQ_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 109728
+9   chromedriver                        0x0000000104480690 _RNvCsiKAbIcglKMQ_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 635692
+10  chromedriver                        0x000000010447f6f4 _RNvCsiKAbIcglKMQ_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 631696
+11  chromedriver                        0x00000001044359c0 _RNvCsiKAbIcglKMQ_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 329308
+12  chromedriver                        0x00000001048fab70 cxxbridge1$str$ptr + 2950672
+13  chromedriver                        0x00000001048fe2c8 cxxbridge1$str$ptr + 2964840
+14  chromedriver                        0x00000001048df8a8 cxxbridge1$str$ptr + 2839368
+15  chromedriver                        0x00000001048feb48 cxxbridge1$str$ptr + 2967016
+16  chromedriver                        0x00000001048d03d4 cxxbridge1$str$ptr + 2776692
+17  chromedriver                        0x00000001049237ac cxxbridge1$str$ptr + 3117644
+18  chromedriver                        0x000000010492390c cxxbridge1$str$ptr + 3117996
+19  chromedriver                        0x0000000104934774 cxxbridge1$str$ptr + 3187220
+20  libsystem_pthread.dylib             0x0000000197b3fc0c _pthread_start + 136
+21  libsystem_pthread.dylib             0x0000000197b3ab80 thread_start + 8
+
+2026-05-22 13:44:04,783 - ERROR - ❌ 账号 PACREG3448140 登录失败
+2026-05-22 13:44:04,783 - ERROR - ❌ [线程1|账号PACREG3449077] 登录异常: Message: stale element reference: stale element not found
+  (Session info: chrome=148.0.7778.179); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+0   chromedriver                        0x0000000100f38c40 cxxbridge1$str$ptr + 3221216
+1   chromedriver                        0x0000000100f30b1c cxxbridge1$str$ptr + 3188156
+2   chromedriver                        0x00000001009f38f4 _RNvCsiKAbIcglKMQ_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 75152
+3   chromedriver                        0x0000000100a055b4 _RNvCsiKAbIcglKMQ_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 148048
+4   chromedriver                        0x0000000100a04664 _RNvCsiKAbIcglKMQ_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 144128
+5   chromedriver                        0x00000001009fa380 _RNvCsiKAbIcglKMQ_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 102428
+6   chromedriver                        0x00000001009fa48c _RNvCsiKAbIcglKMQ_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 102696
+7   chromedriver                        0x00000001009f8b60 _RNvCsiKAbIcglKMQ_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 96252
+8   chromedriver                        0x00000001009fc004 _RNvCsiKAbIcglKMQ_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 109728
+9   chromedriver                        0x0000000100a7c690 _RNvCsiKAbIcglKMQ_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 635692
+10  chromedriver                        0x0000000100a7b6f4 _RNvCsiKAbIcglKMQ_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 631696
+11  chromedriver                        0x0000000100a319c0 _RNvCsiKAbIcglKMQ_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 329308
+12  chromedriver                        0x0000000100ef6b70 cxxbridge1$str$ptr + 2950672
+13  chromedriver                        0x0000000100efa2c8 cxxbridge1$str$ptr + 2964840
+14  chromedriver                        0x0000000100edb8a8 cxxbridge1$str$ptr + 2839368
+15  chromedriver                        0x0000000100efab48 cxxbridge1$str$ptr + 2967016
+16  chromedriver                        0x0000000100ecc3d4 cxxbridge1$str$ptr + 2776692
+17  chromedriver                        0x0000000100f1f7ac cxxbridge1$str$ptr + 3117644
+18  chromedriver                        0x0000000100f1f90c cxxbridge1$str$ptr + 3117996
+19  chromedriver                        0x0000000100f30774 cxxbridge1$str$ptr + 3187220
+20  libsystem_pthread.dylib             0x0000000197b3fc0c _pthread_start + 136
+21  libsystem_pthread.dylib             0x0000000197b3ab80 thread_start + 8
+
+2026-05-22 13:44:04,783 - ERROR - ❌ 账号 PACREG3449077 登录失败
+2026-05-22 13:44:15,804 - INFO - [线程3|账号PACREG3449079] ✅ 登录成功
+2026-05-22 13:44:15,805 - INFO - ✅ 账号 PACREG3449079 登录成功
+2026-05-22 13:44:20,433 - INFO - [线程5|账号PACREG3449082] ✅ 登录成功
+2026-05-22 13:44:20,433 - INFO - ✅ 账号 PACREG3449082 登录成功
+2026-05-22 13:44:31,413 - INFO - [线程22|账号PACREG3448148] ✅ 登录成功
+2026-05-22 13:44:31,414 - INFO - ✅ 账号 PACREG3448148 登录成功
+2026-05-22 13:44:38,576 - ERROR - ❌ [线程21|账号PACREG3448147] 登录异常: Message: stale element reference: stale element not found
+  (Session info: chrome=148.0.7778.179); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+0   chromedriver                        0x00000001054f4c40 cxxbridge1$str$ptr + 3221216
+1   chromedriver                        0x00000001054ecb1c cxxbridge1$str$ptr + 3188156
+2   chromedriver                        0x0000000104faf8f4 _RNvCsiKAbIcglKMQ_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 75152
+3   chromedriver                        0x0000000104fc15b4 _RNvCsiKAbIcglKMQ_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 148048
+4   chromedriver                        0x0000000104fc0664 _RNvCsiKAbIcglKMQ_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 144128
+5   chromedriver                        0x0000000104fb6380 _RNvCsiKAbIcglKMQ_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 102428
+6   chromedriver                        0x0000000104fb648c _RNvCsiKAbIcglKMQ_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 102696
+7   chromedriver                        0x0000000104fb4b60 _RNvCsiKAbIcglKMQ_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 96252
+8   chromedriver                        0x0000000104fb8004 _RNvCsiKAbIcglKMQ_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 109728
+9   chromedriver                        0x0000000105038690 _RNvCsiKAbIcglKMQ_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 635692
+10  chromedriver                        0x00000001050376f4 _RNvCsiKAbIcglKMQ_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 631696
+11  chromedriver                        0x0000000104fed9c0 _RNvCsiKAbIcglKMQ_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 329308
+12  chromedriver                        0x00000001054b2b70 cxxbridge1$str$ptr + 2950672
+13  chromedriver                        0x00000001054b62c8 cxxbridge1$str$ptr + 2964840
+14  chromedriver                        0x00000001054978a8 cxxbridge1$str$ptr + 2839368
+15  chromedriver                        0x00000001054b6b48 cxxbridge1$str$ptr + 2967016
+16  chromedriver                        0x00000001054883d4 cxxbridge1$str$ptr + 2776692
+17  chromedriver                        0x00000001054db7ac cxxbridge1$str$ptr + 3117644
+18  chromedriver                        0x00000001054db90c cxxbridge1$str$ptr + 3117996
+19  chromedriver                        0x00000001054ec774 cxxbridge1$str$ptr + 3187220
+20  libsystem_pthread.dylib             0x0000000197b3fc0c _pthread_start + 136
+21  libsystem_pthread.dylib             0x0000000197b3ab80 thread_start + 8
+
+2026-05-22 13:44:38,577 - ERROR - ❌ 账号 PACREG3448147 登录失败
+2026-05-22 13:44:42,250 - INFO - [线程19|账号PACREG3448143] ✅ 登录成功
+2026-05-22 13:44:42,251 - INFO - ✅ 账号 PACREG3448143 登录成功
+2026-05-22 13:44:44,520 - INFO - [线程23|账号PACREG3448149] ✅ 登录成功
+2026-05-22 13:44:44,520 - INFO - ✅ 账号 PACREG3448149 登录成功
+2026-05-22 13:44:46,533 - ERROR - ❌ [线程24|账号PACREG3448151] 登录异常: Message: stale element reference: stale element not found
+  (Session info: chrome=148.0.7778.179); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+0   chromedriver                        0x0000000102f88c40 cxxbridge1$str$ptr + 3221216
+1   chromedriver                        0x0000000102f80b1c cxxbridge1$str$ptr + 3188156
+2   chromedriver                        0x0000000102a438f4 _RNvCsiKAbIcglKMQ_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 75152
+3   chromedriver                        0x0000000102a555b4 _RNvCsiKAbIcglKMQ_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 148048
+4   chromedriver                        0x0000000102a54664 _RNvCsiKAbIcglKMQ_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 144128
+5   chromedriver                        0x0000000102a4a380 _RNvCsiKAbIcglKMQ_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 102428
+6   chromedriver                        0x0000000102a4a48c _RNvCsiKAbIcglKMQ_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 102696
+7   chromedriver                        0x0000000102a48b60 _RNvCsiKAbIcglKMQ_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 96252
+8   chromedriver                        0x0000000102a4c004 _RNvCsiKAbIcglKMQ_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 109728
+9   chromedriver                        0x0000000102acc690 _RNvCsiKAbIcglKMQ_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 635692
+10  chromedriver                        0x0000000102acb6f4 _RNvCsiKAbIcglKMQ_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 631696
+11  chromedriver                        0x0000000102a819c0 _RNvCsiKAbIcglKMQ_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 329308
+12  chromedriver                        0x0000000102f46b70 cxxbridge1$str$ptr + 2950672
+13  chromedriver                        0x0000000102f4a2c8 cxxbridge1$str$ptr + 2964840
+14  chromedriver                        0x0000000102f2b8a8 cxxbridge1$str$ptr + 2839368
+15  chromedriver                        0x0000000102f4ab48 cxxbridge1$str$ptr + 2967016
+16  chromedriver                        0x0000000102f1c3d4 cxxbridge1$str$ptr + 2776692
+17  chromedriver                        0x0000000102f6f7ac cxxbridge1$str$ptr + 3117644
+18  chromedriver                        0x0000000102f6f90c cxxbridge1$str$ptr + 3117996
+19  chromedriver                        0x0000000102f80774 cxxbridge1$str$ptr + 3187220
+20  libsystem_pthread.dylib             0x0000000197b3fc0c _pthread_start + 136
+21  libsystem_pthread.dylib             0x0000000197b3ab80 thread_start + 8
+
+2026-05-22 13:44:46,533 - ERROR - ❌ 账号 PACREG3448151 登录失败
+2026-05-22 13:44:52,591 - ERROR - ❌ [线程17|账号PACREG3448141] 登录异常: Message: stale element reference: stale element not found
+  (Session info: chrome=148.0.7778.179); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+0   chromedriver                        0x0000000100990c40 cxxbridge1$str$ptr + 3221216
+1   chromedriver                        0x0000000100988b1c cxxbridge1$str$ptr + 3188156
+2   chromedriver                        0x000000010044b8f4 _RNvCsiKAbIcglKMQ_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 75152
+3   chromedriver                        0x000000010045d5b4 _RNvCsiKAbIcglKMQ_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 148048
+4   chromedriver                        0x000000010045c664 _RNvCsiKAbIcglKMQ_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 144128
+5   chromedriver                        0x0000000100452380 _RNvCsiKAbIcglKMQ_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 102428
+6   chromedriver                        0x000000010045248c _RNvCsiKAbIcglKMQ_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 102696
+7   chromedriver                        0x0000000100450b60 _RNvCsiKAbIcglKMQ_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 96252
+8   chromedriver                        0x0000000100454004 _RNvCsiKAbIcglKMQ_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 109728
+9   chromedriver                        0x00000001004d4690 _RNvCsiKAbIcglKMQ_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 635692
+10  chromedriver                        0x00000001004d36f4 _RNvCsiKAbIcglKMQ_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 631696
+11  chromedriver                        0x00000001004899c0 _RNvCsiKAbIcglKMQ_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 329308
+12  chromedriver                        0x000000010094eb70 cxxbridge1$str$ptr + 2950672
+13  chromedriver                        0x00000001009522c8 cxxbridge1$str$ptr + 2964840
+14  chromedriver                        0x00000001009338a8 cxxbridge1$str$ptr + 2839368
+15  chromedriver                        0x0000000100952b48 cxxbridge1$str$ptr + 2967016
+16  chromedriver                        0x00000001009243d4 cxxbridge1$str$ptr + 2776692
+17  chromedriver                        0x00000001009777ac cxxbridge1$str$ptr + 3117644
+18  chromedriver                        0x000000010097790c cxxbridge1$str$ptr + 3117996
+19  chromedriver                        0x0000000100988774 cxxbridge1$str$ptr + 3187220
+20  libsystem_pthread.dylib             0x0000000197b3fc0c _pthread_start + 136
+21  libsystem_pthread.dylib             0x0000000197b3ab80 thread_start + 8
+
+2026-05-22 13:44:52,592 - ERROR - ❌ 账号 PACREG3448141 登录失败
+2026-05-22 13:44:52,593 - INFO - 线程 8685166784 执行结束
+2026-05-22 13:44:52,691 - INFO - 成功读取文件: country_small.txt
+2026-05-22 13:44:52,697 - INFO - sheet表名为政策风险的基本信息：
+2026-05-22 13:44:52,718 - INFO - sheet表名为技术风险的基本信息：
+2026-05-22 13:44:52,731 - INFO - sheet表名为市场风险的基本信息：
+2026-05-22 13:44:52,742 - INFO - {'La Prensa Grafica (San Salvador, El Salvador)': 'pubname:LPGS!La+Prensa+Grafica+%28San+Salvador%2C+El+Salvador%29', 'La Nacion (San Jose, Costa Rica)': 'pubname:LN91!La+Nacion+%28San+Jose%2C+Costa+Rica%29', 'La Prensa (Nicaragua)': 'pubname:NLPM!La+Prensa+%28Nicaragua%29', 'La Prensa [ContentEngine] (Panama)': 'pubname:PLAPR!La+Prensa+%5BContentEngine%5D+%28Panama%29', 'La Nación (Buenos Aires, Argentina)': 'pubname:ALNB!La+Naci%C3%B3n+%28Buenos+Aires%2C+Argentina%29', 'El Mercurio (Santiago, Chile)': 'pubname:CEM1!El+Mercurio+%28Santiago%2C+Chile%29', 'El Comercio (Lima, Peru)': 'pubname:EECQ!El+Comercio+%28Lima%2C+Peru%29', 'El País (Montevideo, Uruguay)': 'pubname:UEPM!El+Pa%C3%ADs+%28Montevideo%2C+Uruguay%29', 'El Nacional (Caracas, Venezuela)': 'pubname:ENSVC!El+Nacional+%28Caracas%2C+Venezuela%29', 'El Universal (Venezuela)': 'pubname:VEUC!El+Universal+%28Venezuela%29', 'El Comercio (Quito, Ecuador)': 'pubname:ELCOM!El+Comercio+%28Quito%2C+Ecuador%29', 'Revista Lideres (Quito, Ecuador)': 'pubname:REVLI!Revista+Lideres+%28Quito%2C+Ecuador%29'}
+2026-05-22 13:44:52,745 - INFO - sheet表名为政策风险的基本信息：None
+2026-05-22 13:44:52,745 - INFO - 第 0 行数据：
+2026-05-22 13:44:52,745 - INFO - 所属洲                                                      北美洲
+国家                                                      萨尔瓦多
+Country                                          El Salvador
+指定报纸报道         La Prensa Grafica (San Salvador, El Salvador)
+爬取时间                                               2005-2026
+气候         cambio climático/crisis climática/gases de efe...
+政策         política/políticas/regulación/regulaciones/leg...
+不确定        incierto/incertidumbre/incierto/desconocido/va...
+Name: 0, dtype: object
+2026-05-22 13:44:52,745 - INFO - 文件 'search_results/政策风险萨尔瓦多La Prensa Grafica (San Salvador, El Salvador).xlsx' 在 search_results/ 目录中存在
+2026-05-22 13:44:52,745 - INFO - 第 1 行数据：
+2026-05-22 13:44:52,745 - INFO - 所属洲                                                      NaN
+国家                                               哥斯达黎加（西班牙语）
+Country                                           Costa Rica
+指定报纸报道                      La Nacion (San Jose, Costa Rica)
+爬取时间                                               2005-2026
+气候         cambio climático/crisis climática/gases de efe...
+政策         política/políticas/regulación/regulaciones/leg...
+不确定        incierto/incertidumbre/incierto/desconocido/va...
+Name: 1, dtype: object
+2026-05-22 13:44:52,745 - INFO - 文件 'search_results/政策风险哥斯达黎加（西班牙语）La Nacion (San Jose, Costa Rica).xlsx' 在 search_results/ 目录中存在
+2026-05-22 13:44:52,746 - INFO - 第 2 行数据：
+2026-05-22 13:44:52,746 - INFO - 所属洲                                                      NaN
+国家                                                      尼加拉瓜
+Country                                            Nicaragua
+指定报纸报道                                 La Prensa (Nicaragua)
+爬取时间                                               2005-2026
+气候         cambio climático/crisis climática/gases de efe...
+政策         política/políticas/regulación/regulaciones/leg...
+不确定        incierto/incertidumbre/incierto/desconocido/va...
+Name: 2, dtype: object
+2026-05-22 13:44:52,746 - INFO - 文件 'search_results/政策风险尼加拉瓜La Prensa (Nicaragua).xlsx' 在 search_results/ 目录中存在
+2026-05-22 13:44:52,746 - INFO - 第 3 行数据：
+2026-05-22 13:44:52,746 - INFO - 所属洲                                                      NaN
+国家                                                       巴拿马
+Country                                               Panama
+指定报纸报道                    La Prensa [ContentEngine] (Panama)
+爬取时间                                               2005-2026
+气候         cambio climático/crisis climática/gases de efe...
+政策         política/políticas/regulación/regulaciones/leg...
+不确定        incierto/incertidumbre/incierto/desconocido/va...
+Name: 3, dtype: object
+2026-05-22 13:44:52,746 - INFO - 文件 'search_results/政策风险巴拿马La Prensa [ContentEngine] (Panama).xlsx' 在 search_results/ 目录中存在
+2026-05-22 13:44:52,746 - INFO - 第 4 行数据：
+2026-05-22 13:44:52,746 - INFO - 所属洲                                                      南美洲
+国家                                                       阿根廷
+Country                                            Argentina
+指定报纸报道                   La Nación (Buenos Aires, Argentina)
+爬取时间                                               2005-2026
+气候         cambio climático/crisis climática/gases de efe...
+政策         política/políticas/regulación/regulaciones/leg...
+不确定        incierto/incertidumbre/incierto/desconocido/va...
+Name: 4, dtype: object
+2026-05-22 13:44:52,746 - INFO - 文件 'search_results/政策风险阿根廷La Nación (Buenos Aires, Argentina).xlsx' 在 search_results/ 目录中存在
+2026-05-22 13:44:52,746 - INFO - 第 5 行数据：
+2026-05-22 13:44:52,746 - INFO - 所属洲                                                      NaN
+国家                                                        智利
+Country                                                Chile
+指定报纸报道                         El Mercurio (Santiago, Chile)
+爬取时间                                               2005-2026
+气候         cambio climático/crisis climática/gases de efe...
+政策         política/políticas/regulación/regulaciones/leg...
+不确定        incierto/incertidumbre/incierto/desconocido/va...
+Name: 5, dtype: object
+2026-05-22 13:44:52,746 - INFO - 文件 'search_results/政策风险智利El Mercurio (Santiago, Chile).xlsx' 在 search_results/ 目录中存在
+2026-05-22 13:44:52,746 - INFO - 第 6 行数据：
+2026-05-22 13:44:52,746 - INFO - 所属洲                                                      NaN
+国家                                                        秘鲁
+Country                                                 Peru
+指定报纸报道                              El Comercio (Lima, Peru)
+爬取时间                                               2005-2026
+气候         cambio climático/crisis climática/gases de efe...
+政策         política/políticas/regulación/regulaciones/leg...
+不确定        incierto/incertidumbre/incierto/desconocido/va...
+Name: 6, dtype: object
+2026-05-22 13:44:52,747 - INFO - 文件 'search_results/政策风险秘鲁El Comercio (Lima, Peru).xlsx' 在 search_results/ 目录中存在
+2026-05-22 13:44:52,747 - INFO - 第 7 行数据：
+2026-05-22 13:44:52,747 - INFO - 所属洲                                                      NaN
+国家                                                       乌拉圭
+Country                                              Uruguay
+指定报纸报道                         El País (Montevideo, Uruguay)
+爬取时间                                               2005-2026
+气候         cambio climático/crisis climática/gases de efe...
+政策         política/políticas/regulación/regulaciones/leg...
+不确定        incierto/incertidumbre/incierto/desconocido/va...
+Name: 7, dtype: object
+2026-05-22 13:44:52,747 - INFO - 文件 'search_results/政策风险乌拉圭El País (Montevideo, Uruguay).xlsx' 在 search_results/ 目录中存在
+2026-05-22 13:44:52,747 - INFO - 第 8 行数据：
+2026-05-22 13:44:52,747 - INFO - 所属洲                                                      NaN
+国家                                                      委内瑞拉
+Country                                            Venezuela
+指定报纸报道     El Nacional (Caracas, Venezuela); El Universal...
+爬取时间                                               2005-2026
+气候         cambio climático/crisis climática/gases de efe...
+政策         política/políticas/regulación/regulaciones/leg...
+不确定        incierto/incertidumbre/incierto/desconocido/va...
+Name: 8, dtype: object
+2026-05-22 13:44:52,747 - INFO - 文件 'search_results/政策风险委内瑞拉El Nacional (Caracas, Venezuela).xlsx' 在 search_results/ 目录中存在
+2026-05-22 13:44:52,748 - WARNING - ⚠️ 未找到期刊 '委内瑞拉',' El Universal (Venezuela)' 的代码映射
+2026-05-22 13:44:52,748 - INFO - 第 9 行数据：
+2026-05-22 13:44:52,748 - INFO - 所属洲                                                      NaN
+国家                                                      厄瓜多尔
+Country                                              Ecuador
+指定报纸报道     El Comercio (Quito, Ecuador); Revista Lideres ...
+爬取时间                                               2005-2026
+气候         cambio climático/crisis climática/gases de efe...
+政策         política/políticas/regulación/regulaciones/leg...
+不确定        incierto/incertidumbre/incierto/desconocido/va...
+Name: 9, dtype: object
+2026-05-22 13:44:52,748 - INFO - 文件 'search_results/政策风险厄瓜多尔El Comercio (Quito, Ecuador).xlsx' 在 search_results/ 目录中存在
+2026-05-22 13:44:52,748 - WARNING - ⚠️ 未找到期刊 '厄瓜多尔',' Revista Lideres (Quito, Ecuador)' 的代码映射
+2026-05-22 13:44:52,750 - INFO - sheet表名为技术风险的基本信息：None
+2026-05-22 13:44:52,750 - INFO - 第 0 行数据：
+2026-05-22 13:44:52,750 - INFO - 所属洲                                                      北美洲
+国家                                                      萨尔瓦多
+Country                                          El Salvador
+指定报纸报道         La Prensa Grafica (San Salvador, El Salvador)
+爬取时间                                               2005-2026
+低碳         carbono neutralidad/pico de emisiones/cero net...
+技术         innovación/avance/desarrollar/desarrollo/inven...
+替代         sustituir/reemplazar/eliminado progresivamente...
+Name: 0, dtype: object
+2026-05-22 13:44:52,750 - INFO - 文件 'search_results/技术风险萨尔瓦多La Prensa Grafica (San Salvador, El Salvador).xlsx' 在 search_results/ 目录中存在
+2026-05-22 13:44:52,750 - INFO - 第 1 行数据：
+2026-05-22 13:44:52,750 - INFO - 所属洲                                                      NaN
+国家                                               哥斯达黎加（西班牙语）
+Country                                           Costa Rica
+指定报纸报道                      La Nacion (San Jose, Costa Rica)
+爬取时间                                               2005-2026
+低碳         carbono neutralidad/pico de emisiones/cero net...
+技术         innovación/avance/desarrollar/desarrollo/inven...
+替代         sustituir/reemplazar/eliminado progresivamente...
+Name: 1, dtype: object
+2026-05-22 13:44:52,751 - INFO - 文件 'search_results/技术风险哥斯达黎加（西班牙语）La Nacion (San Jose, Costa Rica).xlsx' 在 search_results/ 目录中存在
+2026-05-22 13:44:52,751 - INFO - 第 2 行数据：
+2026-05-22 13:44:52,751 - INFO - 所属洲                                                      NaN
+国家                                                      尼加拉瓜
+Country                                            Nicaragua
+指定报纸报道                                 La Prensa (Nicaragua)
+爬取时间                                               2005-2026
+低碳         carbono neutralidad/pico de emisiones/cero net...
+技术         innovación/avance/desarrollar/desarrollo/inven...
+替代         sustituir/reemplazar/eliminado progresivamente...
+Name: 2, dtype: object
+2026-05-22 13:44:52,751 - INFO - 文件 'search_results/技术风险尼加拉瓜La Prensa (Nicaragua).xlsx' 在 search_results/ 目录中存在
+2026-05-22 13:44:52,751 - INFO - 第 3 行数据：
+2026-05-22 13:44:52,751 - INFO - 所属洲                                                      NaN
+国家                                                       巴拿马
+Country                                               Panama
+指定报纸报道                    La Prensa [ContentEngine] (Panama)
+爬取时间                                               2005-2026
+低碳         carbono neutralidad/pico de emisiones/cero net...
+技术         innovación/avance/desarrollar/desarrollo/inven...
+替代         sustituir/reemplazar/eliminado progresivamente...
+Name: 3, dtype: object
+2026-05-22 13:44:52,752 - INFO - 文件 'search_results/技术风险巴拿马La Prensa [ContentEngine] (Panama).xlsx' 在 search_results/ 目录中存在
+2026-05-22 13:44:52,752 - INFO - 第 4 行数据：
+2026-05-22 13:44:52,752 - INFO - 所属洲                                                      南美洲
+国家                                                       阿根廷
+Country                                            Argentina
+指定报纸报道                   La Nación (Buenos Aires, Argentina)
+爬取时间                                               2005-2026
+低碳         carbono neutralidad/pico de emisiones/cero net...
+技术         innovación/avance/desarrollar/desarrollo/inven...
+替代         sustituir/reemplazar/eliminado progresivamente...
+Name: 4, dtype: object
+2026-05-22 13:44:52,752 - INFO - 文件 'search_results/技术风险阿根廷La Nación (Buenos Aires, Argentina).xlsx' 在 search_results/ 目录中存在
+2026-05-22 13:44:52,752 - INFO - 第 5 行数据：
+2026-05-22 13:44:52,752 - INFO - 所属洲                                                      NaN
+国家                                                        智利
+Country                                                Chile
+指定报纸报道                         El Mercurio (Santiago, Chile)
+爬取时间                                               2005-2026
+低碳         carbono neutralidad/pico de emisiones/cero net...
+技术         innovación/avance/desarrollar/desarrollo/inven...
+替代         sustituir/reemplazar/eliminado progresivamente...
+Name: 5, dtype: object
+2026-05-22 13:44:52,752 - INFO - 文件 'search_results/技术风险智利El Mercurio (Santiago, Chile).xlsx' 在 search_results/ 目录中存在
+2026-05-22 13:44:52,752 - INFO - 第 6 行数据：
+2026-05-22 13:44:52,752 - INFO - 所属洲                                                      NaN
+国家                                                        秘鲁
+Country                                                 Peru
+指定报纸报道                              El Comercio (Lima, Peru)
+爬取时间                                               2005-2026
+低碳         carbono neutralidad/pico de emisiones/cero net...
+技术         innovación/avance/desarrollar/desarrollo/inven...
+替代         sustituir/reemplazar/eliminado progresivamente...
+Name: 6, dtype: object
+2026-05-22 13:44:52,753 - INFO - 文件 'search_results/技术风险秘鲁El Comercio (Lima, Peru).xlsx' 在 search_results/ 目录中存在
+2026-05-22 13:44:52,753 - INFO - 第 7 行数据：
+2026-05-22 13:44:52,753 - INFO - 所属洲                                                      NaN
+国家                                                       乌拉圭
+Country                                              Uruguay
+指定报纸报道                         El País (Montevideo, Uruguay)
+爬取时间                                               2005-2026
+低碳         carbono neutralidad/pico de emisiones/cero net...
+技术         innovación/avance/desarrollar/desarrollo/inven...
+替代         sustituir/reemplazar/eliminado progresivamente...
+Name: 7, dtype: object
+2026-05-22 13:44:52,753 - INFO - 文件 'search_results/技术风险乌拉圭El País (Montevideo, Uruguay).xlsx' 在 search_results/ 目录中存在
+2026-05-22 13:44:52,753 - INFO - 第 8 行数据：
+2026-05-22 13:44:52,753 - INFO - 所属洲                                                      NaN
+国家                                                      委内瑞拉
+Country                                            Venezuela
+指定报纸报道     El Nacional (Caracas, Venezuela); El Universal...
+爬取时间                                               2005-2026
+低碳         carbono neutralidad/pico de emisiones/cero net...
+技术         innovación/avance/desarrollar/desarrollo/inven...
+替代         sustituir/reemplazar/eliminado progresivamente...
+Name: 8, dtype: object
+2026-05-22 13:44:52,753 - INFO - 文件 'search_results/技术风险委内瑞拉El Nacional (Caracas, Venezuela).xlsx' 在 search_results/ 目录中存在
+2026-05-22 13:44:52,753 - WARNING - ⚠️ 未找到期刊 '委内瑞拉',' El Universal (Venezuela)' 的代码映射
+2026-05-22 13:44:52,753 - INFO - 第 9 行数据：
+2026-05-22 13:44:52,753 - INFO - 所属洲                                                      NaN
+国家                                                      厄瓜多尔
+Country                                              Ecuador
+指定报纸报道     El Comercio (Quito, Ecuador); Revista Lideres ...
+爬取时间                                               2005-2026
+低碳         carbono neutralidad/pico de emisiones/cero net...
+技术         innovación/avance/desarrollar/desarrollo/inven...
+替代         sustituir/reemplazar/eliminado progresivamente...
+Name: 9, dtype: object
+2026-05-22 13:44:52,754 - INFO - 文件 'search_results/技术风险厄瓜多尔El Comercio (Quito, Ecuador).xlsx' 在 search_results/ 目录中存在
+2026-05-22 13:44:52,754 - WARNING - ⚠️ 未找到期刊 '厄瓜多尔',' Revista Lideres (Quito, Ecuador)' 的代码映射
+2026-05-22 13:44:52,756 - INFO - sheet表名为市场风险的基本信息：None
+2026-05-22 13:44:52,756 - INFO - 第 0 行数据：
+2026-05-22 13:44:52,756 - INFO - 所属洲                                                      北美洲
+国家                                                      萨尔瓦多
+Country                                          El Salvador
+指定报纸报道         La Prensa Grafica (San Salvador, El Salvador)
+爬取时间                                               2005-2026
+绿色         desarrollo verde/economía verde/transición ver...
+市场         inversor/institución financiera/empresa/compañ...
+偏好         apoyar/aceptar/aprobar/respaldar/confiar/gusta...
+Name: 0, dtype: object
+2026-05-22 13:44:52,756 - INFO - 文件 'search_results/市场风险萨尔瓦多La Prensa Grafica (San Salvador, El Salvador).xlsx' 在 search_results/ 目录中存在
+2026-05-22 13:44:52,756 - INFO - 第 1 行数据：
+2026-05-22 13:44:52,756 - INFO - 所属洲                                                      NaN
+国家                                               哥斯达黎加（西班牙语）
+Country                                           Costa Rica
+指定报纸报道                      La Nacion (San Jose, Costa Rica)
+爬取时间                                               2005-2026
+绿色         desarrollo verde/economía verde/transición ver...
+市场         inversor/institución financiera/empresa/compañ...
+偏好         apoyar/aceptar/aprobar/respaldar/confiar/gusta...
+Name: 1, dtype: object
+2026-05-22 13:44:52,756 - INFO - 文件 'search_results/市场风险哥斯达黎加（西班牙语）La Nacion (San Jose, Costa Rica).xlsx' 在 search_results/ 目录中存在
+2026-05-22 13:44:52,756 - INFO - 第 2 行数据：
+2026-05-22 13:44:52,756 - INFO - 所属洲                                                      NaN
+国家                                                      尼加拉瓜
+Country                                            Nicaragua
+指定报纸报道                                 La Prensa (Nicaragua)
+爬取时间                                               2005-2026
+绿色         desarrollo verde/economía verde/transición ver...
+市场         inversor/institución financiera/empresa/compañ...
+偏好         apoyar/aceptar/aprobar/respaldar/confiar/gusta...
+Name: 2, dtype: object
+2026-05-22 13:44:52,757 - INFO - 文件 'search_results/市场风险尼加拉瓜La Prensa (Nicaragua).xlsx' 在 search_results/ 目录中存在
+2026-05-22 13:44:52,757 - INFO - 第 3 行数据：
+2026-05-22 13:44:52,757 - INFO - 所属洲                                                      NaN
+国家                                                       巴拿马
+Country                                               Panama
+指定报纸报道                    La Prensa [ContentEngine] (Panama)
+爬取时间                                               2005-2026
+绿色         desarrollo verde/economía verde/transición ver...
+市场         inversor/institución financiera/empresa/compañ...
+偏好         apoyar/aceptar/aprobar/respaldar/confiar/gusta...
+Name: 3, dtype: object
+2026-05-22 13:44:52,757 - INFO - 文件 'search_results/市场风险巴拿马La Prensa [ContentEngine] (Panama).xlsx' 在 search_results/ 目录中存在
+2026-05-22 13:44:52,757 - INFO - 第 4 行数据：
+2026-05-22 13:44:52,757 - INFO - 所属洲                                                      南美洲
+国家                                                       阿根廷
+Country                                            Argentina
+指定报纸报道                   La Nación (Buenos Aires, Argentina)
+爬取时间                                               2005-2026
+绿色         desarrollo verde/economía verde/transición ver...
+市场         inversor/institución financiera/empresa/compañ...
+偏好         apoyar/aceptar/aprobar/respaldar/confiar/gusta...
+Name: 4, dtype: object
+2026-05-22 13:44:52,757 - INFO - 文件 'search_results/市场风险阿根廷La Nación (Buenos Aires, Argentina).xlsx' 在 search_results/ 目录中存在
+2026-05-22 13:44:52,757 - INFO - 第 5 行数据：
+2026-05-22 13:44:52,757 - INFO - 所属洲                                                      NaN
+国家                                                        智利
+Country                                                Chile
+指定报纸报道                         El Mercurio (Santiago, Chile)
+爬取时间                                               2005-2026
+绿色         desarrollo verde/economía verde/transición ver...
+市场         inversor/institución financiera/empresa/compañ...
+偏好         apoyar/aceptar/aprobar/respaldar/confiar/gusta...
+Name: 5, dtype: object
+2026-05-22 13:44:52,757 - INFO - 文件 'search_results/市场风险智利El Mercurio (Santiago, Chile).xlsx' 在 search_results/ 目录中不存在
+2026-05-22 14:08:43,131 - INFO - 访问网页失败!!! 
+2026-05-22 14:08:44,540 - INFO - 访问网页失败!!! 
+2026-05-22 14:08:45,015 - INFO - 访问网页失败!!! 
+2026-05-22 14:08:45,078 - INFO - 访问网页失败!!! 
+2026-05-22 14:08:49,048 - INFO - 访问网页失败!!! 
+2026-05-22 14:08:49,844 - INFO - 访问网页失败!!! 
+2026-05-22 14:08:58,013 - INFO - 访问网页失败!!! 
+2026-05-22 14:35:30,921 - INFO - 访问网页失败!!! 
+2026-05-22 14:35:48,114 - INFO - 访问网页失败!!! 
+2026-05-22 14:36:56,830 - INFO - 访问网页失败!!! 
+2026-05-22 14:46:11,460 - INFO - 第 6 行数据：
+2026-05-22 14:46:11,460 - INFO - 所属洲                                                      NaN
+国家                                                        秘鲁
+Country                                                 Peru
+指定报纸报道                              El Comercio (Lima, Peru)
+爬取时间                                               2005-2026
+绿色         desarrollo verde/economía verde/transición ver...
+市场         inversor/institución financiera/empresa/compañ...
+偏好         apoyar/aceptar/aprobar/respaldar/confiar/gusta...
+Name: 6, dtype: object
+2026-05-22 14:46:11,463 - INFO - 文件 'search_results/市场风险秘鲁El Comercio (Lima, Peru).xlsx' 在 search_results/ 目录中不存在

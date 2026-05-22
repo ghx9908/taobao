@@ -1,0 +1,51 @@
+climate_policy|||desarrollo verde|||institución financiera|||5
+climate_policy|||economía verde|||institución financiera|||9
+climate_policy|||desarrollo verde|||consumidor|||14
+climate_policy|||desarrollo verde|||tomador de decisiones|||0
+climate_policy|||desarrollo verde|||individuo|||3
+climate_policy|||desarrollo verde|||inversor|||1
+climate_policy|||desarrollo verde|||residente|||6
+climate_policy|||desarrollo verde|||hogar|||15
+climate_policy|||economía verde|||inversor|||2
+climate_policy|||desarrollo verde|||cliente|||10
+climate_policy|||desarrollo verde|||compañía|||49
+climate_policy|||economía verde|||compañía|||127
+climate_policy|||desarrollo verde|||público|||245
+climate_policy|||desarrollo verde|||empresa|||213
+climate_policy|||economía verde|||empresa|||346
+climate_policy|||economía verde|||tomador de decisiones|||0
+climate_policy|||economía verde|||residente|||4
+climate_policy|||transición verde|||tomador de decisiones|||0
+climate_policy|||transición verde|||cliente|||0
+climate_policy|||economía verde|||individuo|||2
+climate_policy|||economía verde|||hogar|||17
+climate_policy|||economía verde|||cliente|||33
+climate_policy|||economía verde|||público|||208
+climate_policy|||transición verde|||hogar|||1
+climate_policy|||economía verde|||consumidor|||67
+climate_policy|||transición verde|||inversor|||0
+climate_policy|||transición verde|||institución financiera|||0
+climate_policy|||transición verde|||público|||16
+climate_policy|||transición verde|||compañía|||4
+climate_policy|||transición verde|||empresa|||15
+climate_policy|||transición verde|||consumidor|||0
+climate_policy|||tecnología verde|||institución financiera|||2
+climate_policy|||tecnología verde|||tomador de decisiones|||0
+climate_policy|||tecnología verde|||cliente|||6
+climate_policy|||tecnología verde|||consumidor|||13
+climate_policy|||transición verde|||residente|||1
+climate_policy|||tecnología verde|||inversor|||0
+climate_policy|||transición verde|||individuo|||0
+climate_policy|||tecnología verde|||compañía|||18
+climate_policy|||tecnología verde|||hogar|||7
+climate_policy|||tecnología verde|||individuo|||0
+climate_policy|||innovación verde|||inversor|||0
+climate_policy|||tecnología verde|||empresa|||65
+climate_policy|||innovación verde|||institución financiera|||0
+climate_policy|||innovación verde|||empresa|||23
+climate_policy|||innovación verde|||tomador de decisiones|||0
+climate_policy|||innovación verde|||consumidor|||7
+climate_policy|||innovación verde|||hogar|||2
+climate_policy|||tecnología verde|||residente|||0
+climate_policy|||innovación verde|||individuo|||0
+climate_policy|||energía verde|||inversor|||0
