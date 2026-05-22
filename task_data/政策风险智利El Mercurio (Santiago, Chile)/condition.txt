@@ -3177,3 +3177,447 @@ energía oceánica|||Ministerio de Energía|||incierto
 IPCC|||política|||incierto
 IPCC|||política|||incertidumbre
 IPCC|||política|||incierto
+energía oceánica|||Ministerio de Energía|||desconocido
+IPCC|||política|||desconocido
+IPCC|||política|||posponer
+IPCC|||política|||vago
+IPCC|||política|||suspender
+IPCC|||políticas|||incierto
+IPCC|||políticas|||desconocido
+IPCC|||políticas|||incertidumbre
+IPCC|||políticas|||incierto
+IPCC|||regulación|||vago
+IPCC|||políticas|||vago
+IPCC|||políticas|||posponer
+IPCC|||políticas|||suspender
+IPCC|||regulación|||posponer
+IPCC|||regulación|||incierto
+IPCC|||regulación|||suspender
+IPCC|||regulación|||incertidumbre
+IPCC|||regulación|||desconocido
+IPCC|||regulaciones|||incertidumbre
+IPCC|||regulación|||incierto
+IPCC|||regulaciones|||desconocido
+IPCC|||regulaciones|||vago
+IPCC|||regulaciones|||posponer
+IPCC|||regulaciones|||suspender
+IPCC|||legislación|||incertidumbre
+IPCC|||regulaciones|||incierto
+IPCC|||regulaciones|||incierto
+IPCC|||ley|||incierto
+IPCC|||ley|||incertidumbre
+IPCC|||ley|||desconocido
+IPCC|||legislación|||incierto
+IPCC|||legislación|||incierto
+IPCC|||legislación|||desconocido
+IPCC|||legislación|||posponer
+IPCC|||legislación|||vago
+IPCC|||legislación|||suspender
+IPCC|||ley|||suspender
+IPCC|||Congreso Nacional|||incierto
+IPCC|||ley|||vago
+IPCC|||ley|||incierto
+IPCC|||Congreso Nacional|||incierto
+IPCC|||Congreso Nacional|||desconocido
+IPCC|||ley|||posponer
+IPCC|||Congreso Nacional|||vago
+IPCC|||Congreso Nacional|||posponer
+IPCC|||Congreso Nacional|||suspender
+IPCC|||Presidencia|||incertidumbre
+IPCC|||Congreso Nacional|||incertidumbre
+IPCC|||Presidencia|||incierto
+IPCC|||Presidencia|||desconocido
+IPCC|||Presidencia|||vago
+IPCC|||Presidencia|||posponer
+IPCC|||Presidencia|||suspender
+IPCC|||Senado|||incierto
+IPCC|||Senado|||incertidumbre
+IPCC|||Senado|||incierto
+IPCC|||Senado|||vago
+IPCC|||Senado|||posponer
+IPCC|||Presidencia|||incierto
+IPCC|||Cámara de Diputados|||incierto
+IPCC|||Senado|||desconocido
+IPCC|||gobierno|||incierto
+IPCC|||gobierno|||incertidumbre
+IPCC|||gobierno|||desconocido
+IPCC|||Senado|||suspender
+IPCC|||Cámara de Diputados|||incertidumbre
+IPCC|||Cámara de Diputados|||desconocido
+IPCC|||Cámara de Diputados|||incierto
+IPCC|||Cámara de Diputados|||vago
+IPCC|||Cámara de Diputados|||posponer
+IPCC|||gobierno|||suspender
+IPCC|||Cámara de Diputados|||suspender
+IPCC|||gobierno|||incierto
+IPCC|||Ministerio del Medio Ambiente|||incierto
+IPCC|||Ministerio del Medio Ambiente|||desconocido
+IPCC|||gobierno|||posponer
+IPCC|||gobierno|||vago
+IPCC|||Ministerio del Medio Ambiente|||posponer
+IPCC|||MMA|||incierto
+IPCC|||Ministerio del Medio Ambiente|||suspender
+IPCC|||Ministerio del Medio Ambiente|||incierto
+IPCC|||Ministerio del Medio Ambiente|||incertidumbre
+IPCC|||MMA|||incertidumbre
+IPCC|||MMA|||incierto
+IPCC|||MMA|||desconocido
+IPCC|||MMA|||suspender
+IPCC|||Ministerio de Energía|||incierto
+IPCC|||Ministerio del Medio Ambiente|||vago
+IPCC|||Ministerio de Energía|||incertidumbre
+IPCC|||Ministerio de Energía|||incierto
+IPCC|||Ministerio de Energía|||desconocido
+IPCC|||Ministerio de Energía|||vago
+IPCC|||Ministerio de Energía|||posponer
+COP|||política|||incierto
+COP|||política|||desconocido
+COP|||política|||vago
+COP|||política|||retrasar
+COP|||política|||incierto
+COP|||política|||retirar
+IPCC|||Ministerio de Energía|||suspender
+COP|||política|||suspender
+COP|||política|||ambiguo
+COP|||políticas|||incertidumbre
+COP|||política|||impredecible
+COP|||política|||posponer
+COP|||políticas|||incierto
+COP|||políticas|||desconocido
+COP|||políticas|||vago
+COP|||política|||incertidumbre
+COP|||política|||cancelar
+COP|||políticas|||ambiguo
+COP|||políticas|||incierto
+COP|||políticas|||impredecible
+COP|||políticas|||posponer
+COP|||políticas|||retrasar
+COP|||políticas|||cancelar
+COP|||políticas|||retirar
+COP|||políticas|||suspender
+COP|||regulación|||incierto
+COP|||regulación|||incertidumbre
+COP|||regulación|||incierto
+COP|||regulación|||desconocido
+COP|||regulación|||impredecible
+COP|||regulación|||posponer
+COP|||regulación|||cancelar
+COP|||regulación|||retirar
+COP|||regulaciones|||incierto
+COP|||regulación|||vago
+COP|||regulación|||ambiguo
+COP|||regulaciones|||vago
+COP|||regulaciones|||ambiguo
+COP|||regulaciones|||impredecible
+COP|||regulaciones|||posponer
+COP|||regulaciones|||retrasar
+COP|||regulación|||retrasar
+COP|||regulación|||suspender
+COP|||regulaciones|||incierto
+COP|||regulaciones|||incertidumbre
+COP|||regulaciones|||retirar
+COP|||regulaciones|||suspender
+COP|||legislación|||incertidumbre
+COP|||legislación|||incierto
+COP|||regulaciones|||desconocido
+COP|||legislación|||vago
+COP|||regulaciones|||cancelar
+COP|||legislación|||impredecible
+COP|||legislación|||retrasar
+COP|||legislación|||cancelar
+COP|||legislación|||retirar
+COP|||legislación|||incierto
+COP|||legislación|||suspender
+COP|||ley|||incierto
+COP|||legislación|||desconocido
+COP|||ley|||incertidumbre
+COP|||legislación|||ambiguo
+COP|||ley|||vago
+COP|||legislación|||posponer
+COP|||ley|||ambiguo
+COP|||ley|||posponer
+COP|||ley|||cancelar
+COP|||ley|||retirar
+COP|||Congreso Nacional|||incertidumbre
+COP|||ley|||incierto
+COP|||ley|||desconocido
+COP|||Congreso Nacional|||incierto
+COP|||Congreso Nacional|||desconocido
+COP|||ley|||impredecible
+COP|||Congreso Nacional|||vago
+COP|||ley|||retrasar
+COP|||Congreso Nacional|||impredecible
+COP|||Congreso Nacional|||posponer
+COP|||ley|||suspender
+COP|||Congreso Nacional|||incierto
+COP|||Congreso Nacional|||cancelar
+COP|||Congreso Nacional|||retirar
+COP|||Presidencia|||incertidumbre
+COP|||Presidencia|||incierto
+COP|||Congreso Nacional|||ambiguo
+COP|||Presidencia|||desconocido
+COP|||Presidencia|||impredecible
+COP|||Congreso Nacional|||retrasar
+COP|||Presidencia|||retrasar
+COP|||Presidencia|||cancelar
+COP|||Presidencia|||retirar
+COP|||Congreso Nacional|||suspender
+COP|||Presidencia|||incierto
+COP|||Presidencia|||suspender
+COP|||Presidencia|||vago
+COP|||Senado|||incertidumbre
+COP|||Senado|||incierto
+COP|||Senado|||desconocido
+COP|||Presidencia|||ambiguo
+COP|||Presidencia|||posponer
+COP|||Senado|||vago
+COP|||Senado|||impredecible
+COP|||Senado|||posponer
+COP|||Senado|||suspender
+COP|||Senado|||incierto
+COP|||Cámara de Diputados|||incertidumbre
+COP|||Cámara de Diputados|||desconocido
+COP|||Cámara de Diputados|||vago
+COP|||Senado|||ambiguo
+COP|||Cámara de Diputados|||ambiguo
+COP|||Cámara de Diputados|||impredecible
+COP|||Cámara de Diputados|||posponer
+COP|||Senado|||retrasar
+COP|||Senado|||retirar
+COP|||Cámara de Diputados|||retrasar
+COP|||Senado|||cancelar
+COP|||Cámara de Diputados|||incierto
+COP|||Cámara de Diputados|||cancelar
+COP|||Cámara de Diputados|||incierto
+COP|||Cámara de Diputados|||retirar
+COP|||Cámara de Diputados|||suspender
+COP|||gobierno|||incierto
+COP|||gobierno|||incertidumbre
+COP|||gobierno|||incierto
+COP|||gobierno|||vago
+COP|||gobierno|||desconocido
+COP|||gobierno|||ambiguo
+COP|||gobierno|||impredecible
+COP|||gobierno|||retrasar
+COP|||gobierno|||suspender
+COP|||Ministerio del Medio Ambiente|||incierto
+COP|||Ministerio del Medio Ambiente|||impredecible
+COP|||Ministerio del Medio Ambiente|||posponer
+COP|||gobierno|||posponer
+COP|||gobierno|||cancelar
+COP|||gobierno|||retirar
+COP|||MMA|||incierto
+COP|||Ministerio del Medio Ambiente|||desconocido
+COP|||Ministerio del Medio Ambiente|||incertidumbre
+COP|||Ministerio del Medio Ambiente|||incierto
+COP|||Ministerio del Medio Ambiente|||vago
+COP|||Ministerio del Medio Ambiente|||ambiguo
+COP|||MMA|||incertidumbre
+COP|||MMA|||incierto
+COP|||Ministerio del Medio Ambiente|||retirar
+COP|||MMA|||desconocido
+COP|||MMA|||retrasar
+COP|||Ministerio del Medio Ambiente|||suspender
+COP|||MMA|||retirar
+COP|||Ministerio del Medio Ambiente|||cancelar
+COP|||Ministerio del Medio Ambiente|||retrasar
+COP|||MMA|||suspender
+COP|||Ministerio de Energía|||incierto
+COP|||Ministerio de Energía|||incertidumbre
+COP|||Ministerio de Energía|||incierto
+COP|||Ministerio de Energía|||desconocido
+COP|||Ministerio de Energía|||ambiguo
+COP|||Ministerio de Energía|||posponer
+COP|||Ministerio de Energía|||retrasar
+COP|||Ministerio de Energía|||cancelar
+Acuerdo de París|||política|||incierto
+Acuerdo de París|||política|||vago
+COP|||Ministerio de Energía|||vago
+COP|||Ministerio de Energía|||impredecible
+Acuerdo de París|||política|||posponer
+COP|||Ministerio de Energía|||retirar
+COP|||Ministerio de Energía|||suspender
+Acuerdo de París|||política|||diferir
+Acuerdo de París|||política|||abolir
+Acuerdo de París|||política|||ambiguo
+Acuerdo de París|||política|||incierto
+Acuerdo de París|||política|||desconocido
+Acuerdo de París|||política|||incertidumbre
+Acuerdo de París|||política|||retirar
+Acuerdo de París|||política|||impredecible
+Acuerdo de París|||política|||suspender
+Acuerdo de París|||política|||retrasar
+Acuerdo de París|||políticas|||desconocido
+Acuerdo de París|||políticas|||vago
+Acuerdo de París|||políticas|||ambiguo
+Acuerdo de París|||políticas|||incertidumbre
+Acuerdo de París|||políticas|||impredecible
+Acuerdo de París|||política|||cancelar
+Acuerdo de París|||políticas|||posponer
+Acuerdo de París|||políticas|||retrasar
+Acuerdo de París|||políticas|||abolir
+Acuerdo de París|||políticas|||incierto
+Acuerdo de París|||políticas|||retirar
+Acuerdo de París|||políticas|||suspender
+Acuerdo de París|||regulación|||incierto
+Acuerdo de París|||políticas|||incierto
+Acuerdo de París|||regulación|||incierto
+Acuerdo de París|||políticas|||diferir
+Acuerdo de París|||regulación|||vago
+Acuerdo de París|||regulación|||impredecible
+Acuerdo de París|||regulación|||retrasar
+Acuerdo de París|||políticas|||cancelar
+Acuerdo de París|||regulación|||suspender
+Acuerdo de París|||regulación|||ambiguo
+Acuerdo de París|||regulación|||desconocido
+Acuerdo de París|||regulaciones|||incierto
+Acuerdo de París|||regulación|||posponer
+Acuerdo de París|||regulación|||incertidumbre
+Acuerdo de París|||regulaciones|||desconocido
+Acuerdo de París|||regulaciones|||vago
+Acuerdo de París|||regulación|||abolir
+Acuerdo de París|||regulación|||diferir
+Acuerdo de París|||regulación|||cancelar
+Acuerdo de París|||regulación|||retirar
+Acuerdo de París|||regulaciones|||impredecible
+Acuerdo de París|||regulaciones|||incierto
+Acuerdo de París|||regulaciones|||incertidumbre
+Acuerdo de París|||regulaciones|||posponer
+Acuerdo de París|||regulaciones|||ambiguo
+Acuerdo de París|||regulaciones|||abolir
+Acuerdo de París|||regulaciones|||diferir
+Acuerdo de París|||regulaciones|||retirar
+Acuerdo de París|||regulaciones|||retrasar
+Acuerdo de París|||legislación|||incierto
+Acuerdo de París|||legislación|||vago
+Acuerdo de París|||legislación|||incertidumbre
+Acuerdo de París|||regulaciones|||suspender
+Acuerdo de París|||regulaciones|||cancelar
+Acuerdo de París|||legislación|||retirar
+Acuerdo de París|||legislación|||desconocido
+Acuerdo de París|||legislación|||suspender
+Acuerdo de París|||ley|||incierto
+Acuerdo de París|||legislación|||incierto
+Acuerdo de París|||legislación|||ambiguo
+Acuerdo de París|||legislación|||impredecible
+Acuerdo de París|||legislación|||posponer
+Acuerdo de París|||legislación|||retrasar
+Acuerdo de París|||ley|||incierto
+Acuerdo de París|||legislación|||diferir
+Acuerdo de París|||ley|||desconocido
+Acuerdo de París|||legislación|||abolir
+Acuerdo de París|||legislación|||cancelar
+Acuerdo de París|||ley|||vago
+Acuerdo de París|||ley|||ambiguo
+Acuerdo de París|||ley|||impredecible
+Acuerdo de París|||ley|||posponer
+Acuerdo de París|||ley|||incertidumbre
+Acuerdo de París|||ley|||abolir
+Acuerdo de París|||ley|||cancelar
+Acuerdo de París|||ley|||retirar
+Acuerdo de París|||Congreso Nacional|||incierto
+Acuerdo de París|||ley|||retrasar
+Acuerdo de París|||ley|||diferir
+Acuerdo de París|||ley|||suspender
+Acuerdo de París|||Congreso Nacional|||diferir
+Acuerdo de París|||Congreso Nacional|||incertidumbre
+Acuerdo de París|||Congreso Nacional|||incierto
+Acuerdo de París|||Congreso Nacional|||desconocido
+Acuerdo de París|||Congreso Nacional|||cancelar
+Acuerdo de París|||Congreso Nacional|||vago
+Acuerdo de París|||Congreso Nacional|||retirar
+Acuerdo de París|||Congreso Nacional|||ambiguo
+Acuerdo de París|||Congreso Nacional|||posponer
+Acuerdo de París|||Congreso Nacional|||impredecible
+Acuerdo de París|||Congreso Nacional|||retrasar
+Acuerdo de París|||Congreso Nacional|||abolir
+Acuerdo de París|||Congreso Nacional|||suspender
+Acuerdo de París|||Presidencia|||incierto
+Acuerdo de París|||Presidencia|||vago
+Acuerdo de París|||Presidencia|||desconocido
+Acuerdo de París|||Presidencia|||ambiguo
+Acuerdo de París|||Presidencia|||retrasar
+Acuerdo de París|||Presidencia|||diferir
+Acuerdo de París|||Presidencia|||retirar
+Acuerdo de París|||Presidencia|||suspender
+Acuerdo de París|||Presidencia|||incierto
+Acuerdo de París|||Presidencia|||incertidumbre
+Acuerdo de París|||Presidencia|||impredecible
+Acuerdo de París|||Presidencia|||posponer
+Acuerdo de París|||Senado|||incertidumbre
+Acuerdo de París|||Senado|||vago
+Acuerdo de París|||Senado|||ambiguo
+Acuerdo de París|||Senado|||impredecible
+Acuerdo de París|||Presidencia|||abolir
+Acuerdo de París|||Presidencia|||cancelar
+Acuerdo de París|||Senado|||incierto
+Acuerdo de París|||Senado|||retrasar
+Acuerdo de París|||Senado|||diferir
+Acuerdo de París|||Senado|||desconocido
+Acuerdo de París|||Senado|||incierto
+Acuerdo de París|||Senado|||suspender
+Acuerdo de París|||Cámara de Diputados|||incierto
+Acuerdo de París|||Cámara de Diputados|||incierto
+Acuerdo de París|||Cámara de Diputados|||incertidumbre
+Acuerdo de París|||Senado|||posponer
+Acuerdo de París|||Cámara de Diputados|||vago
+Acuerdo de París|||Senado|||abolir
+Acuerdo de París|||Cámara de Diputados|||impredecible
+Acuerdo de París|||Senado|||cancelar
+Acuerdo de París|||Cámara de Diputados|||posponer
+Acuerdo de París|||Senado|||retirar
+Acuerdo de París|||Cámara de Diputados|||retrasar
+Acuerdo de París|||Cámara de Diputados|||diferir
+Acuerdo de París|||Cámara de Diputados|||cancelar
+Acuerdo de París|||Cámara de Diputados|||desconocido
+Acuerdo de París|||Cámara de Diputados|||retirar
+Acuerdo de París|||Cámara de Diputados|||ambiguo
+Acuerdo de París|||gobierno|||incierto
+Acuerdo de París|||gobierno|||desconocido
+Acuerdo de París|||Cámara de Diputados|||abolir
+Acuerdo de París|||gobierno|||vago
+Acuerdo de París|||gobierno|||diferir
+Acuerdo de París|||gobierno|||incierto
+Acuerdo de París|||Cámara de Diputados|||suspender
+Acuerdo de París|||gobierno|||retrasar
+Acuerdo de París|||Ministerio del Medio Ambiente|||incertidumbre
+Acuerdo de París|||gobierno|||suspender
+Acuerdo de París|||gobierno|||ambiguo
+Acuerdo de París|||Ministerio del Medio Ambiente|||desconocido
+Acuerdo de París|||Ministerio del Medio Ambiente|||vago
+Acuerdo de París|||gobierno|||impredecible
+Acuerdo de París|||Ministerio del Medio Ambiente|||ambiguo
+Acuerdo de París|||gobierno|||abolir
+Acuerdo de París|||gobierno|||posponer
+Acuerdo de París|||gobierno|||cancelar
+Acuerdo de París|||Ministerio del Medio Ambiente|||incierto
+Acuerdo de París|||gobierno|||retirar
+Acuerdo de París|||Ministerio del Medio Ambiente|||incierto
+Acuerdo de París|||Ministerio del Medio Ambiente|||posponer
+Acuerdo de París|||gobierno|||incertidumbre
+Acuerdo de París|||Ministerio del Medio Ambiente|||cancelar
+Acuerdo de París|||Ministerio del Medio Ambiente|||retirar
+Acuerdo de París|||MMA|||incierto
+Acuerdo de París|||Ministerio del Medio Ambiente|||impredecible
+Acuerdo de París|||Ministerio del Medio Ambiente|||suspender
+Acuerdo de París|||MMA|||incierto
+Acuerdo de París|||Ministerio del Medio Ambiente|||retrasar
+Acuerdo de París|||MMA|||suspender
+Acuerdo de París|||Ministerio de Energía|||incierto
+Acuerdo de París|||Ministerio del Medio Ambiente|||diferir
+Acuerdo de París|||MMA|||incertidumbre
+Acuerdo de París|||MMA|||desconocido
+Acuerdo de París|||MMA|||retrasar
+Acuerdo de París|||MMA|||retirar
+Acuerdo de París|||Ministerio de Energía|||incertidumbre
+Acuerdo de París|||Ministerio de Energía|||retirar
+Acuerdo de París|||Ministerio de Energía|||incierto
+Acuerdo de París|||Ministerio de Energía|||posponer
+Acuerdo de París|||Ministerio de Energía|||ambiguo
+Acuerdo de París|||Ministerio de Energía|||impredecible
+Acuerdo de París|||Ministerio de Energía|||vago
+Acuerdo de París|||Ministerio de Energía|||suspender
+Acuerdo de París|||Ministerio de Energía|||desconocido
+Acuerdo de París|||Ministerio de Energía|||diferir
+Acuerdo de París|||Ministerio de Energía|||retrasar
+Acuerdo de París|||Ministerio de Energía|||cancelar
