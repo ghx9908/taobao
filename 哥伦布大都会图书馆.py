@@ -76,6 +76,36 @@ account_configs = [
         'thread_id': 5
     },
     {
+        'username': 'PACREG3449098',
+        'password': '1234',
+        'driver': None,
+        'thread_id': 6
+    },
+    {
+        'username': 'PACREG3449099',
+        'password': '1234',
+        'driver': None,
+        'thread_id': 7
+    },
+    {
+        'username': 'PACREG3449101',
+        'password': '1234',
+        'driver': None,
+        'thread_id': 8
+    },
+    {
+        'username': 'PACREG3449102',
+        'password': '1234',
+        'driver': None,
+        'thread_id': 9
+    },
+    {
+        'username': 'PACREG3449103',
+        'password': '1234',
+        'driver': None,
+        'thread_id': 10
+    },
+    {
         'username': 'PACREG3448140',
         'password': '1234',
         'driver': None,
