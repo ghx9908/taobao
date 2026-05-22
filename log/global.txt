@@ -2468,3 +2468,382 @@ Country                                                Chile
 不确定        incierto/incertidumbre/incierto/desconocido/va...
 Name: 5, dtype: object
 2026-05-21 17:58:32,953 - INFO - 文件 'search_results/政策风险智利El Mercurio (Santiago, Chile).xlsx' 在 search_results/ 目录中不存在
+2026-05-22 10:14:21,862 - INFO - 线程 8685166784 开始执行
+2026-05-22 10:14:21,862 - INFO - 开始清理根目录下的旧文件...
+2026-05-22 10:14:21,862 - INFO - ✅ 旧文件清理完成
+2026-05-22 10:14:21,862 - INFO - 开始创建15个浏览器实例...
+2026-05-22 10:14:21,863 - INFO - [浏览器2] 动态生成UA: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.2) Gecko/20... 视口: 1920x1080
+2026-05-22 10:14:21,863 - INFO - [浏览器1] 动态生成UA: Mozilla/5.0 (Macintosh; Intel Mac OS X 13_6_0) AppleWebKit/5... 视口: 1366x768
+2026-05-22 10:14:21,863 - INFO - [浏览器3] 动态生成UA: Mozilla/5.0 (Macintosh; Intel Mac OS X 14_2_0) AppleWebKit/6... 视口: 1440x900
+2026-05-22 10:14:21,863 - INFO - [浏览器4] 动态生成UA: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.40... 视口: 1536x864
+2026-05-22 10:14:21,863 - INFO - [浏览器5] 动态生成UA: Mozilla/5.0 (Macintosh; Intel Mac OS X 13_6_0) AppleWebKit/5... 视口: 1600x900
+2026-05-22 10:14:21,866 - INFO - [浏览器7] 动态生成UA: Mozilla/5.0 (Macintosh; Intel Mac OS X 14_2_0) AppleWebKit/6... 视口: 1680x1050
+2026-05-22 10:14:21,866 - INFO - [浏览器6] 动态生成UA: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.6) Gecko/20... 视口: 1280x800
+2026-05-22 10:14:21,868 - INFO - [浏览器8] 动态生成UA: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.44... 视口: 2560x1440
+2026-05-22 10:14:21,869 - INFO - [浏览器10] 动态生成UA: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20... 视口: 1024x768
+2026-05-22 10:14:21,871 - INFO - [浏览器9] 动态生成UA: Mozilla/5.0 (Macintosh; Intel Mac OS X 13_6_0) AppleWebKit/5... 视口: 1280x1024
+2026-05-22 10:14:21,873 - INFO - [浏览器11] 动态生成UA: Mozilla/5.0 (Macintosh; Intel Mac OS X 14_2_0) AppleWebKit/6... 视口: 1152x864
+2026-05-22 10:14:21,875 - INFO - [浏览器13] 动态生成UA: Mozilla/5.0 (Macintosh; Intel Mac OS X 13_6_0) AppleWebKit/5... 视口: 1360x768
+2026-05-22 10:14:21,876 - INFO - [浏览器12] 动态生成UA: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.38... 视口: 1280x720
+2026-05-22 10:14:21,877 - INFO - [浏览器14] 动态生成UA: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.4) Gecko/20... 视口: 1600x1200
+2026-05-22 10:14:21,881 - INFO - [浏览器15] 动态生成UA: Mozilla/5.0 (Macintosh; Intel Mac OS X 14_2_0) AppleWebKit/6... 视口: 1920x1200
+2026-05-22 10:14:23,715 - INFO - [浏览器15|账号PACREG3448128] ✅ 浏览器启动成功！
+2026-05-22 10:14:23,717 - INFO - [浏览器12|账号PACREG3448125] ✅ 浏览器启动成功！
+2026-05-22 10:14:23,747 - INFO - ✅ 账号 PACREG3448128 浏览器创建成功
+2026-05-22 10:14:23,748 - INFO - ✅ 账号 PACREG3448125 浏览器创建成功
+2026-05-22 10:14:23,927 - INFO - [浏览器11|账号PACREG3448124] ✅ 浏览器启动成功！
+2026-05-22 10:14:23,932 - INFO - ✅ 账号 PACREG3448124 浏览器创建成功
+2026-05-22 10:14:23,984 - INFO - [浏览器2|账号PACREG3448107] ✅ 浏览器启动成功！
+2026-05-22 10:14:23,989 - INFO - [浏览器10|账号PACREG3448123] ✅ 浏览器启动成功！
+2026-05-22 10:14:23,998 - INFO - ✅ 账号 PACREG3448107 浏览器创建成功
+2026-05-22 10:14:23,998 - INFO - ✅ 账号 PACREG3448123 浏览器创建成功
+2026-05-22 10:14:24,089 - INFO - [浏览器7|账号PACREG3448120] ✅ 浏览器启动成功！
+2026-05-22 10:14:24,093 - INFO - ✅ 账号 PACREG3448120 浏览器创建成功
+2026-05-22 10:14:24,147 - INFO - [浏览器3|账号PACREG3448108] ✅ 浏览器启动成功！
+2026-05-22 10:14:24,149 - INFO - [浏览器14|账号PACREG3448127] ✅ 浏览器启动成功！
+2026-05-22 10:14:24,161 - INFO - ✅ 账号 PACREG3448108 浏览器创建成功
+2026-05-22 10:14:24,162 - INFO - ✅ 账号 PACREG3448127 浏览器创建成功
+2026-05-22 10:14:24,360 - INFO - [浏览器4|账号PACREG3448109] ✅ 浏览器启动成功！
+2026-05-22 10:14:24,360 - INFO - ✅ 账号 PACREG3448109 浏览器创建成功
+2026-05-22 10:14:24,455 - INFO - [浏览器1|账号PACREG3447692] ✅ 浏览器启动成功！
+2026-05-22 10:14:24,492 - INFO - [浏览器13|账号PACREG3448126] ✅ 浏览器启动成功！
+2026-05-22 10:14:24,495 - INFO - ✅ 账号 PACREG3447692 浏览器创建成功
+2026-05-22 10:14:24,509 - INFO - ✅ 账号 PACREG3448126 浏览器创建成功
+2026-05-22 10:14:24,589 - INFO - [浏览器9|账号PACREG3448122] ✅ 浏览器启动成功！
+2026-05-22 10:14:24,592 - INFO - ✅ 账号 PACREG3448122 浏览器创建成功
+2026-05-22 10:14:24,713 - INFO - [浏览器8|账号PACREG3448121] ✅ 浏览器启动成功！
+2026-05-22 10:14:24,714 - INFO - ✅ 账号 PACREG3448121 浏览器创建成功
+2026-05-22 10:14:24,750 - INFO - [浏览器6|账号PACREG3448119] ✅ 浏览器启动成功！
+2026-05-22 10:14:24,751 - INFO - ✅ 账号 PACREG3448119 浏览器创建成功
+2026-05-22 10:14:24,866 - INFO - [浏览器5|账号PACREG3448110] ✅ 浏览器启动成功！
+2026-05-22 10:14:24,866 - INFO - ✅ 账号 PACREG3448110 浏览器创建成功
+2026-05-22 10:14:24,871 - INFO - 开始为15个浏览器并行登录...
+2026-05-22 10:14:24,871 - INFO - [线程1|账号PACREG3447692] 开始登录，访问登录页面...
+2026-05-22 10:14:24,871 - INFO - [线程2|账号PACREG3448107] 开始登录，访问登录页面...
+2026-05-22 10:14:24,873 - INFO - [线程3|账号PACREG3448108] 开始登录，访问登录页面...
+2026-05-22 10:14:24,874 - INFO - [线程4|账号PACREG3448109] 开始登录，访问登录页面...
+2026-05-22 10:14:24,875 - INFO - [线程5|账号PACREG3448110] 开始登录，访问登录页面...
+2026-05-22 10:14:24,877 - INFO - [线程6|账号PACREG3448119] 开始登录，访问登录页面...
+2026-05-22 10:14:24,877 - INFO - [线程7|账号PACREG3448120] 开始登录，访问登录页面...
+2026-05-22 10:14:24,900 - INFO - [线程8|账号PACREG3448121] 开始登录，访问登录页面...
+2026-05-22 10:14:24,901 - INFO - [线程9|账号PACREG3448122] 开始登录，访问登录页面...
+2026-05-22 10:14:24,906 - INFO - [线程10|账号PACREG3448123] 开始登录，访问登录页面...
+2026-05-22 10:14:24,930 - INFO - [线程11|账号PACREG3448124] 开始登录，访问登录页面...
+2026-05-22 10:14:24,932 - INFO - [线程12|账号PACREG3448125] 开始登录，访问登录页面...
+2026-05-22 10:14:24,932 - INFO - [线程13|账号PACREG3448126] 开始登录，访问登录页面...
+2026-05-22 10:14:24,938 - INFO - [线程15|账号PACREG3448128] 开始登录，访问登录页面...
+2026-05-22 10:14:24,932 - INFO - [线程14|账号PACREG3448127] 开始登录，访问登录页面...
+2026-05-22 10:14:55,557 - ERROR - ❌ [线程7|账号PACREG3448120] 登录异常: HTTPConnectionPool(host='localhost', port=53290): Max retries exceeded with url: /session/4ee7ce33603c2f57aff089498bb64b97/title (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1118809a0>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2026-05-22 10:14:55,558 - ERROR - ❌ [线程1|账号PACREG3447692] 登录异常: HTTPConnectionPool(host='localhost', port=53284): Max retries exceeded with url: /session/6676f60d8289d04d05164e7598a2fd22/title (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111880c40>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2026-05-22 10:14:55,558 - ERROR - ❌ [线程13|账号PACREG3448126] 登录异常: HTTPConnectionPool(host='localhost', port=53296): Max retries exceeded with url: /session/65fed11e821f8ae76857f8b407d3b487/title (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1118a22b0>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2026-05-22 10:14:55,558 - ERROR - ❌ [线程11|账号PACREG3448124] 登录异常: HTTPConnectionPool(host='localhost', port=53294): Max retries exceeded with url: /session/9b879dbfe2004147fa9f6aedd36c0949/title (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1118a2130>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2026-05-22 10:14:55,558 - ERROR - ❌ [线程6|账号PACREG3448119] 登录异常: HTTPConnectionPool(host='localhost', port=53289): Max retries exceeded with url: /session/8df55c18bc83cee74a4e53b614501c1a/title (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111880d90>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2026-05-22 10:14:55,558 - ERROR - ❌ [线程5|账号PACREG3448110] 登录异常: HTTPConnectionPool(host='localhost', port=53288): Max retries exceeded with url: /session/27bad4daeffea0e35f05df0fea440b9a/title (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111880ee0>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2026-05-22 10:14:55,558 - ERROR - ❌ [线程9|账号PACREG3448122] 登录异常: HTTPConnectionPool(host='localhost', port=53292): Max retries exceeded with url: /session/b4a1d2796d428a73b2275f099738db77/title (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1118a2460>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2026-05-22 10:14:55,696 - ERROR - ❌ [线程8|账号PACREG3448121] 登录异常: HTTPConnectionPool(host='localhost', port=53291): Max retries exceeded with url: /session/03f0bce9fdf68c29a987e965e3b3dece/title (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x104285a90>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2026-05-22 10:14:55,696 - ERROR - ❌ [线程10|账号PACREG3448123] 登录异常: HTTPConnectionPool(host='localhost', port=53293): Max retries exceeded with url: /session/f7ea8c610ddad3c7543ff1dcb6d71bd8/title (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x104285be0>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2026-05-22 10:14:55,696 - ERROR - ❌ [线程4|账号PACREG3448109] 登录异常: HTTPConnectionPool(host='localhost', port=53287): Max retries exceeded with url: /session/331c20fef1f8ed1ef5cb78b81c3518e6/title (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x10428a5b0>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2026-05-22 10:14:55,697 - ERROR - ❌ [线程14|账号PACREG3448127] 登录异常: HTTPConnectionPool(host='localhost', port=53297): Max retries exceeded with url: /session/427ba2d4c1e99f1025a4c09c9b12ca3d/title (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x10428a8b0>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2026-05-22 10:14:55,697 - ERROR - ❌ [线程2|账号PACREG3448107] 登录异常: HTTPConnectionPool(host='localhost', port=53286): Max retries exceeded with url: /session/caefae0dd03c3cb3306f0f4770138fa3/title (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x10428ab50>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2026-05-22 10:14:55,697 - ERROR - ❌ [线程3|账号PACREG3448108] 登录异常: HTTPConnectionPool(host='localhost', port=53285): Max retries exceeded with url: /session/5d6126534c6d33c2c1794a94975ccb7b/title (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x104285d60>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2026-05-22 10:14:55,697 - ERROR - ❌ [线程15|账号PACREG3448128] 登录异常: HTTPConnectionPool(host='localhost', port=53298): Max retries exceeded with url: /session/2fb8e5dd2127dfbec3b4df5d29f582c3/title (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x10428a7f0>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2026-05-22 10:14:55,779 - ERROR - ❌ [线程12|账号PACREG3448125] 登录异常: HTTPConnectionPool(host='localhost', port=53295): Max retries exceeded with url: /session/976b8bfd12cc676b5fd65211ed08059e/title (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x10428a9d0>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2026-05-22 10:17:39,912 - INFO - 线程 8685166784 开始执行
+2026-05-22 10:17:39,912 - INFO - 开始清理根目录下的旧文件...
+2026-05-22 10:17:39,912 - INFO - ✅ 旧文件清理完成
+2026-05-22 10:17:39,913 - INFO - 开始创建10个浏览器实例...
+2026-05-22 10:17:39,913 - INFO - [浏览器17] 动态生成UA: Mozilla/5.0 (Macintosh; Intel Mac OS X 13_6_0) AppleWebKit/5... 视口: 2560x1600
+2026-05-22 10:17:39,913 - INFO - [浏览器19] 动态生成UA: Mozilla/5.0 (Macintosh; Intel Mac OS X 14_2_0) AppleWebKit/6... 视口: 1366x768
+2026-05-22 10:17:39,913 - INFO - [浏览器18] 动态生成UA: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.8) Gecko/20... 视口: 3840x2160
+2026-05-22 10:17:39,913 - INFO - [浏览器16] 动态生成UA: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.42... 视口: 2048x1152
+2026-05-22 10:17:39,915 - INFO - [浏览器20] 动态生成UA: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36... 视口: 1920x1080
+2026-05-22 10:17:39,916 - INFO - [浏览器22] 动态生成UA: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.2) Gecko/20... 视口: 1536x864
+2026-05-22 10:17:39,916 - INFO - [浏览器21] 动态生成UA: Mozilla/5.0 (Macintosh; Intel Mac OS X 13_6_0) AppleWebKit/5... 视口: 1440x900
+2026-05-22 10:17:39,917 - INFO - [浏览器23] 动态生成UA: Mozilla/5.0 (Macintosh; Intel Mac OS X 14_2_0) AppleWebKit/6... 视口: 1600x900
+2026-05-22 10:17:39,919 - INFO - [浏览器24] 动态生成UA: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.40... 视口: 1280x800
+2026-05-22 10:17:39,920 - INFO - [浏览器25] 动态生成UA: Mozilla/5.0 (Macintosh; Intel Mac OS X 13_6_0) AppleWebKit/5... 视口: 1680x1050
+2026-05-22 10:17:41,893 - INFO - [浏览器25|账号PACREG3448153] ✅ 浏览器启动成功！
+2026-05-22 10:17:41,898 - INFO - [浏览器22|账号PACREG3448148] ✅ 浏览器启动成功！
+2026-05-22 10:17:41,905 - INFO - [浏览器16|账号PACREG3448140] ✅ 浏览器启动成功！
+2026-05-22 10:17:41,906 - INFO - [浏览器20|账号PACREG3448145] ✅ 浏览器启动成功！
+2026-05-22 10:17:41,908 - INFO - [浏览器21|账号PACREG3448147] ✅ 浏览器启动成功！
+2026-05-22 10:17:41,913 - INFO - [浏览器19|账号PACREG3448143] ✅ 浏览器启动成功！
+2026-05-22 10:17:41,916 - INFO - [浏览器17|账号PACREG3448141] ✅ 浏览器启动成功！
+2026-05-22 10:17:41,927 - INFO - [浏览器23|账号PACREG3448149] ✅ 浏览器启动成功！
+2026-05-22 10:17:41,929 - INFO - ✅ 账号 PACREG3448153 浏览器创建成功
+2026-05-22 10:17:41,939 - INFO - [浏览器18|账号PACREG3448142] ✅ 浏览器启动成功！
+2026-05-22 10:17:41,945 - INFO - ✅ 账号 PACREG3448148 浏览器创建成功
+2026-05-22 10:17:41,945 - INFO - ✅ 账号 PACREG3448140 浏览器创建成功
+2026-05-22 10:17:41,945 - INFO - ✅ 账号 PACREG3448145 浏览器创建成功
+2026-05-22 10:17:41,945 - INFO - [浏览器24|账号PACREG3448151] ✅ 浏览器启动成功！
+2026-05-22 10:17:41,945 - INFO - ✅ 账号 PACREG3448147 浏览器创建成功
+2026-05-22 10:17:41,945 - INFO - ✅ 账号 PACREG3448143 浏览器创建成功
+2026-05-22 10:17:41,945 - INFO - ✅ 账号 PACREG3448141 浏览器创建成功
+2026-05-22 10:17:41,945 - INFO - ✅ 账号 PACREG3448149 浏览器创建成功
+2026-05-22 10:17:41,945 - INFO - ✅ 账号 PACREG3448142 浏览器创建成功
+2026-05-22 10:17:41,945 - INFO - ✅ 账号 PACREG3448151 浏览器创建成功
+2026-05-22 10:17:41,961 - INFO - 开始为10个浏览器并行登录...
+2026-05-22 10:17:41,971 - INFO - [线程16|账号PACREG3448140] 开始登录，访问登录页面...
+2026-05-22 10:17:41,973 - INFO - [线程17|账号PACREG3448141] 开始登录，访问登录页面...
+2026-05-22 10:17:41,975 - INFO - [线程18|账号PACREG3448142] 开始登录，访问登录页面...
+2026-05-22 10:17:41,976 - INFO - [线程19|账号PACREG3448143] 开始登录，访问登录页面...
+2026-05-22 10:17:41,978 - INFO - [线程20|账号PACREG3448145] 开始登录，访问登录页面...
+2026-05-22 10:17:41,981 - INFO - [线程21|账号PACREG3448147] 开始登录，访问登录页面...
+2026-05-22 10:17:41,984 - INFO - [线程22|账号PACREG3448148] 开始登录，访问登录页面...
+2026-05-22 10:17:42,011 - INFO - [线程23|账号PACREG3448149] 开始登录，访问登录页面...
+2026-05-22 10:17:42,014 - INFO - [线程24|账号PACREG3448151] 开始登录，访问登录页面...
+2026-05-22 10:17:42,017 - INFO - [线程25|账号PACREG3448153] 开始登录，访问登录页面...
+2026-05-22 10:19:13,464 - INFO - [线程19|账号PACREG3448143] ✅ 登录成功
+2026-05-22 10:19:13,465 - INFO - ✅ 账号 PACREG3448143 登录成功
+2026-05-22 10:19:16,003 - INFO - [线程21|账号PACREG3448147] ✅ 登录成功
+2026-05-22 10:19:16,003 - INFO - ✅ 账号 PACREG3448147 登录成功
+2026-05-22 10:19:28,768 - INFO - [线程18|账号PACREG3448142] ✅ 登录成功
+2026-05-22 10:19:28,769 - INFO - ✅ 账号 PACREG3448142 登录成功
+2026-05-22 10:19:30,719 - INFO - [线程25|账号PACREG3448153] ✅ 登录成功
+2026-05-22 10:19:30,719 - INFO - ✅ 账号 PACREG3448153 登录成功
+2026-05-22 10:19:31,331 - INFO - [线程17|账号PACREG3448141] ✅ 登录成功
+2026-05-22 10:19:31,332 - INFO - ✅ 账号 PACREG3448141 登录成功
+2026-05-22 10:19:59,645 - INFO - [线程23|账号PACREG3448149] ✅ 登录成功
+2026-05-22 10:19:59,646 - INFO - ✅ 账号 PACREG3448149 登录成功
+2026-05-22 10:20:00,322 - ERROR - ❌ [线程22|账号PACREG3448148] 登录异常: Message: stale element reference: stale element not found
+  (Session info: chrome=148.0.7778.179); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+0   chromedriver                        0x0000000104db8c40 cxxbridge1$str$ptr + 3221216
+1   chromedriver                        0x0000000104db0b1c cxxbridge1$str$ptr + 3188156
+2   chromedriver                        0x00000001048738f4 _RNvCsiKAbIcglKMQ_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 75152
+3   chromedriver                        0x00000001048855b4 _RNvCsiKAbIcglKMQ_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 148048
+4   chromedriver                        0x0000000104884664 _RNvCsiKAbIcglKMQ_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 144128
+5   chromedriver                        0x000000010487a380 _RNvCsiKAbIcglKMQ_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 102428
+6   chromedriver                        0x000000010487a48c _RNvCsiKAbIcglKMQ_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 102696
+7   chromedriver                        0x0000000104878b60 _RNvCsiKAbIcglKMQ_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 96252
+8   chromedriver                        0x000000010487c004 _RNvCsiKAbIcglKMQ_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 109728
+9   chromedriver                        0x00000001048fc690 _RNvCsiKAbIcglKMQ_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 635692
+10  chromedriver                        0x00000001048fb6f4 _RNvCsiKAbIcglKMQ_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 631696
+11  chromedriver                        0x00000001048b19c0 _RNvCsiKAbIcglKMQ_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 329308
+12  chromedriver                        0x0000000104d76b70 cxxbridge1$str$ptr + 2950672
+13  chromedriver                        0x0000000104d7a2c8 cxxbridge1$str$ptr + 2964840
+14  chromedriver                        0x0000000104d5b8a8 cxxbridge1$str$ptr + 2839368
+15  chromedriver                        0x0000000104d7ab48 cxxbridge1$str$ptr + 2967016
+16  chromedriver                        0x0000000104d4c3d4 cxxbridge1$str$ptr + 2776692
+17  chromedriver                        0x0000000104d9f7ac cxxbridge1$str$ptr + 3117644
+18  chromedriver                        0x0000000104d9f90c cxxbridge1$str$ptr + 3117996
+19  chromedriver                        0x0000000104db0774 cxxbridge1$str$ptr + 3187220
+20  libsystem_pthread.dylib             0x0000000197b3fc0c _pthread_start + 136
+21  libsystem_pthread.dylib             0x0000000197b3ab80 thread_start + 8
+
+2026-05-22 10:20:00,322 - ERROR - ❌ 账号 PACREG3448148 登录失败
+2026-05-22 10:20:07,229 - INFO - [线程20|账号PACREG3448145] ✅ 登录成功
+2026-05-22 10:20:07,229 - INFO - ✅ 账号 PACREG3448145 登录成功
+2026-05-22 10:20:10,709 - INFO - [线程16|账号PACREG3448140] ✅ 登录成功
+2026-05-22 10:20:10,710 - INFO - ✅ 账号 PACREG3448140 登录成功
+2026-05-22 10:20:28,360 - INFO - [线程24|账号PACREG3448151] ✅ 登录成功
+2026-05-22 10:20:28,360 - INFO - ✅ 账号 PACREG3448151 登录成功
+2026-05-22 10:20:28,360 - INFO - 线程 8685166784 执行结束
+2026-05-22 10:20:28,455 - INFO - 成功读取文件: country_small.txt
+2026-05-22 10:20:28,462 - INFO - sheet表名为政策风险的基本信息：
+2026-05-22 10:20:28,481 - INFO - sheet表名为技术风险的基本信息：
+2026-05-22 10:20:28,492 - INFO - sheet表名为市场风险的基本信息：
+2026-05-22 10:20:28,502 - INFO - {'La Prensa Grafica (San Salvador, El Salvador)': 'pubname:LPGS!La+Prensa+Grafica+%28San+Salvador%2C+El+Salvador%29', 'La Nacion (San Jose, Costa Rica)': 'pubname:LN91!La+Nacion+%28San+Jose%2C+Costa+Rica%29', 'La Prensa (Nicaragua)': 'pubname:NLPM!La+Prensa+%28Nicaragua%29', 'La Prensa [ContentEngine] (Panama)': 'pubname:PLAPR!La+Prensa+%5BContentEngine%5D+%28Panama%29', 'La Nación (Buenos Aires, Argentina)': 'pubname:ALNB!La+Naci%C3%B3n+%28Buenos+Aires%2C+Argentina%29', 'El Mercurio (Santiago, Chile)': 'pubname:CEM1!El+Mercurio+%28Santiago%2C+Chile%29', 'El Comercio (Lima, Peru)': 'pubname:EECQ!El+Comercio+%28Lima%2C+Peru%29', 'El País (Montevideo, Uruguay)': 'pubname:UEPM!El+Pa%C3%ADs+%28Montevideo%2C+Uruguay%29', 'El Nacional (Caracas, Venezuela)': 'pubname:ENSVC!El+Nacional+%28Caracas%2C+Venezuela%29', 'El Universal (Venezuela)': 'pubname:VEUC!El+Universal+%28Venezuela%29', 'El Comercio (Quito, Ecuador)': 'pubname:ELCOM!El+Comercio+%28Quito%2C+Ecuador%29', 'Revista Lideres (Quito, Ecuador)': 'pubname:REVLI!Revista+Lideres+%28Quito%2C+Ecuador%29'}
+2026-05-22 10:20:28,505 - INFO - sheet表名为政策风险的基本信息：None
+2026-05-22 10:20:28,505 - INFO - 第 0 行数据：
+2026-05-22 10:20:28,505 - INFO - 所属洲                                                      北美洲
+国家                                                      萨尔瓦多
+Country                                          El Salvador
+指定报纸报道         La Prensa Grafica (San Salvador, El Salvador)
+爬取时间                                               2005-2026
+气候         cambio climático/crisis climática/gases de efe...
+政策         política/políticas/regulación/regulaciones/leg...
+不确定        incierto/incertidumbre/incierto/desconocido/va...
+Name: 0, dtype: object
+2026-05-22 10:20:28,505 - INFO - 文件 'search_results/政策风险萨尔瓦多La Prensa Grafica (San Salvador, El Salvador).xlsx' 在 search_results/ 目录中存在
+2026-05-22 10:20:28,505 - INFO - 第 1 行数据：
+2026-05-22 10:20:28,505 - INFO - 所属洲                                                      NaN
+国家                                               哥斯达黎加（西班牙语）
+Country                                           Costa Rica
+指定报纸报道                      La Nacion (San Jose, Costa Rica)
+爬取时间                                               2005-2026
+气候         cambio climático/crisis climática/gases de efe...
+政策         política/políticas/regulación/regulaciones/leg...
+不确定        incierto/incertidumbre/incierto/desconocido/va...
+Name: 1, dtype: object
+2026-05-22 10:20:28,506 - INFO - 文件 'search_results/政策风险哥斯达黎加（西班牙语）La Nacion (San Jose, Costa Rica).xlsx' 在 search_results/ 目录中存在
+2026-05-22 10:20:28,506 - INFO - 第 2 行数据：
+2026-05-22 10:20:28,506 - INFO - 所属洲                                                      NaN
+国家                                                      尼加拉瓜
+Country                                            Nicaragua
+指定报纸报道                                 La Prensa (Nicaragua)
+爬取时间                                               2005-2026
+气候         cambio climático/crisis climática/gases de efe...
+政策         política/políticas/regulación/regulaciones/leg...
+不确定        incierto/incertidumbre/incierto/desconocido/va...
+Name: 2, dtype: object
+2026-05-22 10:20:28,506 - INFO - 文件 'search_results/政策风险尼加拉瓜La Prensa (Nicaragua).xlsx' 在 search_results/ 目录中存在
+2026-05-22 10:20:28,506 - INFO - 第 3 行数据：
+2026-05-22 10:20:28,506 - INFO - 所属洲                                                      NaN
+国家                                                       巴拿马
+Country                                               Panama
+指定报纸报道                    La Prensa [ContentEngine] (Panama)
+爬取时间                                               2005-2026
+气候         cambio climático/crisis climática/gases de efe...
+政策         política/políticas/regulación/regulaciones/leg...
+不确定        incierto/incertidumbre/incierto/desconocido/va...
+Name: 3, dtype: object
+2026-05-22 10:20:28,506 - INFO - 文件 'search_results/政策风险巴拿马La Prensa [ContentEngine] (Panama).xlsx' 在 search_results/ 目录中存在
+2026-05-22 10:20:28,506 - INFO - 第 4 行数据：
+2026-05-22 10:20:28,506 - INFO - 所属洲                                                      南美洲
+国家                                                       阿根廷
+Country                                            Argentina
+指定报纸报道                   La Nación (Buenos Aires, Argentina)
+爬取时间                                               2005-2026
+气候         cambio climático/crisis climática/gases de efe...
+政策         política/políticas/regulación/regulaciones/leg...
+不确定        incierto/incertidumbre/incierto/desconocido/va...
+Name: 4, dtype: object
+2026-05-22 10:20:28,506 - INFO - 文件 'search_results/政策风险阿根廷La Nación (Buenos Aires, Argentina).xlsx' 在 search_results/ 目录中存在
+2026-05-22 10:20:28,506 - INFO - 第 5 行数据：
+2026-05-22 10:20:28,506 - INFO - 所属洲                                                      NaN
+国家                                                        智利
+Country                                                Chile
+指定报纸报道                         El Mercurio (Santiago, Chile)
+爬取时间                                               2005-2026
+气候         cambio climático/crisis climática/gases de efe...
+政策         política/políticas/regulación/regulaciones/leg...
+不确定        incierto/incertidumbre/incierto/desconocido/va...
+Name: 5, dtype: object
+2026-05-22 10:20:28,506 - INFO - 文件 'search_results/政策风险智利El Mercurio (Santiago, Chile).xlsx' 在 search_results/ 目录中存在
+2026-05-22 10:20:28,506 - INFO - 第 6 行数据：
+2026-05-22 10:20:28,506 - INFO - 所属洲                                                      NaN
+国家                                                        秘鲁
+Country                                                 Peru
+指定报纸报道                              El Comercio (Lima, Peru)
+爬取时间                                               2005-2026
+气候         cambio climático/crisis climática/gases de efe...
+政策         política/políticas/regulación/regulaciones/leg...
+不确定        incierto/incertidumbre/incierto/desconocido/va...
+Name: 6, dtype: object
+2026-05-22 10:20:28,507 - INFO - 文件 'search_results/政策风险秘鲁El Comercio (Lima, Peru).xlsx' 在 search_results/ 目录中不存在
+2026-05-22 10:26:17,294 - INFO - 访问网页失败!!! 
+2026-05-22 11:02:54,221 - INFO - 第 7 行数据：
+2026-05-22 11:02:54,222 - INFO - 所属洲                                                      NaN
+国家                                                       乌拉圭
+Country                                              Uruguay
+指定报纸报道                         El País (Montevideo, Uruguay)
+爬取时间                                               2005-2026
+气候         cambio climático/crisis climática/gases de efe...
+政策         política/políticas/regulación/regulaciones/leg...
+不确定        incierto/incertidumbre/incierto/desconocido/va...
+Name: 7, dtype: object
+2026-05-22 11:02:54,223 - INFO - 文件 'search_results/政策风险乌拉圭El País (Montevideo, Uruguay).xlsx' 在 search_results/ 目录中存在
+2026-05-22 11:02:54,223 - INFO - 第 8 行数据：
+2026-05-22 11:02:54,223 - INFO - 所属洲                                                      NaN
+国家                                                      委内瑞拉
+Country                                            Venezuela
+指定报纸报道     El Nacional (Caracas, Venezuela); El Universal...
+爬取时间                                               2005-2026
+气候         cambio climático/crisis climática/gases de efe...
+政策         política/políticas/regulación/regulaciones/leg...
+不确定        incierto/incertidumbre/incierto/desconocido/va...
+Name: 8, dtype: object
+2026-05-22 11:02:54,223 - INFO - 文件 'search_results/政策风险委内瑞拉El Nacional (Caracas, Venezuela).xlsx' 在 search_results/ 目录中存在
+2026-05-22 11:02:54,223 - WARNING - ⚠️ 未找到期刊 '委内瑞拉',' El Universal (Venezuela)' 的代码映射
+2026-05-22 11:02:54,224 - INFO - 第 9 行数据：
+2026-05-22 11:02:54,224 - INFO - 所属洲                                                      NaN
+国家                                                      厄瓜多尔
+Country                                              Ecuador
+指定报纸报道     El Comercio (Quito, Ecuador); Revista Lideres ...
+爬取时间                                               2005-2026
+气候         cambio climático/crisis climática/gases de efe...
+政策         política/políticas/regulación/regulaciones/leg...
+不确定        incierto/incertidumbre/incierto/desconocido/va...
+Name: 9, dtype: object
+2026-05-22 11:02:54,224 - INFO - 文件 'search_results/政策风险厄瓜多尔El Comercio (Quito, Ecuador).xlsx' 在 search_results/ 目录中存在
+2026-05-22 11:02:54,224 - WARNING - ⚠️ 未找到期刊 '厄瓜多尔',' Revista Lideres (Quito, Ecuador)' 的代码映射
+2026-05-22 11:02:54,270 - INFO - sheet表名为技术风险的基本信息：None
+2026-05-22 11:02:54,270 - INFO - 第 0 行数据：
+2026-05-22 11:02:54,270 - INFO - 所属洲                                                      北美洲
+国家                                                      萨尔瓦多
+Country                                          El Salvador
+指定报纸报道         La Prensa Grafica (San Salvador, El Salvador)
+爬取时间                                               2005-2026
+低碳         carbono neutralidad/pico de emisiones/cero net...
+技术         innovación/avance/desarrollar/desarrollo/inven...
+替代         sustituir/reemplazar/eliminado progresivamente...
+Name: 0, dtype: object
+2026-05-22 11:02:54,270 - INFO - 文件 'search_results/技术风险萨尔瓦多La Prensa Grafica (San Salvador, El Salvador).xlsx' 在 search_results/ 目录中不存在
+2026-05-22 11:16:28,624 - INFO - 第 1 行数据：
+2026-05-22 11:16:28,625 - INFO - 所属洲                                                      NaN
+国家                                               哥斯达黎加（西班牙语）
+Country                                           Costa Rica
+指定报纸报道                      La Nacion (San Jose, Costa Rica)
+爬取时间                                               2005-2026
+低碳         carbono neutralidad/pico de emisiones/cero net...
+技术         innovación/avance/desarrollar/desarrollo/inven...
+替代         sustituir/reemplazar/eliminado progresivamente...
+Name: 1, dtype: object
+2026-05-22 11:16:28,626 - INFO - 文件 'search_results/技术风险哥斯达黎加（西班牙语）La Nacion (San Jose, Costa Rica).xlsx' 在 search_results/ 目录中存在
+2026-05-22 11:16:28,626 - INFO - 第 2 行数据：
+2026-05-22 11:16:28,626 - INFO - 所属洲                                                      NaN
+国家                                                      尼加拉瓜
+Country                                            Nicaragua
+指定报纸报道                                 La Prensa (Nicaragua)
+爬取时间                                               2005-2026
+低碳         carbono neutralidad/pico de emisiones/cero net...
+技术         innovación/avance/desarrollar/desarrollo/inven...
+替代         sustituir/reemplazar/eliminado progresivamente...
+Name: 2, dtype: object
+2026-05-22 11:16:28,627 - INFO - 文件 'search_results/技术风险尼加拉瓜La Prensa (Nicaragua).xlsx' 在 search_results/ 目录中存在
+2026-05-22 11:16:28,627 - INFO - 第 3 行数据：
+2026-05-22 11:16:28,627 - INFO - 所属洲                                                      NaN
+国家                                                       巴拿马
+Country                                               Panama
+指定报纸报道                    La Prensa [ContentEngine] (Panama)
+爬取时间                                               2005-2026
+低碳         carbono neutralidad/pico de emisiones/cero net...
+技术         innovación/avance/desarrollar/desarrollo/inven...
+替代         sustituir/reemplazar/eliminado progresivamente...
+Name: 3, dtype: object
+2026-05-22 11:16:28,627 - INFO - 文件 'search_results/技术风险巴拿马La Prensa [ContentEngine] (Panama).xlsx' 在 search_results/ 目录中存在
+2026-05-22 11:16:28,627 - INFO - 第 4 行数据：
+2026-05-22 11:16:28,627 - INFO - 所属洲                                                      南美洲
+国家                                                       阿根廷
+Country                                            Argentina
+指定报纸报道                   La Nación (Buenos Aires, Argentina)
+爬取时间                                               2005-2026
+低碳         carbono neutralidad/pico de emisiones/cero net...
+技术         innovación/avance/desarrollar/desarrollo/inven...
+替代         sustituir/reemplazar/eliminado progresivamente...
+Name: 4, dtype: object
+2026-05-22 11:16:28,627 - INFO - 文件 'search_results/技术风险阿根廷La Nación (Buenos Aires, Argentina).xlsx' 在 search_results/ 目录中存在
+2026-05-22 11:16:28,627 - INFO - 第 5 行数据：
+2026-05-22 11:16:28,627 - INFO - 所属洲                                                      NaN
+国家                                                        智利
+Country                                                Chile
+指定报纸报道                         El Mercurio (Santiago, Chile)
+爬取时间                                               2005-2026
+低碳         carbono neutralidad/pico de emisiones/cero net...
+技术         innovación/avance/desarrollar/desarrollo/inven...
+替代         sustituir/reemplazar/eliminado progresivamente...
+Name: 5, dtype: object
+2026-05-22 11:16:28,628 - INFO - 文件 'search_results/技术风险智利El Mercurio (Santiago, Chile).xlsx' 在 search_results/ 目录中存在
+2026-05-22 11:16:28,628 - INFO - 第 6 行数据：
+2026-05-22 11:16:28,628 - INFO - 所属洲                                                      NaN
+国家                                                        秘鲁
+Country                                                 Peru
+指定报纸报道                              El Comercio (Lima, Peru)
+爬取时间                                               2005-2026
+低碳         carbono neutralidad/pico de emisiones/cero net...
+技术         innovación/avance/desarrollar/desarrollo/inven...
+替代         sustituir/reemplazar/eliminado progresivamente...
+Name: 6, dtype: object
+2026-05-22 11:16:28,628 - INFO - 文件 'search_results/技术风险秘鲁El Comercio (Lima, Peru).xlsx' 在 search_results/ 目录中存在
+2026-05-22 11:16:28,628 - INFO - 第 7 行数据：
+2026-05-22 11:16:28,628 - INFO - 所属洲                                                      NaN
+国家                                                       乌拉圭
+Country                                              Uruguay
+指定报纸报道                         El País (Montevideo, Uruguay)
+爬取时间                                               2005-2026
+低碳         carbono neutralidad/pico de emisiones/cero net...
+技术         innovación/avance/desarrollar/desarrollo/inven...
+替代         sustituir/reemplazar/eliminado progresivamente...
+Name: 7, dtype: object
+2026-05-22 11:16:28,628 - INFO - 文件 'search_results/技术风险乌拉圭El País (Montevideo, Uruguay).xlsx' 在 search_results/ 目录中不存在

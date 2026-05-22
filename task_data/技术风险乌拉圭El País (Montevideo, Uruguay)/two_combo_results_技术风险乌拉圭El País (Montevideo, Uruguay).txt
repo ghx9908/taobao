@@ -1,0 +1,232 @@
+climate_policy|||carbono neutralidad|||mejorar|||2
+climate_policy|||carbono neutralidad|||patente|||0
+climate_policy|||carbono neutralidad|||invención|||0
+climate_policy|||carbono neutralidad|||mejora|||4
+climate_policy|||carbono neutralidad|||avance|||7
+climate_policy|||carbono neutralidad|||actualizar|||0
+climate_policy|||carbono neutralidad|||innovación|||6
+climate_policy|||carbono neutralidad|||desarrollar|||8
+climate_policy|||carbono neutralidad|||desarrollo|||21
+climate_policy|||carbono neutralidad|||progreso|||2
+climate_policy|||carbono neutralidad|||piloto|||2
+climate_policy|||carbono neutralidad|||desplegar|||1
+climate_policy|||carbono neutralidad|||despliegue|||1
+climate_policy|||carbono neutralidad|||aplicar|||1
+climate_policy|||pico de emisiones|||innovación|||1
+climate_policy|||pico de emisiones|||avance|||2
+climate_policy|||pico de emisiones|||desarrollo|||15
+climate_policy|||carbono neutralidad|||demostración|||0
+climate_policy|||pico de emisiones|||invención|||0
+climate_policy|||carbono neutralidad|||aplicación|||3
+climate_policy|||pico de emisiones|||desarrollar|||3
+climate_policy|||pico de emisiones|||actualizar|||0
+climate_policy|||pico de emisiones|||mejorar|||3
+climate_policy|||pico de emisiones|||mejora|||0
+climate_policy|||pico de emisiones|||progreso|||3
+climate_policy|||pico de emisiones|||patente|||1
+climate_policy|||pico de emisiones|||piloto|||0
+climate_policy|||pico de emisiones|||demostración|||0
+climate_policy|||pico de emisiones|||despliegue|||2
+climate_policy|||pico de emisiones|||aplicar|||0
+climate_policy|||cero neto|||avance|||3
+climate_policy|||cero neto|||desarrollar|||5
+climate_policy|||cero neto|||desarrollo|||20
+climate_policy|||pico de emisiones|||desplegar|||0
+climate_policy|||cero neto|||invención|||3
+climate_policy|||cero neto|||actualizar|||1
+climate_policy|||cero neto|||innovación|||13
+climate_policy|||cero neto|||mejorar|||7
+climate_policy|||cero neto|||mejora|||7
+climate_policy|||pico de emisiones|||aplicación|||2
+climate_policy|||cero neto|||progreso|||2
+climate_policy|||cero neto|||piloto|||0
+climate_policy|||cero neto|||demostración|||0
+climate_policy|||cero neto|||despliegue|||2
+climate_policy|||cero neto|||aplicación|||6
+climate_policy|||bajo carbono|||avance|||17
+climate_policy|||cero neto|||desplegar|||0
+climate_policy|||cero neto|||patente|||1
+climate_policy|||bajo carbono|||desarrollar|||21
+climate_policy|||bajo carbono|||innovación|||33
+climate_policy|||bajo carbono|||invención|||0
+climate_policy|||cero neto|||aplicar|||3
+climate_policy|||bajo carbono|||actualizar|||0
+climate_policy|||bajo carbono|||mejorar|||37
+climate_policy|||bajo carbono|||mejora|||23
+climate_policy|||bajo carbono|||progreso|||9
+climate_policy|||bajo carbono|||patente|||2
+climate_policy|||bajo carbono|||demostración|||2
+climate_policy|||bajo carbono|||desarrollo|||97
+climate_policy|||bajo carbono|||desplegar|||1
+climate_policy|||bajo carbono|||despliegue|||6
+climate_policy|||bajo carbono|||aplicar|||14
+climate_policy|||bajo carbono|||piloto|||9
+climate_policy|||bajo carbono|||aplicación|||17
+climate_policy|||descarbonización|||avance|||16
+climate_policy|||descarbonización|||desarrollar|||22
+climate_policy|||descarbonización|||invención|||0
+climate_policy|||descarbonización|||innovación|||32
+climate_policy|||descarbonización|||actualizar|||0
+climate_policy|||descarbonización|||mejorar|||23
+climate_policy|||descarbonización|||progreso|||9
+climate_policy|||descarbonización|||piloto|||5
+climate_policy|||descarbonización|||demostración|||0
+climate_policy|||descarbonización|||desarrollo|||96
+climate_policy|||descarbonización|||desplegar|||2
+climate_policy|||descarbonización|||aplicar|||4
+climate_policy|||descarbonización|||patente|||0
+climate_policy|||descarbonización|||mejora|||9
+climate_policy|||descarbonización|||aplicación|||7
+climate_policy|||energía limpia|||innovación|||33
+climate_policy|||energía limpia|||avance|||21
+climate_policy|||energía limpia|||desarrollar|||23
+climate_policy|||descarbonización|||despliegue|||5
+climate_policy|||energía limpia|||invención|||1
+climate_policy|||energía limpia|||desarrollo|||123
+climate_policy|||energía limpia|||actualizar|||1
+climate_policy|||energía limpia|||patente|||2
+climate_policy|||energía limpia|||demostración|||2
+climate_policy|||energía limpia|||progreso|||16
+climate_policy|||energía limpia|||desplegar|||3
+climate_policy|||energía limpia|||despliegue|||9
+climate_policy|||energía limpia|||aplicar|||16
+climate_policy|||energía limpia|||aplicación|||19
+climate_policy|||energía limpia|||mejorar|||38
+climate_policy|||energía limpia|||piloto|||11
+climate_policy|||energía renovable|||avance|||27
+climate_policy|||energía limpia|||mejora|||26
+climate_policy|||energía renovable|||actualizar|||4
+climate_policy|||energía renovable|||desarrollo|||238
+climate_policy|||energía renovable|||mejorar|||68
+climate_policy|||energía renovable|||mejora|||32
+climate_policy|||energía renovable|||innovación|||56
+climate_policy|||energía renovable|||progreso|||17
+climate_policy|||energía renovable|||desarrollar|||70
+climate_policy|||energía renovable|||piloto|||18
+climate_policy|||energía renovable|||invención|||2
+climate_policy|||energía renovable|||demostración|||1
+climate_policy|||energía renovable|||desplegar|||3
+climate_policy|||energía renovable|||despliegue|||13
+climate_policy|||energía renovable|||patente|||3
+climate_policy|||energía solar|||innovación|||71
+climate_policy|||energía solar|||mejorar|||69
+climate_policy|||energía renovable|||aplicar|||16
+climate_policy|||energía solar|||actualizar|||3
+climate_policy|||energía solar|||desarrollar|||70
+climate_policy|||energía solar|||mejora|||30
+climate_policy|||energía solar|||desarrollo|||271
+climate_policy|||energía renovable|||aplicación|||26
+climate_policy|||energía solar|||progreso|||23
+climate_policy|||energía solar|||avance|||36
+climate_policy|||energía solar|||patente|||3
+climate_policy|||energía solar|||invención|||1
+climate_policy|||energía solar|||demostración|||1
+climate_policy|||energía solar|||desplegar|||6
+climate_policy|||energía solar|||despliegue|||10
+climate_policy|||energía solar|||aplicación|||32
+climate_policy|||fotovoltaica|||avance|||16
+climate_policy|||fotovoltaica|||desarrollar|||23
+climate_policy|||energía solar|||piloto|||31
+climate_policy|||fotovoltaica|||invención|||0
+climate_policy|||energía solar|||aplicar|||28
+climate_policy|||fotovoltaica|||mejorar|||21
+climate_policy|||fotovoltaica|||mejora|||13
+climate_policy|||fotovoltaica|||innovación|||15
+climate_policy|||fotovoltaica|||actualizar|||1
+climate_policy|||fotovoltaica|||desarrollo|||101
+climate_policy|||fotovoltaica|||piloto|||9
+climate_policy|||fotovoltaica|||demostración|||0
+climate_policy|||fotovoltaica|||desplegar|||0
+climate_policy|||fotovoltaica|||patente|||0
+climate_policy|||fotovoltaica|||despliegue|||4
+climate_policy|||fotovoltaica|||aplicar|||8
+climate_policy|||fotovoltaica|||aplicación|||11
+climate_policy|||fotovoltaica|||progreso|||6
+climate_policy|||energía eólica|||invención|||0
+climate_policy|||energía eólica|||innovación|||51
+climate_policy|||energía eólica|||desarrollar|||73
+climate_policy|||energía eólica|||actualizar|||7
+climate_policy|||energía eólica|||mejorar|||93
+climate_policy|||energía eólica|||mejora|||54
+climate_policy|||energía eólica|||avance|||45
+climate_policy|||energía eólica|||desarrollo|||301
+climate_policy|||energía eólica|||piloto|||21
+climate_policy|||energía eólica|||demostración|||3
+climate_policy|||energía eólica|||progreso|||21
+climate_policy|||energía eólica|||desplegar|||7
+climate_policy|||energía eólica|||despliegue|||12
+climate_policy|||energía eólica|||aplicar|||29
+climate_policy|||energía eólica|||aplicación|||35
+climate_policy|||energía eólica|||patente|||2
+climate_policy|||energía hidráulica|||desarrollar|||12
+climate_policy|||energía hidráulica|||desarrollo|||53
+climate_policy|||energía hidráulica|||actualizar|||0
+climate_policy|||energía hidráulica|||mejorar|||18
+climate_policy|||energía hidráulica|||mejora|||28
+climate_policy|||energía hidráulica|||innovación|||11
+climate_policy|||energía hidráulica|||avance|||9
+climate_policy|||energía hidráulica|||invención|||0
+climate_policy|||energía hidráulica|||patente|||0
+climate_policy|||energía hidráulica|||progreso|||5
+climate_policy|||energía hidráulica|||desplegar|||1
+climate_policy|||energía hidráulica|||despliegue|||2
+climate_policy|||energía hidráulica|||aplicar|||12
+climate_policy|||energía hidráulica|||aplicación|||17
+climate_policy|||energía hidráulica|||piloto|||5
+climate_policy|||energía hidráulica|||demostración|||1
+climate_policy|||energía geotérmica|||avance|||1
+climate_policy|||energía geotérmica|||desarrollo|||11
+climate_policy|||energía geotérmica|||actualizar|||0
+climate_policy|||energía geotérmica|||mejorar|||2
+climate_policy|||energía geotérmica|||mejora|||0
+climate_policy|||energía geotérmica|||innovación|||3
+climate_policy|||energía geotérmica|||desarrollar|||3
+climate_policy|||energía geotérmica|||progreso|||1
+climate_policy|||energía geotérmica|||piloto|||0
+climate_policy|||energía geotérmica|||invención|||0
+climate_policy|||energía geotérmica|||desplegar|||0
+climate_policy|||energía geotérmica|||despliegue|||0
+climate_policy|||energía geotérmica|||patente|||0
+climate_policy|||energía geotérmica|||aplicación|||0
+climate_policy|||bioenergía|||avance|||2
+climate_policy|||energía geotérmica|||demostración|||0
+climate_policy|||bioenergía|||desarrollo|||11
+climate_policy|||bioenergía|||actualizar|||0
+climate_policy|||energía geotérmica|||aplicar|||0
+climate_policy|||bioenergía|||innovación|||1
+climate_policy|||bioenergía|||desarrollar|||2
+climate_policy|||bioenergía|||mejorar|||3
+climate_policy|||bioenergía|||mejora|||1
+climate_policy|||bioenergía|||invención|||0
+climate_policy|||bioenergía|||patente|||0
+climate_policy|||bioenergía|||piloto|||0
+climate_policy|||bioenergía|||progreso|||1
+climate_policy|||bioenergía|||desplegar|||0
+climate_policy|||bioenergía|||aplicar|||1
+climate_policy|||bioenergía|||aplicación|||0
+climate_policy|||energía oceánica|||desarrollo|||4
+climate_policy|||bioenergía|||demostración|||0
+climate_policy|||energía oceánica|||avance|||1
+climate_policy|||energía oceánica|||invención|||0
+climate_policy|||energía oceánica|||actualizar|||0
+climate_policy|||bioenergía|||despliegue|||0
+climate_policy|||energía oceánica|||innovación|||1
+climate_policy|||energía oceánica|||mejora|||0
+climate_policy|||energía oceánica|||desarrollar|||2
+climate_policy|||energía oceánica|||progreso|||1
+climate_policy|||energía oceánica|||demostración|||0
+climate_policy|||energía oceánica|||desplegar|||1
+climate_policy|||energía oceánica|||despliegue|||1
+climate_policy|||energía oceánica|||aplicar|||2
+climate_policy|||energía oceánica|||mejorar|||5
+climate_policy|||energía oceánica|||aplicación|||1
+climate_policy|||energía oceánica|||piloto|||0
+climate_policy|||energía oceánica|||patente|||1
+climate_policy|||hidrógeno|||avance|||29
+climate_policy|||hidrógeno|||invención|||2
+climate_policy|||hidrógeno|||desarrollo|||230
+climate_policy|||hidrógeno|||desarrollar|||65
+climate_policy|||hidrógeno|||mejorar|||55
+climate_policy|||hidrógeno|||innovación|||64
+climate_policy|||hidrógeno|||progreso|||16
+climate_policy|||hidrógeno|||patente|||3

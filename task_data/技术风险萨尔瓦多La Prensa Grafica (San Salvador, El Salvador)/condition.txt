@@ -384,3 +384,282 @@ almacenamiento de carbono|||desarrollo|||transformar
 DAC|||mejora|||convertir
 almacenamiento de carbono|||progreso|||retirada
 carbono neutralidad|||desarrollo|||cambiar
+carbono neutralidad|||mejora|||cambiar
+carbono neutralidad|||innovación|||transformar
+carbono neutralidad|||desarrollo|||transición
+carbono neutralidad|||actualizar|||transformar
+carbono neutralidad|||mejorar|||cambiar
+carbono neutralidad|||desarrollar|||transformar
+carbono neutralidad|||avance|||transformar
+carbono neutralidad|||desarrollo|||transformar
+carbono neutralidad|||actualizar|||cambiar
+carbono neutralidad|||mejorar|||transformar
+carbono neutralidad|||mejora|||transformar
+pico de emisiones|||avance|||transición
+pico de emisiones|||desarrollar|||transición
+pico de emisiones|||desarrollo|||transición
+pico de emisiones|||mejorar|||transición
+pico de emisiones|||innovación|||transición
+pico de emisiones|||progreso|||transición
+carbono neutralidad|||mejora|||retirada
+pico de emisiones|||demostración|||transición
+pico de emisiones|||aplicar|||transición
+cero neto|||innovación|||sustituir
+cero neto|||desarrollo|||sustituir
+cero neto|||progreso|||sustituir
+cero neto|||desarrollo|||transición
+bajo carbono|||innovación|||transición
+bajo carbono|||avance|||sustituir
+bajo carbono|||innovación|||sustituir
+bajo carbono|||desarrollar|||sustituir
+bajo carbono|||innovación|||reemplazar
+bajo carbono|||desarrollar|||transición
+bajo carbono|||innovación|||convertir
+cero neto|||piloto|||sustituir
+bajo carbono|||desarrollo|||transición
+bajo carbono|||mejorar|||sustituir
+bajo carbono|||avance|||transición
+bajo carbono|||mejorar|||cambiar
+bajo carbono|||desarrollar|||convertir
+bajo carbono|||desarrollo|||sustituir
+bajo carbono|||mejora|||transición
+bajo carbono|||progreso|||sustituir
+bajo carbono|||progreso|||transición
+bajo carbono|||mejorar|||transición
+bajo carbono|||mejora|||cambiar
+bajo carbono|||progreso|||convertir
+bajo carbono|||mejora|||retirada
+bajo carbono|||mejora|||sustituir
+bajo carbono|||aplicar|||sustituir
+bajo carbono|||progreso|||reemplazar
+bajo carbono|||aplicar|||transición
+bajo carbono|||aplicar|||transformar
+bajo carbono|||aplicación|||sustituir
+bajo carbono|||aplicación|||transición
+bajo carbono|||aplicación|||transformar
+descarbonización|||innovación|||reemplazar
+descarbonización|||avance|||trasladar
+descarbonización|||actualizar|||reemplazar
+descarbonización|||actualizar|||cambiar
+descarbonización|||avance|||reemplazar
+descarbonización|||desarrollar|||reemplazar
+descarbonización|||mejorar|||reemplazar
+descarbonización|||desarrollo|||reemplazar
+descarbonización|||mejorar|||cambiar
+descarbonización|||desarrollo|||transición
+descarbonización|||mejorar|||trasladar
+descarbonización|||mejora|||reemplazar
+descarbonización|||progreso|||reemplazar
+descarbonización|||aplicación|||reemplazar
+energía limpia|||innovación|||reemplazar
+descarbonización|||mejora|||cambiar
+energía limpia|||innovación|||transición
+energía limpia|||desarrollar|||transición
+descarbonización|||aplicación|||transformar
+energía limpia|||actualizar|||cambiar
+energía limpia|||actualizar|||transición
+energía limpia|||avance|||transición
+energía limpia|||mejorar|||cambiar
+energía limpia|||mejorar|||transición
+energía limpia|||mejora|||cambiar
+energía limpia|||mejora|||transición
+energía limpia|||mejora|||retirada
+energía limpia|||desarrollo|||transición
+energía limpia|||progreso|||reemplazar
+energía limpia|||progreso|||transición
+energía limpia|||piloto|||transición
+energía limpia|||piloto|||retirada
+energía limpia|||aplicación|||transición
+energía limpia|||aplicación|||transformar
+energía limpia|||piloto|||cambiar
+energía renovable|||innovación|||cambiar
+energía renovable|||innovación|||convertir
+energía limpia|||aplicar|||transición
+energía renovable|||avance|||cambiar
+energía renovable|||avance|||convertir
+energía renovable|||avance|||trasladar
+energía limpia|||aplicar|||transformar
+energía renovable|||desarrollar|||cambiar
+energía renovable|||desarrollar|||convertir
+energía renovable|||desarrollo|||cambiar
+energía renovable|||desarrollo|||transición
+energía renovable|||desarrollo|||convertir
+energía renovable|||actualizar|||cambiar
+energía renovable|||actualizar|||convertir
+energía renovable|||mejorar|||convertir
+energía renovable|||mejorar|||trasladar
+energía renovable|||mejora|||cambiar
+energía renovable|||mejora|||convertir
+energía renovable|||progreso|||cambiar
+energía renovable|||mejorar|||cambiar
+energía renovable|||piloto|||cambiar
+energía renovable|||piloto|||convertir
+energía renovable|||demostración|||cambiar
+energía renovable|||demostración|||convertir
+energía renovable|||despliegue|||convertir
+energía renovable|||aplicar|||transformar
+energía renovable|||aplicar|||convertir
+energía renovable|||despliegue|||cambiar
+energía renovable|||aplicación|||cambiar
+energía renovable|||aplicación|||transformar
+energía renovable|||aplicación|||convertir
+energía solar|||innovación|||reemplazar
+energía renovable|||aplicar|||cambiar
+energía solar|||innovación|||transformar
+energía solar|||innovación|||convertir
+energía solar|||desarrollar|||transformar
+energía solar|||desarrollar|||convertir
+energía solar|||desarrollar|||retirarse
+energía solar|||desarrollo|||transición
+energía solar|||desarrollo|||retirarse
+energía solar|||avance|||transformar
+energía solar|||avance|||trasladar
+energía solar|||avance|||retirarse
+energía renovable|||progreso|||convertir
+energía solar|||desarrollo|||transformar
+energía solar|||mejorar|||transformar
+energía solar|||mejorar|||trasladar
+energía solar|||mejora|||cambiar
+energía solar|||mejora|||transformar
+energía solar|||mejora|||retirarse
+energía solar|||mejorar|||retirarse
+energía solar|||progreso|||reemplazar
+energía solar|||mejorar|||cambiar
+energía solar|||progreso|||transformar
+energía solar|||progreso|||convertir
+energía solar|||progreso|||retirarse
+energía solar|||mejora|||retirada
+energía solar|||piloto|||cambiar
+energía solar|||piloto|||transformar
+energía solar|||demostración|||cambiar
+energía solar|||piloto|||retirada
+energía solar|||despliegue|||transformar
+energía solar|||demostración|||transformar
+energía solar|||despliegue|||retirarse
+energía solar|||aplicar|||transformar
+energía solar|||aplicar|||retirarse
+energía solar|||aplicación|||retirarse
+fotovoltaica|||innovación|||reemplazar
+fotovoltaica|||innovación|||cambiar
+fotovoltaica|||desarrollar|||cambiar
+fotovoltaica|||desarrollo|||cambiar
+fotovoltaica|||desarrollo|||transición
+fotovoltaica|||mejorar|||cambiar
+energía solar|||aplicación|||transformar
+fotovoltaica|||avance|||cambiar
+fotovoltaica|||avance|||trasladar
+fotovoltaica|||mejora|||cambiar
+fotovoltaica|||progreso|||reemplazar
+fotovoltaica|||progreso|||cambiar
+fotovoltaica|||mejorar|||trasladar
+fotovoltaica|||piloto|||cambiar
+fotovoltaica|||demostración|||cambiar
+fotovoltaica|||desplegar|||cambiar
+fotovoltaica|||aplicar|||cambiar
+fotovoltaica|||aplicar|||transformar
+fotovoltaica|||aplicación|||cambiar
+fotovoltaica|||aplicación|||transformar
+energía eólica|||innovación|||sustituir
+energía eólica|||innovación|||convertir
+energía eólica|||avance|||transformar
+energía eólica|||desarrollar|||sustituir
+energía eólica|||innovación|||transformar
+energía eólica|||desarrollar|||transformar
+energía eólica|||innovación|||reemplazar
+energía eólica|||desarrollar|||retirarse
+energía eólica|||desarrollo|||sustituir
+energía eólica|||avance|||sustituir
+energía eólica|||desarrollar|||convertir
+energía eólica|||desarrollo|||transformar
+energía eólica|||mejorar|||cambiar
+energía eólica|||mejorar|||transformar
+energía eólica|||mejora|||cambiar
+energía eólica|||desarrollo|||transición
+energía eólica|||mejorar|||sustituir
+energía eólica|||progreso|||sustituir
+energía eólica|||progreso|||reemplazar
+energía eólica|||mejora|||sustituir
+energía eólica|||progreso|||transformar
+energía eólica|||progreso|||convertir
+energía eólica|||mejora|||transformar
+energía eólica|||despliegue|||sustituir
+energía eólica|||piloto|||sustituir
+energía eólica|||aplicación|||sustituir
+energía eólica|||aplicación|||transformar
+energía hidráulica|||innovación|||convertir
+energía eólica|||piloto|||cambiar
+energía eólica|||piloto|||transformar
+energía eólica|||despliegue|||transformar
+energía hidráulica|||avance|||convertir
+energía eólica|||aplicar|||sustituir
+energía eólica|||aplicar|||transformar
+energía hidráulica|||desarrollar|||convertir
+energía hidráulica|||desarrollo|||convertir
+energía hidráulica|||mejorar|||convertir
+energía geotérmica|||innovación|||convertir
+energía geotérmica|||avance|||reemplazar
+energía geotérmica|||avance|||trasladar
+energía geotérmica|||desarrollar|||reemplazar
+energía geotérmica|||innovación|||reemplazar
+energía geotérmica|||desarrollo|||reemplazar
+energía geotérmica|||desarrollo|||transición
+energía geotérmica|||avance|||convertir
+energía geotérmica|||mejorar|||reemplazar
+energía geotérmica|||mejorar|||cambiar
+energía geotérmica|||desarrollar|||convertir
+energía geotérmica|||mejorar|||convertir
+energía geotérmica|||desarrollo|||convertir
+energía geotérmica|||mejorar|||trasladar
+energía geotérmica|||mejora|||reemplazar
+energía geotérmica|||mejora|||cambiar
+energía geotérmica|||piloto|||reemplazar
+energía geotérmica|||piloto|||cambiar
+energía geotérmica|||aplicar|||reemplazar
+energía geotérmica|||mejora|||convertir
+energía geotérmica|||aplicar|||convertir
+energía geotérmica|||aplicación|||convertir
+hidrógeno|||desarrollo|||transición
+vehículo eléctrico|||innovación|||convertir
+energía geotérmica|||piloto|||convertir
+energía geotérmica|||aplicación|||reemplazar
+vehículo eléctrico|||desarrollar|||convertir
+vehículo eléctrico|||desarrollo|||transición
+vehículo eléctrico|||desarrollo|||convertir
+vehículo eléctrico|||mejora|||convertir
+vehículo eléctrico|||piloto|||convertir
+vehículo eléctrico|||despliegue|||convertir
+vehículo eléctrico|||aplicar|||convertir
+captura de carbono|||avance|||transición
+captura de carbono|||avance|||retirada
+vehículo eléctrico|||mejorar|||convertir
+captura de carbono|||desarrollar|||transición
+captura de carbono|||innovación|||transición
+captura de carbono|||desarrollar|||retirada
+captura de carbono|||desarrollo|||transición
+captura de carbono|||desarrollo|||retirada
+vehículo eléctrico|||aplicación|||convertir
+captura de carbono|||mejorar|||transición
+captura de carbono|||mejorar|||retirada
+captura de carbono|||mejora|||transición
+captura de carbono|||piloto|||retirada
+captura de carbono|||aplicación|||transformar
+captura de carbono|||aplicación|||retirada
+almacenamiento de carbono|||innovación|||convertir
+captura de carbono|||mejora|||retirada
+captura de carbono|||piloto|||transición
+captura de carbono|||aplicación|||transición
+almacenamiento de carbono|||desarrollo|||transición
+almacenamiento de carbono|||innovación|||transición
+almacenamiento de carbono|||mejorar|||cambiar
+almacenamiento de carbono|||mejorar|||transición
+almacenamiento de carbono|||mejora|||cambiar
+almacenamiento de carbono|||avance|||transición
+almacenamiento de carbono|||mejora|||transición
+almacenamiento de carbono|||mejora|||retirada
+almacenamiento de carbono|||aplicación|||cambiar
+almacenamiento de carbono|||aplicación|||transición
+almacenamiento de carbono|||aplicación|||convertir
+almacenamiento de carbono|||aplicación|||retirada
+almacenamiento de carbono|||progreso|||transición
+almacenamiento de carbono|||aplicación|||transformar
+almacenamiento de carbono|||progreso|||convertir
