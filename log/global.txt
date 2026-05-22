@@ -4072,3 +4072,22 @@ Country                                            Venezuela
 偏好         apoyar/aceptar/aprobar/respaldar/confiar/gusta...
 Name: 8, dtype: object
 2026-05-22 17:30:34,923 - INFO - 文件 'search_results/市场风险委内瑞拉El Nacional (Caracas, Venezuela).xlsx' 在 search_results/ 目录中不存在
+2026-05-22 18:25:34,296 - INFO - 访问网页失败!!! 
+2026-05-22 18:26:44,406 - INFO - 访问网页失败!!! 
+2026-05-22 18:42:33,266 - INFO - 访问网页失败!!! 
+2026-05-22 18:42:51,529 - INFO - 访问网页失败!!! 
+2026-05-22 18:42:51,615 - INFO - 访问网页失败!!! 
+2026-05-22 18:43:46,010 - INFO - 访问网页失败!!! 
+2026-05-22 18:51:00,493 - WARNING - ⚠️ 未找到期刊 '委内瑞拉',' El Universal (Venezuela)' 的代码映射
+2026-05-22 18:51:00,493 - INFO - 第 9 行数据：
+2026-05-22 18:51:00,493 - INFO - 所属洲                                                      NaN
+国家                                                      厄瓜多尔
+Country                                              Ecuador
+指定报纸报道     El Comercio (Quito, Ecuador); Revista Lideres ...
+爬取时间                                               2005-2026
+绿色         desarrollo verde/economía verde/transición ver...
+市场         inversor/institución financiera/empresa/compañ...
+偏好         apoyar/aceptar/aprobar/respaldar/confiar/gusta...
+Name: 9, dtype: object
+2026-05-22 18:51:00,495 - INFO - 文件 'search_results/市场风险厄瓜多尔El Comercio (Quito, Ecuador).xlsx' 在 search_results/ 目录中不存在
+2026-05-22 19:25:31,835 - WARNING - ⚠️ 未找到期刊 '厄瓜多尔',' Revista Lideres (Quito, Ecuador)' 的代码映射
