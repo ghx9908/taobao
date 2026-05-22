@@ -507,3 +507,226 @@ climate_uncertainty|||vehículo eléctrico|||transformar|||1
 climate_uncertainty|||vehículo eléctrico|||reemplazar|||0
 climate_uncertainty|||vehículo eléctrico|||trasladar|||2
 climate_uncertainty|||vehículo eléctrico|||retirada|||0
+climate_uncertainty|||vehículo eléctrico|||retirarse|||0
+climate_uncertainty|||vehículo eléctrico|||transición|||0
+climate_uncertainty|||red eléctrica inteligente|||sustituir|||1
+climate_uncertainty|||vehículo eléctrico|||convertir|||1
+climate_uncertainty|||red eléctrica inteligente|||eliminado progresivamente|||0
+climate_uncertainty|||red eléctrica inteligente|||cambiar|||0
+climate_uncertainty|||red eléctrica inteligente|||transformar|||0
+climate_uncertainty|||red eléctrica inteligente|||convertir|||0
+climate_uncertainty|||red eléctrica inteligente|||reemplazar|||0
+climate_uncertainty|||red eléctrica inteligente|||retirada|||0
+climate_uncertainty|||red eléctrica inteligente|||retirarse|||0
+climate_uncertainty|||captura de carbono|||sustituir|||0
+climate_uncertainty|||captura de carbono|||reemplazar|||1
+climate_uncertainty|||red eléctrica inteligente|||transición|||0
+climate_uncertainty|||red eléctrica inteligente|||trasladar|||0
+climate_uncertainty|||captura de carbono|||cambiar|||0
+climate_uncertainty|||captura de carbono|||transición|||0
+climate_uncertainty|||captura de carbono|||transformar|||0
+climate_uncertainty|||captura de carbono|||trasladar|||0
+climate_uncertainty|||captura de carbono|||eliminado progresivamente|||0
+climate_uncertainty|||captura de carbono|||retirada|||0
+climate_uncertainty|||almacenamiento de carbono|||sustituir|||0
+climate_uncertainty|||almacenamiento de carbono|||reemplazar|||0
+climate_uncertainty|||almacenamiento de carbono|||eliminado progresivamente|||0
+climate_uncertainty|||almacenamiento de carbono|||cambiar|||0
+climate_uncertainty|||captura de carbono|||convertir|||2
+climate_uncertainty|||captura de carbono|||retirarse|||0
+climate_uncertainty|||almacenamiento de carbono|||transición|||0
+climate_uncertainty|||almacenamiento de carbono|||convertir|||0
+climate_uncertainty|||almacenamiento de carbono|||trasladar|||0
+climate_uncertainty|||CCUS|||reemplazar|||0
+climate_uncertainty|||almacenamiento de carbono|||transformar|||0
+climate_uncertainty|||CCUS|||eliminado progresivamente|||0
+climate_uncertainty|||CCUS|||cambiar|||0
+climate_uncertainty|||CCUS|||transición|||0
+climate_uncertainty|||almacenamiento de carbono|||retirada|||0
+climate_uncertainty|||CCUS|||transformar|||0
+climate_uncertainty|||almacenamiento de carbono|||retirarse|||0
+climate_uncertainty|||CCUS|||convertir|||0
+climate_uncertainty|||CCUS|||sustituir|||0
+climate_uncertainty|||CCUS|||retirada|||0
+climate_uncertainty|||captura directa del aire|||sustituir|||0
+climate_uncertainty|||captura directa del aire|||reemplazar|||0
+climate_uncertainty|||captura directa del aire|||cambiar|||0
+climate_uncertainty|||captura directa del aire|||convertir|||0
+climate_uncertainty|||CCUS|||trasladar|||0
+climate_uncertainty|||CCUS|||retirarse|||0
+climate_uncertainty|||captura directa del aire|||transformar|||0
+climate_uncertainty|||captura directa del aire|||trasladar|||0
+climate_uncertainty|||captura directa del aire|||eliminado progresivamente|||0
+climate_uncertainty|||captura directa del aire|||retirada|||0
+climate_uncertainty|||captura directa del aire|||retirarse|||0
+climate_uncertainty|||captura directa del aire|||transición|||0
+climate_uncertainty|||DAC|||sustituir|||0
+climate_uncertainty|||DAC|||reemplazar|||0
+climate_uncertainty|||DAC|||eliminado progresivamente|||0
+climate_uncertainty|||DAC|||cambiar|||0
+climate_uncertainty|||DAC|||transición|||0
+climate_uncertainty|||DAC|||transformar|||1
+climate_uncertainty|||DAC|||convertir|||0
+climate_uncertainty|||DAC|||retirada|||0
+climate_uncertainty|||DAC|||retirarse|||0
+policy_uncertainty|||innovación|||sustituir|||9
+policy_uncertainty|||innovación|||eliminado progresivamente|||0
+policy_uncertainty|||innovación|||transición|||29
+policy_uncertainty|||innovación|||transformar|||19
+policy_uncertainty|||innovación|||cambiar|||57
+policy_uncertainty|||innovación|||convertir|||25
+climate_uncertainty|||DAC|||trasladar|||0
+policy_uncertainty|||innovación|||trasladar|||3
+policy_uncertainty|||innovación|||retirada|||2
+policy_uncertainty|||innovación|||reemplazar|||3
+policy_uncertainty|||innovación|||retirarse|||1
+policy_uncertainty|||avance|||reemplazar|||11
+policy_uncertainty|||avance|||eliminado progresivamente|||0
+policy_uncertainty|||avance|||transición|||68
+policy_uncertainty|||avance|||cambiar|||154
+policy_uncertainty|||avance|||transformar|||28
+policy_uncertainty|||avance|||trasladar|||17
+policy_uncertainty|||avance|||retirada|||14
+policy_uncertainty|||avance|||retirarse|||11
+policy_uncertainty|||avance|||sustituir|||45
+policy_uncertainty|||desarrollar|||sustituir|||45
+policy_uncertainty|||desarrollar|||reemplazar|||9
+policy_uncertainty|||desarrollar|||eliminado progresivamente|||0
+policy_uncertainty|||desarrollar|||cambiar|||164
+policy_uncertainty|||desarrollar|||transición|||69
+policy_uncertainty|||avance|||convertir|||47
+policy_uncertainty|||desarrollar|||trasladar|||21
+policy_uncertainty|||desarrollar|||retirada|||4
+policy_uncertainty|||desarrollar|||convertir|||67
+policy_uncertainty|||desarrollar|||retirarse|||10
+policy_uncertainty|||desarrollo|||sustituir|||203
+policy_uncertainty|||desarrollo|||reemplazar|||50
+policy_uncertainty|||desarrollo|||eliminado progresivamente|||2
+policy_uncertainty|||desarrollo|||cambiar|||617
+policy_uncertainty|||desarrollar|||transformar|||49
+policy_uncertainty|||desarrollo|||convertir|||269
+policy_uncertainty|||desarrollo|||transformar|||152
+policy_uncertainty|||desarrollo|||retirada|||23
+policy_uncertainty|||desarrollo|||trasladar|||89
+policy_uncertainty|||desarrollo|||retirarse|||50
+policy_uncertainty|||invención|||sustituir|||3
+policy_uncertainty|||desarrollo|||transición|||265
+policy_uncertainty|||invención|||cambiar|||16
+policy_uncertainty|||invención|||convertir|||13
+policy_uncertainty|||invención|||reemplazar|||0
+policy_uncertainty|||invención|||transición|||6
+policy_uncertainty|||invención|||retirada|||2
+policy_uncertainty|||invención|||eliminado progresivamente|||0
+policy_uncertainty|||actualizar|||reemplazar|||3
+policy_uncertainty|||invención|||transformar|||5
+policy_uncertainty|||invención|||retirarse|||1
+policy_uncertainty|||invención|||trasladar|||2
+policy_uncertainty|||actualizar|||transformar|||3
+policy_uncertainty|||actualizar|||sustituir|||11
+policy_uncertainty|||actualizar|||eliminado progresivamente|||0
+policy_uncertainty|||actualizar|||convertir|||7
+policy_uncertainty|||actualizar|||trasladar|||2
+policy_uncertainty|||actualizar|||cambiar|||23
+policy_uncertainty|||actualizar|||retirada|||0
+policy_uncertainty|||actualizar|||transición|||4
+policy_uncertainty|||mejorar|||transición|||102
+policy_uncertainty|||mejorar|||eliminado progresivamente|||0
+policy_uncertainty|||mejorar|||convertir|||112
+policy_uncertainty|||mejorar|||cambiar|||404
+policy_uncertainty|||mejorar|||retirada|||11
+policy_uncertainty|||mejorar|||transformar|||54
+policy_uncertainty|||mejorar|||sustituir|||78
+policy_uncertainty|||mejora|||reemplazar|||9
+policy_uncertainty|||mejora|||eliminado progresivamente|||0
+policy_uncertainty|||mejorar|||trasladar|||56
+policy_uncertainty|||mejora|||sustituir|||24
+policy_uncertainty|||mejorar|||reemplazar|||36
+policy_uncertainty|||mejora|||cambiar|||103
+policy_uncertainty|||actualizar|||retirarse|||1
+policy_uncertainty|||mejora|||transición|||25
+policy_uncertainty|||mejora|||retirarse|||8
+policy_uncertainty|||progreso|||sustituir|||23
+policy_uncertainty|||progreso|||reemplazar|||7
+policy_uncertainty|||mejorar|||retirarse|||32
+policy_uncertainty|||mejora|||trasladar|||7
+policy_uncertainty|||progreso|||cambiar|||134
+policy_uncertainty|||mejora|||transformar|||13
+policy_uncertainty|||mejora|||convertir|||21
+policy_uncertainty|||progreso|||eliminado progresivamente|||0
+policy_uncertainty|||progreso|||transformar|||32
+policy_uncertainty|||progreso|||trasladar|||11
+policy_uncertainty|||progreso|||transición|||58
+policy_uncertainty|||patente|||reemplazar|||1
+policy_uncertainty|||patente|||eliminado progresivamente|||0
+policy_uncertainty|||progreso|||retirada|||3
+policy_uncertainty|||patente|||transición|||5
+policy_uncertainty|||patente|||transformar|||3
+policy_uncertainty|||progreso|||convertir|||71
+policy_uncertainty|||progreso|||retirarse|||5
+policy_uncertainty|||patente|||sustituir|||3
+policy_uncertainty|||patente|||convertir|||13
+policy_uncertainty|||patente|||cambiar|||13
+policy_uncertainty|||patente|||retirada|||3
+policy_uncertainty|||patente|||retirarse|||0
+policy_uncertainty|||piloto|||sustituir|||45
+policy_uncertainty|||piloto|||reemplazar|||10
+policy_uncertainty|||piloto|||eliminado progresivamente|||0
+policy_uncertainty|||patente|||trasladar|||0
+policy_uncertainty|||piloto|||transición|||50
+policy_uncertainty|||piloto|||transformar|||15
+policy_uncertainty|||piloto|||cambiar|||162
+policy_uncertainty|||piloto|||convertir|||24
+policy_uncertainty|||piloto|||retirarse|||41
+policy_uncertainty|||demostración|||sustituir|||5
+policy_uncertainty|||demostración|||reemplazar|||2
+policy_uncertainty|||demostración|||eliminado progresivamente|||1
+policy_uncertainty|||demostración|||cambiar|||54
+policy_uncertainty|||piloto|||trasladar|||22
+policy_uncertainty|||demostración|||transición|||18
+policy_uncertainty|||piloto|||retirada|||7
+policy_uncertainty|||demostración|||transformar|||8
+policy_uncertainty|||demostración|||trasladar|||5
+policy_uncertainty|||demostración|||retirada|||2
+policy_uncertainty|||desplegar|||reemplazar|||3
+policy_uncertainty|||desplegar|||eliminado progresivamente|||0
+policy_uncertainty|||desplegar|||transición|||13
+policy_uncertainty|||desplegar|||cambiar|||18
+policy_uncertainty|||demostración|||convertir|||21
+policy_uncertainty|||demostración|||retirarse|||9
+policy_uncertainty|||desplegar|||transformar|||5
+policy_uncertainty|||desplegar|||sustituir|||2
+policy_uncertainty|||desplegar|||convertir|||11
+policy_uncertainty|||desplegar|||retirada|||2
+policy_uncertainty|||despliegue|||reemplazar|||4
+policy_uncertainty|||despliegue|||eliminado progresivamente|||1
+policy_uncertainty|||despliegue|||transición|||28
+policy_uncertainty|||desplegar|||retirarse|||4
+policy_uncertainty|||desplegar|||trasladar|||0
+policy_uncertainty|||despliegue|||transformar|||2
+policy_uncertainty|||despliegue|||sustituir|||7
+policy_uncertainty|||despliegue|||convertir|||28
+policy_uncertainty|||despliegue|||trasladar|||12
+policy_uncertainty|||despliegue|||retirada|||10
+policy_uncertainty|||mejora|||retirada|||3
+policy_uncertainty|||despliegue|||cambiar|||35
+policy_uncertainty|||aplicar|||sustituir|||67
+policy_uncertainty|||aplicar|||cambiar|||146
+policy_uncertainty|||aplicar|||transición|||53
+policy_uncertainty|||aplicar|||transformar|||30
+policy_uncertainty|||despliegue|||retirarse|||10
+policy_uncertainty|||aplicar|||eliminado progresivamente|||1
+policy_uncertainty|||aplicar|||convertir|||53
+policy_uncertainty|||aplicar|||reemplazar|||17
+policy_uncertainty|||aplicar|||trasladar|||24
+policy_uncertainty|||aplicar|||retirada|||4
+policy_uncertainty|||aplicar|||retirarse|||8
+policy_uncertainty|||aplicación|||sustituir|||46
+policy_uncertainty|||aplicación|||reemplazar|||11
+policy_uncertainty|||aplicación|||eliminado progresivamente|||0
+policy_uncertainty|||aplicación|||cambiar|||135
+policy_uncertainty|||aplicación|||transición|||65
+policy_uncertainty|||aplicación|||transformar|||24
+policy_uncertainty|||aplicación|||convertir|||61
+policy_uncertainty|||aplicación|||retirarse|||12
+policy_uncertainty|||aplicación|||trasladar|||32
+policy_uncertainty|||aplicación|||retirada|||5

@@ -2858,3 +2858,83 @@ Country                                            Venezuela
 替代         sustituir/reemplazar/eliminado progresivamente...
 Name: 8, dtype: object
 2026-05-22 12:28:53,809 - INFO - 文件 'search_results/技术风险委内瑞拉El Nacional (Caracas, Venezuela).xlsx' 在 search_results/ 目录中不存在
+2026-05-22 13:05:16,003 - WARNING - ⚠️ 未找到期刊 '委内瑞拉',' El Universal (Venezuela)' 的代码映射
+2026-05-22 13:05:16,003 - INFO - 第 9 行数据：
+2026-05-22 13:05:16,003 - INFO - 所属洲                                                      NaN
+国家                                                      厄瓜多尔
+Country                                              Ecuador
+指定报纸报道     El Comercio (Quito, Ecuador); Revista Lideres ...
+爬取时间                                               2005-2026
+低碳         carbono neutralidad/pico de emisiones/cero net...
+技术         innovación/avance/desarrollar/desarrollo/inven...
+替代         sustituir/reemplazar/eliminado progresivamente...
+Name: 9, dtype: object
+2026-05-22 13:05:16,005 - INFO - 文件 'search_results/技术风险厄瓜多尔El Comercio (Quito, Ecuador).xlsx' 在 search_results/ 目录中存在
+2026-05-22 13:05:16,005 - WARNING - ⚠️ 未找到期刊 '厄瓜多尔',' Revista Lideres (Quito, Ecuador)' 的代码映射
+2026-05-22 13:05:16,039 - INFO - sheet表名为市场风险的基本信息：None
+2026-05-22 13:05:16,039 - INFO - 第 0 行数据：
+2026-05-22 13:05:16,039 - INFO - 所属洲                                                      北美洲
+国家                                                      萨尔瓦多
+Country                                          El Salvador
+指定报纸报道         La Prensa Grafica (San Salvador, El Salvador)
+爬取时间                                               2005-2026
+绿色         desarrollo verde/economía verde/transición ver...
+市场         inversor/institución financiera/empresa/compañ...
+偏好         apoyar/aceptar/aprobar/respaldar/confiar/gusta...
+Name: 0, dtype: object
+2026-05-22 13:05:16,039 - INFO - 文件 'search_results/市场风险萨尔瓦多La Prensa Grafica (San Salvador, El Salvador).xlsx' 在 search_results/ 目录中存在
+2026-05-22 13:05:16,039 - INFO - 第 1 行数据：
+2026-05-22 13:05:16,039 - INFO - 所属洲                                                      NaN
+国家                                               哥斯达黎加（西班牙语）
+Country                                           Costa Rica
+指定报纸报道                      La Nacion (San Jose, Costa Rica)
+爬取时间                                               2005-2026
+绿色         desarrollo verde/economía verde/transición ver...
+市场         inversor/institución financiera/empresa/compañ...
+偏好         apoyar/aceptar/aprobar/respaldar/confiar/gusta...
+Name: 1, dtype: object
+2026-05-22 13:05:16,039 - INFO - 文件 'search_results/市场风险哥斯达黎加（西班牙语）La Nacion (San Jose, Costa Rica).xlsx' 在 search_results/ 目录中存在
+2026-05-22 13:05:16,039 - INFO - 第 2 行数据：
+2026-05-22 13:05:16,039 - INFO - 所属洲                                                      NaN
+国家                                                      尼加拉瓜
+Country                                            Nicaragua
+指定报纸报道                                 La Prensa (Nicaragua)
+爬取时间                                               2005-2026
+绿色         desarrollo verde/economía verde/transición ver...
+市场         inversor/institución financiera/empresa/compañ...
+偏好         apoyar/aceptar/aprobar/respaldar/confiar/gusta...
+Name: 2, dtype: object
+2026-05-22 13:05:16,039 - INFO - 文件 'search_results/市场风险尼加拉瓜La Prensa (Nicaragua).xlsx' 在 search_results/ 目录中存在
+2026-05-22 13:05:16,039 - INFO - 第 3 行数据：
+2026-05-22 13:05:16,039 - INFO - 所属洲                                                      NaN
+国家                                                       巴拿马
+Country                                               Panama
+指定报纸报道                    La Prensa [ContentEngine] (Panama)
+爬取时间                                               2005-2026
+绿色         desarrollo verde/economía verde/transición ver...
+市场         inversor/institución financiera/empresa/compañ...
+偏好         apoyar/aceptar/aprobar/respaldar/confiar/gusta...
+Name: 3, dtype: object
+2026-05-22 13:05:16,040 - INFO - 文件 'search_results/市场风险巴拿马La Prensa [ContentEngine] (Panama).xlsx' 在 search_results/ 目录中存在
+2026-05-22 13:05:16,040 - INFO - 第 4 行数据：
+2026-05-22 13:05:16,040 - INFO - 所属洲                                                      南美洲
+国家                                                       阿根廷
+Country                                            Argentina
+指定报纸报道                   La Nación (Buenos Aires, Argentina)
+爬取时间                                               2005-2026
+绿色         desarrollo verde/economía verde/transición ver...
+市场         inversor/institución financiera/empresa/compañ...
+偏好         apoyar/aceptar/aprobar/respaldar/confiar/gusta...
+Name: 4, dtype: object
+2026-05-22 13:05:16,040 - INFO - 文件 'search_results/市场风险阿根廷La Nación (Buenos Aires, Argentina).xlsx' 在 search_results/ 目录中存在
+2026-05-22 13:05:16,040 - INFO - 第 5 行数据：
+2026-05-22 13:05:16,040 - INFO - 所属洲                                                      NaN
+国家                                                        智利
+Country                                                Chile
+指定报纸报道                         El Mercurio (Santiago, Chile)
+爬取时间                                               2005-2026
+绿色         desarrollo verde/economía verde/transición ver...
+市场         inversor/institución financiera/empresa/compañ...
+偏好         apoyar/aceptar/aprobar/respaldar/confiar/gusta...
+Name: 5, dtype: object
+2026-05-22 13:05:16,040 - INFO - 文件 'search_results/市场风险智利El Mercurio (Santiago, Chile).xlsx' 在 search_results/ 目录中不存在
