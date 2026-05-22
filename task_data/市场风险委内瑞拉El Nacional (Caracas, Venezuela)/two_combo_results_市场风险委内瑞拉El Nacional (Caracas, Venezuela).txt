@@ -1,0 +1,374 @@
+climate_policy|||desarrollo verde|||inversor|||1
+climate_policy|||desarrollo verde|||tomador de decisiones|||0
+climate_policy|||desarrollo verde|||residente|||5
+climate_policy|||desarrollo verde|||institución financiera|||0
+climate_policy|||economía verde|||inversor|||0
+climate_policy|||economía verde|||residente|||1
+climate_policy|||desarrollo verde|||consumidor|||7
+climate_policy|||desarrollo verde|||cliente|||3
+climate_policy|||desarrollo verde|||compañía|||23
+climate_policy|||desarrollo verde|||individuo|||2
+climate_policy|||desarrollo verde|||público|||71
+climate_policy|||economía verde|||hogar|||16
+climate_policy|||economía verde|||institución financiera|||2
+climate_policy|||desarrollo verde|||empresa|||48
+climate_policy|||economía verde|||cliente|||23
+climate_policy|||desarrollo verde|||hogar|||11
+climate_policy|||economía verde|||compañía|||31
+climate_policy|||economía verde|||consumidor|||24
+climate_policy|||economía verde|||tomador de decisiones|||0
+climate_policy|||economía verde|||empresa|||72
+climate_policy|||economía verde|||individuo|||0
+climate_policy|||economía verde|||público|||65
+climate_policy|||transición verde|||consumidor|||3
+climate_policy|||transición verde|||cliente|||0
+climate_policy|||transición verde|||hogar|||1
+climate_policy|||transición verde|||inversor|||1
+climate_policy|||transición verde|||institución financiera|||0
+climate_policy|||transición verde|||tomador de decisiones|||0
+climate_policy|||tecnología verde|||hogar|||7
+climate_policy|||transición verde|||empresa|||5
+climate_policy|||transición verde|||compañía|||1
+climate_policy|||transición verde|||residente|||0
+climate_policy|||tecnología verde|||público|||30
+climate_policy|||tecnología verde|||tomador de decisiones|||0
+climate_policy|||transición verde|||individuo|||4
+climate_policy|||transición verde|||público|||12
+climate_policy|||tecnología verde|||inversor|||0
+climate_policy|||tecnología verde|||cliente|||4
+climate_policy|||tecnología verde|||institución financiera|||0
+climate_policy|||tecnología verde|||compañía|||10
+climate_policy|||tecnología verde|||consumidor|||8
+climate_policy|||tecnología verde|||empresa|||26
+climate_policy|||innovación verde|||tomador de decisiones|||0
+climate_policy|||tecnología verde|||residente|||1
+climate_policy|||innovación verde|||consumidor|||2
+climate_policy|||innovación verde|||hogar|||3
+climate_policy|||innovación verde|||inversor|||1
+climate_policy|||tecnología verde|||individuo|||1
+climate_policy|||innovación verde|||residente|||0
+climate_policy|||innovación verde|||institución financiera|||0
+climate_policy|||innovación verde|||empresa|||7
+climate_policy|||innovación verde|||cliente|||1
+climate_policy|||innovación verde|||compañía|||5
+climate_policy|||energía verde|||compañía|||18
+climate_policy|||innovación verde|||individuo|||0
+climate_policy|||innovación verde|||público|||5
+climate_policy|||energía verde|||inversor|||1
+climate_policy|||energía verde|||tomador de decisiones|||0
+climate_policy|||energía verde|||institución financiera|||1
+climate_policy|||energía verde|||consumidor|||7
+climate_policy|||energía verde|||empresa|||43
+climate_policy|||energía verde|||cliente|||3
+climate_policy|||energía verde|||hogar|||18
+climate_policy|||energía verde|||residente|||3
+climate_policy|||energía limpia|||inversor|||0
+climate_policy|||energía verde|||individuo|||1
+climate_policy|||energía verde|||público|||44
+climate_policy|||energía limpia|||institución financiera|||0
+climate_policy|||energía limpia|||empresa|||12
+climate_policy|||energía limpia|||compañía|||7
+climate_policy|||energía limpia|||tomador de decisiones|||0
+climate_policy|||energía limpia|||cliente|||0
+climate_policy|||energía limpia|||hogar|||2
+climate_policy|||energía limpia|||consumidor|||5
+climate_policy|||energía limpia|||residente|||0
+climate_policy|||energía limpia|||individuo|||0
+climate_policy|||energía limpia|||público|||11
+climate_policy|||energía renovable|||inversor|||0
+climate_policy|||energía renovable|||institución financiera|||0
+climate_policy|||energía renovable|||tomador de decisiones|||0
+climate_policy|||energía renovable|||empresa|||10
+climate_policy|||energía renovable|||compañía|||3
+climate_policy|||energía renovable|||consumidor|||2
+climate_policy|||energía renovable|||cliente|||0
+climate_policy|||energía renovable|||hogar|||0
+climate_policy|||energía renovable|||individuo|||0
+climate_policy|||energía renovable|||residente|||0
+climate_policy|||energía renovable|||público|||6
+climate_policy|||energía solar|||institución financiera|||0
+climate_policy|||energía solar|||inversor|||2
+climate_policy|||energía solar|||tomador de decisiones|||0
+climate_policy|||energía solar|||compañía|||15
+climate_policy|||energía solar|||consumidor|||6
+climate_policy|||energía solar|||empresa|||26
+climate_policy|||energía solar|||cliente|||3
+climate_policy|||energía hidráulica|||compañía|||2
+climate_policy|||energía hidráulica|||tomador de decisiones|||0
+climate_policy|||energía solar|||hogar|||9
+climate_policy|||energía solar|||residente|||1
+climate_policy|||energía solar|||individuo|||0
+climate_policy|||energía hidráulica|||institución financiera|||0
+climate_policy|||energía solar|||público|||19
+climate_policy|||energía hidráulica|||inversor|||0
+climate_policy|||energía hidráulica|||empresa|||8
+climate_policy|||energía hidráulica|||hogar|||0
+climate_policy|||energía hidráulica|||residente|||1
+climate_policy|||energía hidráulica|||individuo|||0
+climate_policy|||energía hidráulica|||consumidor|||0
+climate_policy|||energía hidráulica|||cliente|||0
+climate_policy|||energía eólica|||inversor|||0
+climate_policy|||energía hidráulica|||público|||7
+climate_policy|||energía eólica|||institución financiera|||0
+climate_policy|||energía eólica|||tomador de decisiones|||0
+climate_policy|||energía eólica|||compañía|||8
+climate_policy|||energía eólica|||consumidor|||3
+climate_policy|||energía eólica|||empresa|||31
+climate_policy|||energía eólica|||cliente|||1
+climate_policy|||bioenergía|||consumidor|||0
+climate_policy|||bioenergía|||tomador de decisiones|||0
+climate_policy|||bioenergía|||cliente|||0
+climate_policy|||energía eólica|||hogar|||2
+climate_policy|||energía eólica|||individuo|||0
+climate_policy|||energía eólica|||residente|||1
+climate_policy|||bioenergía|||institución financiera|||0
+climate_policy|||bioenergía|||inversor|||0
+climate_policy|||bioenergía|||empresa|||1
+climate_policy|||energía eólica|||público|||10
+climate_policy|||bioenergía|||compañía|||1
+climate_policy|||bioenergía|||hogar|||0
+climate_policy|||bioenergía|||público|||0
+climate_policy|||bioenergía|||residente|||0
+climate_policy|||bioenergía|||individuo|||0
+climate_policy|||energía geotérmica|||inversor|||0
+climate_policy|||energía geotérmica|||institución financiera|||0
+climate_policy|||energía geotérmica|||tomador de decisiones|||0
+climate_policy|||energía geotérmica|||compañía|||1
+climate_policy|||energía geotérmica|||empresa|||3
+climate_policy|||energía geotérmica|||cliente|||0
+climate_policy|||energía geotérmica|||residente|||0
+climate_policy|||energía geotérmica|||consumidor|||3
+climate_policy|||energía geotérmica|||hogar|||0
+climate_policy|||energía oceánica|||consumidor|||0
+climate_policy|||energía geotérmica|||público|||1
+climate_policy|||energía geotérmica|||individuo|||0
+climate_policy|||energía oceánica|||cliente|||0
+climate_policy|||energía oceánica|||residente|||0
+climate_policy|||energía oceánica|||inversor|||0
+climate_policy|||energía oceánica|||compañía|||0
+climate_policy|||energía oceánica|||tomador de decisiones|||0
+climate_policy|||energía oceánica|||institución financiera|||0
+climate_policy|||energía oceánica|||empresa|||1
+climate_policy|||energía oceánica|||hogar|||0
+climate_policy|||energía oceánica|||público|||0
+climate_policy|||hidrógeno|||institución financiera|||0
+climate_policy|||hidrógeno|||inversor|||0
+climate_policy|||energía oceánica|||individuo|||0
+climate_policy|||hidrógeno|||empresa|||8
+climate_policy|||hidrógeno|||tomador de decisiones|||0
+climate_policy|||hidrógeno|||consumidor|||0
+climate_policy|||hidrógeno|||compañía|||4
+climate_policy|||hidrógeno|||cliente|||0
+climate_policy|||hidrógeno|||hogar|||3
+climate_policy|||hidrógeno|||residente|||0
+climate_policy|||producto verde|||compañía|||17
+climate_policy|||producto verde|||cliente|||13
+climate_policy|||producto verde|||hogar|||18
+climate_policy|||producto verde|||individuo|||1
+climate_policy|||producto verde|||público|||45
+climate_policy|||producto verde|||inversor|||0
+climate_policy|||producto verde|||tomador de decisiones|||0
+climate_policy|||hidrógeno|||individuo|||0
+climate_policy|||hidrógeno|||público|||8
+climate_policy|||producto verde|||institución financiera|||0
+climate_policy|||producto ecológico|||inversor|||0
+climate_policy|||producto verde|||consumidor|||23
+climate_policy|||producto verde|||empresa|||50
+climate_policy|||producto ecológico|||institución financiera|||0
+climate_policy|||producto ecológico|||empresa|||13
+climate_policy|||producto verde|||residente|||1
+climate_policy|||producto ecológico|||tomador de decisiones|||0
+climate_policy|||producto ecológico|||compañía|||6
+climate_policy|||producto ecológico|||consumidor|||4
+climate_policy|||producto ecológico|||cliente|||3
+climate_policy|||producto ecológico|||individuo|||0
+climate_policy|||producto ecológico|||hogar|||9
+climate_policy|||producto ecológico|||residente|||1
+climate_policy|||producto ecológico|||público|||6
+climate_policy|||producto bajo carbono|||inversor|||0
+climate_policy|||producto bajo carbono|||institución financiera|||0
+climate_policy|||producto bajo carbono|||empresa|||0
+climate_policy|||producto bajo carbono|||tomador de decisiones|||0
+climate_policy|||producto bajo carbono|||compañía|||1
+climate_policy|||producto bajo carbono|||consumidor|||1
+climate_policy|||producto bajo carbono|||residente|||0
+climate_policy|||producto bajo carbono|||público|||0
+climate_policy|||producto bajo carbono|||cliente|||1
+climate_policy|||producto bajo carbono|||individuo|||0
+climate_policy|||producto bajo carbono|||hogar|||1
+climate_policy|||producto sostenible|||inversor|||0
+climate_policy|||producto sostenible|||público|||18
+climate_policy|||producto sostenible|||institución financiera|||0
+climate_policy|||producto sostenible|||residente|||0
+climate_policy|||producto sostenible|||cliente|||0
+climate_policy|||producto sostenible|||tomador de decisiones|||0
+climate_policy|||producto sostenible|||empresa|||14
+climate_policy|||producto sostenible|||compañía|||4
+climate_policy|||producto sostenible|||hogar|||5
+climate_policy|||producto sostenible|||consumidor|||10
+climate_policy|||consumo verde|||inversor|||0
+climate_policy|||producto sostenible|||individuo|||1
+climate_policy|||consumo verde|||institución financiera|||0
+climate_policy|||consumo verde|||tomador de decisiones|||0
+climate_policy|||consumo verde|||compañía|||10
+climate_policy|||consumo verde|||empresa|||29
+climate_policy|||consumo verde|||cliente|||6
+climate_policy|||consumo verde|||residente|||1
+climate_policy|||consumo verde|||consumidor|||19
+climate_policy|||consumo verde|||hogar|||9
+climate_policy|||consumo verde|||público|||18
+climate_policy|||consumo verde|||individuo|||3
+climate_policy|||inversión verde|||hogar|||12
+climate_policy|||inversión verde|||residente|||1
+climate_policy|||inversión verde|||inversor|||0
+climate_policy|||inversión verde|||tomador de decisiones|||0
+climate_policy|||inversión verde|||institución financiera|||1
+climate_policy|||inversión verde|||cliente|||5
+climate_policy|||inversión verde|||compañía|||16
+climate_policy|||inversión verde|||consumidor|||5
+climate_policy|||inversión verde|||empresa|||30
+climate_policy|||inversión verde|||individuo|||0
+climate_policy|||inversión verde|||público|||22
+climate_policy|||finanzas verdes|||inversor|||0
+climate_policy|||finanzas verdes|||institución financiera|||1
+climate_policy|||finanzas verdes|||tomador de decisiones|||0
+climate_policy|||finanzas verdes|||compañía|||0
+climate_policy|||finanzas verdes|||consumidor|||0
+climate_policy|||finanzas verdes|||empresa|||1
+climate_policy|||finanzas verdes|||hogar|||1
+climate_policy|||finanzas verdes|||residente|||1
+climate_policy|||finanzas verdes|||público|||0
+climate_policy|||finanzas verdes|||cliente|||3
+climate_policy|||finanzas verdes|||individuo|||0
+climate_policy|||bono verde|||inversor|||0
+climate_policy|||bono verde|||hogar|||3
+climate_policy|||bono verde|||residente|||1
+climate_policy|||bono verde|||compañía|||0
+climate_policy|||bono verde|||institución financiera|||0
+climate_policy|||bono verde|||tomador de decisiones|||0
+climate_policy|||bono verde|||consumidor|||0
+climate_policy|||bono verde|||individuo|||0
+climate_policy|||bono verde|||empresa|||1
+climate_policy|||bono verde|||cliente|||1
+climate_policy|||bono verde|||público|||4
+climate_policy|||crédito verde|||institución financiera|||0
+climate_policy|||crédito verde|||inversor|||0
+climate_policy|||crédito verde|||tomador de decisiones|||0
+climate_policy|||crédito verde|||hogar|||3
+climate_policy|||ESG|||inversor|||0
+climate_policy|||crédito verde|||individuo|||0
+climate_policy|||crédito verde|||compañía|||6
+climate_policy|||crédito verde|||consumidor|||1
+climate_policy|||crédito verde|||público|||10
+climate_policy|||crédito verde|||cliente|||1
+climate_policy|||crédito verde|||residente|||1
+climate_policy|||crédito verde|||empresa|||11
+climate_policy|||ESG|||público|||0
+climate_policy|||ESG|||empresa|||0
+climate_policy|||ESG|||cliente|||0
+climate_policy|||ESG|||hogar|||0
+climate_policy|||ESG|||institución financiera|||0
+climate_policy|||ESG|||tomador de decisiones|||0
+climate_policy|||ESG|||consumidor|||0
+climate_policy|||ESG|||compañía|||0
+climate_policy|||ESG|||residente|||0
+climate_uncertainty|||desarrollo verde|||apoyar|||14
+climate_policy|||ESG|||individuo|||0
+climate_uncertainty|||desarrollo verde|||aceptar|||7
+climate_uncertainty|||desarrollo verde|||confiar|||0
+climate_uncertainty|||desarrollo verde|||gustar|||0
+climate_uncertainty|||desarrollo verde|||aprobar|||6
+climate_uncertainty|||desarrollo verde|||preferir|||0
+climate_uncertainty|||desarrollo verde|||encantar|||0
+climate_uncertainty|||desarrollo verde|||respaldar|||1
+climate_uncertainty|||desarrollo verde|||favorecer|||1
+climate_uncertainty|||desarrollo verde|||apreciar|||3
+climate_uncertainty|||desarrollo verde|||tender a|||2
+climate_uncertainty|||desarrollo verde|||estar dispuesto a|||1
+climate_uncertainty|||economía verde|||aprobar|||9
+climate_uncertainty|||desarrollo verde|||priorizar|||0
+climate_uncertainty|||desarrollo verde|||preferencia|||4
+climate_uncertainty|||desarrollo verde|||entusias|||0
+climate_uncertainty|||desarrollo verde|||inclinarse por|||0
+climate_uncertainty|||economía verde|||apoyar|||7
+climate_uncertainty|||economía verde|||aceptar|||6
+climate_uncertainty|||desarrollo verde|||disposición a|||8
+climate_uncertainty|||desarrollo verde|||prioridad|||12
+climate_uncertainty|||economía verde|||preferir|||1
+climate_uncertainty|||economía verde|||respaldar|||0
+climate_uncertainty|||economía verde|||confiar|||2
+climate_uncertainty|||economía verde|||encantar|||0
+climate_uncertainty|||economía verde|||apreciar|||0
+climate_uncertainty|||economía verde|||gustar|||1
+climate_uncertainty|||economía verde|||favorecer|||3
+climate_uncertainty|||economía verde|||inclinarse por|||0
+climate_uncertainty|||economía verde|||priorizar|||1
+climate_uncertainty|||economía verde|||tender a|||1
+climate_uncertainty|||economía verde|||prioridad|||17
+climate_uncertainty|||economía verde|||preferencia|||9
+climate_uncertainty|||transición verde|||aceptar|||3
+climate_uncertainty|||transición verde|||gustar|||0
+climate_uncertainty|||economía verde|||entusias|||0
+climate_uncertainty|||transición verde|||confiar|||0
+climate_uncertainty|||economía verde|||estar dispuesto a|||2
+climate_uncertainty|||transición verde|||respaldar|||1
+climate_uncertainty|||transición verde|||aprobar|||1
+climate_uncertainty|||economía verde|||disposición a|||4
+climate_uncertainty|||transición verde|||apoyar|||2
+climate_uncertainty|||transición verde|||encantar|||0
+climate_uncertainty|||transición verde|||favorecer|||1
+climate_uncertainty|||transición verde|||preferir|||0
+climate_uncertainty|||transición verde|||apreciar|||2
+climate_uncertainty|||transición verde|||preferencia|||1
+climate_uncertainty|||transición verde|||entusias|||0
+climate_uncertainty|||transición verde|||estar dispuesto a|||1
+climate_uncertainty|||transición verde|||tender a|||2
+climate_uncertainty|||transición verde|||priorizar|||1
+climate_uncertainty|||transición verde|||inclinarse por|||0
+climate_uncertainty|||transición verde|||prioridad|||3
+climate_uncertainty|||transición verde|||disposición a|||2
+climate_uncertainty|||tecnología verde|||apoyar|||6
+climate_uncertainty|||tecnología verde|||aprobar|||2
+climate_uncertainty|||tecnología verde|||aceptar|||2
+climate_uncertainty|||tecnología verde|||respaldar|||0
+climate_uncertainty|||tecnología verde|||encantar|||0
+climate_uncertainty|||tecnología verde|||confiar|||0
+climate_uncertainty|||tecnología verde|||favorecer|||2
+climate_uncertainty|||tecnología verde|||gustar|||1
+climate_uncertainty|||tecnología verde|||priorizar|||0
+climate_uncertainty|||tecnología verde|||preferencia|||0
+climate_uncertainty|||tecnología verde|||apreciar|||7
+climate_uncertainty|||tecnología verde|||preferir|||0
+climate_uncertainty|||tecnología verde|||prioridad|||5
+climate_uncertainty|||tecnología verde|||inclinarse por|||0
+climate_uncertainty|||tecnología verde|||estar dispuesto a|||0
+climate_uncertainty|||tecnología verde|||entusias|||0
+climate_uncertainty|||innovación verde|||respaldar|||0
+climate_uncertainty|||tecnología verde|||tender a|||0
+climate_uncertainty|||innovación verde|||aceptar|||0
+climate_uncertainty|||tecnología verde|||disposición a|||4
+climate_uncertainty|||innovación verde|||aprobar|||0
+climate_uncertainty|||innovación verde|||apoyar|||0
+climate_uncertainty|||innovación verde|||confiar|||0
+climate_uncertainty|||innovación verde|||preferir|||0
+climate_uncertainty|||innovación verde|||priorizar|||0
+climate_uncertainty|||innovación verde|||gustar|||0
+climate_uncertainty|||innovación verde|||favorecer|||0
+climate_uncertainty|||innovación verde|||encantar|||0
+climate_uncertainty|||innovación verde|||preferencia|||0
+climate_uncertainty|||innovación verde|||tender a|||0
+climate_uncertainty|||innovación verde|||apreciar|||1
+climate_uncertainty|||innovación verde|||prioridad|||0
+climate_uncertainty|||innovación verde|||inclinarse por|||0
+climate_uncertainty|||energía verde|||encantar|||0
+climate_uncertainty|||innovación verde|||estar dispuesto a|||0
+climate_uncertainty|||energía verde|||confiar|||0
+climate_uncertainty|||energía verde|||respaldar|||0
+climate_uncertainty|||energía verde|||aceptar|||6
+climate_uncertainty|||innovación verde|||disposición a|||0
+climate_uncertainty|||energía verde|||gustar|||0
+climate_uncertainty|||energía verde|||apoyar|||1
+climate_uncertainty|||innovación verde|||entusias|||0
+climate_uncertainty|||energía verde|||aprobar|||0
+climate_uncertainty|||energía verde|||favorecer|||1
+climate_uncertainty|||energía verde|||preferir|||0
