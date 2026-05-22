@@ -1,0 +1,18 @@
+2026-05-22 15:47:45,941 - INFO - 🚀 开始处理任务: 市场风险乌拉圭El País (Montevideo, Uruguay).xlsx
+2026-05-22 15:47:45,941 - INFO - 开始初始化所有driver到2025年页面: https://infoweb-newsbank-com.webproxy3.columbuslibrary.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=pubname%3AUEPM%21El%2BPa%25C3%25ADs%2B%2528Montevideo%252C%2BUruguay%2529&maxresults=60&f=advanced&fld-nav-0=YMD_date&val-nav-0=-2026.4
+2026-05-22 15:48:03,110 - INFO - 账号 PACREG3448140 的driver成功访问2025年页面
+2026-05-22 15:48:03,115 - INFO - 账号 PACREG3449081 的driver成功访问2025年页面
+2026-05-22 15:48:03,116 - INFO - 账号 PACREG3448143 的driver成功访问2025年页面
+2026-05-22 15:48:03,117 - INFO - ✅ 账号 PACREG3448140 的driver初始化成功
+2026-05-22 15:48:03,118 - INFO - ✅ 账号 PACREG3449081 的driver初始化成功
+2026-05-22 15:48:03,118 - INFO - ✅ 账号 PACREG3448143 的driver初始化成功
+2026-05-22 15:48:03,218 - INFO - 账号 PACREG3448153 的driver成功访问2025年页面
+2026-05-22 15:48:03,218 - INFO - ✅ 账号 PACREG3448153 的driver初始化成功
+2026-05-22 15:48:03,221 - INFO - 账号 PACREG3448151 的driver成功访问2025年页面
+2026-05-22 15:48:03,221 - INFO - ✅ 账号 PACREG3448151 的driver初始化成功
+2026-05-22 15:48:03,322 - INFO - 账号 PACREG3449077 的driver成功访问2025年页面
+2026-05-22 15:48:03,322 - INFO - ✅ 账号 PACREG3449077 的driver初始化成功
+2026-05-22 15:48:03,675 - INFO - 账号 PACREG3448149 的driver成功访问2025年页面
+2026-05-22 15:48:03,676 - INFO - ✅ 账号 PACREG3448149 的driver初始化成功
+2026-05-22 15:48:03,715 - INFO - 账号 PACREG3448142 的driver成功访问2025年页面
+2026-05-22 15:48:03,716 - INFO - ✅ 账号 PACREG3448142 的driver初始化成功

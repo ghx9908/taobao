@@ -3503,3 +3503,14 @@ Country                                                 Peru
 偏好         apoyar/aceptar/aprobar/respaldar/confiar/gusta...
 Name: 6, dtype: object
 2026-05-22 14:46:11,463 - INFO - 文件 'search_results/市场风险秘鲁El Comercio (Lima, Peru).xlsx' 在 search_results/ 目录中不存在
+2026-05-22 15:47:45,935 - INFO - 第 7 行数据：
+2026-05-22 15:47:45,936 - INFO - 所属洲                                                      NaN
+国家                                                       乌拉圭
+Country                                              Uruguay
+指定报纸报道                         El País (Montevideo, Uruguay)
+爬取时间                                               2005-2026
+绿色         desarrollo verde/economía verde/transición ver...
+市场         inversor/institución financiera/empresa/compañ...
+偏好         apoyar/aceptar/aprobar/respaldar/confiar/gusta...
+Name: 7, dtype: object
+2026-05-22 15:47:45,940 - INFO - 文件 'search_results/市场风险乌拉圭El País (Montevideo, Uruguay).xlsx' 在 search_results/ 目录中不存在
