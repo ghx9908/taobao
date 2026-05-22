@@ -45,96 +45,36 @@ SKIP_TWO_COMBO = False  # True = 直接三组合模式, False = 正常模式
 
 # 账号配置 - 每个账号对应一个驱动和线程
 account_configs = [
-    # {
-    #     'username': 'PACREG3447692',
-    #     'password': '1234',
-    #     'driver': None,
-    #     'thread_id': 1
-    # },
-    # {
-    #     'username': 'PACREG3448107',
-    #     'password': '1234',
-    #     'driver': None,
-    #     'thread_id': 2
-    # },
-    # {
-    #     'username': 'PACREG3448108',
-    #     'password': '1234',
-    #     'driver': None,
-    #     'thread_id': 3
-    # },
-    # {
-    #     'username': 'PACREG3448109',
-    #     'password': '1234',
-    #     'driver': None,
-    #     'thread_id': 4
-    # },
-    # {
-    #     'username': 'PACREG3448110',
-    #     'password': '1234',
-    #     'driver': None,
-    #     'thread_id': 5
-    # },
-    # {
-    #     'username': 'PACREG3448119',
-    #     'password': '1234',
-    #     'driver': None,
-    #     'thread_id': 6
-    # },
-    # {
-    #     'username': 'PACREG3448120',
-    #     'password': '1234',
-    #     'driver': None,
-    #     'thread_id': 7
-    # },
-    # {
-    #     'username': 'PACREG3448121',
-    #     'password': '1234',
-    #     'driver': None,
-    #     'thread_id': 8
-    # },
-    # {
-    #     'username': 'PACREG3448122',
-    #     'password': '1234',
-    #     'driver': None,
-    #     'thread_id': 9
-    # },
-    # {
-    #     'username': 'PACREG3448123',
-    #     'password': '1234',
-    #     'driver': None,
-    #     'thread_id': 10
-    # },
-    # {
-    #     'username': 'PACREG3448124',
-    #     'password': '1234',
-    #     'driver': None,
-    #     'thread_id': 11
-    # },
-    # {
-    #     'username': 'PACREG3448125',
-    #     'password': '1234',
-    #     'driver': None,
-    #     'thread_id': 12
-    # },
-    # {
-    #     'username': 'PACREG3448126',
-    #     'password': '1234',
-    #     'driver': None,
-    #     'thread_id': 13
-    # },
-    # {
-    #     'username': 'PACREG3448127',
-    #     'password': '1234',
-    #     'driver': None,
-    #     'thread_id': 14
-    # },
-    # {
-    #     'username': 'PACREG3448128',
-    #     'password': '1234',
-    #     'driver': None,
-    #     'thread_id': 15
-    # },
+    {
+        'username': 'PACREG3449077',
+        'password': '1234',
+        'driver': None,
+        'thread_id': 1
+    },
+    {
+        'username': 'PACREG3449078',
+        'password': '1234',
+        'driver': None,
+        'thread_id': 2
+    },
+    {
+        'username': 'PACREG3449079',
+        'password': '1234',
+        'driver': None,
+        'thread_id': 3
+    },
+    {
+        'username': 'PACREG3449081',
+        'password': '1234',
+        'driver': None,
+        'thread_id': 4
+    },
+    {
+        'username': 'PACREG3449082',
+        'password': '1234',
+        'driver': None,
+        'thread_id': 5
+    },
     {
         'username': 'PACREG3448140',
         'password': '1234',
