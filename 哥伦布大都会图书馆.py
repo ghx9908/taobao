@@ -46,125 +46,125 @@ SKIP_TWO_COMBO = False  # True = 直接三组合模式, False = 正常模式
 # 账号配置 - 每个账号对应一个驱动和线程
 account_configs = [
     {
-        'username': 'PACREG3449077',
+        'username': 'PACREG3448130',
         'password': '1234',
         'driver': None,
         'thread_id': 1
     },
-    {
-        'username': 'PACREG3449078',
-        'password': '1234',
-        'driver': None,
-        'thread_id': 2
-    },
-    {
-        'username': 'PACREG3449079',
-        'password': '1234',
-        'driver': None,
-        'thread_id': 3
-    },
-    {
-        'username': 'PACREG3449081',
-        'password': '1234',
-        'driver': None,
-        'thread_id': 4
-    },
-    {
-        'username': 'PACREG3449082',
-        'password': '1234',
-        'driver': None,
-        'thread_id': 5
-    },
-    {
-        'username': 'PACREG3449098',
-        'password': '1234',
-        'driver': None,
-        'thread_id': 6
-    },
-    {
-        'username': 'PACREG3449099',
-        'password': '1234',
-        'driver': None,
-        'thread_id': 7
-    },
-    {
-        'username': 'PACREG3449101',
-        'password': '1234',
-        'driver': None,
-        'thread_id': 8
-    },
-    {
-        'username': 'PACREG3449102',
-        'password': '1234',
-        'driver': None,
-        'thread_id': 9
-    },
-    {
-        'username': 'PACREG3449103',
-        'password': '1234',
-        'driver': None,
-        'thread_id': 10
-    },
-    {
-        'username': 'PACREG3448140',
-        'password': '1234',
-        'driver': None,
-        'thread_id': 16
-    },
-    {
-        'username': 'PACREG3448141',
-        'password': '1234',
-        'driver': None,
-        'thread_id': 17
-    },
-    {
-        'username': 'PACREG3448142',
-        'password': '1234',
-        'driver': None,
-        'thread_id': 18
-    },
-    {
-        'username': 'PACREG3448143',
-        'password': '1234',
-        'driver': None,
-        'thread_id': 19
-    },
-    {
-        'username': 'PACREG3448145',
-        'password': '1234',
-        'driver': None,
-        'thread_id': 20
-    },
-    {
-        'username': 'PACREG3448147',
-        'password': '1234',
-        'driver': None,
-        'thread_id': 21
-    },
-    {
-        'username': 'PACREG3448148',
-        'password': '1234',
-        'driver': None,
-        'thread_id': 22
-    },
-    {
-        'username': 'PACREG3448149',
-        'password': '1234',
-        'driver': None,
-        'thread_id': 23
-    },
-    {
-        'username': 'PACREG3448151',
-        'password': '1234',
-        'driver': None,
-        'thread_id': 24
-    },
-    {
-        'username': 'PACREG3448153',
-        'password': '1234',
-        'driver': None,
-        'thread_id': 25
-    },
+    # {
+    #     'username': 'PACREG3449078',
+    #     'password': '1234',
+    #     'driver': None,
+    #     'thread_id': 2
+    # },
+    # {
+    #     'username': 'PACREG3449079',
+    #     'password': '1234',
+    #     'driver': None,
+    #     'thread_id': 3
+    # },
+    # {
+    #     'username': 'PACREG3449081',
+    #     'password': '1234',
+    #     'driver': None,
+    #     'thread_id': 4
+    # },
+    # {
+    #     'username': 'PACREG3449082',
+    #     'password': '1234',
+    #     'driver': None,
+    #     'thread_id': 5
+    # },
+    # {
+    #     'username': 'PACREG3449098',
+    #     'password': '1234',
+    #     'driver': None,
+    #     'thread_id': 6
+    # },
+    # {
+    #     'username': 'PACREG3449099',
+    #     'password': '1234',
+    #     'driver': None,
+    #     'thread_id': 7
+    # },
+    # {
+    #     'username': 'PACREG3449101',
+    #     'password': '1234',
+    #     'driver': None,
+    #     'thread_id': 8
+    # },
+    # {
+    #     'username': 'PACREG3449102',
+    #     'password': '1234',
+    #     'driver': None,
+    #     'thread_id': 9
+    # },
+    # {
+    #     'username': 'PACREG3449103',
+    #     'password': '1234',
+    #     'driver': None,
+    #     'thread_id': 10
+    # },
+    # {
+    #     'username': 'PACREG3448140',
+    #     'password': '1234',
+    #     'driver': None,
+    #     'thread_id': 16
+    # },
+    # {
+    #     'username': 'PACREG3448141',
+    #     'password': '1234',
+    #     'driver': None,
+    #     'thread_id': 17
+    # },
+    # {
+    #     'username': 'PACREG3448142',
+    #     'password': '1234',
+    #     'driver': None,
+    #     'thread_id': 18
+    # },
+    # {
+    #     'username': 'PACREG3448143',
+    #     'password': '1234',
+    #     'driver': None,
+    #     'thread_id': 19
+    # },
+    # {
+    #     'username': 'PACREG3448145',
+    #     'password': '1234',
+    #     'driver': None,
+    #     'thread_id': 20
+    # },
+    # {
+    #     'username': 'PACREG3448147',
+    #     'password': '1234',
+    #     'driver': None,
+    #     'thread_id': 21
+    # },
+    # {
+    #     'username': 'PACREG3448148',
+    #     'password': '1234',
+    #     'driver': None,
+    #     'thread_id': 22
+    # },
+    # {
+    #     'username': 'PACREG3448149',
+    #     'password': '1234',
+    #     'driver': None,
+    #     'thread_id': 23
+    # },
+    # {
+    #     'username': 'PACREG3448151',
+    #     'password': '1234',
+    #     'driver': None,
+    #     'thread_id': 24
+    # },
+    # {
+    #     'username': 'PACREG3448153',
+    #     'password': '1234',
+    #     'driver': None,
+    #     'thread_id': 25
+    # },
 ]
 
 domain_url = 'https://infoweb-newsbank-com.webproxy3.columbuslibrary.org'

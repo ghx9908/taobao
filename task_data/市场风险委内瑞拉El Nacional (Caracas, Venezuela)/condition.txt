@@ -253,3 +253,718 @@ crédito verde|||público|||estar dispuesto a
 crédito verde|||público|||respaldar
 crédito verde|||público|||gustar
 producto verde|||residente|||disposición a
+desarrollo verde|||público|||apreciar
+desarrollo verde|||público|||preferencia
+desarrollo verde|||público|||prioridad
+desarrollo verde|||público|||tender a
+desarrollo verde|||público|||estar dispuesto a
+desarrollo verde|||público|||disposición a
+desarrollo verde|||individuo|||apoyar
+desarrollo verde|||individuo|||aceptar
+desarrollo verde|||individuo|||aprobar
+desarrollo verde|||individuo|||respaldar
+desarrollo verde|||individuo|||favorecer
+desarrollo verde|||individuo|||apreciar
+desarrollo verde|||individuo|||preferencia
+desarrollo verde|||individuo|||prioridad
+desarrollo verde|||individuo|||tender a
+desarrollo verde|||individuo|||estar dispuesto a
+desarrollo verde|||individuo|||disposición a
+economía verde|||institución financiera|||apoyar
+economía verde|||institución financiera|||aceptar
+economía verde|||institución financiera|||aprobar
+economía verde|||institución financiera|||confiar
+economía verde|||institución financiera|||favorecer
+economía verde|||institución financiera|||preferir
+economía verde|||institución financiera|||priorizar
+economía verde|||institución financiera|||prioridad
+economía verde|||institución financiera|||estar dispuesto a
+economía verde|||institución financiera|||disposición a
+economía verde|||empresa|||apoyar
+economía verde|||empresa|||aceptar
+economía verde|||empresa|||aprobar
+economía verde|||empresa|||confiar
+economía verde|||empresa|||gustar
+economía verde|||empresa|||favorecer
+economía verde|||empresa|||preferencia
+economía verde|||empresa|||priorizar
+economía verde|||empresa|||prioridad
+economía verde|||empresa|||tender a
+economía verde|||empresa|||estar dispuesto a
+economía verde|||empresa|||disposición a
+economía verde|||compañía|||apoyar
+economía verde|||compañía|||aceptar
+economía verde|||compañía|||aprobar
+economía verde|||compañía|||confiar
+economía verde|||compañía|||gustar
+economía verde|||compañía|||preferir
+economía verde|||compañía|||preferencia
+economía verde|||compañía|||priorizar
+economía verde|||compañía|||prioridad
+economía verde|||compañía|||tender a
+economía verde|||compañía|||estar dispuesto a
+economía verde|||compañía|||disposición a
+economía verde|||consumidor|||apoyar
+economía verde|||consumidor|||aceptar
+economía verde|||consumidor|||aprobar
+economía verde|||consumidor|||confiar
+economía verde|||consumidor|||favorecer
+economía verde|||consumidor|||preferir
+economía verde|||consumidor|||preferencia
+economía verde|||consumidor|||prioridad
+economía verde|||consumidor|||tender a
+economía verde|||consumidor|||estar dispuesto a
+economía verde|||consumidor|||disposición a
+economía verde|||cliente|||apoyar
+economía verde|||cliente|||aceptar
+economía verde|||cliente|||aprobar
+economía verde|||cliente|||gustar
+economía verde|||cliente|||favorecer
+economía verde|||cliente|||preferencia
+economía verde|||cliente|||priorizar
+economía verde|||cliente|||prioridad
+economía verde|||cliente|||estar dispuesto a
+economía verde|||hogar|||apoyar
+economía verde|||hogar|||aceptar
+economía verde|||hogar|||aprobar
+economía verde|||hogar|||confiar
+economía verde|||hogar|||gustar
+economía verde|||hogar|||favorecer
+economía verde|||hogar|||preferir
+economía verde|||hogar|||preferencia
+economía verde|||hogar|||prioridad
+economía verde|||hogar|||tender a
+economía verde|||hogar|||disposición a
+economía verde|||residente|||apoyar
+economía verde|||residente|||aceptar
+economía verde|||residente|||aprobar
+economía verde|||residente|||confiar
+economía verde|||residente|||gustar
+economía verde|||residente|||favorecer
+economía verde|||residente|||preferencia
+economía verde|||residente|||priorizar
+economía verde|||residente|||prioridad
+economía verde|||residente|||tender a
+economía verde|||residente|||estar dispuesto a
+economía verde|||residente|||disposición a
+economía verde|||público|||apoyar
+economía verde|||público|||aceptar
+economía verde|||público|||aprobar
+economía verde|||público|||confiar
+economía verde|||público|||gustar
+economía verde|||público|||favorecer
+economía verde|||público|||preferir
+economía verde|||público|||preferencia
+economía verde|||público|||priorizar
+economía verde|||público|||prioridad
+economía verde|||público|||tender a
+economía verde|||público|||estar dispuesto a
+transición verde|||inversor|||apoyar
+transición verde|||inversor|||prioridad
+transición verde|||inversor|||disposición a
+transición verde|||empresa|||apoyar
+transición verde|||empresa|||aprobar
+transición verde|||empresa|||respaldar
+transición verde|||empresa|||favorecer
+transición verde|||empresa|||apreciar
+transición verde|||empresa|||priorizar
+transición verde|||empresa|||prioridad
+transición verde|||empresa|||tender a
+transición verde|||empresa|||estar dispuesto a
+transición verde|||empresa|||disposición a
+transición verde|||compañía|||apoyar
+transición verde|||compañía|||aceptar
+transición verde|||compañía|||aprobar
+transición verde|||compañía|||respaldar
+transición verde|||compañía|||favorecer
+transición verde|||compañía|||apreciar
+transición verde|||compañía|||preferencia
+transición verde|||compañía|||prioridad
+transición verde|||compañía|||tender a
+transición verde|||compañía|||estar dispuesto a
+transición verde|||compañía|||disposición a
+transición verde|||consumidor|||apoyar
+transición verde|||consumidor|||aceptar
+transición verde|||consumidor|||aprobar
+transición verde|||consumidor|||respaldar
+transición verde|||consumidor|||favorecer
+transición verde|||consumidor|||apreciar
+transición verde|||consumidor|||preferencia
+transición verde|||consumidor|||prioridad
+transición verde|||consumidor|||tender a
+transición verde|||consumidor|||estar dispuesto a
+transición verde|||consumidor|||disposición a
+transición verde|||hogar|||apoyar
+transición verde|||hogar|||aceptar
+transición verde|||hogar|||aprobar
+transición verde|||hogar|||respaldar
+transición verde|||hogar|||favorecer
+transición verde|||hogar|||apreciar
+transición verde|||hogar|||priorizar
+transición verde|||hogar|||prioridad
+transición verde|||hogar|||tender a
+transición verde|||hogar|||estar dispuesto a
+transición verde|||hogar|||disposición a
+transición verde|||público|||apoyar
+transición verde|||público|||aceptar
+transición verde|||público|||aprobar
+transición verde|||público|||respaldar
+transición verde|||público|||favorecer
+transición verde|||público|||apreciar
+transición verde|||público|||preferencia
+transición verde|||público|||priorizar
+transición verde|||público|||prioridad
+transición verde|||público|||tender a
+transición verde|||público|||estar dispuesto a
+transición verde|||público|||disposición a
+transición verde|||individuo|||apoyar
+transición verde|||individuo|||aceptar
+transición verde|||individuo|||aprobar
+transición verde|||individuo|||respaldar
+transición verde|||individuo|||favorecer
+transición verde|||individuo|||apreciar
+transición verde|||individuo|||preferencia
+transición verde|||individuo|||priorizar
+transición verde|||individuo|||prioridad
+transición verde|||individuo|||tender a
+transición verde|||individuo|||estar dispuesto a
+transición verde|||individuo|||disposición a
+tecnología verde|||empresa|||apoyar
+tecnología verde|||empresa|||aceptar
+tecnología verde|||empresa|||gustar
+tecnología verde|||empresa|||favorecer
+tecnología verde|||empresa|||apreciar
+tecnología verde|||empresa|||prioridad
+tecnología verde|||empresa|||disposición a
+tecnología verde|||compañía|||apoyar
+tecnología verde|||compañía|||aceptar
+tecnología verde|||compañía|||aprobar
+tecnología verde|||compañía|||gustar
+tecnología verde|||compañía|||apreciar
+tecnología verde|||compañía|||prioridad
+tecnología verde|||compañía|||disposición a
+tecnología verde|||consumidor|||apoyar
+tecnología verde|||consumidor|||aceptar
+tecnología verde|||consumidor|||aprobar
+tecnología verde|||consumidor|||favorecer
+tecnología verde|||consumidor|||apreciar
+tecnología verde|||consumidor|||prioridad
+tecnología verde|||consumidor|||disposición a
+tecnología verde|||cliente|||apoyar
+tecnología verde|||cliente|||aceptar
+tecnología verde|||cliente|||aprobar
+tecnología verde|||cliente|||gustar
+tecnología verde|||cliente|||favorecer
+tecnología verde|||cliente|||apreciar
+tecnología verde|||cliente|||prioridad
+tecnología verde|||cliente|||disposición a
+tecnología verde|||hogar|||apoyar
+tecnología verde|||hogar|||aceptar
+tecnología verde|||hogar|||gustar
+tecnología verde|||hogar|||favorecer
+tecnología verde|||hogar|||apreciar
+tecnología verde|||hogar|||prioridad
+tecnología verde|||hogar|||disposición a
+tecnología verde|||residente|||apoyar
+tecnología verde|||residente|||aceptar
+tecnología verde|||residente|||aprobar
+tecnología verde|||residente|||gustar
+tecnología verde|||residente|||favorecer
+tecnología verde|||residente|||apreciar
+tecnología verde|||residente|||prioridad
+tecnología verde|||residente|||disposición a
+tecnología verde|||público|||apoyar
+tecnología verde|||público|||aceptar
+tecnología verde|||público|||aprobar
+tecnología verde|||público|||gustar
+tecnología verde|||público|||favorecer
+tecnología verde|||público|||apreciar
+tecnología verde|||público|||prioridad
+tecnología verde|||público|||disposición a
+tecnología verde|||individuo|||apoyar
+tecnología verde|||individuo|||aceptar
+tecnología verde|||individuo|||favorecer
+tecnología verde|||individuo|||apreciar
+tecnología verde|||individuo|||prioridad
+tecnología verde|||individuo|||disposición a
+innovación verde|||empresa|||apreciar
+innovación verde|||compañía|||apreciar
+innovación verde|||consumidor|||apreciar
+innovación verde|||cliente|||apreciar
+innovación verde|||hogar|||apreciar
+innovación verde|||público|||apreciar
+energía verde|||inversor|||apoyar
+energía verde|||inversor|||prioridad
+energía verde|||inversor|||disposición a
+energía verde|||institución financiera|||aceptar
+energía verde|||institución financiera|||favorecer
+energía verde|||institución financiera|||apreciar
+energía verde|||institución financiera|||preferencia
+energía verde|||institución financiera|||prioridad
+energía verde|||institución financiera|||estar dispuesto a
+energía verde|||institución financiera|||disposición a
+energía verde|||empresa|||apoyar
+energía verde|||empresa|||favorecer
+energía verde|||empresa|||apreciar
+energía verde|||empresa|||preferencia
+energía verde|||empresa|||prioridad
+energía verde|||empresa|||disposición a
+energía verde|||compañía|||apoyar
+energía verde|||compañía|||aceptar
+energía verde|||compañía|||favorecer
+energía verde|||compañía|||apreciar
+energía verde|||compañía|||preferencia
+energía verde|||compañía|||prioridad
+energía verde|||compañía|||estar dispuesto a
+energía verde|||consumidor|||apoyar
+energía verde|||consumidor|||aceptar
+energía verde|||consumidor|||favorecer
+energía verde|||consumidor|||apreciar
+energía verde|||consumidor|||preferencia
+energía verde|||consumidor|||prioridad
+energía verde|||consumidor|||estar dispuesto a
+energía verde|||cliente|||apoyar
+energía verde|||cliente|||aceptar
+energía verde|||cliente|||favorecer
+energía verde|||cliente|||apreciar
+energía verde|||cliente|||preferencia
+energía verde|||cliente|||prioridad
+energía verde|||cliente|||estar dispuesto a
+energía verde|||cliente|||disposición a
+energía verde|||hogar|||apreciar
+energía verde|||hogar|||preferencia
+energía verde|||hogar|||prioridad
+energía verde|||hogar|||estar dispuesto a
+energía verde|||residente|||apoyar
+energía verde|||residente|||aceptar
+energía verde|||residente|||favorecer
+energía verde|||residente|||apreciar
+energía verde|||residente|||prioridad
+energía verde|||residente|||estar dispuesto a
+energía verde|||residente|||disposición a
+energía verde|||público|||apoyar
+energía verde|||público|||aceptar
+energía verde|||público|||apreciar
+energía verde|||público|||preferencia
+energía verde|||público|||prioridad
+energía verde|||público|||estar dispuesto a
+energía verde|||público|||disposición a
+energía verde|||individuo|||apoyar
+energía verde|||individuo|||aceptar
+energía verde|||individuo|||favorecer
+energía verde|||individuo|||apreciar
+energía verde|||individuo|||preferencia
+energía verde|||individuo|||prioridad
+energía verde|||individuo|||estar dispuesto a
+energía limpia|||empresa|||aceptar
+energía limpia|||empresa|||aprobar
+energía limpia|||empresa|||favorecer
+energía limpia|||empresa|||prioridad
+energía limpia|||compañía|||aprobar
+energía limpia|||compañía|||respaldar
+energía limpia|||compañía|||favorecer
+energía limpia|||compañía|||prioridad
+energía limpia|||compañía|||disposición a
+energía limpia|||consumidor|||aceptar
+energía limpia|||consumidor|||aprobar
+energía limpia|||consumidor|||respaldar
+energía limpia|||consumidor|||favorecer
+energía limpia|||consumidor|||preferencia
+energía limpia|||consumidor|||prioridad
+energía limpia|||consumidor|||disposición a
+energía limpia|||hogar|||aceptar
+energía limpia|||hogar|||aprobar
+energía limpia|||hogar|||respaldar
+energía limpia|||hogar|||favorecer
+energía limpia|||hogar|||preferencia
+energía limpia|||hogar|||prioridad
+energía limpia|||hogar|||disposición a
+energía limpia|||público|||aceptar
+energía limpia|||público|||aprobar
+energía limpia|||público|||respaldar
+energía limpia|||público|||favorecer
+energía limpia|||público|||prioridad
+energía limpia|||público|||disposición a
+energía renovable|||empresa|||aceptar
+energía renovable|||empresa|||aprobar
+energía renovable|||empresa|||favorecer
+energía renovable|||compañía|||aceptar
+energía renovable|||compañía|||aprobar
+energía renovable|||compañía|||favorecer
+energía renovable|||consumidor|||aceptar
+energía renovable|||consumidor|||aprobar
+energía renovable|||consumidor|||favorecer
+energía renovable|||público|||aceptar
+energía renovable|||público|||aprobar
+energía renovable|||público|||favorecer
+energía solar|||inversor|||prioridad
+energía solar|||inversor|||disposición a
+energía solar|||empresa|||aceptar
+energía solar|||empresa|||respaldar
+energía solar|||empresa|||favorecer
+energía solar|||empresa|||apreciar
+energía solar|||empresa|||preferencia
+energía solar|||empresa|||prioridad
+energía solar|||empresa|||disposición a
+energía solar|||compañía|||aceptar
+energía solar|||compañía|||respaldar
+energía solar|||compañía|||favorecer
+energía solar|||compañía|||apreciar
+energía solar|||compañía|||preferencia
+energía solar|||compañía|||prioridad
+energía solar|||compañía|||disposición a
+energía solar|||consumidor|||aceptar
+energía solar|||consumidor|||respaldar
+energía solar|||consumidor|||apreciar
+energía solar|||consumidor|||preferencia
+energía solar|||consumidor|||prioridad
+energía solar|||consumidor|||disposición a
+energía solar|||cliente|||aceptar
+energía solar|||cliente|||respaldar
+energía solar|||cliente|||favorecer
+energía solar|||cliente|||apreciar
+energía solar|||cliente|||prioridad
+energía solar|||cliente|||disposición a
+energía solar|||hogar|||aceptar
+energía solar|||hogar|||respaldar
+energía solar|||hogar|||favorecer
+energía solar|||hogar|||preferencia
+energía solar|||hogar|||prioridad
+energía solar|||hogar|||disposición a
+energía solar|||residente|||aceptar
+energía solar|||residente|||respaldar
+energía solar|||residente|||favorecer
+energía solar|||residente|||apreciar
+energía solar|||residente|||preferencia
+energía solar|||residente|||prioridad
+energía solar|||residente|||disposición a
+energía solar|||público|||aceptar
+energía solar|||público|||respaldar
+energía solar|||público|||apreciar
+energía solar|||público|||preferencia
+energía solar|||público|||prioridad
+energía solar|||público|||disposición a
+energía hidráulica|||empresa|||aceptar
+energía hidráulica|||empresa|||respaldar
+energía hidráulica|||empresa|||prioridad
+energía hidráulica|||empresa|||estar dispuesto a
+energía hidráulica|||empresa|||disposición a
+energía hidráulica|||compañía|||aceptar
+energía hidráulica|||compañía|||prioridad
+energía hidráulica|||compañía|||tender a
+energía hidráulica|||residente|||aceptar
+energía hidráulica|||residente|||respaldar
+energía hidráulica|||residente|||prioridad
+energía hidráulica|||residente|||estar dispuesto a
+energía hidráulica|||residente|||disposición a
+energía hidráulica|||público|||aceptar
+energía hidráulica|||público|||respaldar
+energía hidráulica|||público|||prioridad
+energía hidráulica|||público|||tender a
+energía hidráulica|||público|||estar dispuesto a
+energía hidráulica|||público|||disposición a
+energía eólica|||empresa|||aceptar
+energía eólica|||empresa|||respaldar
+energía eólica|||empresa|||favorecer
+energía eólica|||empresa|||apreciar
+energía eólica|||empresa|||inclinarse por
+energía eólica|||empresa|||disposición a
+energía eólica|||compañía|||aceptar
+energía eólica|||compañía|||respaldar
+energía eólica|||compañía|||favorecer
+energía eólica|||compañía|||apreciar
+energía eólica|||compañía|||prioridad
+energía eólica|||compañía|||inclinarse por
+energía eólica|||consumidor|||aceptar
+energía eólica|||consumidor|||respaldar
+energía eólica|||consumidor|||favorecer
+energía eólica|||consumidor|||apreciar
+energía eólica|||cliente|||aceptar
+energía eólica|||cliente|||favorecer
+energía eólica|||cliente|||apreciar
+energía eólica|||cliente|||prioridad
+energía eólica|||hogar|||respaldar
+energía eólica|||hogar|||favorecer
+energía eólica|||hogar|||apreciar
+energía eólica|||hogar|||prioridad
+energía eólica|||hogar|||inclinarse por
+energía eólica|||residente|||aceptar
+energía eólica|||residente|||respaldar
+energía eólica|||residente|||favorecer
+energía eólica|||residente|||apreciar
+energía eólica|||público|||aceptar
+energía eólica|||público|||respaldar
+energía eólica|||público|||favorecer
+energía eólica|||público|||apreciar
+energía eólica|||público|||prioridad
+energía eólica|||público|||inclinarse por
+energía eólica|||público|||disposición a
+energía oceánica|||empresa|||entusias
+hidrógeno|||empresa|||apreciar
+hidrógeno|||empresa|||preferir
+hidrógeno|||empresa|||tender a
+hidrógeno|||compañía|||apreciar
+hidrógeno|||compañía|||estar dispuesto a
+hidrógeno|||compañía|||disposición a
+hidrógeno|||hogar|||apreciar
+hidrógeno|||hogar|||estar dispuesto a
+hidrógeno|||hogar|||disposición a
+hidrógeno|||público|||apreciar
+hidrógeno|||público|||preferir
+hidrógeno|||público|||tender a
+hidrógeno|||público|||estar dispuesto a
+hidrógeno|||público|||disposición a
+producto verde|||empresa|||apoyar
+producto verde|||empresa|||aceptar
+producto verde|||empresa|||gustar
+producto verde|||empresa|||apreciar
+producto verde|||empresa|||preferir
+producto verde|||empresa|||preferencia
+producto verde|||empresa|||prioridad
+producto verde|||empresa|||tender a
+producto verde|||empresa|||inclinarse por
+producto verde|||empresa|||estar dispuesto a
+producto verde|||compañía|||apoyar
+producto verde|||compañía|||aceptar
+producto verde|||compañía|||aprobar
+producto verde|||compañía|||gustar
+producto verde|||compañía|||preferencia
+producto verde|||compañía|||prioridad
+producto verde|||compañía|||tender a
+producto verde|||consumidor|||apoyar
+producto verde|||consumidor|||apreciar
+producto verde|||consumidor|||preferir
+producto verde|||consumidor|||preferencia
+producto verde|||consumidor|||tender a
+producto verde|||consumidor|||estar dispuesto a
+producto verde|||consumidor|||disposición a
+producto verde|||cliente|||apoyar
+producto verde|||cliente|||aceptar
+producto verde|||cliente|||aprobar
+producto verde|||cliente|||gustar
+producto verde|||cliente|||apreciar
+producto verde|||cliente|||prioridad
+producto verde|||cliente|||tender a
+producto verde|||cliente|||estar dispuesto a
+producto verde|||cliente|||disposición a
+producto verde|||hogar|||apoyar
+producto verde|||hogar|||aprobar
+producto verde|||hogar|||gustar
+producto verde|||hogar|||apreciar
+producto verde|||hogar|||prioridad
+producto verde|||hogar|||tender a
+producto verde|||hogar|||inclinarse por
+producto verde|||hogar|||estar dispuesto a
+producto verde|||residente|||apoyar
+producto verde|||residente|||preferencia
+producto verde|||residente|||prioridad
+producto verde|||residente|||tender a
+producto verde|||público|||apoyar
+producto verde|||público|||gustar
+producto verde|||público|||apreciar
+producto verde|||público|||preferir
+producto verde|||público|||preferencia
+producto verde|||público|||prioridad
+producto verde|||público|||tender a
+producto verde|||público|||inclinarse por
+producto verde|||público|||estar dispuesto a
+producto verde|||público|||disposición a
+producto verde|||individuo|||apoyar
+producto verde|||individuo|||aceptar
+producto verde|||individuo|||aprobar
+producto verde|||individuo|||preferir
+producto verde|||individuo|||preferencia
+producto verde|||individuo|||prioridad
+producto verde|||individuo|||tender a
+producto ecológico|||empresa|||apreciar
+producto ecológico|||empresa|||preferencia
+producto ecológico|||empresa|||prioridad
+producto ecológico|||empresa|||estar dispuesto a
+producto ecológico|||compañía|||preferencia
+producto ecológico|||compañía|||prioridad
+producto ecológico|||compañía|||estar dispuesto a
+producto ecológico|||consumidor|||preferencia
+producto ecológico|||consumidor|||disposición a
+producto ecológico|||cliente|||apreciar
+producto ecológico|||cliente|||preferencia
+producto ecológico|||cliente|||estar dispuesto a
+producto ecológico|||hogar|||preferencia
+producto ecológico|||hogar|||prioridad
+producto ecológico|||hogar|||estar dispuesto a
+producto ecológico|||residente|||apreciar
+producto ecológico|||residente|||preferencia
+producto ecológico|||residente|||prioridad
+producto ecológico|||residente|||estar dispuesto a
+producto ecológico|||residente|||disposición a
+producto ecológico|||público|||apreciar
+producto ecológico|||público|||preferencia
+producto ecológico|||público|||prioridad
+producto ecológico|||público|||disposición a
+producto bajo carbono|||consumidor|||apreciar
+producto bajo carbono|||cliente|||apreciar
+producto bajo carbono|||hogar|||apreciar
+producto sostenible|||empresa|||prioridad
+producto sostenible|||empresa|||disposición a
+producto sostenible|||compañía|||apoyar
+producto sostenible|||compañía|||prioridad
+producto sostenible|||consumidor|||apoyar
+producto sostenible|||hogar|||apoyar
+producto sostenible|||hogar|||prioridad
+producto sostenible|||hogar|||disposición a
+producto sostenible|||público|||disposición a
+producto sostenible|||individuo|||prioridad
+producto sostenible|||individuo|||disposición a
+consumo verde|||empresa|||apoyar
+consumo verde|||empresa|||preferir
+consumo verde|||empresa|||preferencia
+consumo verde|||empresa|||prioridad
+consumo verde|||empresa|||disposición a
+consumo verde|||compañía|||apoyar
+consumo verde|||compañía|||aceptar
+consumo verde|||compañía|||aprobar
+consumo verde|||compañía|||preferir
+consumo verde|||compañía|||preferencia
+consumo verde|||compañía|||disposición a
+consumo verde|||consumidor|||apoyar
+consumo verde|||consumidor|||aceptar
+consumo verde|||consumidor|||preferencia
+consumo verde|||cliente|||apoyar
+consumo verde|||cliente|||aceptar
+consumo verde|||cliente|||aprobar
+consumo verde|||cliente|||preferencia
+consumo verde|||cliente|||disposición a
+consumo verde|||hogar|||apoyar
+consumo verde|||hogar|||aceptar
+consumo verde|||hogar|||preferencia
+consumo verde|||hogar|||disposición a
+consumo verde|||residente|||apoyar
+consumo verde|||residente|||aceptar
+consumo verde|||residente|||prioridad
+consumo verde|||público|||apoyar
+consumo verde|||público|||aceptar
+consumo verde|||público|||aprobar
+consumo verde|||público|||preferir
+consumo verde|||público|||preferencia
+consumo verde|||público|||prioridad
+consumo verde|||público|||disposición a
+consumo verde|||individuo|||apoyar
+consumo verde|||individuo|||aceptar
+consumo verde|||individuo|||aprobar
+consumo verde|||individuo|||preferir
+consumo verde|||individuo|||preferencia
+inversión verde|||institución financiera|||aceptar
+inversión verde|||institución financiera|||aprobar
+inversión verde|||institución financiera|||respaldar
+inversión verde|||institución financiera|||preferencia
+inversión verde|||institución financiera|||prioridad
+inversión verde|||institución financiera|||estar dispuesto a
+inversión verde|||institución financiera|||disposición a
+inversión verde|||empresa|||apoyar
+inversión verde|||empresa|||aprobar
+inversión verde|||empresa|||apreciar
+inversión verde|||empresa|||preferir
+inversión verde|||empresa|||preferencia
+inversión verde|||empresa|||disposición a
+inversión verde|||compañía|||apoyar
+inversión verde|||compañía|||aceptar
+inversión verde|||compañía|||aprobar
+inversión verde|||compañía|||respaldar
+inversión verde|||compañía|||apreciar
+inversión verde|||compañía|||preferir
+inversión verde|||compañía|||preferencia
+inversión verde|||compañía|||estar dispuesto a
+inversión verde|||compañía|||disposición a
+inversión verde|||consumidor|||apoyar
+inversión verde|||consumidor|||aceptar
+inversión verde|||consumidor|||respaldar
+inversión verde|||consumidor|||apreciar
+inversión verde|||consumidor|||preferir
+inversión verde|||consumidor|||preferencia
+inversión verde|||cliente|||aceptar
+inversión verde|||cliente|||aprobar
+inversión verde|||cliente|||respaldar
+inversión verde|||cliente|||preferencia
+inversión verde|||cliente|||priorizar
+inversión verde|||cliente|||prioridad
+inversión verde|||cliente|||estar dispuesto a
+inversión verde|||hogar|||apoyar
+inversión verde|||hogar|||aprobar
+inversión verde|||hogar|||respaldar
+inversión verde|||hogar|||apreciar
+inversión verde|||hogar|||prioridad
+inversión verde|||hogar|||estar dispuesto a
+inversión verde|||residente|||apoyar
+inversión verde|||residente|||aceptar
+inversión verde|||residente|||aprobar
+inversión verde|||residente|||respaldar
+inversión verde|||residente|||preferencia
+inversión verde|||residente|||priorizar
+inversión verde|||residente|||estar dispuesto a
+inversión verde|||residente|||disposición a
+inversión verde|||público|||apoyar
+inversión verde|||público|||aceptar
+inversión verde|||público|||respaldar
+inversión verde|||público|||apreciar
+inversión verde|||público|||preferencia
+inversión verde|||público|||priorizar
+inversión verde|||público|||disposición a
+finanzas verdes|||institución financiera|||favorecer
+finanzas verdes|||institución financiera|||prioridad
+finanzas verdes|||institución financiera|||disposición a
+finanzas verdes|||empresa|||apoyar
+finanzas verdes|||empresa|||favorecer
+finanzas verdes|||empresa|||prioridad
+finanzas verdes|||empresa|||disposición a
+finanzas verdes|||cliente|||aceptar
+finanzas verdes|||cliente|||favorecer
+finanzas verdes|||cliente|||disposición a
+finanzas verdes|||hogar|||apoyar
+finanzas verdes|||hogar|||favorecer
+finanzas verdes|||hogar|||disposición a
+finanzas verdes|||residente|||apoyar
+finanzas verdes|||residente|||aceptar
+finanzas verdes|||residente|||favorecer
+bono verde|||empresa|||aprobar
+bono verde|||empresa|||disposición a
+bono verde|||cliente|||aprobar
+bono verde|||cliente|||disposición a
+bono verde|||hogar|||disposición a
+bono verde|||residente|||aprobar
+bono verde|||residente|||disposición a
+bono verde|||público|||aprobar
+crédito verde|||empresa|||gustar
+crédito verde|||empresa|||favorecer
+crédito verde|||empresa|||preferencia
+crédito verde|||empresa|||disposición a
+crédito verde|||compañía|||aprobar
+crédito verde|||compañía|||respaldar
+crédito verde|||compañía|||gustar
+crédito verde|||compañía|||preferencia
+crédito verde|||compañía|||estar dispuesto a
+crédito verde|||compañía|||disposición a
+crédito verde|||consumidor|||aprobar
+crédito verde|||consumidor|||respaldar
+crédito verde|||consumidor|||preferencia
+crédito verde|||consumidor|||prioridad
+crédito verde|||consumidor|||estar dispuesto a
+crédito verde|||cliente|||aprobar
+crédito verde|||cliente|||favorecer
+crédito verde|||cliente|||preferencia
+crédito verde|||cliente|||prioridad
+crédito verde|||cliente|||disposición a
+crédito verde|||hogar|||aprobar
+crédito verde|||hogar|||respaldar
+crédito verde|||hogar|||gustar
+crédito verde|||hogar|||favorecer
+crédito verde|||hogar|||preferencia
+crédito verde|||hogar|||prioridad
+crédito verde|||hogar|||estar dispuesto a
+crédito verde|||residente|||gustar
+crédito verde|||residente|||prioridad
+crédito verde|||residente|||estar dispuesto a
+crédito verde|||residente|||disposición a
+crédito verde|||público|||aprobar
+crédito verde|||público|||favorecer
+crédito verde|||público|||preferencia
+crédito verde|||público|||prioridad
+crédito verde|||público|||disposición a
