@@ -2,3 +2,34 @@ climate_policy|||cambio climático|||política|||0
 climate_policy|||cambio climático|||políticas|||0
 climate_policy|||cambio climático|||regulación|||0
 climate_policy|||cambio climático|||regulaciones|||0
+climate_policy|||cambio climático|||legislación|||0
+climate_policy|||cambio climático|||ley|||0
+climate_policy|||cambio climático|||parlamento|||0
+climate_policy|||cambio climático|||congreso|||0
+climate_policy|||cambio climático|||Asamblea Nacional|||0
+climate_policy|||cambio climático|||presidente|||0
+climate_policy|||cambio climático|||ministro|||0
+climate_policy|||cambio climático|||presidencia|||0
+climate_policy|||cambio climático|||gobierno|||0
+climate_policy|||cambio climático|||Ministerio del Poder Popular para el Ecosocialismo|||0
+climate_policy|||cambio climático|||MINEC|||0
+climate_policy|||crisis climática|||política|||0
+climate_policy|||crisis climática|||políticas|||0
+climate_policy|||crisis climática|||regulación|||0
+climate_policy|||crisis climática|||regulaciones|||0
+climate_policy|||crisis climática|||legislación|||0
+climate_policy|||crisis climática|||ley|||0
+climate_policy|||crisis climática|||parlamento|||0
+climate_policy|||crisis climática|||congreso|||0
+climate_policy|||crisis climática|||Asamblea Nacional|||0
+climate_policy|||crisis climática|||presidente|||0
+climate_policy|||crisis climática|||ministro|||0
+climate_policy|||crisis climática|||presidencia|||0
+climate_policy|||crisis climática|||gobierno|||0
+climate_policy|||crisis climática|||Ministerio del Poder Popular para el Ecosocialismo|||0
+climate_policy|||crisis climática|||MINEC|||0
+climate_policy|||gases de efecto invernadero|||política|||0
+climate_policy|||gases de efecto invernadero|||políticas|||0
+climate_policy|||gases de efecto invernadero|||regulación|||0
+climate_policy|||gases de efecto invernadero|||regulaciones|||0
+climate_policy|||gases de efecto invernadero|||legislación|||0

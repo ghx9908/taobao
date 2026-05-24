@@ -46,125 +46,101 @@ SKIP_TWO_COMBO = False  # True = 直接三组合模式, False = 正常模式
 # 账号配置 - 每个账号对应一个驱动和线程
 account_configs = [
     {
-        'username': 'ECARD0688869',
-        'password': '0525',
+        'username': 'ECARD0690140',
+        'password': '0104',
         'driver': None,
         'thread_id': 1
     },
-    # {
-    #     'username': 'PACREG3449078',
-    #     'password': '1234',
-    #     'driver': None,
-    #     'thread_id': 2
-    # },
-    # {
-    #     'username': 'PACREG3449079',
-    #     'password': '1234',
-    #     'driver': None,
-    #     'thread_id': 3
-    # },
-    # {
-    #     'username': 'PACREG3449081',
-    #     'password': '1234',
-    #     'driver': None,
-    #     'thread_id': 4
-    # },
-    # {
-    #     'username': 'PACREG3449082',
-    #     'password': '1234',
-    #     'driver': None,
-    #     'thread_id': 5
-    # },
-    # {
-    #     'username': 'PACREG3449098',
-    #     'password': '1234',
-    #     'driver': None,
-    #     'thread_id': 6
-    # },
-    # {
-    #     'username': 'PACREG3449099',
-    #     'password': '1234',
-    #     'driver': None,
-    #     'thread_id': 7
-    # },
-    # {
-    #     'username': 'PACREG3449101',
-    #     'password': '1234',
-    #     'driver': None,
-    #     'thread_id': 8
-    # },
-    # {
-    #     'username': 'PACREG3449102',
-    #     'password': '1234',
-    #     'driver': None,
-    #     'thread_id': 9
-    # },
-    # {
-    #     'username': 'PACREG3449103',
-    #     'password': '1234',
-    #     'driver': None,
-    #     'thread_id': 10
-    # },
-    # {
-    #     'username': 'PACREG3448140',
-    #     'password': '1234',
-    #     'driver': None,
-    #     'thread_id': 16
-    # },
-    # {
-    #     'username': 'PACREG3448141',
-    #     'password': '1234',
-    #     'driver': None,
-    #     'thread_id': 17
-    # },
-    # {
-    #     'username': 'PACREG3448142',
-    #     'password': '1234',
-    #     'driver': None,
-    #     'thread_id': 18
-    # },
-    # {
-    #     'username': 'PACREG3448143',
-    #     'password': '1234',
-    #     'driver': None,
-    #     'thread_id': 19
-    # },
-    # {
-    #     'username': 'PACREG3448145',
-    #     'password': '1234',
-    #     'driver': None,
-    #     'thread_id': 20
-    # },
-    # {
-    #     'username': 'PACREG3448147',
-    #     'password': '1234',
-    #     'driver': None,
-    #     'thread_id': 21
-    # },
-    # {
-    #     'username': 'PACREG3448148',
-    #     'password': '1234',
-    #     'driver': None,
-    #     'thread_id': 22
-    # },
-    # {
-    #     'username': 'PACREG3448149',
-    #     'password': '1234',
-    #     'driver': None,
-    #     'thread_id': 23
-    # },
-    # {
-    #     'username': 'PACREG3448151',
-    #     'password': '1234',
-    #     'driver': None,
-    #     'thread_id': 24
-    # },
-    # {
-    #     'username': 'PACREG3448153',
-    #     'password': '1234',
-    #     'driver': None,
-    #     'thread_id': 25
-    # },
+    {
+        'username': 'ECARD0690141',
+        'password': '0178',
+        'driver': None,
+        'thread_id': 2
+    },
+    {
+        'username': 'ECARD0690142',
+        'password': '0116',
+        'driver': None,
+        'thread_id': 3
+    },
+    {
+        'username': 'ECARD0690144',
+        'password': '0192',
+        'driver': None,
+        'thread_id': 4
+    },
+    {
+        'username': 'ECARD0690145',
+        'password': '0147',
+        'driver': None,
+        'thread_id': 5
+    },
+    {
+        'username': 'ECARD0690149',
+        'password': '0185',
+        'driver': None,
+        'thread_id': 6
+    },
+    {
+        'username': 'ECARD0690150',
+        'password': '0129',
+        'driver': None,
+        'thread_id': 7
+    },
+    {
+        'username': 'ECARD0690152',
+        'password': '0123',
+        'driver': None,
+        'thread_id': 8
+    },
+    {
+        'username': 'ECARD0690153',
+        'password': '0108',
+        'driver': None,
+        'thread_id': 9
+    },
+    {
+        'username': 'ECARD0690154',
+        'password': '0156',
+        'driver': None,
+        'thread_id': 10
+    },
+    {
+        'username': 'ECARD0690155',
+        'password': '0135',
+        'driver': None,
+        'thread_id': 11
+    },
+    {
+        'username': 'ECARD0690156',
+        'password': '0273',
+        'driver': None,
+        'thread_id': 12
+    },
+    {
+        'username': 'ECARD0690157',
+        'password': '5876',
+        'driver': None,
+        'thread_id': 13
+    },
+    {
+        'username': 'ECARD0690158',
+        'password': '8761',
+        'driver': None,
+        'thread_id': 14
+    },
+    {
+        'username': 'ECARD0690159',
+        'password': '8899',
+        'driver': None,
+        'thread_id': 15
+    },
+    {
+        'username': 'ECARD0688869',
+        'password': '8899',
+        'driver': None,
+        'thread_id': 16
+    },
 ]
 
 domain_url = 'https://infoweb-newsbank-com.lapl.idm.oclc.org'
