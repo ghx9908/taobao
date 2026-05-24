@@ -927,3 +927,110 @@ ESG|||cliente|||apoyar
 crédito verde|||público|||aceptar
 ESG|||cliente|||prioridad
 ESG|||empresa|||apoyar
+desarrollo verde|||consumidor|||apoyar
+desarrollo verde|||consumidor|||aceptar
+desarrollo verde|||consumidor|||aprobar
+desarrollo verde|||consumidor|||confiar
+desarrollo verde|||consumidor|||gustar
+desarrollo verde|||consumidor|||favorecer
+desarrollo verde|||consumidor|||apreciar
+desarrollo verde|||consumidor|||priorizar
+desarrollo verde|||consumidor|||prioridad
+desarrollo verde|||consumidor|||disposición a
+economía verde|||consumidor|||apoyar
+economía verde|||consumidor|||aceptar
+economía verde|||consumidor|||aprobar
+economía verde|||consumidor|||respaldar
+economía verde|||consumidor|||confiar
+economía verde|||consumidor|||favorecer
+economía verde|||consumidor|||apreciar
+economía verde|||consumidor|||priorizar
+economía verde|||consumidor|||prioridad
+economía verde|||consumidor|||disposición a
+innovación verde|||consumidor|||apoyar
+innovación verde|||consumidor|||aprobar
+innovación verde|||consumidor|||favorecer
+innovación verde|||consumidor|||prioridad
+innovación verde|||consumidor|||disposición a
+energía verde|||consumidor|||apoyar
+energía verde|||consumidor|||aceptar
+energía verde|||consumidor|||aprobar
+energía verde|||consumidor|||respaldar
+energía verde|||consumidor|||confiar
+energía verde|||consumidor|||gustar
+energía verde|||consumidor|||favorecer
+energía verde|||consumidor|||apreciar
+energía verde|||consumidor|||priorizar
+energía verde|||consumidor|||prioridad
+energía verde|||consumidor|||disposición a
+energía limpia|||consumidor|||apoyar
+energía limpia|||consumidor|||aceptar
+energía limpia|||consumidor|||respaldar
+energía limpia|||consumidor|||confiar
+energía limpia|||consumidor|||favorecer
+energía limpia|||consumidor|||prioridad
+energía limpia|||consumidor|||disposición a
+energía renovable|||consumidor|||apoyar
+energía renovable|||consumidor|||respaldar
+energía renovable|||consumidor|||confiar
+energía renovable|||consumidor|||priorizar
+energía renovable|||consumidor|||prioridad
+energía renovable|||consumidor|||disposición a
+energía solar|||consumidor|||apoyar
+energía solar|||consumidor|||aceptar
+energía solar|||consumidor|||respaldar
+energía solar|||consumidor|||confiar
+energía solar|||consumidor|||favorecer
+energía solar|||consumidor|||apreciar
+energía solar|||consumidor|||priorizar
+energía solar|||consumidor|||prioridad
+energía solar|||consumidor|||disposición a
+energía eólica|||consumidor|||apoyar
+energía eólica|||consumidor|||respaldar
+energía eólica|||consumidor|||favorecer
+energía eólica|||consumidor|||prioridad
+energía eólica|||consumidor|||disposición a
+energía geotérmica|||consumidor|||apoyar
+energía geotérmica|||consumidor|||aceptar
+energía geotérmica|||consumidor|||respaldar
+energía geotérmica|||consumidor|||priorizar
+producto verde|||consumidor|||apoyar
+producto verde|||consumidor|||aceptar
+producto verde|||consumidor|||aprobar
+producto verde|||consumidor|||confiar
+producto verde|||consumidor|||favorecer
+producto verde|||consumidor|||apreciar
+producto verde|||consumidor|||prioridad
+producto verde|||consumidor|||disposición a
+producto bajo carbono|||consumidor|||disposición a
+producto sostenible|||consumidor|||apoyar
+producto sostenible|||consumidor|||aceptar
+producto sostenible|||consumidor|||aprobar
+producto sostenible|||consumidor|||respaldar
+producto sostenible|||consumidor|||confiar
+producto sostenible|||consumidor|||favorecer
+producto sostenible|||consumidor|||preferencia
+producto sostenible|||consumidor|||priorizar
+producto sostenible|||consumidor|||prioridad
+producto sostenible|||consumidor|||disposición a
+consumo verde|||consumidor|||apoyar
+consumo verde|||consumidor|||aprobar
+consumo verde|||consumidor|||respaldar
+consumo verde|||consumidor|||confiar
+consumo verde|||consumidor|||favorecer
+consumo verde|||consumidor|||priorizar
+consumo verde|||consumidor|||prioridad
+consumo verde|||consumidor|||disposición a
+inversión verde|||consumidor|||apoyar
+inversión verde|||consumidor|||aceptar
+inversión verde|||consumidor|||aprobar
+inversión verde|||consumidor|||respaldar
+inversión verde|||consumidor|||confiar
+inversión verde|||consumidor|||apreciar
+inversión verde|||consumidor|||priorizar
+inversión verde|||consumidor|||prioridad
+inversión verde|||consumidor|||disposición a
+finanzas verdes|||consumidor|||apoyar
+finanzas verdes|||consumidor|||priorizar
+ESG|||consumidor|||apoyar
+ESG|||consumidor|||prioridad

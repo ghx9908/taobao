@@ -10397,3 +10397,103 @@
 2026-05-21 03:14:11,233 - INFO - ✅ 任务文件已归档: 技术风险阿根廷La Nación (Buenos Aires, Argentina).xlsx
 2026-05-21 03:14:11,233 - INFO - 线程id:8676352192+技术风险阿根廷La Nación (Buenos Aires, Argentina).xlsx== 技术风险阿根廷La Nación (Buenos Aires, Argentina).xlsx== 开始时间:2026-05-21 02:16:50.623842 - 结束时间: 2026-05-21 03:14:11.233912
 2026-05-21 03:14:11,235 - INFO - ✅ 任务完成: 技术风险阿根廷La Nación (Buenos Aires, Argentina).xlsx
+2026-05-24 08:04:34,998 - INFO - 🚀 开始处理任务: 技术风险阿根廷La Nación (Buenos Aires, Argentina).xlsx
+2026-05-24 08:04:34,998 - INFO - 开始初始化所有driver到2025年页面: https://infoweb-newsbank-com.webproxy3.columbuslibrary.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=pubname%3AALNB%21La%2BNaci%25C3%25B3n%2B%2528Buenos%2BAires%252C%2BArgentina%2529&maxresults=60&f=advanced&fld-nav-0=YMD_date&val-nav-0=-2026.4
+2026-05-24 08:04:57,603 - INFO - 账号 PACREG3448130 的driver成功访问2025年页面
+2026-05-24 08:04:57,603 - INFO - ✅ 账号 PACREG3448130 的driver初始化成功
+2026-05-24 08:04:57,604 - INFO - 所有driver初始化完成
+2026-05-24 08:04:57,604 - INFO - ================================================================================
+2026-05-24 08:04:57,604 - INFO - 📋 正常模式：先处理二组合，再基于有效二组合生成三组合
+2026-05-24 08:04:57,604 - INFO - ================================================================================
+2026-05-24 08:04:57,604 - INFO - 开始处理 732 个二组合:
+2026-05-24 08:04:57,604 - INFO -   - climate+policy: 352 个
+2026-05-24 08:04:57,604 - INFO -   - climate+uncertainty: 220 个
+2026-05-24 08:04:57,604 - INFO -   - policy+uncertainty: 160 个
+2026-05-24 08:04:57,608 - INFO - 需要处理 0 个新的二组合
+2026-05-24 08:04:57,608 - INFO - 总计需要处理 0 个二组合
+2026-05-24 08:04:57,608 - INFO - 所有二组合已处理完成
+2026-05-24 08:04:57,609 - INFO - 二组合处理完成，有效组合数: 611
+2026-05-24 08:04:57,609 - INFO - 有效二组合统计:
+2026-05-24 08:04:57,609 - INFO -   - climate+policy: 299 个
+2026-05-24 08:04:57,609 - INFO -   - climate+uncertainty: 164 个
+2026-05-24 08:04:57,609 - INFO -   - policy+uncertainty: 148 个
+2026-05-24 08:04:57,611 - INFO - 基于有效二组合筛选，生成了 2342 个三组合
+2026-05-24 08:04:57,611 - INFO - 基于有效二组合，总共需要处理 2342 个三组合
+2026-05-24 08:04:57,618 - INFO - 剩余需要处理 0 个三组合
+2026-05-24 08:04:57,618 - INFO - 所有组合已完成，直接进行年份统计
+2026-05-24 08:04:57,618 - INFO - ✅ 没有失败条件文件，无需重新处理
+2026-05-24 08:05:20,950 - INFO - 账号 PACREG3448130 的driver成功访问2025年页面
+2026-05-24 08:05:20,950 - INFO - ✅ 账号 PACREG3448130 查询年的driver初始化成功
+2026-05-24 08:05:36,381 - INFO - [统计线程|年份统计] 📍 2005年统计URL: https://infoweb-newsbank-com.webproxy3.columbuslibrary.org/apps/news/results?p=AWNB&t=pubname%3AALNB%21La%2BNaci%25C3%25B3n%2B%2528Buenos%2BAires%252C%2BArgentina%2529&sort=YMD_date%3AD&fld-nav-0=YMD_date&val-nav-0=2005%20-%202005&hide_duplicates=2&maxresults=60&f=advanced&z=co_sc_postsearch_datesearch
+2026-05-24 08:05:36,414 - INFO - [统计线程|年份统计] 📈 2005年统计完成，总数: 1002 条
+2026-05-24 08:05:36,415 - INFO - [统计线程|年份统计] ✅ 2005年统计任务完成
+2026-05-24 08:06:01,107 - INFO - [统计线程|年份统计] 📍 2006年统计URL: https://infoweb-newsbank-com.webproxy3.columbuslibrary.org/apps/news/results?p=AWNB&t=pubname%3AALNB%21La%2BNaci%25C3%25B3n%2B%2528Buenos%2BAires%252C%2BArgentina%2529&sort=YMD_date%3AD&fld-nav-0=YMD_date&val-nav-0=2006%20-%202006&hide_duplicates=2&maxresults=60&f=advanced&z=co_sc_postsearch_datesearch
+2026-05-24 08:06:01,163 - INFO - [统计线程|年份统计] 📈 2006年统计完成，总数: 7623 条
+2026-05-24 08:06:01,163 - INFO - [统计线程|年份统计] ✅ 2006年统计任务完成
+2026-05-24 08:06:14,253 - INFO - [统计线程|年份统计] 📍 2007年统计URL: https://infoweb-newsbank-com.webproxy3.columbuslibrary.org/apps/news/results?p=AWNB&t=pubname%3AALNB%21La%2BNaci%25C3%25B3n%2B%2528Buenos%2BAires%252C%2BArgentina%2529&sort=YMD_date%3AD&fld-nav-0=YMD_date&val-nav-0=2007%20-%202007&hide_duplicates=2&maxresults=60&f=advanced&z=co_sc_postsearch_datesearch
+2026-05-24 08:06:14,309 - INFO - [统计线程|年份统计] 📈 2007年统计完成，总数: 28401 条
+2026-05-24 08:06:14,310 - INFO - [统计线程|年份统计] ✅ 2007年统计任务完成
+2026-05-24 08:06:27,402 - INFO - [统计线程|年份统计] 📍 2008年统计URL: https://infoweb-newsbank-com.webproxy3.columbuslibrary.org/apps/news/results?p=AWNB&t=pubname%3AALNB%21La%2BNaci%25C3%25B3n%2B%2528Buenos%2BAires%252C%2BArgentina%2529&sort=YMD_date%3AD&fld-nav-0=YMD_date&val-nav-0=2008%20-%202008&hide_duplicates=2&maxresults=60&f=advanced&z=co_sc_postsearch_datesearch
+2026-05-24 08:06:27,458 - INFO - [统计线程|年份统计] 📈 2008年统计完成，总数: 22126 条
+2026-05-24 08:06:27,459 - INFO - [统计线程|年份统计] ✅ 2008年统计任务完成
+2026-05-24 08:06:40,550 - INFO - [统计线程|年份统计] 📍 2009年统计URL: https://infoweb-newsbank-com.webproxy3.columbuslibrary.org/apps/news/results?p=AWNB&t=pubname%3AALNB%21La%2BNaci%25C3%25B3n%2B%2528Buenos%2BAires%252C%2BArgentina%2529&sort=YMD_date%3AD&fld-nav-0=YMD_date&val-nav-0=2009%20-%202009&hide_duplicates=2&maxresults=60&f=advanced&z=co_sc_postsearch_datesearch
+2026-05-24 08:06:40,606 - INFO - [统计线程|年份统计] 📈 2009年统计完成，总数: 23476 条
+2026-05-24 08:06:40,606 - INFO - [统计线程|年份统计] ✅ 2009年统计任务完成
+2026-05-24 08:06:53,699 - INFO - [统计线程|年份统计] 📍 2010年统计URL: https://infoweb-newsbank-com.webproxy3.columbuslibrary.org/apps/news/results?p=AWNB&t=pubname%3AALNB%21La%2BNaci%25C3%25B3n%2B%2528Buenos%2BAires%252C%2BArgentina%2529&sort=YMD_date%3AD&fld-nav-0=YMD_date&val-nav-0=2010%20-%202010&hide_duplicates=2&maxresults=60&f=advanced&z=co_sc_postsearch_datesearch
+2026-05-24 08:06:53,755 - INFO - [统计线程|年份统计] 📈 2010年统计完成，总数: 25032 条
+2026-05-24 08:06:53,755 - INFO - [统计线程|年份统计] ✅ 2010年统计任务完成
+2026-05-24 08:07:06,847 - INFO - [统计线程|年份统计] 📍 2011年统计URL: https://infoweb-newsbank-com.webproxy3.columbuslibrary.org/apps/news/results?p=AWNB&t=pubname%3AALNB%21La%2BNaci%25C3%25B3n%2B%2528Buenos%2BAires%252C%2BArgentina%2529&sort=YMD_date%3AD&fld-nav-0=YMD_date&val-nav-0=2011%20-%202011&hide_duplicates=2&maxresults=60&f=advanced&z=co_sc_postsearch_datesearch
+2026-05-24 08:07:06,903 - INFO - [统计线程|年份统计] 📈 2011年统计完成，总数: 19360 条
+2026-05-24 08:07:06,904 - INFO - [统计线程|年份统计] ✅ 2011年统计任务完成
+2026-05-24 08:07:19,999 - INFO - [统计线程|年份统计] 📍 2012年统计URL: https://infoweb-newsbank-com.webproxy3.columbuslibrary.org/apps/news/results?p=AWNB&t=pubname%3AALNB%21La%2BNaci%25C3%25B3n%2B%2528Buenos%2BAires%252C%2BArgentina%2529&sort=YMD_date%3AD&fld-nav-0=YMD_date&val-nav-0=2012%20-%202012&hide_duplicates=2&maxresults=60&f=advanced&z=co_sc_postsearch_datesearch
+2026-05-24 08:07:20,055 - INFO - [统计线程|年份统计] 📈 2012年统计完成，总数: 16788 条
+2026-05-24 08:07:20,056 - INFO - [统计线程|年份统计] ✅ 2012年统计任务完成
+2026-05-24 08:07:33,146 - INFO - [统计线程|年份统计] 📍 2013年统计URL: https://infoweb-newsbank-com.webproxy3.columbuslibrary.org/apps/news/results?p=AWNB&t=pubname%3AALNB%21La%2BNaci%25C3%25B3n%2B%2528Buenos%2BAires%252C%2BArgentina%2529&sort=YMD_date%3AD&fld-nav-0=YMD_date&val-nav-0=2013%20-%202013&hide_duplicates=2&maxresults=60&f=advanced&z=co_sc_postsearch_datesearch
+2026-05-24 08:07:33,203 - INFO - [统计线程|年份统计] 📈 2013年统计完成，总数: 14342 条
+2026-05-24 08:07:33,204 - INFO - [统计线程|年份统计] ✅ 2013年统计任务完成
+2026-05-24 08:07:46,297 - INFO - [统计线程|年份统计] 📍 2014年统计URL: https://infoweb-newsbank-com.webproxy3.columbuslibrary.org/apps/news/results?p=AWNB&t=pubname%3AALNB%21La%2BNaci%25C3%25B3n%2B%2528Buenos%2BAires%252C%2BArgentina%2529&sort=YMD_date%3AD&fld-nav-0=YMD_date&val-nav-0=2014%20-%202014&hide_duplicates=2&maxresults=60&f=advanced&z=co_sc_postsearch_datesearch
+2026-05-24 08:07:46,356 - INFO - [统计线程|年份统计] 📈 2014年统计完成，总数: 23851 条
+2026-05-24 08:07:46,356 - INFO - [统计线程|年份统计] ✅ 2014年统计任务完成
+2026-05-24 08:07:59,450 - INFO - [统计线程|年份统计] 📍 2015年统计URL: https://infoweb-newsbank-com.webproxy3.columbuslibrary.org/apps/news/results?p=AWNB&t=pubname%3AALNB%21La%2BNaci%25C3%25B3n%2B%2528Buenos%2BAires%252C%2BArgentina%2529&sort=YMD_date%3AD&fld-nav-0=YMD_date&val-nav-0=2015%20-%202015&hide_duplicates=2&maxresults=60&f=advanced&z=co_sc_postsearch_datesearch
+2026-05-24 08:07:59,505 - INFO - [统计线程|年份统计] 📈 2015年统计完成，总数: 20192 条
+2026-05-24 08:07:59,506 - INFO - [统计线程|年份统计] ✅ 2015年统计任务完成
+2026-05-24 08:08:12,603 - INFO - [统计线程|年份统计] 📍 2016年统计URL: https://infoweb-newsbank-com.webproxy3.columbuslibrary.org/apps/news/results?p=AWNB&t=pubname%3AALNB%21La%2BNaci%25C3%25B3n%2B%2528Buenos%2BAires%252C%2BArgentina%2529&sort=YMD_date%3AD&fld-nav-0=YMD_date&val-nav-0=2016%20-%202016&hide_duplicates=2&maxresults=60&f=advanced&z=co_sc_postsearch_datesearch
+2026-05-24 08:08:12,660 - INFO - [统计线程|年份统计] 📈 2016年统计完成，总数: 17927 条
+2026-05-24 08:08:12,661 - INFO - [统计线程|年份统计] ✅ 2016年统计任务完成
+2026-05-24 08:08:25,753 - INFO - [统计线程|年份统计] 📍 2017年统计URL: https://infoweb-newsbank-com.webproxy3.columbuslibrary.org/apps/news/results?p=AWNB&t=pubname%3AALNB%21La%2BNaci%25C3%25B3n%2B%2528Buenos%2BAires%252C%2BArgentina%2529&sort=YMD_date%3AD&fld-nav-0=YMD_date&val-nav-0=2017%20-%202017&hide_duplicates=2&maxresults=60&f=advanced&z=co_sc_postsearch_datesearch
+2026-05-24 08:08:25,809 - INFO - [统计线程|年份统计] 📈 2017年统计完成，总数: 14936 条
+2026-05-24 08:08:25,810 - INFO - [统计线程|年份统计] ✅ 2017年统计任务完成
+2026-05-24 08:08:38,904 - INFO - [统计线程|年份统计] 📍 2018年统计URL: https://infoweb-newsbank-com.webproxy3.columbuslibrary.org/apps/news/results?p=AWNB&t=pubname%3AALNB%21La%2BNaci%25C3%25B3n%2B%2528Buenos%2BAires%252C%2BArgentina%2529&sort=YMD_date%3AD&fld-nav-0=YMD_date&val-nav-0=2018%20-%202018&hide_duplicates=2&maxresults=60&f=advanced&z=co_sc_postsearch_datesearch
+2026-05-24 08:08:38,961 - INFO - [统计线程|年份统计] 📈 2018年统计完成，总数: 11483 条
+2026-05-24 08:08:38,961 - INFO - [统计线程|年份统计] ✅ 2018年统计任务完成
+2026-05-24 08:09:02,088 - INFO - [统计线程|年份统计] 📍 2019年统计URL: https://infoweb-newsbank-com.webproxy3.columbuslibrary.org/apps/news/results?p=AWNB&t=pubname%3AALNB%21La%2BNaci%25C3%25B3n%2B%2528Buenos%2BAires%252C%2BArgentina%2529&sort=YMD_date%3AD&fld-nav-0=YMD_date&val-nav-0=2019%20-%202019&hide_duplicates=2&maxresults=60&f=advanced&z=co_sc_postsearch_datesearch
+2026-05-24 08:09:02,145 - INFO - [统计线程|年份统计] 📈 2019年统计完成，总数: 8122 条
+2026-05-24 08:09:02,145 - INFO - [统计线程|年份统计] ✅ 2019年统计任务完成
+2026-05-24 08:09:15,239 - INFO - [统计线程|年份统计] 📍 2020年统计URL: https://infoweb-newsbank-com.webproxy3.columbuslibrary.org/apps/news/results?p=AWNB&t=pubname%3AALNB%21La%2BNaci%25C3%25B3n%2B%2528Buenos%2BAires%252C%2BArgentina%2529&sort=YMD_date%3AD&fld-nav-0=YMD_date&val-nav-0=2020%20-%202020&hide_duplicates=2&maxresults=60&f=advanced&z=co_sc_postsearch_datesearch
+2026-05-24 08:09:15,296 - INFO - [统计线程|年份统计] 📈 2020年统计完成，总数: 36230 条
+2026-05-24 08:09:15,296 - INFO - [统计线程|年份统计] ✅ 2020年统计任务完成
+2026-05-24 08:09:28,384 - INFO - [统计线程|年份统计] 📍 2021年统计URL: https://infoweb-newsbank-com.webproxy3.columbuslibrary.org/apps/news/results?p=AWNB&t=pubname%3AALNB%21La%2BNaci%25C3%25B3n%2B%2528Buenos%2BAires%252C%2BArgentina%2529&sort=YMD_date%3AD&fld-nav-0=YMD_date&val-nav-0=2021%20-%202021&hide_duplicates=2&maxresults=60&f=advanced&z=co_sc_postsearch_datesearch
+2026-05-24 08:09:28,441 - INFO - [统计线程|年份统计] 📈 2021年统计完成，总数: 79008 条
+2026-05-24 08:09:28,441 - INFO - [统计线程|年份统计] ✅ 2021年统计任务完成
+2026-05-24 08:09:41,531 - INFO - [统计线程|年份统计] 📍 2022年统计URL: https://infoweb-newsbank-com.webproxy3.columbuslibrary.org/apps/news/results?p=AWNB&t=pubname%3AALNB%21La%2BNaci%25C3%25B3n%2B%2528Buenos%2BAires%252C%2BArgentina%2529&sort=YMD_date%3AD&fld-nav-0=YMD_date&val-nav-0=2022%20-%202022&hide_duplicates=2&maxresults=60&f=advanced&z=co_sc_postsearch_datesearch
+2026-05-24 08:09:41,591 - INFO - [统计线程|年份统计] 📈 2022年统计完成，总数: 51300 条
+2026-05-24 08:09:41,591 - INFO - [统计线程|年份统计] ✅ 2022年统计任务完成
+2026-05-24 08:09:54,684 - INFO - [统计线程|年份统计] 📍 2023年统计URL: https://infoweb-newsbank-com.webproxy3.columbuslibrary.org/apps/news/results?p=AWNB&t=pubname%3AALNB%21La%2BNaci%25C3%25B3n%2B%2528Buenos%2BAires%252C%2BArgentina%2529&sort=YMD_date%3AD&fld-nav-0=YMD_date&val-nav-0=2023%20-%202023&hide_duplicates=2&maxresults=60&f=advanced&z=co_sc_postsearch_datesearch
+2026-05-24 08:09:54,742 - INFO - [统计线程|年份统计] 📈 2023年统计完成，总数: 57754 条
+2026-05-24 08:09:54,742 - INFO - [统计线程|年份统计] ✅ 2023年统计任务完成
+2026-05-24 08:10:07,830 - INFO - [统计线程|年份统计] 📍 2024年统计URL: https://infoweb-newsbank-com.webproxy3.columbuslibrary.org/apps/news/results?p=AWNB&t=pubname%3AALNB%21La%2BNaci%25C3%25B3n%2B%2528Buenos%2BAires%252C%2BArgentina%2529&sort=YMD_date%3AD&fld-nav-0=YMD_date&val-nav-0=2024%20-%202024&hide_duplicates=2&maxresults=60&f=advanced&z=co_sc_postsearch_datesearch
+2026-05-24 08:10:07,889 - INFO - [统计线程|年份统计] 📈 2024年统计完成，总数: 62003 条
+2026-05-24 08:10:07,889 - INFO - [统计线程|年份统计] ✅ 2024年统计任务完成
+2026-05-24 08:10:20,980 - INFO - [统计线程|年份统计] 📍 2025年统计URL: https://infoweb-newsbank-com.webproxy3.columbuslibrary.org/apps/news/results?p=AWNB&t=pubname%3AALNB%21La%2BNaci%25C3%25B3n%2B%2528Buenos%2BAires%252C%2BArgentina%2529&sort=YMD_date%3AD&fld-nav-0=YMD_date&val-nav-0=2025%20-%202025&hide_duplicates=2&maxresults=60&f=advanced&z=co_sc_postsearch_datesearch
+2026-05-24 08:10:21,037 - INFO - [统计线程|年份统计] 📈 2025年统计完成，总数: 68460 条
+2026-05-24 08:10:21,038 - INFO - [统计线程|年份统计] ✅ 2025年统计任务完成
+2026-05-24 08:10:34,145 - INFO - [统计线程|年份统计] 📍 2026年统计URL: https://infoweb-newsbank-com.webproxy3.columbuslibrary.org/apps/news/results?p=AWNB&t=pubname%3AALNB%21La%2BNaci%25C3%25B3n%2B%2528Buenos%2BAires%252C%2BArgentina%2529&sort=YMD_date%3AD&fld-nav-0=YMD_date&val-nav-0=2026%20-%202026.4&hide_duplicates=2&maxresults=60&f=advanced&z=co_sc_postsearch_datesearch
+2026-05-24 08:10:34,202 - INFO - [统计线程|年份统计] 📈 2026年统计完成，总数: 29272 条
+2026-05-24 08:10:34,202 - INFO - [统计线程|年份统计] ✅ 2026年统计任务完成
+2026-05-24 08:10:34,203 - INFO - [统计线程|年份统计] 🎉 所有年份统计完成: {'2005': '1002', '2006': '7623', '2007': '28401', '2008': '22126', '2009': '23476', '2010': '25032', '2011': '19360', '2012': '16788', '2013': '14342', '2014': '23851', '2015': '20192', '2016': '17927', '2017': '14936', '2018': '11483', '2019': '8122', '2020': '36230', '2021': '79008', '2022': '51300', '2023': '57754', '2024': '62003', '2025': '68460', '2026': '29272'}
+2026-05-24 08:10:34,307 - INFO - 所有搜索条件都已成功处理完成
+2026-05-24 08:10:34,308 - INFO - 📊 二组合统计 - 总数: 0, 有效: 0, 无结果: 0, 失败: 0
+2026-05-24 08:10:34,308 - INFO - 📂 二组合结果文件: task_data/技术风险阿根廷La Nación (Buenos Aires, Argentina)/two_combo_results_技术风险阿根廷La Nación (Buenos Aires, Argentina).txt
+2026-05-24 08:10:34,308 - INFO - ✅ 任务文件已归档: 技术风险阿根廷La Nación (Buenos Aires, Argentina).xlsx
+2026-05-24 08:10:34,308 - INFO - 线程id:8495177920+技术风险阿根廷La Nación (Buenos Aires, Argentina).xlsx== 技术风险阿根廷La Nación (Buenos Aires, Argentina).xlsx== 开始时间:2026-05-24 08:04:57.604117 - 结束时间: 2026-05-24 08:10:34.308697
+2026-05-24 08:10:34,309 - INFO - ✅ 任务完成: 技术风险阿根廷La Nación (Buenos Aires, Argentina).xlsx

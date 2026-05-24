@@ -1343,3 +1343,95 @@ ESG|||público|||preferir
 ESG|||público|||priorizar
 ESG|||público|||prioridad
 ESG||| consumidor|||preferir
+desarrollo verde|||consumidor|||apoyar
+desarrollo verde|||consumidor|||aceptar
+desarrollo verde|||consumidor|||aprobar
+desarrollo verde|||consumidor|||respaldar
+desarrollo verde|||consumidor|||gustar
+desarrollo verde|||consumidor|||favorecer
+desarrollo verde|||consumidor|||preferir
+desarrollo verde|||consumidor|||priorizar
+desarrollo verde|||consumidor|||prioridad
+desarrollo verde|||consumidor|||estar dispuesto a
+desarrollo verde|||consumidor|||disposición a
+economía verde|||consumidor|||apoyar
+economía verde|||consumidor|||aceptar
+economía verde|||consumidor|||aprobar
+economía verde|||consumidor|||respaldar
+economía verde|||consumidor|||favorecer
+economía verde|||consumidor|||preferir
+economía verde|||consumidor|||priorizar
+economía verde|||consumidor|||prioridad
+economía verde|||consumidor|||estar dispuesto a
+economía verde|||consumidor|||disposición a
+transición verde|||consumidor|||apoyar
+transición verde|||consumidor|||aceptar
+transición verde|||consumidor|||aprobar
+transición verde|||consumidor|||respaldar
+transición verde|||consumidor|||favorecer
+transición verde|||consumidor|||preferencia
+transición verde|||consumidor|||prioridad
+transición verde|||consumidor|||estar dispuesto a
+transición verde|||consumidor|||disposición a
+tecnología verde|||consumidor|||apoyar
+tecnología verde|||consumidor|||aceptar
+tecnología verde|||consumidor|||aprobar
+tecnología verde|||consumidor|||respaldar
+tecnología verde|||consumidor|||favorecer
+tecnología verde|||consumidor|||priorizar
+tecnología verde|||consumidor|||prioridad
+tecnología verde|||consumidor|||disposición a
+innovación verde|||consumidor|||apoyar
+innovación verde|||consumidor|||aceptar
+innovación verde|||consumidor|||respaldar
+innovación verde|||consumidor|||favorecer
+innovación verde|||consumidor|||preferencia
+innovación verde|||consumidor|||priorizar
+innovación verde|||consumidor|||prioridad
+innovación verde|||consumidor|||estar dispuesto a
+innovación verde|||consumidor|||disposición a
+energía verde|||consumidor|||apoyar
+energía verde|||consumidor|||aceptar
+energía verde|||consumidor|||aprobar
+energía verde|||consumidor|||respaldar
+energía verde|||consumidor|||confiar
+energía verde|||consumidor|||favorecer
+energía verde|||consumidor|||preferencia
+energía verde|||consumidor|||priorizar
+energía verde|||consumidor|||prioridad
+energía verde|||consumidor|||estar dispuesto a
+energía verde|||consumidor|||disposición a
+energía limpia|||consumidor|||apoyar
+energía limpia|||consumidor|||aceptar
+energía limpia|||consumidor|||aprobar
+energía limpia|||consumidor|||respaldar
+energía limpia|||consumidor|||confiar
+energía limpia|||consumidor|||favorecer
+energía limpia|||consumidor|||prioridad
+energía limpia|||consumidor|||estar dispuesto a
+energía limpia|||consumidor|||disposición a
+energía renovable|||consumidor|||apoyar
+energía renovable|||consumidor|||aceptar
+energía renovable|||consumidor|||aprobar
+energía renovable|||consumidor|||respaldar
+energía renovable|||consumidor|||favorecer
+energía renovable|||consumidor|||preferir
+energía renovable|||consumidor|||priorizar
+energía renovable|||consumidor|||prioridad
+energía renovable|||consumidor|||disposición a
+energía solar|||consumidor|||apoyar
+energía solar|||consumidor|||aceptar
+energía solar|||consumidor|||aprobar
+energía solar|||consumidor|||respaldar
+energía solar|||consumidor|||confiar
+energía solar|||consumidor|||favorecer
+energía solar|||consumidor|||priorizar
+energía solar|||consumidor|||prioridad
+energía solar|||consumidor|||disposición a
+energía eólica|||consumidor|||apoyar
+energía eólica|||consumidor|||aceptar
+energía eólica|||consumidor|||aprobar
+energía eólica|||consumidor|||respaldar
+energía eólica|||consumidor|||favorecer
+energía eólica|||consumidor|||prioridad
+energía eólica|||consumidor|||disposición a

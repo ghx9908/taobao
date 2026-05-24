@@ -5368,3 +5368,306 @@ Country                                              Ecuador
 Name: 9, dtype: object
 2026-05-24 01:47:39,119 - INFO - 文件 'search_results/市场风险厄瓜多尔El Comercio (Quito, Ecuador).xlsx' 在 search_results/ 目录中存在
 2026-05-24 01:47:39,119 - WARNING - ⚠️ 未找到期刊 '厄瓜多尔',' Revista Lideres (Quito, Ecuador)' 的代码映射
+2026-05-24 06:35:46,068 - INFO - 线程 8495177920 开始执行
+2026-05-24 06:35:46,068 - INFO - 开始清理根目录下的旧文件...
+2026-05-24 06:35:46,069 - INFO - ✅ 旧文件清理完成
+2026-05-24 06:35:46,069 - INFO - 开始创建1个浏览器实例...
+2026-05-24 06:35:46,069 - INFO - [浏览器1] 动态生成UA: Mozilla/5.0 (Macintosh; Intel Mac OS X 13_6_0) AppleWebKit/5... 视口: 1366x768
+2026-05-24 06:35:46,509 - INFO - [浏览器1|账号PACREG3448130] ✅ 浏览器启动成功！
+2026-05-24 06:35:46,509 - INFO - ✅ 账号 PACREG3448130 浏览器创建成功
+2026-05-24 06:35:46,509 - INFO - 开始为1个浏览器并行登录...
+2026-05-24 06:35:46,509 - INFO - [线程1|账号PACREG3448130] 开始登录，访问登录页面...
+2026-05-24 06:38:40,961 - ERROR - ❌ [线程1|账号PACREG3448130] 登录异常: Message: stale element reference: stale element not found
+  (Session info: chrome=148.0.7778.179); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+0   chromedriver                        0x0000000100aecc40 cxxbridge1$str$ptr + 3221216
+1   chromedriver                        0x0000000100ae4b1c cxxbridge1$str$ptr + 3188156
+2   chromedriver                        0x00000001005a78f4 _RNvCsiKAbIcglKMQ_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 75152
+3   chromedriver                        0x00000001005b95b4 _RNvCsiKAbIcglKMQ_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 148048
+4   chromedriver                        0x00000001005b8664 _RNvCsiKAbIcglKMQ_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 144128
+5   chromedriver                        0x00000001005ae380 _RNvCsiKAbIcglKMQ_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 102428
+6   chromedriver                        0x00000001005ae48c _RNvCsiKAbIcglKMQ_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 102696
+7   chromedriver                        0x00000001005acb60 _RNvCsiKAbIcglKMQ_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 96252
+8   chromedriver                        0x00000001005b0004 _RNvCsiKAbIcglKMQ_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 109728
+9   chromedriver                        0x0000000100630690 _RNvCsiKAbIcglKMQ_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 635692
+10  chromedriver                        0x000000010062f6f4 _RNvCsiKAbIcglKMQ_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 631696
+11  chromedriver                        0x00000001005e59c0 _RNvCsiKAbIcglKMQ_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 329308
+12  chromedriver                        0x0000000100aaab70 cxxbridge1$str$ptr + 2950672
+13  chromedriver                        0x0000000100aae2c8 cxxbridge1$str$ptr + 2964840
+14  chromedriver                        0x0000000100a8f8a8 cxxbridge1$str$ptr + 2839368
+15  chromedriver                        0x0000000100aaeb48 cxxbridge1$str$ptr + 2967016
+16  chromedriver                        0x0000000100a803d4 cxxbridge1$str$ptr + 2776692
+17  chromedriver                        0x0000000100ad37ac cxxbridge1$str$ptr + 3117644
+18  chromedriver                        0x0000000100ad390c cxxbridge1$str$ptr + 3117996
+19  chromedriver                        0x0000000100ae4774 cxxbridge1$str$ptr + 3187220
+20  libsystem_pthread.dylib             0x000000018c60fc0c _pthread_start + 136
+21  libsystem_pthread.dylib             0x000000018c60ab80 thread_start + 8
+
+2026-05-24 06:38:40,961 - ERROR - ❌ 账号 PACREG3448130 登录失败
+2026-05-24 06:38:40,961 - INFO - 线程 8495177920 执行结束
+2026-05-24 06:38:41,044 - INFO - 成功读取文件: country_small.txt
+2026-05-24 06:38:41,049 - INFO - sheet表名为政策风险的基本信息：
+2026-05-24 06:38:41,067 - INFO - sheet表名为技术风险的基本信息：
+2026-05-24 06:38:41,079 - INFO - sheet表名为市场风险的基本信息：
+2026-05-24 06:38:41,089 - INFO - {'La Prensa Grafica (San Salvador, El Salvador)': 'pubname:LPGS!La+Prensa+Grafica+%28San+Salvador%2C+El+Salvador%29', 'La Nacion (San Jose, Costa Rica)': 'pubname:LN91!La+Nacion+%28San+Jose%2C+Costa+Rica%29', 'La Prensa (Nicaragua)': 'pubname:NLPM!La+Prensa+%28Nicaragua%29', 'La Prensa [ContentEngine] (Panama)': 'pubname:PLAPR!La+Prensa+%5BContentEngine%5D+%28Panama%29', 'La Nación (Buenos Aires, Argentina)': 'pubname:ALNB!La+Naci%C3%B3n+%28Buenos+Aires%2C+Argentina%29', 'El Mercurio (Santiago, Chile)': 'pubname:CEM1!El+Mercurio+%28Santiago%2C+Chile%29', 'El Comercio (Lima, Peru)': 'pubname:EECQ!El+Comercio+%28Lima%2C+Peru%29', 'El País (Montevideo, Uruguay)': 'pubname:UEPM!El+Pa%C3%ADs+%28Montevideo%2C+Uruguay%29', 'El Nacional (Caracas, Venezuela)': 'pubname:ENSVC!El+Nacional+%28Caracas%2C+Venezuela%29', 'El Universal (Venezuela)': 'pubname:VEUC!El+Universal+%28Venezuela%29', 'El Comercio (Quito, Ecuador)': 'pubname:ELCOM!El+Comercio+%28Quito%2C+Ecuador%29', 'Revista Lideres (Quito, Ecuador)': 'pubname:REVLI!Revista+Lideres+%28Quito%2C+Ecuador%29'}
+2026-05-24 06:38:41,092 - INFO - sheet表名为政策风险的基本信息：None
+2026-05-24 06:38:41,092 - INFO - 第 0 行数据：
+2026-05-24 06:38:41,092 - INFO - 所属洲                                                      北美洲
+国家                                                      萨尔瓦多
+Country                                          El Salvador
+指定报纸报道         La Prensa Grafica (San Salvador, El Salvador)
+爬取时间                                               2005-2026
+气候         cambio climático/crisis climática/gases de efe...
+政策         política/políticas/regulación/regulaciones/leg...
+不确定        incierto/incertidumbre/incierto/desconocido/va...
+Name: 0, dtype: object
+2026-05-24 06:38:41,092 - INFO - 文件 'search_results/政策风险萨尔瓦多La Prensa Grafica (San Salvador, El Salvador).xlsx' 在 search_results/ 目录中不存在
+2026-05-24 06:44:51,010 - INFO - 第 1 行数据：
+2026-05-24 06:44:51,010 - INFO - 所属洲                                                      NaN
+国家                                               哥斯达黎加（西班牙语）
+Country                                           Costa Rica
+指定报纸报道                      La Nacion (San Jose, Costa Rica)
+爬取时间                                               2005-2026
+气候         cambio climático/crisis climática/gases de efe...
+政策         política/políticas/regulación/regulaciones/leg...
+不确定        incierto/incertidumbre/incierto/desconocido/va...
+Name: 1, dtype: object
+2026-05-24 06:44:51,011 - INFO - 文件 'search_results/政策风险哥斯达黎加（西班牙语）La Nacion (San Jose, Costa Rica).xlsx' 在 search_results/ 目录中不存在
+2026-05-24 06:51:19,242 - INFO - 第 2 行数据：
+2026-05-24 06:51:19,242 - INFO - 所属洲                                                      NaN
+国家                                                      尼加拉瓜
+Country                                            Nicaragua
+指定报纸报道                                 La Prensa (Nicaragua)
+爬取时间                                               2005-2026
+气候         cambio climático/crisis climática/gases de efe...
+政策         política/políticas/regulación/regulaciones/leg...
+不确定        incierto/incertidumbre/incierto/desconocido/va...
+Name: 2, dtype: object
+2026-05-24 06:51:19,242 - INFO - 文件 'search_results/政策风险尼加拉瓜La Prensa (Nicaragua).xlsx' 在 search_results/ 目录中不存在
+2026-05-24 06:57:51,714 - INFO - 第 3 行数据：
+2026-05-24 06:57:51,714 - INFO - 所属洲                                                      NaN
+国家                                                       巴拿马
+Country                                               Panama
+指定报纸报道                    La Prensa [ContentEngine] (Panama)
+爬取时间                                               2005-2026
+气候         cambio climático/crisis climática/gases de efe...
+政策         política/políticas/regulación/regulaciones/leg...
+不确定        incierto/incertidumbre/incierto/desconocido/va...
+Name: 3, dtype: object
+2026-05-24 06:57:51,714 - INFO - 文件 'search_results/政策风险巴拿马La Prensa [ContentEngine] (Panama).xlsx' 在 search_results/ 目录中不存在
+2026-05-24 07:03:57,674 - INFO - 第 4 行数据：
+2026-05-24 07:03:57,674 - INFO - 所属洲                                                      南美洲
+国家                                                       阿根廷
+Country                                            Argentina
+指定报纸报道                   La Nación (Buenos Aires, Argentina)
+爬取时间                                               2005-2026
+气候         cambio climático/crisis climática/gases de efe...
+政策         política/políticas/regulación/regulaciones/leg...
+不确定        incierto/incertidumbre/incierto/desconocido/va...
+Name: 4, dtype: object
+2026-05-24 07:03:57,674 - INFO - 文件 'search_results/政策风险阿根廷La Nación (Buenos Aires, Argentina).xlsx' 在 search_results/ 目录中不存在
+2026-05-24 07:10:47,940 - INFO - 第 5 行数据：
+2026-05-24 07:10:47,940 - INFO - 所属洲                                                      NaN
+国家                                                        智利
+Country                                                Chile
+指定报纸报道                         El Mercurio (Santiago, Chile)
+爬取时间                                               2005-2026
+气候         cambio climático/crisis climática/gases de efe...
+政策         política/políticas/regulación/regulaciones/leg...
+不确定        incierto/incertidumbre/incierto/desconocido/va...
+Name: 5, dtype: object
+2026-05-24 07:10:47,940 - INFO - 文件 'search_results/政策风险智利El Mercurio (Santiago, Chile).xlsx' 在 search_results/ 目录中不存在
+2026-05-24 07:16:22,445 - INFO - 第 6 行数据：
+2026-05-24 07:16:22,445 - INFO - 所属洲                                                      NaN
+国家                                                        秘鲁
+Country                                                 Peru
+指定报纸报道                              El Comercio (Lima, Peru)
+爬取时间                                               2005-2026
+气候         cambio climático/crisis climática/gases de efe...
+政策         política/políticas/regulación/regulaciones/leg...
+不确定        incierto/incertidumbre/incierto/desconocido/va...
+Name: 6, dtype: object
+2026-05-24 07:16:22,445 - INFO - 文件 'search_results/政策风险秘鲁El Comercio (Lima, Peru).xlsx' 在 search_results/ 目录中不存在
+2026-05-24 07:22:29,932 - INFO - 第 7 行数据：
+2026-05-24 07:22:29,932 - INFO - 所属洲                                                      NaN
+国家                                                       乌拉圭
+Country                                              Uruguay
+指定报纸报道                         El País (Montevideo, Uruguay)
+爬取时间                                               2005-2026
+气候         cambio climático/crisis climática/gases de efe...
+政策         política/políticas/regulación/regulaciones/leg...
+不确定        incierto/incertidumbre/incierto/desconocido/va...
+Name: 7, dtype: object
+2026-05-24 07:22:29,933 - INFO - 文件 'search_results/政策风险乌拉圭El País (Montevideo, Uruguay).xlsx' 在 search_results/ 目录中不存在
+2026-05-24 07:28:37,881 - INFO - 第 8 行数据：
+2026-05-24 07:28:37,881 - INFO - 所属洲                                                      NaN
+国家                                                      委内瑞拉
+Country                                            Venezuela
+指定报纸报道     El Nacional (Caracas, Venezuela); El Universal...
+爬取时间                                               2005-2026
+气候         cambio climático/crisis climática/gases de efe...
+政策         política/políticas/regulación/regulaciones/leg...
+不确定        incierto/incertidumbre/incierto/desconocido/va...
+Name: 8, dtype: object
+2026-05-24 07:28:37,881 - INFO - 文件 'search_results/政策风险委内瑞拉El Nacional (Caracas, Venezuela).xlsx' 在 search_results/ 目录中不存在
+2026-05-24 07:34:30,564 - WARNING - ⚠️ 未找到期刊 '委内瑞拉',' El Universal (Venezuela)' 的代码映射
+2026-05-24 07:34:30,564 - INFO - 第 9 行数据：
+2026-05-24 07:34:30,564 - INFO - 所属洲                                                      NaN
+国家                                                      厄瓜多尔
+Country                                              Ecuador
+指定报纸报道     El Comercio (Quito, Ecuador); Revista Lideres ...
+爬取时间                                               2005-2026
+气候         cambio climático/crisis climática/gases de efe...
+政策         política/políticas/regulación/regulaciones/leg...
+不确定        incierto/incertidumbre/incierto/desconocido/va...
+Name: 9, dtype: object
+2026-05-24 07:34:30,564 - INFO - 文件 'search_results/政策风险厄瓜多尔El Comercio (Quito, Ecuador).xlsx' 在 search_results/ 目录中不存在
+2026-05-24 07:40:15,722 - WARNING - ⚠️ 未找到期刊 '厄瓜多尔',' Revista Lideres (Quito, Ecuador)' 的代码映射
+2026-05-24 07:40:15,724 - INFO - sheet表名为技术风险的基本信息：None
+2026-05-24 07:40:15,724 - INFO - 第 0 行数据：
+2026-05-24 07:40:15,725 - INFO - 所属洲                                                      北美洲
+国家                                                      萨尔瓦多
+Country                                          El Salvador
+指定报纸报道         La Prensa Grafica (San Salvador, El Salvador)
+爬取时间                                               2005-2026
+低碳         carbono neutralidad/pico de emisiones/cero net...
+技术         innovación/avance/desarrollar/desarrollo/inven...
+替代         sustituir/reemplazar/eliminado progresivamente...
+Name: 0, dtype: object
+2026-05-24 07:40:15,725 - INFO - 文件 'search_results/技术风险萨尔瓦多La Prensa Grafica (San Salvador, El Salvador).xlsx' 在 search_results/ 目录中不存在
+2026-05-24 07:46:17,924 - INFO - 第 1 行数据：
+2026-05-24 07:46:17,924 - INFO - 所属洲                                                      NaN
+国家                                               哥斯达黎加（西班牙语）
+Country                                           Costa Rica
+指定报纸报道                      La Nacion (San Jose, Costa Rica)
+爬取时间                                               2005-2026
+低碳         carbono neutralidad/pico de emisiones/cero net...
+技术         innovación/avance/desarrollar/desarrollo/inven...
+替代         sustituir/reemplazar/eliminado progresivamente...
+Name: 1, dtype: object
+2026-05-24 07:46:17,924 - INFO - 文件 'search_results/技术风险哥斯达黎加（西班牙语）La Nacion (San Jose, Costa Rica).xlsx' 在 search_results/ 目录中不存在
+2026-05-24 07:52:28,808 - INFO - 第 2 行数据：
+2026-05-24 07:52:28,808 - INFO - 所属洲                                                      NaN
+国家                                                      尼加拉瓜
+Country                                            Nicaragua
+指定报纸报道                                 La Prensa (Nicaragua)
+爬取时间                                               2005-2026
+低碳         carbono neutralidad/pico de emisiones/cero net...
+技术         innovación/avance/desarrollar/desarrollo/inven...
+替代         sustituir/reemplazar/eliminado progresivamente...
+Name: 2, dtype: object
+2026-05-24 07:52:28,808 - INFO - 文件 'search_results/技术风险尼加拉瓜La Prensa (Nicaragua).xlsx' 在 search_results/ 目录中不存在
+2026-05-24 07:58:37,429 - INFO - 第 3 行数据：
+2026-05-24 07:58:37,429 - INFO - 所属洲                                                      NaN
+国家                                                       巴拿马
+Country                                               Panama
+指定报纸报道                    La Prensa [ContentEngine] (Panama)
+爬取时间                                               2005-2026
+低碳         carbono neutralidad/pico de emisiones/cero net...
+技术         innovación/avance/desarrollar/desarrollo/inven...
+替代         sustituir/reemplazar/eliminado progresivamente...
+Name: 3, dtype: object
+2026-05-24 07:58:37,429 - INFO - 文件 'search_results/技术风险巴拿马La Prensa [ContentEngine] (Panama).xlsx' 在 search_results/ 目录中不存在
+2026-05-24 08:00:59,376 - INFO - 访问网页失败!!! 
+2026-05-24 08:04:34,998 - INFO - 第 4 行数据：
+2026-05-24 08:04:34,998 - INFO - 所属洲                                                      南美洲
+国家                                                       阿根廷
+Country                                            Argentina
+指定报纸报道                   La Nación (Buenos Aires, Argentina)
+爬取时间                                               2005-2026
+低碳         carbono neutralidad/pico de emisiones/cero net...
+技术         innovación/avance/desarrollar/desarrollo/inven...
+替代         sustituir/reemplazar/eliminado progresivamente...
+Name: 4, dtype: object
+2026-05-24 08:04:34,998 - INFO - 文件 'search_results/技术风险阿根廷La Nación (Buenos Aires, Argentina).xlsx' 在 search_results/ 目录中不存在
+2026-05-24 08:10:34,309 - INFO - 第 5 行数据：
+2026-05-24 08:10:34,309 - INFO - 所属洲                                                      NaN
+国家                                                        智利
+Country                                                Chile
+指定报纸报道                         El Mercurio (Santiago, Chile)
+爬取时间                                               2005-2026
+低碳         carbono neutralidad/pico de emisiones/cero net...
+技术         innovación/avance/desarrollar/desarrollo/inven...
+替代         sustituir/reemplazar/eliminado progresivamente...
+Name: 5, dtype: object
+2026-05-24 08:10:34,309 - INFO - 文件 'search_results/技术风险智利El Mercurio (Santiago, Chile).xlsx' 在 search_results/ 目录中不存在
+2026-05-24 08:17:22,837 - INFO - 第 6 行数据：
+2026-05-24 08:17:22,838 - INFO - 所属洲                                                      NaN
+国家                                                        秘鲁
+Country                                                 Peru
+指定报纸报道                              El Comercio (Lima, Peru)
+爬取时间                                               2005-2026
+低碳         carbono neutralidad/pico de emisiones/cero net...
+技术         innovación/avance/desarrollar/desarrollo/inven...
+替代         sustituir/reemplazar/eliminado progresivamente...
+Name: 6, dtype: object
+2026-05-24 08:17:22,838 - INFO - 文件 'search_results/技术风险秘鲁El Comercio (Lima, Peru).xlsx' 在 search_results/ 目录中不存在
+2026-05-24 08:23:30,006 - INFO - 第 7 行数据：
+2026-05-24 08:23:30,006 - INFO - 所属洲                                                      NaN
+国家                                                       乌拉圭
+Country                                              Uruguay
+指定报纸报道                         El País (Montevideo, Uruguay)
+爬取时间                                               2005-2026
+低碳         carbono neutralidad/pico de emisiones/cero net...
+技术         innovación/avance/desarrollar/desarrollo/inven...
+替代         sustituir/reemplazar/eliminado progresivamente...
+Name: 7, dtype: object
+2026-05-24 08:23:30,006 - INFO - 文件 'search_results/技术风险乌拉圭El País (Montevideo, Uruguay).xlsx' 在 search_results/ 目录中不存在
+2026-05-24 08:29:36,746 - INFO - 第 8 行数据：
+2026-05-24 08:29:36,746 - INFO - 所属洲                                                      NaN
+国家                                                      委内瑞拉
+Country                                            Venezuela
+指定报纸报道     El Nacional (Caracas, Venezuela); El Universal...
+爬取时间                                               2005-2026
+低碳         carbono neutralidad/pico de emisiones/cero net...
+技术         innovación/avance/desarrollar/desarrollo/inven...
+替代         sustituir/reemplazar/eliminado progresivamente...
+Name: 8, dtype: object
+2026-05-24 08:29:36,746 - INFO - 文件 'search_results/技术风险委内瑞拉El Nacional (Caracas, Venezuela).xlsx' 在 search_results/ 目录中不存在
+2026-05-24 08:36:22,984 - WARNING - ⚠️ 未找到期刊 '委内瑞拉',' El Universal (Venezuela)' 的代码映射
+2026-05-24 08:36:22,985 - INFO - 第 9 行数据：
+2026-05-24 08:36:22,985 - INFO - 所属洲                                                      NaN
+国家                                                      厄瓜多尔
+Country                                              Ecuador
+指定报纸报道     El Comercio (Quito, Ecuador); Revista Lideres ...
+爬取时间                                               2005-2026
+低碳         carbono neutralidad/pico de emisiones/cero net...
+技术         innovación/avance/desarrollar/desarrollo/inven...
+替代         sustituir/reemplazar/eliminado progresivamente...
+Name: 9, dtype: object
+2026-05-24 08:36:22,985 - INFO - 文件 'search_results/技术风险厄瓜多尔El Comercio (Quito, Ecuador).xlsx' 在 search_results/ 目录中不存在
+2026-05-24 08:42:35,767 - WARNING - ⚠️ 未找到期刊 '厄瓜多尔',' Revista Lideres (Quito, Ecuador)' 的代码映射
+2026-05-24 08:42:35,769 - INFO - sheet表名为市场风险的基本信息：None
+2026-05-24 08:42:35,770 - INFO - 第 0 行数据：
+2026-05-24 08:42:35,770 - INFO - 所属洲                                                      北美洲
+国家                                                      萨尔瓦多
+Country                                          El Salvador
+指定报纸报道         La Prensa Grafica (San Salvador, El Salvador)
+爬取时间                                               2005-2026
+绿色         desarrollo verde/economía verde/transición ver...
+市场         inversor/institución financiera/empresa/compañ...
+偏好         apoyar/aceptar/aprobar/respaldar/confiar/gusta...
+Name: 0, dtype: object
+2026-05-24 08:42:35,770 - INFO - 文件 'search_results/市场风险萨尔瓦多La Prensa Grafica (San Salvador, El Salvador).xlsx' 在 search_results/ 目录中不存在
+2026-05-24 09:15:49,569 - INFO - 第 1 行数据：
+2026-05-24 09:15:49,569 - INFO - 所属洲                                                      NaN
+国家                                               哥斯达黎加（西班牙语）
+Country                                           Costa Rica
+指定报纸报道                      La Nacion (San Jose, Costa Rica)
+爬取时间                                               2005-2026
+绿色         desarrollo verde/economía verde/transición ver...
+市场         inversor/institución financiera/empresa/compañ...
+偏好         apoyar/aceptar/aprobar/respaldar/confiar/gusta...
+Name: 1, dtype: object
+2026-05-24 09:15:49,569 - INFO - 文件 'search_results/市场风险哥斯达黎加（西班牙语）La Nacion (San Jose, Costa Rica).xlsx' 在 search_results/ 目录中不存在
+2026-05-24 10:05:09,123 - INFO - 第 2 行数据：
+2026-05-24 10:05:09,123 - INFO - 所属洲                                                      NaN
+国家                                                      尼加拉瓜
+Country                                            Nicaragua
+指定报纸报道                                 La Prensa (Nicaragua)
+爬取时间                                               2005-2026
+绿色         desarrollo verde/economía verde/transición ver...
+市场         inversor/institución financiera/empresa/compañ...
+偏好         apoyar/aceptar/aprobar/respaldar/confiar/gusta...
+Name: 2, dtype: object
+2026-05-24 10:05:09,123 - INFO - 文件 'search_results/市场风险尼加拉瓜La Prensa (Nicaragua).xlsx' 在 search_results/ 目录中不存在

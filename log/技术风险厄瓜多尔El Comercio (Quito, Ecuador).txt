@@ -3909,3 +3909,103 @@
 2026-05-21 05:53:04,805 - INFO - ✅ 任务文件已归档: 技术风险厄瓜多尔El Comercio (Quito, Ecuador).xlsx
 2026-05-21 05:53:04,805 - INFO - 线程id:8676352192+技术风险厄瓜多尔El Comercio (Quito, Ecuador).xlsx== 技术风险厄瓜多尔El Comercio (Quito, Ecuador).xlsx== 开始时间:2026-05-21 05:29:56.782577 - 结束时间: 2026-05-21 05:53:04.805291
 2026-05-21 05:53:04,806 - INFO - ✅ 任务完成: 技术风险厄瓜多尔El Comercio (Quito, Ecuador).xlsx
+2026-05-24 08:36:22,985 - INFO - 🚀 开始处理任务: 技术风险厄瓜多尔El Comercio (Quito, Ecuador).xlsx
+2026-05-24 08:36:22,985 - INFO - 开始初始化所有driver到2025年页面: https://infoweb-newsbank-com.webproxy3.columbuslibrary.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=pubname%3AELCOM%21El%2BComercio%2B%2528Quito%252C%2BEcuador%2529&maxresults=60&f=advanced&fld-nav-0=YMD_date&val-nav-0=-2026.4
+2026-05-24 08:36:46,718 - INFO - 账号 PACREG3448130 的driver成功访问2025年页面
+2026-05-24 08:36:46,718 - INFO - ✅ 账号 PACREG3448130 的driver初始化成功
+2026-05-24 08:36:46,719 - INFO - 所有driver初始化完成
+2026-05-24 08:36:46,719 - INFO - ================================================================================
+2026-05-24 08:36:46,719 - INFO - 📋 正常模式：先处理二组合，再基于有效二组合生成三组合
+2026-05-24 08:36:46,719 - INFO - ================================================================================
+2026-05-24 08:36:46,719 - INFO - 开始处理 732 个二组合:
+2026-05-24 08:36:46,719 - INFO -   - climate+policy: 352 个
+2026-05-24 08:36:46,719 - INFO -   - climate+uncertainty: 220 个
+2026-05-24 08:36:46,719 - INFO -   - policy+uncertainty: 160 个
+2026-05-24 08:36:46,722 - INFO - 需要处理 0 个新的二组合
+2026-05-24 08:36:46,722 - INFO - 总计需要处理 0 个二组合
+2026-05-24 08:36:46,722 - INFO - 所有二组合已处理完成
+2026-05-24 08:36:46,722 - INFO - 二组合处理完成，有效组合数: 304
+2026-05-24 08:36:46,722 - INFO - 有效二组合统计:
+2026-05-24 08:36:46,722 - INFO -   - climate+policy: 116 个
+2026-05-24 08:36:46,722 - INFO -   - climate+uncertainty: 61 个
+2026-05-24 08:36:46,722 - INFO -   - policy+uncertainty: 127 个
+2026-05-24 08:36:46,723 - INFO - 基于有效二组合筛选，生成了 485 个三组合
+2026-05-24 08:36:46,723 - INFO - 基于有效二组合，总共需要处理 485 个三组合
+2026-05-24 08:36:46,724 - INFO - 剩余需要处理 0 个三组合
+2026-05-24 08:36:46,724 - INFO - 所有组合已完成，直接进行年份统计
+2026-05-24 08:36:46,724 - INFO - ✅ 没有失败条件文件，无需重新处理
+2026-05-24 08:37:09,022 - INFO - 账号 PACREG3448130 的driver成功访问2025年页面
+2026-05-24 08:37:09,022 - INFO - ✅ 账号 PACREG3448130 查询年的driver初始化成功
+2026-05-24 08:37:22,161 - INFO - [统计线程|年份统计] 📍 2005年统计URL: https://infoweb-newsbank-com.webproxy3.columbuslibrary.org/apps/news/results?p=AWNB&t=pubname%3AELCOM%21El%2BComercio%2B%2528Quito%252C%2BEcuador%2529&sort=YMD_date%3AD&fld-nav-0=YMD_date&val-nav-0=2005%20-%202005&hide_duplicates=2&maxresults=60&f=advanced&z=co_sc_postsearch_datesearch
+2026-05-24 08:37:22,217 - INFO - [统计线程|年份统计] 📈 2005年统计完成，总数: 418 条
+2026-05-24 08:37:22,219 - INFO - [统计线程|年份统计] ✅ 2005年统计任务完成
+2026-05-24 08:37:35,309 - INFO - [统计线程|年份统计] 📍 2006年统计URL: https://infoweb-newsbank-com.webproxy3.columbuslibrary.org/apps/news/results?p=AWNB&t=pubname%3AELCOM%21El%2BComercio%2B%2528Quito%252C%2BEcuador%2529&sort=YMD_date%3AD&fld-nav-0=YMD_date&val-nav-0=2006%20-%202006&hide_duplicates=2&maxresults=60&f=advanced&z=co_sc_postsearch_datesearch
+2026-05-24 08:37:35,364 - INFO - [统计线程|年份统计] 📈 2006年统计完成，总数: 3710 条
+2026-05-24 08:37:35,365 - INFO - [统计线程|年份统计] ✅ 2006年统计任务完成
+2026-05-24 08:37:48,454 - INFO - [统计线程|年份统计] 📍 2007年统计URL: https://infoweb-newsbank-com.webproxy3.columbuslibrary.org/apps/news/results?p=AWNB&t=pubname%3AELCOM%21El%2BComercio%2B%2528Quito%252C%2BEcuador%2529&sort=YMD_date%3AD&fld-nav-0=YMD_date&val-nav-0=2007%20-%202007&hide_duplicates=2&maxresults=60&f=advanced&z=co_sc_postsearch_datesearch
+2026-05-24 08:37:48,510 - INFO - [统计线程|年份统计] 📈 2007年统计完成，总数: 12412 条
+2026-05-24 08:37:48,510 - INFO - [统计线程|年份统计] ✅ 2007年统计任务完成
+2026-05-24 08:38:11,945 - INFO - [统计线程|年份统计] 📍 2008年统计URL: https://infoweb-newsbank-com.webproxy3.columbuslibrary.org/apps/news/results?p=AWNB&t=pubname%3AELCOM%21El%2BComercio%2B%2528Quito%252C%2BEcuador%2529&sort=YMD_date%3AD&fld-nav-0=YMD_date&val-nav-0=2008%20-%202008&hide_duplicates=2&maxresults=60&f=advanced&z=co_sc_postsearch_datesearch
+2026-05-24 08:38:12,003 - INFO - [统计线程|年份统计] 📈 2008年统计完成，总数: 7090 条
+2026-05-24 08:38:12,004 - INFO - [统计线程|年份统计] ✅ 2008年统计任务完成
+2026-05-24 08:38:25,096 - INFO - [统计线程|年份统计] 📍 2009年统计URL: https://infoweb-newsbank-com.webproxy3.columbuslibrary.org/apps/news/results?p=AWNB&t=pubname%3AELCOM%21El%2BComercio%2B%2528Quito%252C%2BEcuador%2529&sort=YMD_date%3AD&fld-nav-0=YMD_date&val-nav-0=2009%20-%202009&hide_duplicates=2&maxresults=60&f=advanced&z=co_sc_postsearch_datesearch
+2026-05-24 08:38:25,152 - INFO - [统计线程|年份统计] 📈 2009年统计完成，总数: 8777 条
+2026-05-24 08:38:25,153 - INFO - [统计线程|年份统计] ✅ 2009年统计任务完成
+2026-05-24 08:38:38,245 - INFO - [统计线程|年份统计] 📍 2010年统计URL: https://infoweb-newsbank-com.webproxy3.columbuslibrary.org/apps/news/results?p=AWNB&t=pubname%3AELCOM%21El%2BComercio%2B%2528Quito%252C%2BEcuador%2529&sort=YMD_date%3AD&fld-nav-0=YMD_date&val-nav-0=2010%20-%202010&hide_duplicates=2&maxresults=60&f=advanced&z=co_sc_postsearch_datesearch
+2026-05-24 08:38:38,301 - INFO - [统计线程|年份统计] 📈 2010年统计完成，总数: 5464 条
+2026-05-24 08:38:38,302 - INFO - [统计线程|年份统计] ✅ 2010年统计任务完成
+2026-05-24 08:38:51,388 - INFO - [统计线程|年份统计] 📍 2011年统计URL: https://infoweb-newsbank-com.webproxy3.columbuslibrary.org/apps/news/results?p=AWNB&t=pubname%3AELCOM%21El%2BComercio%2B%2528Quito%252C%2BEcuador%2529&sort=YMD_date%3AD&fld-nav-0=YMD_date&val-nav-0=2011%20-%202011&hide_duplicates=2&maxresults=60&f=advanced&z=co_sc_postsearch_datesearch
+2026-05-24 08:38:51,445 - INFO - [统计线程|年份统计] 📈 2011年统计完成，总数: 1932 条
+2026-05-24 08:38:51,446 - INFO - [统计线程|年份统计] ✅ 2011年统计任务完成
+2026-05-24 08:39:04,536 - INFO - [统计线程|年份统计] 📍 2012年统计URL: https://infoweb-newsbank-com.webproxy3.columbuslibrary.org/apps/news/results?p=AWNB&t=pubname%3AELCOM%21El%2BComercio%2B%2528Quito%252C%2BEcuador%2529&sort=YMD_date%3AD&fld-nav-0=YMD_date&val-nav-0=2012%20-%202012&hide_duplicates=2&maxresults=60&f=advanced&z=co_sc_postsearch_datesearch
+2026-05-24 08:39:04,592 - INFO - [统计线程|年份统计] 📈 2012年统计完成，总数: 1801 条
+2026-05-24 08:39:04,593 - INFO - [统计线程|年份统计] ✅ 2012年统计任务完成
+2026-05-24 08:39:17,684 - INFO - [统计线程|年份统计] 📍 2013年统计URL: https://infoweb-newsbank-com.webproxy3.columbuslibrary.org/apps/news/results?p=AWNB&t=pubname%3AELCOM%21El%2BComercio%2B%2528Quito%252C%2BEcuador%2529&sort=YMD_date%3AD&fld-nav-0=YMD_date&val-nav-0=2013%20-%202013&hide_duplicates=2&maxresults=60&f=advanced&z=co_sc_postsearch_datesearch
+2026-05-24 08:39:17,740 - INFO - [统计线程|年份统计] 📈 2013年统计完成，总数: 3127 条
+2026-05-24 08:39:17,740 - INFO - [统计线程|年份统计] ✅ 2013年统计任务完成
+2026-05-24 08:39:30,829 - INFO - [统计线程|年份统计] 📍 2014年统计URL: https://infoweb-newsbank-com.webproxy3.columbuslibrary.org/apps/news/results?p=AWNB&t=pubname%3AELCOM%21El%2BComercio%2B%2528Quito%252C%2BEcuador%2529&sort=YMD_date%3AD&fld-nav-0=YMD_date&val-nav-0=2014%20-%202014&hide_duplicates=2&maxresults=60&f=advanced&z=co_sc_postsearch_datesearch
+2026-05-24 08:39:30,885 - INFO - [统计线程|年份统计] 📈 2014年统计完成，总数: 3188 条
+2026-05-24 08:39:30,885 - INFO - [统计线程|年份统计] ✅ 2014年统计任务完成
+2026-05-24 08:39:43,976 - INFO - [统计线程|年份统计] 📍 2015年统计URL: https://infoweb-newsbank-com.webproxy3.columbuslibrary.org/apps/news/results?p=AWNB&t=pubname%3AELCOM%21El%2BComercio%2B%2528Quito%252C%2BEcuador%2529&sort=YMD_date%3AD&fld-nav-0=YMD_date&val-nav-0=2015%20-%202015&hide_duplicates=2&maxresults=60&f=advanced&z=co_sc_postsearch_datesearch
+2026-05-24 08:39:44,031 - INFO - [统计线程|年份统计] 📈 2015年统计完成，总数: 2183 条
+2026-05-24 08:39:44,032 - INFO - [统计线程|年份统计] ✅ 2015年统计任务完成
+2026-05-24 08:39:57,121 - INFO - [统计线程|年份统计] 📍 2016年统计URL: https://infoweb-newsbank-com.webproxy3.columbuslibrary.org/apps/news/results?p=AWNB&t=pubname%3AELCOM%21El%2BComercio%2B%2528Quito%252C%2BEcuador%2529&sort=YMD_date%3AD&fld-nav-0=YMD_date&val-nav-0=2016%20-%202016&hide_duplicates=2&maxresults=60&f=advanced&z=co_sc_postsearch_datesearch
+2026-05-24 08:39:57,178 - INFO - [统计线程|年份统计] 📈 2016年统计完成，总数: 3839 条
+2026-05-24 08:39:57,178 - INFO - [统计线程|年份统计] ✅ 2016年统计任务完成
+2026-05-24 08:40:10,265 - INFO - [统计线程|年份统计] 📍 2017年统计URL: https://infoweb-newsbank-com.webproxy3.columbuslibrary.org/apps/news/results?p=AWNB&t=pubname%3AELCOM%21El%2BComercio%2B%2528Quito%252C%2BEcuador%2529&sort=YMD_date%3AD&fld-nav-0=YMD_date&val-nav-0=2017%20-%202017&hide_duplicates=2&maxresults=60&f=advanced&z=co_sc_postsearch_datesearch
+2026-05-24 08:40:10,320 - INFO - [统计线程|年份统计] 📈 2017年统计完成，总数: 4328 条
+2026-05-24 08:40:10,321 - INFO - [统计线程|年份统计] ✅ 2017年统计任务完成
+2026-05-24 08:40:23,410 - INFO - [统计线程|年份统计] 📍 2018年统计URL: https://infoweb-newsbank-com.webproxy3.columbuslibrary.org/apps/news/results?p=AWNB&t=pubname%3AELCOM%21El%2BComercio%2B%2528Quito%252C%2BEcuador%2529&sort=YMD_date%3AD&fld-nav-0=YMD_date&val-nav-0=2018%20-%202018&hide_duplicates=2&maxresults=60&f=advanced&z=co_sc_postsearch_datesearch
+2026-05-24 08:40:23,465 - INFO - [统计线程|年份统计] 📈 2018年统计完成，总数: 3355 条
+2026-05-24 08:40:23,466 - INFO - [统计线程|年份统计] ✅ 2018年统计任务完成
+2026-05-24 08:40:36,555 - INFO - [统计线程|年份统计] 📍 2019年统计URL: https://infoweb-newsbank-com.webproxy3.columbuslibrary.org/apps/news/results?p=AWNB&t=pubname%3AELCOM%21El%2BComercio%2B%2528Quito%252C%2BEcuador%2529&sort=YMD_date%3AD&fld-nav-0=YMD_date&val-nav-0=2019%20-%202019&hide_duplicates=2&maxresults=60&f=advanced&z=co_sc_postsearch_datesearch
+2026-05-24 08:40:36,611 - INFO - [统计线程|年份统计] 📈 2019年统计完成，总数: 3034 条
+2026-05-24 08:40:36,611 - INFO - [统计线程|年份统计] ✅ 2019年统计任务完成
+2026-05-24 08:40:49,704 - INFO - [统计线程|年份统计] 📍 2020年统计URL: https://infoweb-newsbank-com.webproxy3.columbuslibrary.org/apps/news/results?p=AWNB&t=pubname%3AELCOM%21El%2BComercio%2B%2528Quito%252C%2BEcuador%2529&sort=YMD_date%3AD&fld-nav-0=YMD_date&val-nav-0=2020%20-%202020&hide_duplicates=2&maxresults=60&f=advanced&z=co_sc_postsearch_datesearch
+2026-05-24 08:40:49,757 - INFO - [统计线程|年份统计] 📈 2020年统计完成，总数: 2313 条
+2026-05-24 08:40:49,757 - INFO - [统计线程|年份统计] ✅ 2020年统计任务完成
+2026-05-24 08:41:17,599 - INFO - [统计线程|年份统计] 📍 2021年统计URL: https://infoweb-newsbank-com.webproxy3.columbuslibrary.org/apps/news/results?p=AWNB&t=pubname%3AELCOM%21El%2BComercio%2B%2528Quito%252C%2BEcuador%2529&sort=YMD_date%3AD&fld-nav-0=YMD_date&val-nav-0=2021%20-%202021&hide_duplicates=2&maxresults=60&f=advanced&z=co_sc_postsearch_datesearch
+2026-05-24 08:41:17,655 - INFO - [统计线程|年份统计] 📈 2021年统计完成，总数: 3137 条
+2026-05-24 08:41:17,655 - INFO - [统计线程|年份统计] ✅ 2021年统计任务完成
+2026-05-24 08:41:43,200 - INFO - [统计线程|年份统计] 📍 2022年统计URL: https://infoweb-newsbank-com.webproxy3.columbuslibrary.org/apps/news/results?p=AWNB&t=pubname%3AELCOM%21El%2BComercio%2B%2528Quito%252C%2BEcuador%2529&sort=YMD_date%3AD&fld-nav-0=YMD_date&val-nav-0=2022%20-%202022&hide_duplicates=2&maxresults=60&f=advanced&z=co_sc_postsearch_datesearch
+2026-05-24 08:41:43,255 - INFO - [统计线程|年份统计] 📈 2022年统计完成，总数: 2777 条
+2026-05-24 08:41:43,256 - INFO - [统计线程|年份统计] ✅ 2022年统计任务完成
+2026-05-24 08:41:56,347 - INFO - [统计线程|年份统计] 📍 2023年统计URL: https://infoweb-newsbank-com.webproxy3.columbuslibrary.org/apps/news/results?p=AWNB&t=pubname%3AELCOM%21El%2BComercio%2B%2528Quito%252C%2BEcuador%2529&sort=YMD_date%3AD&fld-nav-0=YMD_date&val-nav-0=2023%20-%202023&hide_duplicates=2&maxresults=60&f=advanced&z=co_sc_postsearch_datesearch
+2026-05-24 08:41:56,369 - INFO - [统计线程|年份统计] 📈 2023年统计完成，总数: 0 条
+2026-05-24 08:41:56,369 - INFO - [统计线程|年份统计] ✅ 2023年统计任务完成
+2026-05-24 08:42:09,470 - INFO - [统计线程|年份统计] 📍 2024年统计URL: https://infoweb-newsbank-com.webproxy3.columbuslibrary.org/apps/news/results?p=AWNB&t=pubname%3AELCOM%21El%2BComercio%2B%2528Quito%252C%2BEcuador%2529&sort=YMD_date%3AD&fld-nav-0=YMD_date&val-nav-0=2024%20-%202024&hide_duplicates=2&maxresults=60&f=advanced&z=co_sc_postsearch_datesearch
+2026-05-24 08:42:09,494 - INFO - [统计线程|年份统计] 📈 2024年统计完成，总数: 0 条
+2026-05-24 08:42:09,495 - INFO - [统计线程|年份统计] ✅ 2024年统计任务完成
+2026-05-24 08:42:22,591 - INFO - [统计线程|年份统计] 📍 2025年统计URL: https://infoweb-newsbank-com.webproxy3.columbuslibrary.org/apps/news/results?p=AWNB&t=pubname%3AELCOM%21El%2BComercio%2B%2528Quito%252C%2BEcuador%2529&sort=YMD_date%3AD&fld-nav-0=YMD_date&val-nav-0=2025%20-%202025&hide_duplicates=2&maxresults=60&f=advanced&z=co_sc_postsearch_datesearch
+2026-05-24 08:42:22,616 - INFO - [统计线程|年份统计] 📈 2025年统计完成，总数: 0 条
+2026-05-24 08:42:22,617 - INFO - [统计线程|年份统计] ✅ 2025年统计任务完成
+2026-05-24 08:42:35,710 - INFO - [统计线程|年份统计] 📍 2026年统计URL: https://infoweb-newsbank-com.webproxy3.columbuslibrary.org/apps/news/results?p=AWNB&t=pubname%3AELCOM%21El%2BComercio%2B%2528Quito%252C%2BEcuador%2529&sort=YMD_date%3AD&fld-nav-0=YMD_date&val-nav-0=2026%20-%202026.4&hide_duplicates=2&maxresults=60&f=advanced&z=co_sc_postsearch_datesearch
+2026-05-24 08:42:35,733 - INFO - [统计线程|年份统计] 📈 2026年统计完成，总数: 0 条
+2026-05-24 08:42:35,733 - INFO - [统计线程|年份统计] ✅ 2026年统计任务完成
+2026-05-24 08:42:35,733 - INFO - [统计线程|年份统计] 🎉 所有年份统计完成: {'2005': '418', '2006': '3710', '2007': '12412', '2008': '7090', '2009': '8777', '2010': '5464', '2011': '1932', '2012': '1801', '2013': '3127', '2014': '3188', '2015': '2183', '2016': '3839', '2017': '4328', '2018': '3355', '2019': '3034', '2020': '2313', '2021': '3137', '2022': '2777', '2023': '0', '2024': '0', '2025': '0', '2026': '0'}
+2026-05-24 08:42:35,765 - INFO - 所有搜索条件都已成功处理完成
+2026-05-24 08:42:35,766 - INFO - 📊 二组合统计 - 总数: 0, 有效: 0, 无结果: 0, 失败: 0
+2026-05-24 08:42:35,766 - INFO - 📂 二组合结果文件: task_data/技术风险厄瓜多尔El Comercio (Quito, Ecuador)/two_combo_results_技术风险厄瓜多尔El Comercio (Quito, Ecuador).txt
+2026-05-24 08:42:35,766 - INFO - ✅ 任务文件已归档: 技术风险厄瓜多尔El Comercio (Quito, Ecuador).xlsx
+2026-05-24 08:42:35,766 - INFO - 线程id:8495177920+技术风险厄瓜多尔El Comercio (Quito, Ecuador).xlsx== 技术风险厄瓜多尔El Comercio (Quito, Ecuador).xlsx== 开始时间:2026-05-24 08:36:46.719113 - 结束时间: 2026-05-24 08:42:35.766990
+2026-05-24 08:42:35,767 - INFO - ✅ 任务完成: 技术风险厄瓜多尔El Comercio (Quito, Ecuador).xlsx

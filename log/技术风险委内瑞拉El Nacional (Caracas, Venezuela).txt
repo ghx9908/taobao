@@ -3972,3 +3972,103 @@
 2026-05-22 13:05:16,002 - INFO - ✅ 任务文件已归档: 技术风险委内瑞拉El Nacional (Caracas, Venezuela).xlsx
 2026-05-22 13:05:16,002 - INFO - 线程id:8685166784+技术风险委内瑞拉El Nacional (Caracas, Venezuela).xlsx== 技术风险委内瑞拉El Nacional (Caracas, Venezuela).xlsx== 开始时间:2026-05-22 12:29:20.679837 - 结束时间: 2026-05-22 13:05:16.002264
 2026-05-22 13:05:16,003 - INFO - ✅ 任务完成: 技术风险委内瑞拉El Nacional (Caracas, Venezuela).xlsx
+2026-05-24 08:29:36,746 - INFO - 🚀 开始处理任务: 技术风险委内瑞拉El Nacional (Caracas, Venezuela).xlsx
+2026-05-24 08:29:36,746 - INFO - 开始初始化所有driver到2025年页面: https://infoweb-newsbank-com.webproxy3.columbuslibrary.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=pubname%3AENSVC%21El%2BNacional%2B%2528Caracas%252C%2BVenezuela%2529&maxresults=60&f=advanced&fld-nav-0=YMD_date&val-nav-0=-2026.4
+2026-05-24 08:30:00,422 - INFO - 账号 PACREG3448130 的driver成功访问2025年页面
+2026-05-24 08:30:00,423 - INFO - ✅ 账号 PACREG3448130 的driver初始化成功
+2026-05-24 08:30:00,423 - INFO - 所有driver初始化完成
+2026-05-24 08:30:00,423 - INFO - ================================================================================
+2026-05-24 08:30:00,423 - INFO - 📋 正常模式：先处理二组合，再基于有效二组合生成三组合
+2026-05-24 08:30:00,423 - INFO - ================================================================================
+2026-05-24 08:30:00,423 - INFO - 开始处理 732 个二组合:
+2026-05-24 08:30:00,423 - INFO -   - climate+policy: 352 个
+2026-05-24 08:30:00,423 - INFO -   - climate+uncertainty: 220 个
+2026-05-24 08:30:00,424 - INFO -   - policy+uncertainty: 160 个
+2026-05-24 08:30:00,427 - INFO - 需要处理 0 个新的二组合
+2026-05-24 08:30:00,428 - INFO - 总计需要处理 0 个二组合
+2026-05-24 08:30:00,428 - INFO - 所有二组合已处理完成
+2026-05-24 08:30:00,428 - INFO - 二组合处理完成，有效组合数: 308
+2026-05-24 08:30:00,428 - INFO - 有效二组合统计:
+2026-05-24 08:30:00,428 - INFO -   - climate+policy: 107 个
+2026-05-24 08:30:00,428 - INFO -   - climate+uncertainty: 58 个
+2026-05-24 08:30:00,428 - INFO -   - policy+uncertainty: 143 个
+2026-05-24 08:30:00,429 - INFO - 基于有效二组合筛选，生成了 498 个三组合
+2026-05-24 08:30:00,429 - INFO - 基于有效二组合，总共需要处理 498 个三组合
+2026-05-24 08:30:00,431 - INFO - 剩余需要处理 0 个三组合
+2026-05-24 08:30:00,431 - INFO - 所有组合已完成，直接进行年份统计
+2026-05-24 08:30:00,431 - INFO - ✅ 没有失败条件文件，无需重新处理
+2026-05-24 08:30:24,373 - INFO - 账号 PACREG3448130 的driver成功访问2025年页面
+2026-05-24 08:30:24,374 - INFO - ✅ 账号 PACREG3448130 查询年的driver初始化成功
+2026-05-24 08:30:37,494 - INFO - [统计线程|年份统计] 📍 2005年统计URL: https://infoweb-newsbank-com.webproxy3.columbuslibrary.org/apps/news/results?p=AWNB&t=pubname%3AENSVC%21El%2BNacional%2B%2528Caracas%252C%2BVenezuela%2529&sort=YMD_date%3AD&fld-nav-0=YMD_date&val-nav-0=2005%20-%202005&hide_duplicates=2&maxresults=60&f=advanced&z=co_sc_postsearch_datesearch
+2026-05-24 08:30:37,549 - INFO - [统计线程|年份统计] 📈 2005年统计完成，总数: 576 条
+2026-05-24 08:30:37,550 - INFO - [统计线程|年份统计] ✅ 2005年统计任务完成
+2026-05-24 08:30:50,641 - INFO - [统计线程|年份统计] 📍 2006年统计URL: https://infoweb-newsbank-com.webproxy3.columbuslibrary.org/apps/news/results?p=AWNB&t=pubname%3AENSVC%21El%2BNacional%2B%2528Caracas%252C%2BVenezuela%2529&sort=YMD_date%3AD&fld-nav-0=YMD_date&val-nav-0=2006%20-%202006&hide_duplicates=2&maxresults=60&f=advanced&z=co_sc_postsearch_datesearch
+2026-05-24 08:30:50,696 - INFO - [统计线程|年份统计] 📈 2006年统计完成，总数: 2251 条
+2026-05-24 08:30:50,697 - INFO - [统计线程|年份统计] ✅ 2006年统计任务完成
+2026-05-24 08:31:03,786 - INFO - [统计线程|年份统计] 📍 2007年统计URL: https://infoweb-newsbank-com.webproxy3.columbuslibrary.org/apps/news/results?p=AWNB&t=pubname%3AENSVC%21El%2BNacional%2B%2528Caracas%252C%2BVenezuela%2529&sort=YMD_date%3AD&fld-nav-0=YMD_date&val-nav-0=2007%20-%202007&hide_duplicates=2&maxresults=60&f=advanced&z=co_sc_postsearch_datesearch
+2026-05-24 08:31:03,842 - INFO - [统计线程|年份统计] 📈 2007年统计完成，总数: 7909 条
+2026-05-24 08:31:03,842 - INFO - [统计线程|年份统计] ✅ 2007年统计任务完成
+2026-05-24 08:31:16,931 - INFO - [统计线程|年份统计] 📍 2008年统计URL: https://infoweb-newsbank-com.webproxy3.columbuslibrary.org/apps/news/results?p=AWNB&t=pubname%3AENSVC%21El%2BNacional%2B%2528Caracas%252C%2BVenezuela%2529&sort=YMD_date%3AD&fld-nav-0=YMD_date&val-nav-0=2008%20-%202008&hide_duplicates=2&maxresults=60&f=advanced&z=co_sc_postsearch_datesearch
+2026-05-24 08:31:16,988 - INFO - [统计线程|年份统计] 📈 2008年统计完成，总数: 9661 条
+2026-05-24 08:31:16,989 - INFO - [统计线程|年份统计] ✅ 2008年统计任务完成
+2026-05-24 08:31:40,255 - INFO - [统计线程|年份统计] 📍 2009年统计URL: https://infoweb-newsbank-com.webproxy3.columbuslibrary.org/apps/news/results?p=AWNB&t=pubname%3AENSVC%21El%2BNacional%2B%2528Caracas%252C%2BVenezuela%2529&sort=YMD_date%3AD&fld-nav-0=YMD_date&val-nav-0=2009%20-%202009&hide_duplicates=2&maxresults=60&f=advanced&z=co_sc_postsearch_datesearch
+2026-05-24 08:31:40,311 - INFO - [统计线程|年份统计] 📈 2009年统计完成，总数: 12247 条
+2026-05-24 08:31:40,311 - INFO - [统计线程|年份统计] ✅ 2009年统计任务完成
+2026-05-24 08:32:09,741 - INFO - [统计线程|年份统计] 📍 2010年统计URL: https://infoweb-newsbank-com.webproxy3.columbuslibrary.org/apps/news/results?p=AWNB&t=pubname%3AENSVC%21El%2BNacional%2B%2528Caracas%252C%2BVenezuela%2529&sort=YMD_date%3AD&fld-nav-0=YMD_date&val-nav-0=2010%20-%202010&hide_duplicates=2&maxresults=60&f=advanced&z=co_sc_postsearch_datesearch
+2026-05-24 08:32:09,774 - INFO - [统计线程|年份统计] 📈 2010年统计完成，总数: 14385 条
+2026-05-24 08:32:09,774 - INFO - [统计线程|年份统计] ✅ 2010年统计任务完成
+2026-05-24 08:32:22,862 - INFO - [统计线程|年份统计] 📍 2011年统计URL: https://infoweb-newsbank-com.webproxy3.columbuslibrary.org/apps/news/results?p=AWNB&t=pubname%3AENSVC%21El%2BNacional%2B%2528Caracas%252C%2BVenezuela%2529&sort=YMD_date%3AD&fld-nav-0=YMD_date&val-nav-0=2011%20-%202011&hide_duplicates=2&maxresults=60&f=advanced&z=co_sc_postsearch_datesearch
+2026-05-24 08:32:22,918 - INFO - [统计线程|年份统计] 📈 2011年统计完成，总数: 13109 条
+2026-05-24 08:32:22,918 - INFO - [统计线程|年份统计] ✅ 2011年统计任务完成
+2026-05-24 08:32:36,008 - INFO - [统计线程|年份统计] 📍 2012年统计URL: https://infoweb-newsbank-com.webproxy3.columbuslibrary.org/apps/news/results?p=AWNB&t=pubname%3AENSVC%21El%2BNacional%2B%2528Caracas%252C%2BVenezuela%2529&sort=YMD_date%3AD&fld-nav-0=YMD_date&val-nav-0=2012%20-%202012&hide_duplicates=2&maxresults=60&f=advanced&z=co_sc_postsearch_datesearch
+2026-05-24 08:32:36,064 - INFO - [统计线程|年份统计] 📈 2012年统计完成，总数: 22027 条
+2026-05-24 08:32:36,065 - INFO - [统计线程|年份统计] ✅ 2012年统计任务完成
+2026-05-24 08:32:49,156 - INFO - [统计线程|年份统计] 📍 2013年统计URL: https://infoweb-newsbank-com.webproxy3.columbuslibrary.org/apps/news/results?p=AWNB&t=pubname%3AENSVC%21El%2BNacional%2B%2528Caracas%252C%2BVenezuela%2529&sort=YMD_date%3AD&fld-nav-0=YMD_date&val-nav-0=2013%20-%202013&hide_duplicates=2&maxresults=60&f=advanced&z=co_sc_postsearch_datesearch
+2026-05-24 08:32:49,212 - INFO - [统计线程|年份统计] 📈 2013年统计完成，总数: 25263 条
+2026-05-24 08:32:49,213 - INFO - [统计线程|年份统计] ✅ 2013年统计任务完成
+2026-05-24 08:33:02,301 - INFO - [统计线程|年份统计] 📍 2014年统计URL: https://infoweb-newsbank-com.webproxy3.columbuslibrary.org/apps/news/results?p=AWNB&t=pubname%3AENSVC%21El%2BNacional%2B%2528Caracas%252C%2BVenezuela%2529&sort=YMD_date%3AD&fld-nav-0=YMD_date&val-nav-0=2014%20-%202014&hide_duplicates=2&maxresults=60&f=advanced&z=co_sc_postsearch_datesearch
+2026-05-24 08:33:02,357 - INFO - [统计线程|年份统计] 📈 2014年统计完成，总数: 13618 条
+2026-05-24 08:33:02,357 - INFO - [统计线程|年份统计] ✅ 2014年统计任务完成
+2026-05-24 08:33:15,453 - INFO - [统计线程|年份统计] 📍 2015年统计URL: https://infoweb-newsbank-com.webproxy3.columbuslibrary.org/apps/news/results?p=AWNB&t=pubname%3AENSVC%21El%2BNacional%2B%2528Caracas%252C%2BVenezuela%2529&sort=YMD_date%3AD&fld-nav-0=YMD_date&val-nav-0=2015%20-%202015&hide_duplicates=2&maxresults=60&f=advanced&z=co_sc_postsearch_datesearch
+2026-05-24 08:33:15,509 - INFO - [统计线程|年份统计] 📈 2015年统计完成，总数: 12698 条
+2026-05-24 08:33:15,510 - INFO - [统计线程|年份统计] ✅ 2015年统计任务完成
+2026-05-24 08:33:28,597 - INFO - [统计线程|年份统计] 📍 2016年统计URL: https://infoweb-newsbank-com.webproxy3.columbuslibrary.org/apps/news/results?p=AWNB&t=pubname%3AENSVC%21El%2BNacional%2B%2528Caracas%252C%2BVenezuela%2529&sort=YMD_date%3AD&fld-nav-0=YMD_date&val-nav-0=2016%20-%202016&hide_duplicates=2&maxresults=60&f=advanced&z=co_sc_postsearch_datesearch
+2026-05-24 08:33:28,641 - INFO - [统计线程|年份统计] 📈 2016年统计完成，总数: 11070 条
+2026-05-24 08:33:28,641 - INFO - [统计线程|年份统计] ✅ 2016年统计任务完成
+2026-05-24 08:33:52,038 - INFO - [统计线程|年份统计] 📍 2017年统计URL: https://infoweb-newsbank-com.webproxy3.columbuslibrary.org/apps/news/results?p=AWNB&t=pubname%3AENSVC%21El%2BNacional%2B%2528Caracas%252C%2BVenezuela%2529&sort=YMD_date%3AD&fld-nav-0=YMD_date&val-nav-0=2017%20-%202017&hide_duplicates=2&maxresults=60&f=advanced&z=co_sc_postsearch_datesearch
+2026-05-24 08:33:52,095 - INFO - [统计线程|年份统计] 📈 2017年统计完成，总数: 8490 条
+2026-05-24 08:33:52,095 - INFO - [统计线程|年份统计] ✅ 2017年统计任务完成
+2026-05-24 08:34:05,185 - INFO - [统计线程|年份统计] 📍 2018年统计URL: https://infoweb-newsbank-com.webproxy3.columbuslibrary.org/apps/news/results?p=AWNB&t=pubname%3AENSVC%21El%2BNacional%2B%2528Caracas%252C%2BVenezuela%2529&sort=YMD_date%3AD&fld-nav-0=YMD_date&val-nav-0=2018%20-%202018&hide_duplicates=2&maxresults=60&f=advanced&z=co_sc_postsearch_datesearch
+2026-05-24 08:34:05,241 - INFO - [统计线程|年份统计] 📈 2018年统计完成，总数: 2431 条
+2026-05-24 08:34:05,241 - INFO - [统计线程|年份统计] ✅ 2018年统计任务完成
+2026-05-24 08:34:28,581 - INFO - [统计线程|年份统计] 📍 2019年统计URL: https://infoweb-newsbank-com.webproxy3.columbuslibrary.org/apps/news/results?p=AWNB&t=pubname%3AENSVC%21El%2BNacional%2B%2528Caracas%252C%2BVenezuela%2529&sort=YMD_date%3AD&fld-nav-0=YMD_date&val-nav-0=2019%20-%202019&hide_duplicates=2&maxresults=60&f=advanced&z=co_sc_postsearch_datesearch
+2026-05-24 08:34:28,637 - INFO - [统计线程|年份统计] 📈 2019年统计完成，总数: 319 条
+2026-05-24 08:34:28,637 - INFO - [统计线程|年份统计] ✅ 2019年统计任务完成
+2026-05-24 08:34:49,067 - INFO - [统计线程|年份统计] 📍 2020年统计URL: https://infoweb-newsbank-com.webproxy3.columbuslibrary.org/apps/news/results?p=AWNB&t=pubname%3AENSVC%21El%2BNacional%2B%2528Caracas%252C%2BVenezuela%2529&sort=YMD_date%3AD&fld-nav-0=YMD_date&val-nav-0=2020%20-%202020&hide_duplicates=2&maxresults=60&f=advanced&z=co_sc_postsearch_datesearch
+2026-05-24 08:34:49,086 - INFO - [统计线程|年份统计] 📈 2020年统计完成，总数: 0 条
+2026-05-24 08:34:49,087 - INFO - [统计线程|年份统计] ✅ 2020年统计任务完成
+2026-05-24 08:35:09,419 - INFO - [统计线程|年份统计] 📍 2021年统计URL: https://infoweb-newsbank-com.webproxy3.columbuslibrary.org/apps/news/results?p=AWNB&t=pubname%3AENSVC%21El%2BNacional%2B%2528Caracas%252C%2BVenezuela%2529&sort=YMD_date%3AD&fld-nav-0=YMD_date&val-nav-0=2021%20-%202021&hide_duplicates=2&maxresults=60&f=advanced&z=co_sc_postsearch_datesearch
+2026-05-24 08:35:09,444 - INFO - [统计线程|年份统计] 📈 2021年统计完成，总数: 0 条
+2026-05-24 08:35:09,445 - INFO - [统计线程|年份统计] ✅ 2021年统计任务完成
+2026-05-24 08:35:22,544 - INFO - [统计线程|年份统计] 📍 2022年统计URL: https://infoweb-newsbank-com.webproxy3.columbuslibrary.org/apps/news/results?p=AWNB&t=pubname%3AENSVC%21El%2BNacional%2B%2528Caracas%252C%2BVenezuela%2529&sort=YMD_date%3AD&fld-nav-0=YMD_date&val-nav-0=2022%20-%202022&hide_duplicates=2&maxresults=60&f=advanced&z=co_sc_postsearch_datesearch
+2026-05-24 08:35:22,569 - INFO - [统计线程|年份统计] 📈 2022年统计完成，总数: 0 条
+2026-05-24 08:35:22,570 - INFO - [统计线程|年份统计] ✅ 2022年统计任务完成
+2026-05-24 08:35:35,667 - INFO - [统计线程|年份统计] 📍 2023年统计URL: https://infoweb-newsbank-com.webproxy3.columbuslibrary.org/apps/news/results?p=AWNB&t=pubname%3AENSVC%21El%2BNacional%2B%2528Caracas%252C%2BVenezuela%2529&sort=YMD_date%3AD&fld-nav-0=YMD_date&val-nav-0=2023%20-%202023&hide_duplicates=2&maxresults=60&f=advanced&z=co_sc_postsearch_datesearch
+2026-05-24 08:35:35,692 - INFO - [统计线程|年份统计] 📈 2023年统计完成，总数: 0 条
+2026-05-24 08:35:35,693 - INFO - [统计线程|年份统计] ✅ 2023年统计任务完成
+2026-05-24 08:35:48,792 - INFO - [统计线程|年份统计] 📍 2024年统计URL: https://infoweb-newsbank-com.webproxy3.columbuslibrary.org/apps/news/results?p=AWNB&t=pubname%3AENSVC%21El%2BNacional%2B%2528Caracas%252C%2BVenezuela%2529&sort=YMD_date%3AD&fld-nav-0=YMD_date&val-nav-0=2024%20-%202024&hide_duplicates=2&maxresults=60&f=advanced&z=co_sc_postsearch_datesearch
+2026-05-24 08:35:48,817 - INFO - [统计线程|年份统计] 📈 2024年统计完成，总数: 0 条
+2026-05-24 08:35:48,817 - INFO - [统计线程|年份统计] ✅ 2024年统计任务完成
+2026-05-24 08:36:09,813 - INFO - [统计线程|年份统计] 📍 2025年统计URL: https://infoweb-newsbank-com.webproxy3.columbuslibrary.org/apps/news/results?p=AWNB&t=pubname%3AENSVC%21El%2BNacional%2B%2528Caracas%252C%2BVenezuela%2529&sort=YMD_date%3AD&fld-nav-0=YMD_date&val-nav-0=2025%20-%202025&hide_duplicates=2&maxresults=60&f=advanced&z=co_sc_postsearch_datesearch
+2026-05-24 08:36:09,834 - INFO - [统计线程|年份统计] 📈 2025年统计完成，总数: 0 条
+2026-05-24 08:36:09,835 - INFO - [统计线程|年份统计] ✅ 2025年统计任务完成
+2026-05-24 08:36:22,933 - INFO - [统计线程|年份统计] 📍 2026年统计URL: https://infoweb-newsbank-com.webproxy3.columbuslibrary.org/apps/news/results?p=AWNB&t=pubname%3AENSVC%21El%2BNacional%2B%2528Caracas%252C%2BVenezuela%2529&sort=YMD_date%3AD&fld-nav-0=YMD_date&val-nav-0=2026%20-%202026.4&hide_duplicates=2&maxresults=60&f=advanced&z=co_sc_postsearch_datesearch
+2026-05-24 08:36:22,955 - INFO - [统计线程|年份统计] 📈 2026年统计完成，总数: 0 条
+2026-05-24 08:36:22,956 - INFO - [统计线程|年份统计] ✅ 2026年统计任务完成
+2026-05-24 08:36:22,956 - INFO - [统计线程|年份统计] 🎉 所有年份统计完成: {'2005': '576', '2006': '2251', '2007': '7909', '2008': '9661', '2009': '12247', '2010': '14385', '2011': '13109', '2012': '22027', '2013': '25263', '2014': '13618', '2015': '12698', '2016': '11070', '2017': '8490', '2018': '2431', '2019': '319', '2020': '0', '2021': '0', '2022': '0', '2023': '0', '2024': '0', '2025': '0', '2026': '0'}
+2026-05-24 08:36:22,983 - INFO - 所有搜索条件都已成功处理完成
+2026-05-24 08:36:22,984 - INFO - 📊 二组合统计 - 总数: 0, 有效: 0, 无结果: 0, 失败: 0
+2026-05-24 08:36:22,984 - INFO - 📂 二组合结果文件: task_data/技术风险委内瑞拉El Nacional (Caracas, Venezuela)/two_combo_results_技术风险委内瑞拉El Nacional (Caracas, Venezuela).txt
+2026-05-24 08:36:22,984 - INFO - ✅ 任务文件已归档: 技术风险委内瑞拉El Nacional (Caracas, Venezuela).xlsx
+2026-05-24 08:36:22,984 - INFO - 线程id:8495177920+技术风险委内瑞拉El Nacional (Caracas, Venezuela).xlsx== 技术风险委内瑞拉El Nacional (Caracas, Venezuela).xlsx== 开始时间:2026-05-24 08:30:00.423502 - 结束时间: 2026-05-24 08:36:22.984788
+2026-05-24 08:36:22,984 - INFO - ✅ 任务完成: 技术风险委内瑞拉El Nacional (Caracas, Venezuela).xlsx
