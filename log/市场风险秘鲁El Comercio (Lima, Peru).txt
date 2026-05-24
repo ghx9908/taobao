@@ -7880,3 +7880,103 @@
 2026-05-22 15:47:45,930 - INFO - ✅ 任务文件已归档: 市场风险秘鲁El Comercio (Lima, Peru).xlsx
 2026-05-22 15:47:45,930 - INFO - 线程id:8685166784+市场风险秘鲁El Comercio (Lima, Peru).xlsx== 市场风险秘鲁El Comercio (Lima, Peru).xlsx== 开始时间:2026-05-22 14:46:38.203408 - 结束时间: 2026-05-22 15:47:45.930796
 2026-05-22 15:47:45,934 - INFO - ✅ 任务完成: 市场风险秘鲁El Comercio (Lima, Peru).xlsx
+2026-05-24 13:20:48,342 - INFO - 🚀 开始处理任务: 市场风险秘鲁El Comercio (Lima, Peru).xlsx
+2026-05-24 13:20:48,343 - INFO - 开始初始化所有driver到2025年页面: https://infoweb-newsbank-com.webproxy3.columbuslibrary.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=pubname%3AEECQ%21El%2BComercio%2B%2528Lima%252C%2BPeru%2529&maxresults=60&f=advanced&fld-nav-0=YMD_date&val-nav-0=-2026.4
+2026-05-24 13:21:11,654 - INFO - 账号 PACREG3448130 的driver成功访问2025年页面
+2026-05-24 13:21:11,655 - INFO - ✅ 账号 PACREG3448130 的driver初始化成功
+2026-05-24 13:21:11,655 - INFO - 所有driver初始化完成
+2026-05-24 13:21:11,655 - INFO - ================================================================================
+2026-05-24 13:21:11,656 - INFO - 📋 正常模式：先处理二组合，再基于有效二组合生成三组合
+2026-05-24 13:21:11,656 - INFO - ================================================================================
+2026-05-24 13:21:11,656 - INFO - 开始处理 923 个二组合:
+2026-05-24 13:21:11,656 - INFO -   - climate+policy: 275 个
+2026-05-24 13:21:11,656 - INFO -   - climate+uncertainty: 450 个
+2026-05-24 13:21:11,656 - INFO -   - policy+uncertainty: 198 个
+2026-05-24 13:21:11,661 - INFO - 需要处理 0 个新的二组合
+2026-05-24 13:21:11,661 - INFO - 总计需要处理 0 个二组合
+2026-05-24 13:21:11,661 - INFO - 所有二组合已处理完成
+2026-05-24 13:21:11,662 - INFO - 二组合处理完成，有效组合数: 521
+2026-05-24 13:21:11,662 - INFO - 有效二组合统计:
+2026-05-24 13:21:11,662 - INFO -   - climate+policy: 162 个
+2026-05-24 13:21:11,662 - INFO -   - climate+uncertainty: 203 个
+2026-05-24 13:21:11,662 - INFO -   - policy+uncertainty: 156 个
+2026-05-24 13:21:11,665 - INFO - 基于有效二组合筛选，生成了 1516 个三组合
+2026-05-24 13:21:11,665 - INFO - 基于有效二组合，总共需要处理 1516 个三组合
+2026-05-24 13:21:11,670 - INFO - 剩余需要处理 0 个三组合
+2026-05-24 13:21:11,670 - INFO - 所有组合已完成，直接进行年份统计
+2026-05-24 13:21:11,670 - INFO - ✅ 没有失败条件文件，无需重新处理
+2026-05-24 13:21:33,878 - INFO - 账号 PACREG3448130 的driver成功访问2025年页面
+2026-05-24 13:21:33,879 - INFO - ✅ 账号 PACREG3448130 查询年的driver初始化成功
+2026-05-24 13:21:47,019 - INFO - [统计线程|年份统计] 📍 2005年统计URL: https://infoweb-newsbank-com.webproxy3.columbuslibrary.org/apps/news/results?p=AWNB&t=pubname%3AEECQ%21El%2BComercio%2B%2528Lima%252C%2BPeru%2529&sort=YMD_date%3AD&fld-nav-0=YMD_date&val-nav-0=2005%20-%202005&hide_duplicates=2&maxresults=60&f=advanced&z=co_sc_postsearch_datesearch
+2026-05-24 13:21:47,075 - INFO - [统计线程|年份统计] 📈 2005年统计完成，总数: 853 条
+2026-05-24 13:21:47,076 - INFO - [统计线程|年份统计] ✅ 2005年统计任务完成
+2026-05-24 13:22:00,173 - INFO - [统计线程|年份统计] 📍 2006年统计URL: https://infoweb-newsbank-com.webproxy3.columbuslibrary.org/apps/news/results?p=AWNB&t=pubname%3AEECQ%21El%2BComercio%2B%2528Lima%252C%2BPeru%2529&sort=YMD_date%3AD&fld-nav-0=YMD_date&val-nav-0=2006%20-%202006&hide_duplicates=2&maxresults=60&f=advanced&z=co_sc_postsearch_datesearch
+2026-05-24 13:22:00,228 - INFO - [统计线程|年份统计] 📈 2006年统计完成，总数: 4142 条
+2026-05-24 13:22:00,229 - INFO - [统计线程|年份统计] ✅ 2006年统计任务完成
+2026-05-24 13:22:13,324 - INFO - [统计线程|年份统计] 📍 2007年统计URL: https://infoweb-newsbank-com.webproxy3.columbuslibrary.org/apps/news/results?p=AWNB&t=pubname%3AEECQ%21El%2BComercio%2B%2528Lima%252C%2BPeru%2529&sort=YMD_date%3AD&fld-nav-0=YMD_date&val-nav-0=2007%20-%202007&hide_duplicates=2&maxresults=60&f=advanced&z=co_sc_postsearch_datesearch
+2026-05-24 13:22:13,380 - INFO - [统计线程|年份统计] 📈 2007年统计完成，总数: 13776 条
+2026-05-24 13:22:13,381 - INFO - [统计线程|年份统计] ✅ 2007年统计任务完成
+2026-05-24 13:22:26,473 - INFO - [统计线程|年份统计] 📍 2008年统计URL: https://infoweb-newsbank-com.webproxy3.columbuslibrary.org/apps/news/results?p=AWNB&t=pubname%3AEECQ%21El%2BComercio%2B%2528Lima%252C%2BPeru%2529&sort=YMD_date%3AD&fld-nav-0=YMD_date&val-nav-0=2008%20-%202008&hide_duplicates=2&maxresults=60&f=advanced&z=co_sc_postsearch_datesearch
+2026-05-24 13:22:26,529 - INFO - [统计线程|年份统计] 📈 2008年统计完成，总数: 10533 条
+2026-05-24 13:22:26,530 - INFO - [统计线程|年份统计] ✅ 2008年统计任务完成
+2026-05-24 13:22:39,620 - INFO - [统计线程|年份统计] 📍 2009年统计URL: https://infoweb-newsbank-com.webproxy3.columbuslibrary.org/apps/news/results?p=AWNB&t=pubname%3AEECQ%21El%2BComercio%2B%2528Lima%252C%2BPeru%2529&sort=YMD_date%3AD&fld-nav-0=YMD_date&val-nav-0=2009%20-%202009&hide_duplicates=2&maxresults=60&f=advanced&z=co_sc_postsearch_datesearch
+2026-05-24 13:22:39,678 - INFO - [统计线程|年份统计] 📈 2009年统计完成，总数: 12221 条
+2026-05-24 13:22:39,678 - INFO - [统计线程|年份统计] ✅ 2009年统计任务完成
+2026-05-24 13:22:52,767 - INFO - [统计线程|年份统计] 📍 2010年统计URL: https://infoweb-newsbank-com.webproxy3.columbuslibrary.org/apps/news/results?p=AWNB&t=pubname%3AEECQ%21El%2BComercio%2B%2528Lima%252C%2BPeru%2529&sort=YMD_date%3AD&fld-nav-0=YMD_date&val-nav-0=2010%20-%202010&hide_duplicates=2&maxresults=60&f=advanced&z=co_sc_postsearch_datesearch
+2026-05-24 13:22:52,823 - INFO - [统计线程|年份统计] 📈 2010年统计完成，总数: 14132 条
+2026-05-24 13:22:52,823 - INFO - [统计线程|年份统计] ✅ 2010年统计任务完成
+2026-05-24 13:23:17,753 - INFO - [统计线程|年份统计] 📍 2011年统计URL: https://infoweb-newsbank-com.webproxy3.columbuslibrary.org/apps/news/results?p=AWNB&t=pubname%3AEECQ%21El%2BComercio%2B%2528Lima%252C%2BPeru%2529&sort=YMD_date%3AD&fld-nav-0=YMD_date&val-nav-0=2011%20-%202011&hide_duplicates=2&maxresults=60&f=advanced&z=co_sc_postsearch_datesearch
+2026-05-24 13:23:17,810 - INFO - [统计线程|年份统计] 📈 2011年统计完成，总数: 13262 条
+2026-05-24 13:23:17,811 - INFO - [统计线程|年份统计] ✅ 2011年统计任务完成
+2026-05-24 13:23:30,903 - INFO - [统计线程|年份统计] 📍 2012年统计URL: https://infoweb-newsbank-com.webproxy3.columbuslibrary.org/apps/news/results?p=AWNB&t=pubname%3AEECQ%21El%2BComercio%2B%2528Lima%252C%2BPeru%2529&sort=YMD_date%3AD&fld-nav-0=YMD_date&val-nav-0=2012%20-%202012&hide_duplicates=2&maxresults=60&f=advanced&z=co_sc_postsearch_datesearch
+2026-05-24 13:23:30,959 - INFO - [统计线程|年份统计] 📈 2012年统计完成，总数: 18711 条
+2026-05-24 13:23:30,960 - INFO - [统计线程|年份统计] ✅ 2012年统计任务完成
+2026-05-24 13:23:44,635 - INFO - [统计线程|年份统计] 📍 2013年统计URL: https://infoweb-newsbank-com.webproxy3.columbuslibrary.org/apps/news/results?p=AWNB&t=pubname%3AEECQ%21El%2BComercio%2B%2528Lima%252C%2BPeru%2529&sort=YMD_date%3AD&fld-nav-0=YMD_date&val-nav-0=2013%20-%202013&hide_duplicates=2&maxresults=60&f=advanced&z=co_sc_postsearch_datesearch
+2026-05-24 13:23:44,668 - INFO - [统计线程|年份统计] 📈 2013年统计完成，总数: 17861 条
+2026-05-24 13:23:44,668 - INFO - [统计线程|年份统计] ✅ 2013年统计任务完成
+2026-05-24 13:23:57,757 - INFO - [统计线程|年份统计] 📍 2014年统计URL: https://infoweb-newsbank-com.webproxy3.columbuslibrary.org/apps/news/results?p=AWNB&t=pubname%3AEECQ%21El%2BComercio%2B%2528Lima%252C%2BPeru%2529&sort=YMD_date%3AD&fld-nav-0=YMD_date&val-nav-0=2014%20-%202014&hide_duplicates=2&maxresults=60&f=advanced&z=co_sc_postsearch_datesearch
+2026-05-24 13:23:57,815 - INFO - [统计线程|年份统计] 📈 2014年统计完成，总数: 15564 条
+2026-05-24 13:23:57,815 - INFO - [统计线程|年份统计] ✅ 2014年统计任务完成
+2026-05-24 13:24:10,904 - INFO - [统计线程|年份统计] 📍 2015年统计URL: https://infoweb-newsbank-com.webproxy3.columbuslibrary.org/apps/news/results?p=AWNB&t=pubname%3AEECQ%21El%2BComercio%2B%2528Lima%252C%2BPeru%2529&sort=YMD_date%3AD&fld-nav-0=YMD_date&val-nav-0=2015%20-%202015&hide_duplicates=2&maxresults=60&f=advanced&z=co_sc_postsearch_datesearch
+2026-05-24 13:24:10,962 - INFO - [统计线程|年份统计] 📈 2015年统计完成，总数: 12025 条
+2026-05-24 13:24:10,962 - INFO - [统计线程|年份统计] ✅ 2015年统计任务完成
+2026-05-24 13:24:24,053 - INFO - [统计线程|年份统计] 📍 2016年统计URL: https://infoweb-newsbank-com.webproxy3.columbuslibrary.org/apps/news/results?p=AWNB&t=pubname%3AEECQ%21El%2BComercio%2B%2528Lima%252C%2BPeru%2529&sort=YMD_date%3AD&fld-nav-0=YMD_date&val-nav-0=2016%20-%202016&hide_duplicates=2&maxresults=60&f=advanced&z=co_sc_postsearch_datesearch
+2026-05-24 13:24:24,110 - INFO - [统计线程|年份统计] 📈 2016年统计完成，总数: 11388 条
+2026-05-24 13:24:24,111 - INFO - [统计线程|年份统计] ✅ 2016年统计任务完成
+2026-05-24 13:24:37,200 - INFO - [统计线程|年份统计] 📍 2017年统计URL: https://infoweb-newsbank-com.webproxy3.columbuslibrary.org/apps/news/results?p=AWNB&t=pubname%3AEECQ%21El%2BComercio%2B%2528Lima%252C%2BPeru%2529&sort=YMD_date%3AD&fld-nav-0=YMD_date&val-nav-0=2017%20-%202017&hide_duplicates=2&maxresults=60&f=advanced&z=co_sc_postsearch_datesearch
+2026-05-24 13:24:37,257 - INFO - [统计线程|年份统计] 📈 2017年统计完成，总数: 9312 条
+2026-05-24 13:24:37,258 - INFO - [统计线程|年份统计] ✅ 2017年统计任务完成
+2026-05-24 13:25:02,743 - INFO - [统计线程|年份统计] 📍 2018年统计URL: https://infoweb-newsbank-com.webproxy3.columbuslibrary.org/apps/news/results?p=AWNB&t=pubname%3AEECQ%21El%2BComercio%2B%2528Lima%252C%2BPeru%2529&sort=YMD_date%3AD&fld-nav-0=YMD_date&val-nav-0=2018%20-%202018&hide_duplicates=2&maxresults=60&f=advanced&z=co_sc_postsearch_datesearch
+2026-05-24 13:25:02,801 - INFO - [统计线程|年份统计] 📈 2018年统计完成，总数: 11441 条
+2026-05-24 13:25:02,801 - INFO - [统计线程|年份统计] ✅ 2018年统计任务完成
+2026-05-24 13:25:15,900 - INFO - [统计线程|年份统计] 📍 2019年统计URL: https://infoweb-newsbank-com.webproxy3.columbuslibrary.org/apps/news/results?p=AWNB&t=pubname%3AEECQ%21El%2BComercio%2B%2528Lima%252C%2BPeru%2529&sort=YMD_date%3AD&fld-nav-0=YMD_date&val-nav-0=2019%20-%202019&hide_duplicates=2&maxresults=60&f=advanced&z=co_sc_postsearch_datesearch
+2026-05-24 13:25:15,934 - INFO - [统计线程|年份统计] 📈 2019年统计完成，总数: 12684 条
+2026-05-24 13:25:15,934 - INFO - [统计线程|年份统计] ✅ 2019年统计任务完成
+2026-05-24 13:25:29,604 - INFO - [统计线程|年份统计] 📍 2020年统计URL: https://infoweb-newsbank-com.webproxy3.columbuslibrary.org/apps/news/results?p=AWNB&t=pubname%3AEECQ%21El%2BComercio%2B%2528Lima%252C%2BPeru%2529&sort=YMD_date%3AD&fld-nav-0=YMD_date&val-nav-0=2020%20-%202020&hide_duplicates=2&maxresults=60&f=advanced&z=co_sc_postsearch_datesearch
+2026-05-24 13:25:29,636 - INFO - [统计线程|年份统计] 📈 2020年统计完成，总数: 7578 条
+2026-05-24 13:25:29,637 - INFO - [统计线程|年份统计] ✅ 2020年统计任务完成
+2026-05-24 13:25:43,760 - INFO - [统计线程|年份统计] 📍 2021年统计URL: https://infoweb-newsbank-com.webproxy3.columbuslibrary.org/apps/news/results?p=AWNB&t=pubname%3AEECQ%21El%2BComercio%2B%2528Lima%252C%2BPeru%2529&sort=YMD_date%3AD&fld-nav-0=YMD_date&val-nav-0=2021%20-%202021&hide_duplicates=2&maxresults=60&f=advanced&z=co_sc_postsearch_datesearch
+2026-05-24 13:25:43,793 - INFO - [统计线程|年份统计] 📈 2021年统计完成，总数: 7653 条
+2026-05-24 13:25:43,794 - INFO - [统计线程|年份统计] ✅ 2021年统计任务完成
+2026-05-24 13:25:57,838 - INFO - [统计线程|年份统计] 📍 2022年统计URL: https://infoweb-newsbank-com.webproxy3.columbuslibrary.org/apps/news/results?p=AWNB&t=pubname%3AEECQ%21El%2BComercio%2B%2528Lima%252C%2BPeru%2529&sort=YMD_date%3AD&fld-nav-0=YMD_date&val-nav-0=2022%20-%202022&hide_duplicates=2&maxresults=60&f=advanced&z=co_sc_postsearch_datesearch
+2026-05-24 13:25:57,871 - INFO - [统计线程|年份统计] 📈 2022年统计完成，总数: 8092 条
+2026-05-24 13:25:57,871 - INFO - [统计线程|年份统计] ✅ 2022年统计任务完成
+2026-05-24 13:26:10,961 - INFO - [统计线程|年份统计] 📍 2023年统计URL: https://infoweb-newsbank-com.webproxy3.columbuslibrary.org/apps/news/results?p=AWNB&t=pubname%3AEECQ%21El%2BComercio%2B%2528Lima%252C%2BPeru%2529&sort=YMD_date%3AD&fld-nav-0=YMD_date&val-nav-0=2023%20-%202023&hide_duplicates=2&maxresults=60&f=advanced&z=co_sc_postsearch_datesearch
+2026-05-24 13:26:11,019 - INFO - [统计线程|年份统计] 📈 2023年统计完成，总数: 6744 条
+2026-05-24 13:26:11,019 - INFO - [统计线程|年份统计] ✅ 2023年统计任务完成
+2026-05-24 13:26:24,111 - INFO - [统计线程|年份统计] 📍 2024年统计URL: https://infoweb-newsbank-com.webproxy3.columbuslibrary.org/apps/news/results?p=AWNB&t=pubname%3AEECQ%21El%2BComercio%2B%2528Lima%252C%2BPeru%2529&sort=YMD_date%3AD&fld-nav-0=YMD_date&val-nav-0=2024%20-%202024&hide_duplicates=2&maxresults=60&f=advanced&z=co_sc_postsearch_datesearch
+2026-05-24 13:26:24,168 - INFO - [统计线程|年份统计] 📈 2024年统计完成，总数: 7118 条
+2026-05-24 13:26:24,168 - INFO - [统计线程|年份统计] ✅ 2024年统计任务完成
+2026-05-24 13:26:37,259 - INFO - [统计线程|年份统计] 📍 2025年统计URL: https://infoweb-newsbank-com.webproxy3.columbuslibrary.org/apps/news/results?p=AWNB&t=pubname%3AEECQ%21El%2BComercio%2B%2528Lima%252C%2BPeru%2529&sort=YMD_date%3AD&fld-nav-0=YMD_date&val-nav-0=2025%20-%202025&hide_duplicates=2&maxresults=60&f=advanced&z=co_sc_postsearch_datesearch
+2026-05-24 13:26:37,311 - INFO - [统计线程|年份统计] 📈 2025年统计完成，总数: 2439 条
+2026-05-24 13:26:37,311 - INFO - [统计线程|年份统计] ✅ 2025年统计任务完成
+2026-05-24 13:26:50,403 - INFO - [统计线程|年份统计] 📍 2026年统计URL: https://infoweb-newsbank-com.webproxy3.columbuslibrary.org/apps/news/results?p=AWNB&t=pubname%3AEECQ%21El%2BComercio%2B%2528Lima%252C%2BPeru%2529&sort=YMD_date%3AD&fld-nav-0=YMD_date&val-nav-0=2026%20-%202026.4&hide_duplicates=2&maxresults=60&f=advanced&z=co_sc_postsearch_datesearch
+2026-05-24 13:26:50,459 - INFO - [统计线程|年份统计] 📈 2026年统计完成，总数: 1210 条
+2026-05-24 13:26:50,459 - INFO - [统计线程|年份统计] ✅ 2026年统计任务完成
+2026-05-24 13:26:50,459 - INFO - [统计线程|年份统计] 🎉 所有年份统计完成: {'2005': '853', '2006': '4142', '2007': '13776', '2008': '10533', '2009': '12221', '2010': '14132', '2011': '13262', '2012': '18711', '2013': '17861', '2014': '15564', '2015': '12025', '2016': '11388', '2017': '9312', '2018': '11441', '2019': '12684', '2020': '7578', '2021': '7653', '2022': '8092', '2023': '6744', '2024': '7118', '2025': '2439', '2026': '1210'}
+2026-05-24 13:26:50,501 - INFO - 所有搜索条件都已成功处理完成
+2026-05-24 13:26:50,502 - INFO - 📊 二组合统计 - 总数: 0, 有效: 0, 无结果: 0, 失败: 0
+2026-05-24 13:26:50,502 - INFO - 📂 二组合结果文件: task_data/市场风险秘鲁El Comercio (Lima, Peru)/two_combo_results_市场风险秘鲁El Comercio (Lima, Peru).txt
+2026-05-24 13:26:50,502 - INFO - ✅ 任务文件已归档: 市场风险秘鲁El Comercio (Lima, Peru).xlsx
+2026-05-24 13:26:50,502 - INFO - 线程id:8495177920+市场风险秘鲁El Comercio (Lima, Peru).xlsx== 市场风险秘鲁El Comercio (Lima, Peru).xlsx== 开始时间:2026-05-24 13:21:11.655841 - 结束时间: 2026-05-24 13:26:50.502654
+2026-05-24 13:26:50,502 - INFO - ✅ 任务完成: 市场风险秘鲁El Comercio (Lima, Peru).xlsx

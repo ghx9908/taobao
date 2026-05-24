@@ -2353,3 +2353,266 @@ ESG|||público|||priorizar
 ESG|||público|||prioridad
 ESG|||público|||disposición a
 crédito verde|||hogar|||inclinarse por
+inversión verde|||empresa|||priorizar
+inversión verde|||empresa|||prioridad
+inversión verde|||empresa|||inclinarse por
+inversión verde|||empresa|||estar dispuesto a
+inversión verde|||empresa|||disposición a
+inversión verde|||compañía|||apoyar
+inversión verde|||compañía|||aceptar
+inversión verde|||compañía|||aprobar
+inversión verde|||compañía|||respaldar
+inversión verde|||compañía|||confiar
+inversión verde|||compañía|||gustar
+inversión verde|||compañía|||encantar
+inversión verde|||compañía|||favorecer
+inversión verde|||compañía|||apreciar
+inversión verde|||compañía|||preferencia
+inversión verde|||compañía|||priorizar
+inversión verde|||compañía|||prioridad
+inversión verde|||compañía|||inclinarse por
+inversión verde|||compañía|||estar dispuesto a
+inversión verde|||compañía|||disposición a
+inversión verde|||consumidor|||apoyar
+inversión verde|||consumidor|||aceptar
+inversión verde|||consumidor|||aprobar
+inversión verde|||consumidor|||respaldar
+inversión verde|||consumidor|||confiar
+inversión verde|||consumidor|||encantar
+inversión verde|||consumidor|||favorecer
+inversión verde|||consumidor|||apreciar
+inversión verde|||consumidor|||preferencia
+inversión verde|||consumidor|||priorizar
+inversión verde|||consumidor|||prioridad
+inversión verde|||consumidor|||estar dispuesto a
+inversión verde|||cliente|||apoyar
+inversión verde|||cliente|||aprobar
+inversión verde|||cliente|||respaldar
+inversión verde|||cliente|||gustar
+inversión verde|||cliente|||encantar
+inversión verde|||cliente|||preferencia
+inversión verde|||cliente|||priorizar
+inversión verde|||cliente|||estar dispuesto a
+inversión verde|||cliente|||disposición a
+inversión verde|||hogar|||apoyar
+inversión verde|||hogar|||aceptar
+inversión verde|||hogar|||respaldar
+inversión verde|||hogar|||confiar
+inversión verde|||hogar|||encantar
+inversión verde|||hogar|||favorecer
+inversión verde|||hogar|||preferencia
+inversión verde|||hogar|||priorizar
+inversión verde|||hogar|||inclinarse por
+inversión verde|||hogar|||estar dispuesto a
+inversión verde|||hogar|||disposición a
+inversión verde|||residente|||apoyar
+inversión verde|||residente|||aprobar
+inversión verde|||residente|||respaldar
+inversión verde|||residente|||favorecer
+inversión verde|||residente|||apreciar
+inversión verde|||residente|||preferencia
+inversión verde|||residente|||priorizar
+inversión verde|||residente|||prioridad
+inversión verde|||residente|||inclinarse por
+inversión verde|||residente|||disposición a
+inversión verde|||público|||apoyar
+inversión verde|||público|||favorecer
+inversión verde|||público|||apreciar
+inversión verde|||público|||priorizar
+inversión verde|||público|||prioridad
+inversión verde|||público|||estar dispuesto a
+inversión verde|||público|||disposición a
+inversión verde|||individuo|||apoyar
+inversión verde|||individuo|||aceptar
+inversión verde|||individuo|||gustar
+inversión verde|||individuo|||favorecer
+inversión verde|||individuo|||preferencia
+inversión verde|||individuo|||priorizar
+inversión verde|||individuo|||disposición a
+finanzas verdes|||inversor|||apoyar
+finanzas verdes|||inversor|||confiar
+finanzas verdes|||inversor|||favorecer
+finanzas verdes|||inversor|||priorizar
+finanzas verdes|||inversor|||prioridad
+finanzas verdes|||institución financiera|||apoyar
+finanzas verdes|||institución financiera|||aceptar
+finanzas verdes|||institución financiera|||aprobar
+finanzas verdes|||institución financiera|||respaldar
+finanzas verdes|||institución financiera|||confiar
+finanzas verdes|||institución financiera|||favorecer
+finanzas verdes|||institución financiera|||prioridad
+finanzas verdes|||institución financiera|||disposición a
+finanzas verdes|||empresa|||apoyar
+finanzas verdes|||empresa|||aceptar
+finanzas verdes|||empresa|||confiar
+finanzas verdes|||empresa|||favorecer
+finanzas verdes|||empresa|||preferencia
+finanzas verdes|||empresa|||priorizar
+finanzas verdes|||empresa|||disposición a
+finanzas verdes|||compañía|||apoyar
+finanzas verdes|||compañía|||respaldar
+finanzas verdes|||compañía|||confiar
+finanzas verdes|||compañía|||favorecer
+finanzas verdes|||compañía|||preferencia
+finanzas verdes|||compañía|||priorizar
+finanzas verdes|||compañía|||prioridad
+finanzas verdes|||compañía|||disposición a
+finanzas verdes|||consumidor|||apoyar
+finanzas verdes|||consumidor|||aprobar
+finanzas verdes|||consumidor|||respaldar
+finanzas verdes|||consumidor|||confiar
+finanzas verdes|||consumidor|||favorecer
+finanzas verdes|||consumidor|||disposición a
+finanzas verdes|||cliente|||apoyar
+finanzas verdes|||cliente|||confiar
+finanzas verdes|||cliente|||favorecer
+finanzas verdes|||cliente|||priorizar
+finanzas verdes|||cliente|||prioridad
+finanzas verdes|||hogar|||aceptar
+finanzas verdes|||hogar|||aprobar
+finanzas verdes|||hogar|||confiar
+finanzas verdes|||hogar|||favorecer
+finanzas verdes|||hogar|||priorizar
+finanzas verdes|||hogar|||prioridad
+finanzas verdes|||público|||apoyar
+finanzas verdes|||público|||aceptar
+finanzas verdes|||público|||priorizar
+finanzas verdes|||público|||prioridad
+finanzas verdes|||público|||disposición a
+bono verde|||inversor|||apoyar
+bono verde|||inversor|||aceptar
+bono verde|||inversor|||favorecer
+bono verde|||inversor|||preferencia
+bono verde|||inversor|||prioridad
+bono verde|||inversor|||tender a
+bono verde|||inversor|||disposición a
+bono verde|||institución financiera|||prioridad
+bono verde|||institución financiera|||tender a
+bono verde|||empresa|||apoyar
+bono verde|||empresa|||aceptar
+bono verde|||empresa|||preferencia
+bono verde|||empresa|||prioridad
+bono verde|||empresa|||disposición a
+bono verde|||compañía|||apoyar
+bono verde|||compañía|||aceptar
+bono verde|||compañía|||favorecer
+bono verde|||compañía|||preferencia
+bono verde|||compañía|||prioridad
+bono verde|||consumidor|||apoyar
+bono verde|||consumidor|||aceptar
+bono verde|||consumidor|||tender a
+bono verde|||consumidor|||disposición a
+bono verde|||cliente|||apoyar
+bono verde|||cliente|||aceptar
+bono verde|||hogar|||aceptar
+bono verde|||hogar|||favorecer
+bono verde|||hogar|||prioridad
+bono verde|||hogar|||tender a
+bono verde|||hogar|||disposición a
+bono verde|||residente|||apoyar
+bono verde|||residente|||preferencia
+bono verde|||residente|||prioridad
+bono verde|||público|||apoyar
+bono verde|||público|||aceptar
+bono verde|||público|||favorecer
+bono verde|||público|||preferencia
+bono verde|||público|||prioridad
+bono verde|||público|||tender a
+crédito verde|||inversor|||aceptar
+crédito verde|||inversor|||aprobar
+crédito verde|||inversor|||favorecer
+crédito verde|||inversor|||apreciar
+crédito verde|||inversor|||prioridad
+crédito verde|||inversor|||tender a
+crédito verde|||inversor|||disposición a
+crédito verde|||institución financiera|||apoyar
+crédito verde|||institución financiera|||gustar
+crédito verde|||institución financiera|||favorecer
+crédito verde|||institución financiera|||prioridad
+crédito verde|||institución financiera|||tender a
+crédito verde|||institución financiera|||estar dispuesto a
+crédito verde|||institución financiera|||disposición a
+crédito verde|||empresa|||favorecer
+crédito verde|||empresa|||apreciar
+crédito verde|||empresa|||prioridad
+crédito verde|||empresa|||tender a
+crédito verde|||empresa|||estar dispuesto a
+crédito verde|||empresa|||disposición a
+crédito verde|||compañía|||apoyar
+crédito verde|||compañía|||aceptar
+crédito verde|||compañía|||aprobar
+crédito verde|||compañía|||confiar
+crédito verde|||compañía|||gustar
+crédito verde|||compañía|||encantar
+crédito verde|||compañía|||tender a
+crédito verde|||compañía|||inclinarse por
+crédito verde|||consumidor|||apoyar
+crédito verde|||consumidor|||aceptar
+crédito verde|||consumidor|||encantar
+crédito verde|||consumidor|||favorecer
+crédito verde|||consumidor|||apreciar
+crédito verde|||consumidor|||priorizar
+crédito verde|||consumidor|||prioridad
+crédito verde|||consumidor|||tender a
+crédito verde|||consumidor|||inclinarse por
+crédito verde|||consumidor|||estar dispuesto a
+crédito verde|||cliente|||apoyar
+crédito verde|||cliente|||aceptar
+crédito verde|||cliente|||prioridad
+crédito verde|||cliente|||tender a
+crédito verde|||cliente|||disposición a
+crédito verde|||hogar|||apoyar
+crédito verde|||hogar|||aceptar
+crédito verde|||hogar|||aprobar
+crédito verde|||hogar|||encantar
+crédito verde|||hogar|||favorecer
+crédito verde|||hogar|||estar dispuesto a
+crédito verde|||hogar|||disposición a
+crédito verde|||residente|||apoyar
+crédito verde|||residente|||aceptar
+crédito verde|||residente|||confiar
+crédito verde|||residente|||gustar
+crédito verde|||residente|||favorecer
+crédito verde|||residente|||apreciar
+crédito verde|||residente|||tender a
+crédito verde|||residente|||inclinarse por
+crédito verde|||residente|||estar dispuesto a
+crédito verde|||residente|||disposición a
+crédito verde|||público|||aceptar
+crédito verde|||público|||aprobar
+crédito verde|||público|||encantar
+crédito verde|||público|||favorecer
+crédito verde|||individuo|||apoyar
+crédito verde|||individuo|||aceptar
+crédito verde|||individuo|||confiar
+crédito verde|||individuo|||gustar
+crédito verde|||individuo|||priorizar
+crédito verde|||individuo|||prioridad
+crédito verde|||individuo|||inclinarse por
+crédito verde|||individuo|||estar dispuesto a
+ESG|||inversor|||respaldar
+ESG|||inversor|||favorecer
+ESG|||institución financiera|||apoyar
+ESG|||institución financiera|||aprobar
+ESG|||institución financiera|||respaldar
+ESG|||institución financiera|||favorecer
+ESG|||institución financiera|||priorizar
+ESG|||institución financiera|||prioridad
+ESG|||institución financiera|||disposición a
+ESG|||compañía|||apoyar
+ESG|||compañía|||aprobar
+ESG|||compañía|||respaldar
+ESG|||compañía|||prioridad
+ESG|||compañía|||disposición a
+ESG|||consumidor|||prioridad
+ESG|||consumidor|||disposición a
+ESG|||cliente|||favorecer
+ESG|||cliente|||priorizar
+ESG|||hogar|||apoyar
+ESG|||hogar|||aprobar
+ESG|||hogar|||respaldar
+ESG|||hogar|||favorecer
+ESG|||hogar|||priorizar
+ESG|||hogar|||prioridad
+ESG|||público|||respaldar
+ESG|||público|||favorecer
