@@ -9601,3 +9601,15 @@ Stacktrace:
 2026-05-25 01:29:53,219 - INFO - [线程5|账号41172631627351] 开始登录，访问登录页面...
 2026-05-25 01:29:53,570 - INFO - [浏览器4|账号41172258627350] ✅ 浏览器重建成功！UA: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.40... 视口: 1536x864
 2026-05-25 01:29:53,570 - INFO - [线程4|账号41172258627350] 开始登录，访问登录页面...
+2026-05-25 01:30:47,372 - INFO - [线程5|账号41172631627351] ✅ 登录成功（DC 卡号登录）
+2026-05-25 01:30:47,372 - INFO - [浏览器5|账号41172631627351] ✅ 重建后登录成功
+2026-05-25 01:30:47,375 - INFO - [线程6251327488|账号41172631627351] ✅ 深度重置失败后浏览器重建成功，最后一次尝试组合：energía renovable+regulación+incierto
+2026-05-25 01:30:50,871 - INFO - [线程4|账号41172258627350] ✅ 登录成功（DC 卡号登录）
+2026-05-25 01:30:50,872 - INFO - [浏览器4|账号41172258627350] ✅ 重建后登录成功
+2026-05-25 01:30:50,877 - INFO - [线程6234501120|账号41172258627350] ✅ 深度重置失败后浏览器重建成功，最后一次尝试组合：energía renovable+regulación+incierto
+2026-05-25 01:31:53,412 - INFO - [线程6251327488|账号41172631627351] 📊 搜索完成 - energía renovable+regulación+incierto = 0 条 📝 无结果已记录 📍 URL: https://infoweb-newsbank-com.dclibrary.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=pubname%3AREVLI%21Revista%2BLideres%2B%2528Quito%252C%2BEcuador%2529&maxresults=60&f=advanced&val-base-0=energ%C3%ADa%20renovable&fld-base-0=alltext&bln-base-1=and&val-base-1=regulaci%C3%B3n&fld-base-1=alltext&bln-base-2=and&val-base-2=incierto&fld-base-2=alltext&fld-nav-0=YMD_date&val-nav-0=-2026.4
+2026-05-25 01:31:53,414 - INFO - ✅ 组合 ('energía renovable', 'regulación', 'incierto') 处理成功 (8/9)
+2026-05-25 01:32:51,832 - ERROR - ❌ [线程6234501120|账号41172258627350] 页面无响应，加载超时
+2026-05-25 01:32:51,845 - ERROR - ❌[线程6234501120|账号41172258627350] 刷新页面后重新搜索失败: HTTPConnectionPool(host='localhost', port=60539): Max retries exceeded with url: /session/ab5996beb210966f84eb354a671e5116/refresh (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x105e27220>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2026-05-25 01:32:51,845 - WARNING - ⚠️ [线程6234501120|账号41172258627350] 第1次尝试深度重置
+2026-05-25 01:32:51,853 - WARNING - ❌ [线程6234501120|账号41172258627350] 第1次深度重置失败: HTTPConnectionPool(host='localhost', port=60539): Max retries exceeded with url: /session/ab5996beb210966f84eb354a671e5116/refresh (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x105e1d430>: Failed to establish a new connection: [Errno 61] Connection refused'))

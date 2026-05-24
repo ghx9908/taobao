@@ -75,66 +75,66 @@ account_configs = [
         'driver': None,
         'thread_id': 5
     },
-    # {
-    #     'username': '41172333627353',
-    #     'password': '1234',
-    #     'driver': None,
-    #     'thread_id': 6
-    # },
-    # {
-    #     'username': '41172815627354',
-    #     'password': '1234',
-    #     'driver': None,
-    #     'thread_id': 7
-    # },
-    # {
-    #     'username': '41172572627355',
-    #     'password': '1234',
-    #     'driver': None,
-    #     'thread_id': 8
-    # },
-    # {
-    #     'username': '41172604627356',
-    #     'password': '1234',
-    #     'driver': None,
-    #     'thread_id': 9
-    # },
-    # {
-    #     'username': '41172744627358',
-    #     'password': '1234',
-    #     'driver': None,
-    #     'thread_id': 10
-    # },
-    # {
-    #     'username': '41172712627360',
-    #     'password': '1234',
-    #     'driver': None,
-    #     'thread_id': 11
-    # },
-    # {
-    #     'username': '41172184627362',
-    #     'password': '1234',
-    #     'driver': None,
-    #     'thread_id': 12
-    # },
-    # {
-    #     'username': '41172318627363',
-    #     'password': '1234',
-    #     'driver': None,
-    #     'thread_id': 13
-    # },
-    # {
-    #     'username': '41172932627364',
-    #     'password': '1234',
-    #     'driver': None,
-    #     'thread_id': 14
-    # },
-    # {
-    #     'username': '41172846627365',
-    #     'password': '1234',
-    #     'driver': None,
-    #     'thread_id': 15
-    # },
+    {
+        'username': '41172333627353',
+        'password': '1234',
+        'driver': None,
+        'thread_id': 6
+    },
+    {
+        'username': '41172815627354',
+        'password': '1234',
+        'driver': None,
+        'thread_id': 7
+    },
+    {
+        'username': '41172572627355',
+        'password': '1234',
+        'driver': None,
+        'thread_id': 8
+    },
+    {
+        'username': '41172604627356',
+        'password': '1234',
+        'driver': None,
+        'thread_id': 9
+    },
+    {
+        'username': '41172744627358',
+        'password': '1234',
+        'driver': None,
+        'thread_id': 10
+    },
+    {
+        'username': '41172712627360',
+        'password': '1234',
+        'driver': None,
+        'thread_id': 11
+    },
+    {
+        'username': '41172184627362',
+        'password': '1234',
+        'driver': None,
+        'thread_id': 12
+    },
+    {
+        'username': '41172318627363',
+        'password': '1234',
+        'driver': None,
+        'thread_id': 13
+    },
+    {
+        'username': '41172932627364',
+        'password': '1234',
+        'driver': None,
+        'thread_id': 14
+    },
+    {
+        'username': '41172846627365',
+        'password': '1234',
+        'driver': None,
+        'thread_id': 15
+    },
 ]
 
 domain_url = 'https://infoweb-newsbank-com.dclibrary.idm.oclc.org'
