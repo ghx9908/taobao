@@ -5751,3 +5751,32 @@ Country                                              Ecuador
 Name: 9, dtype: object
 2026-05-24 14:50:38,033 - INFO - 文件 'search_results/市场风险厄瓜多尔El Comercio (Quito, Ecuador).xlsx' 在 search_results/ 目录中不存在
 2026-05-24 14:57:10,660 - WARNING - ⚠️ 未找到期刊 '厄瓜多尔',' Revista Lideres (Quito, Ecuador)' 的代码映射
+2026-05-24 19:51:41,323 - INFO - 线程 8637571264 开始执行
+2026-05-24 19:51:41,323 - INFO - 开始清理根目录下的旧文件...
+2026-05-24 19:51:41,323 - INFO - ✅ 旧文件清理完成
+2026-05-24 19:51:41,323 - INFO - 开始创建1个浏览器实例...
+2026-05-24 19:51:41,324 - INFO - [浏览器1] 动态生成UA: Mozilla/5.0 (Macintosh; Intel Mac OS X 13_6_0) AppleWebKit/5... 视口: 1366x768
+2026-05-24 19:51:41,905 - INFO - [浏览器1|账号ECARD0688869] ✅ 浏览器启动成功！
+2026-05-24 19:51:41,905 - INFO - ✅ 账号 ECARD0688869 浏览器创建成功
+2026-05-24 19:51:41,905 - INFO - 开始为1个浏览器并行登录...
+2026-05-24 19:51:41,905 - INFO - [线程1|账号ECARD0688869] 开始登录，访问登录页面...
+2026-05-24 19:52:24,059 - INFO - [线程1|账号ECARD0688869] ✅ 登录成功
+2026-05-24 19:52:24,060 - INFO - ✅ 账号 ECARD0688869 登录成功
+2026-05-24 19:52:24,060 - INFO - 线程 8637571264 执行结束
+2026-05-24 19:52:24,129 - INFO - 成功读取文件: country_small.txt
+2026-05-24 19:52:24,133 - INFO - sheet表名为政策风险的基本信息：
+2026-05-24 19:52:24,141 - INFO - sheet表名为技术风险的基本信息：
+2026-05-24 19:52:24,145 - INFO - sheet表名为市场风险的基本信息：
+2026-05-24 19:52:24,147 - INFO - {'El Universal (Venezuela)': 'pubname:VEUC!El+Universal+%28Venezuela%29', 'Revista Lideres (Quito, Ecuador)': 'pubname:REVLI!Revista+Lideres+%28Quito%2C+Ecuador%29'}
+2026-05-24 19:52:24,149 - INFO - sheet表名为政策风险的基本信息：None
+2026-05-24 19:52:24,149 - INFO - 第 0 行数据：
+2026-05-24 19:52:24,149 - INFO - 所属洲                                                      南美洲
+国家                                                      委内瑞拉
+Country                                            Venezuela
+指定报纸报道                              El Universal (Venezuela)
+爬取时间                                               2005-2025
+气候         cambio climático/crisis climática/gases de efe...
+政策         política/políticas/regulación/regulaciones/leg...
+不确定        incierto/incertidumbre/incierto/desconocido/va...
+Name: 0, dtype: object
+2026-05-24 19:52:24,149 - INFO - 文件 'search_results/政策风险委内瑞拉El Universal (Venezuela).xlsx' 在 search_results/ 目录中不存在

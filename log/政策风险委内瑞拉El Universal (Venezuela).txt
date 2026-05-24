@@ -1,0 +1,21 @@
+2026-05-24 19:52:24,149 - INFO - 🚀 开始处理任务: 政策风险委内瑞拉El Universal (Venezuela).xlsx
+2026-05-24 19:52:24,149 - INFO - 开始初始化所有driver到2025年页面: https://infoweb.newsbank.com/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=pubname%3AVEUC%21El%2BUniversal%2B%2528Venezuela%2529&maxresults=60&f=advanced&fld-nav-0=YMD_date&val-nav-0=-2026.4
+2026-05-24 19:52:42,810 - INFO - 账号 ECARD0688869 的driver成功访问2025年页面
+2026-05-24 19:52:42,811 - INFO - ✅ 账号 ECARD0688869 的driver初始化成功
+2026-05-24 19:52:42,811 - INFO - 所有driver初始化完成
+2026-05-24 19:52:42,811 - INFO - ================================================================================
+2026-05-24 19:52:42,811 - INFO - 📋 正常模式：先处理二组合，再基于有效二组合生成三组合
+2026-05-24 19:52:42,811 - INFO - ================================================================================
+2026-05-24 19:52:42,812 - INFO - 开始处理 1035 个二组合:
+2026-05-24 19:52:42,812 - INFO -   - climate+policy: 405 个
+2026-05-24 19:52:42,812 - INFO -   - climate+uncertainty: 405 个
+2026-05-24 19:52:42,813 - INFO -   - policy+uncertainty: 225 个
+2026-05-24 19:52:42,813 - INFO - 需要处理 1035 个新的二组合
+2026-05-24 19:52:42,813 - INFO - 总计需要处理 1035 个二组合
+2026-05-24 19:52:42,814 - INFO - 使用 1 个线程处理二组合
+2026-05-24 19:52:42,814 - INFO - [线程6172291072|账号ECARD0688869] 🔍 开始处理新二组合(climate_policy)：cambio climático + política 
+2026-05-24 19:52:42,820 - INFO - 程序开始时间: 2026-05-24 19:52:42
+2026-05-24 19:53:23,212 - ERROR - ❌ [线程6172291072|账号ECARD0688869] 页面无响应，加载超时
+2026-05-24 19:53:23,214 - ERROR - ❌[线程6172291072|账号ECARD0688869] 刷新页面后重新搜索失败: HTTPConnectionPool(host='localhost', port=50565): Max retries exceeded with url: /session/08fde0ee645f14a2ee52260e6052fea2/refresh (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x10592cac0>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2026-05-24 19:53:23,214 - WARNING - ⚠️ [线程6172291072|账号ECARD0688869] 第1次尝试深度重置
+2026-05-24 19:53:23,218 - WARNING - ❌ [线程6172291072|账号ECARD0688869] 第1次深度重置失败: HTTPConnectionPool(host='localhost', port=50565): Max retries exceeded with url: /session/08fde0ee645f14a2ee52260e6052fea2/refresh (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1014de700>: Failed to establish a new connection: [Errno 61] Connection refused'))
