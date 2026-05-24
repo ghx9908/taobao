@@ -167,7 +167,7 @@ account_configs = [
     # },
 ]
 
-domain_url = 'https://infoweb-newsbank-com.lapl.idm.oclc.org/'
+domain_url = 'https://infoweb-newsbank-com.lapl.idm.oclc.org'
 country_list_file = "country_small.txt"
 journal_name_to_code = {}
 no_journal_name = []

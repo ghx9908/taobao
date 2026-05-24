@@ -19,3 +19,664 @@
 2026-05-24 19:53:23,214 - ERROR - ❌[线程6172291072|账号ECARD0688869] 刷新页面后重新搜索失败: HTTPConnectionPool(host='localhost', port=50565): Max retries exceeded with url: /session/08fde0ee645f14a2ee52260e6052fea2/refresh (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x10592cac0>: Failed to establish a new connection: [Errno 61] Connection refused'))
 2026-05-24 19:53:23,214 - WARNING - ⚠️ [线程6172291072|账号ECARD0688869] 第1次尝试深度重置
 2026-05-24 19:53:23,218 - WARNING - ❌ [线程6172291072|账号ECARD0688869] 第1次深度重置失败: HTTPConnectionPool(host='localhost', port=50565): Max retries exceeded with url: /session/08fde0ee645f14a2ee52260e6052fea2/refresh (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1014de700>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2026-05-24 19:54:58,620 - INFO - 🚀 开始处理任务: 政策风险委内瑞拉El Universal (Venezuela).xlsx
+2026-05-24 19:54:58,620 - INFO - 开始初始化所有driver到2025年页面: https://infoweb-newsbank-com.lapl.idm.oclc.org//apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=pubname%3AVEUC%21El%2BUniversal%2B%2528Venezuela%2529&maxresults=60&f=advanced&fld-nav-0=YMD_date&val-nav-0=-2026.4
+2026-05-24 19:55:13,008 - INFO - 账号 ECARD0688869 的driver成功访问2025年页面
+2026-05-24 19:55:13,009 - INFO - ✅ 账号 ECARD0688869 的driver初始化成功
+2026-05-24 19:55:13,009 - INFO - 所有driver初始化完成
+2026-05-24 19:55:13,010 - INFO - ================================================================================
+2026-05-24 19:55:13,010 - INFO - 📋 正常模式：先处理二组合，再基于有效二组合生成三组合
+2026-05-24 19:55:13,010 - INFO - ================================================================================
+2026-05-24 19:55:13,011 - INFO - 开始处理 1035 个二组合:
+2026-05-24 19:55:13,011 - INFO -   - climate+policy: 405 个
+2026-05-24 19:55:13,011 - INFO -   - climate+uncertainty: 405 个
+2026-05-24 19:55:13,011 - INFO -   - policy+uncertainty: 225 个
+2026-05-24 19:55:13,011 - INFO - 需要处理 1035 个新的二组合
+2026-05-24 19:55:13,011 - INFO - 总计需要处理 1035 个二组合
+2026-05-24 19:55:13,012 - INFO - 使用 1 个线程处理二组合
+2026-05-24 19:55:13,012 - INFO - [线程6178467840|账号ECARD0688869] 🔍 开始处理新二组合(climate_policy)：cambio climático + política 
+2026-05-24 19:55:13,017 - INFO - 程序开始时间: 2026-05-24 19:55:13
+2026-05-24 19:55:55,607 - INFO - [线程6178467840|账号ECARD0688869] ✅ 二组合(climate_policy) cambio climático + política 有 62294 条结果 📍 URL: https://infoweb-newsbank-com.lapl.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=&maxresults=60&f=advanced&val-base-0=cambio%20clim%C3%A1tico&fld-base-0=alltext&bln-base-1=and&val-base-1=pol%C3%ADtica&fld-base-1=alltext
+2026-05-24 19:55:55,607 - INFO - [线程6178467840|账号ECARD0688869] 🔍 开始处理新二组合(climate_policy)：cambio climático + políticas 
+2026-05-24 19:55:55,607 - INFO - ✅ 二组合 ('climate_policy', 'cambio climático', 'política') 处理成功 (1/1035)
+2026-05-24 19:56:08,919 - INFO - [线程6178467840|账号ECARD0688869] ✅ 二组合(climate_policy) cambio climático + políticas 有 42108 条结果 📍 URL: https://infoweb-newsbank-com.lapl.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=&maxresults=60&f=advanced&val-base-0=cambio%20clim%C3%A1tico&fld-base-0=alltext&bln-base-1=and&val-base-1=pol%C3%ADticas&fld-base-1=alltext
+2026-05-24 19:56:08,919 - INFO - [线程6178467840|账号ECARD0688869] 🔍 开始处理新二组合(climate_policy)：cambio climático + regulación 
+2026-05-24 19:56:08,919 - INFO - ✅ 二组合 ('climate_policy', 'cambio climático', 'políticas') 处理成功 (2/1035)
+2026-05-24 19:56:24,705 - INFO - [线程6178467840|账号ECARD0688869] ✅ 二组合(climate_policy) cambio climático + regulación 有 6159 条结果 📍 URL: https://infoweb-newsbank-com.lapl.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=&maxresults=60&f=advanced&val-base-0=cambio%20clim%C3%A1tico&fld-base-0=alltext&bln-base-1=and&val-base-1=regulaci%C3%B3n&fld-base-1=alltext
+2026-05-24 19:56:24,705 - INFO - [线程6178467840|账号ECARD0688869] 🔍 开始处理新二组合(climate_policy)：cambio climático + regulaciones 
+2026-05-24 19:56:24,705 - INFO - ✅ 二组合 ('climate_policy', 'cambio climático', 'regulación') 处理成功 (3/1035)
+2026-05-24 19:56:39,845 - INFO - [线程6178467840|账号ECARD0688869] ✅ 二组合(climate_policy) cambio climático + regulaciones 有 4195 条结果 📍 URL: https://infoweb-newsbank-com.lapl.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=&maxresults=60&f=advanced&val-base-0=cambio%20clim%C3%A1tico&fld-base-0=alltext&bln-base-1=and&val-base-1=regulaciones&fld-base-1=alltext
+2026-05-24 19:56:39,845 - INFO - [线程6178467840|账号ECARD0688869] 🔍 开始处理新二组合(climate_policy)：cambio climático + legislación 
+2026-05-24 19:56:39,846 - INFO - ✅ 二组合 ('climate_policy', 'cambio climático', 'regulaciones') 处理成功 (4/1035)
+2026-05-24 19:56:53,113 - INFO - [线程6178467840|账号ECARD0688869] ✅ 二组合(climate_policy) cambio climático + legislación 有 5769 条结果 📍 URL: https://infoweb-newsbank-com.lapl.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=&maxresults=60&f=advanced&val-base-0=cambio%20clim%C3%A1tico&fld-base-0=alltext&bln-base-1=and&val-base-1=legislaci%C3%B3n&fld-base-1=alltext
+2026-05-24 19:56:53,113 - INFO - [线程6178467840|账号ECARD0688869] 🔍 开始处理新二组合(climate_policy)：cambio climático + ley 
+2026-05-24 19:56:53,113 - INFO - ✅ 二组合 ('climate_policy', 'cambio climático', 'legislación') 处理成功 (5/1035)
+2026-05-24 19:57:06,460 - INFO - [线程6178467840|账号ECARD0688869] ✅ 二组合(climate_policy) cambio climático + ley 有 23477 条结果 📍 URL: https://infoweb-newsbank-com.lapl.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=&maxresults=60&f=advanced&val-base-0=cambio%20clim%C3%A1tico&fld-base-0=alltext&bln-base-1=and&val-base-1=ley&fld-base-1=alltext
+2026-05-24 19:57:06,461 - INFO - [线程6178467840|账号ECARD0688869] 🔍 开始处理新二组合(climate_policy)：cambio climático + parlamento 
+2026-05-24 19:57:06,461 - INFO - ✅ 二组合 ('climate_policy', 'cambio climático', 'ley') 处理成功 (6/1035)
+2026-05-24 19:57:19,745 - INFO - [线程6178467840|账号ECARD0688869] ✅ 二组合(climate_policy) cambio climático + parlamento 有 7887 条结果 📍 URL: https://infoweb-newsbank-com.lapl.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=&maxresults=60&f=advanced&val-base-0=cambio%20clim%C3%A1tico&fld-base-0=alltext&bln-base-1=and&val-base-1=parlamento&fld-base-1=alltext
+2026-05-24 19:57:19,745 - INFO - [线程6178467840|账号ECARD0688869] 🔍 开始处理新二组合(climate_policy)：cambio climático + congreso 
+2026-05-24 19:57:19,746 - INFO - ✅ 二组合 ('climate_policy', 'cambio climático', 'parlamento') 处理成功 (7/1035)
+2026-05-24 19:57:47,131 - INFO - [线程6178467840|账号ECARD0688869] ✅ 二组合(climate_policy) cambio climático + congreso 有 18958 条结果 📍 URL: https://infoweb-newsbank-com.lapl.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=&maxresults=60&f=advanced&val-base-0=cambio%20clim%C3%A1tico&fld-base-0=alltext&bln-base-1=and&val-base-1=congreso&fld-base-1=alltext
+2026-05-24 19:57:47,131 - INFO - [线程6178467840|账号ECARD0688869] 🔍 开始处理新二组合(climate_policy)：cambio climático + Asamblea Nacional 
+2026-05-24 19:57:47,131 - INFO - ✅ 二组合 ('climate_policy', 'cambio climático', 'congreso') 处理成功 (8/1035)
+2026-05-24 19:58:01,086 - INFO - [线程6178467840|账号ECARD0688869] ✅ 二组合(climate_policy) cambio climático + Asamblea Nacional 有 4228 条结果 📍 URL: https://infoweb-newsbank-com.lapl.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=&maxresults=60&f=advanced&val-base-0=cambio%20clim%C3%A1tico&fld-base-0=alltext&bln-base-1=and&val-base-1=Asamblea%20Nacional&fld-base-1=alltext
+2026-05-24 19:58:01,086 - INFO - [线程6178467840|账号ECARD0688869] 🔍 开始处理新二组合(climate_policy)：cambio climático + presidente 
+2026-05-24 19:58:01,086 - INFO - ✅ 二组合 ('climate_policy', 'cambio climático', 'Asamblea Nacional') 处理成功 (9/1035)
+2026-05-24 19:58:15,628 - INFO - [线程6178467840|账号ECARD0688869] ✅ 二组合(climate_policy) cambio climático + presidente 有 82865 条结果 📍 URL: https://infoweb-newsbank-com.lapl.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=&maxresults=60&f=advanced&val-base-0=cambio%20clim%C3%A1tico&fld-base-0=alltext&bln-base-1=and&val-base-1=presidente&fld-base-1=alltext
+2026-05-24 19:58:15,629 - INFO - [线程6178467840|账号ECARD0688869] 🔍 开始处理新二组合(climate_policy)：cambio climático + ministro 
+2026-05-24 19:58:15,629 - INFO - ✅ 二组合 ('climate_policy', 'cambio climático', 'presidente') 处理成功 (10/1035)
+2026-05-24 19:58:40,095 - INFO - [线程6178467840|账号ECARD0688869] ✅ 二组合(climate_policy) cambio climático + ministro 有 31011 条结果 📍 URL: https://infoweb-newsbank-com.lapl.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=&maxresults=60&f=advanced&val-base-0=cambio%20clim%C3%A1tico&fld-base-0=alltext&bln-base-1=and&val-base-1=ministro&fld-base-1=alltext
+2026-05-24 19:58:40,096 - INFO - [线程6178467840|账号ECARD0688869] 🔍 开始处理新二组合(climate_policy)：cambio climático + presidencia 
+2026-05-24 19:58:40,096 - INFO - ✅ 二组合 ('climate_policy', 'cambio climático', 'ministro') 处理成功 (11/1035)
+2026-05-24 19:58:53,381 - INFO - [线程6178467840|账号ECARD0688869] ✅ 二组合(climate_policy) cambio climático + presidencia 有 17339 条结果 📍 URL: https://infoweb-newsbank-com.lapl.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=&maxresults=60&f=advanced&val-base-0=cambio%20clim%C3%A1tico&fld-base-0=alltext&bln-base-1=and&val-base-1=presidencia&fld-base-1=alltext
+2026-05-24 19:58:53,381 - INFO - [线程6178467840|账号ECARD0688869] 🔍 开始处理新二组合(climate_policy)：cambio climático + gobierno 
+2026-05-24 19:58:53,381 - INFO - ✅ 二组合 ('climate_policy', 'cambio climático', 'presidencia') 处理成功 (12/1035)
+2026-05-24 19:59:07,114 - INFO - [线程6178467840|账号ECARD0688869] ✅ 二组合(climate_policy) cambio climático + gobierno 有 81323 条结果 📍 URL: https://infoweb-newsbank-com.lapl.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=&maxresults=60&f=advanced&val-base-0=cambio%20clim%C3%A1tico&fld-base-0=alltext&bln-base-1=and&val-base-1=gobierno&fld-base-1=alltext
+2026-05-24 19:59:07,115 - INFO - [线程6178467840|账号ECARD0688869] 🔍 开始处理新二组合(climate_policy)：cambio climático + Ministerio del Poder Popular para el Ecosocialismo 
+2026-05-24 19:59:07,115 - INFO - ✅ 二组合 ('climate_policy', 'cambio climático', 'gobierno') 处理成功 (13/1035)
+2026-05-24 19:59:20,401 - INFO - [线程6178467840|账号ECARD0688869] ✅ 二组合(climate_policy) cambio climático + Ministerio del Poder Popular para el Ecosocialismo 有 7 条结果 📍 URL: https://infoweb-newsbank-com.lapl.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=&maxresults=60&f=advanced&val-base-0=cambio%20clim%C3%A1tico&fld-base-0=alltext&bln-base-1=and&val-base-1=Ministerio%20del%20Poder%20Popular%20para%20el%20Ecosocialismo&fld-base-1=alltext
+2026-05-24 19:59:20,401 - INFO - [线程6178467840|账号ECARD0688869] 🔍 开始处理新二组合(climate_policy)：cambio climático + MINEC 
+2026-05-24 19:59:20,401 - INFO - ✅ 二组合 ('climate_policy', 'cambio climático', 'Ministerio del Poder Popular para el Ecosocialismo') 处理成功 (14/1035)
+2026-05-24 19:59:33,647 - INFO - [线程6178467840|账号ECARD0688869] ✅ 二组合(climate_policy) cambio climático + MINEC 有 14 条结果 📍 URL: https://infoweb-newsbank-com.lapl.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=&maxresults=60&f=advanced&val-base-0=cambio%20clim%C3%A1tico&fld-base-0=alltext&bln-base-1=and&val-base-1=MINEC&fld-base-1=alltext
+2026-05-24 19:59:33,647 - INFO - [线程6178467840|账号ECARD0688869] 🔍 开始处理新二组合(climate_policy)：crisis climática + política 
+2026-05-24 19:59:33,647 - INFO - ✅ 二组合 ('climate_policy', 'cambio climático', 'MINEC') 处理成功 (15/1035)
+2026-05-24 19:59:57,602 - INFO - [线程6178467840|账号ECARD0688869] ✅ 二组合(climate_policy) crisis climática + política 有 10725 条结果 📍 URL: https://infoweb-newsbank-com.lapl.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=&maxresults=60&f=advanced&val-base-0=crisis%20clim%C3%A1tica&fld-base-0=alltext&bln-base-1=and&val-base-1=pol%C3%ADtica&fld-base-1=alltext
+2026-05-24 19:59:57,603 - INFO - [线程6178467840|账号ECARD0688869] 🔍 开始处理新二组合(climate_policy)：crisis climática + políticas 
+2026-05-24 19:59:57,603 - INFO - ✅ 二组合 ('climate_policy', 'crisis climática', 'política') 处理成功 (16/1035)
+2026-05-24 20:00:10,903 - INFO - [线程6178467840|账号ECARD0688869] ✅ 二组合(climate_policy) crisis climática + políticas 有 7451 条结果 📍 URL: https://infoweb-newsbank-com.lapl.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=&maxresults=60&f=advanced&val-base-0=crisis%20clim%C3%A1tica&fld-base-0=alltext&bln-base-1=and&val-base-1=pol%C3%ADticas&fld-base-1=alltext
+2026-05-24 20:00:10,903 - INFO - [线程6178467840|账号ECARD0688869] 🔍 开始处理新二组合(climate_policy)：crisis climática + regulación 
+2026-05-24 20:00:10,903 - INFO - ✅ 二组合 ('climate_policy', 'crisis climática', 'políticas') 处理成功 (17/1035)
+2026-05-24 20:00:24,180 - INFO - [线程6178467840|账号ECARD0688869] ✅ 二组合(climate_policy) crisis climática + regulación 有 1053 条结果 📍 URL: https://infoweb-newsbank-com.lapl.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=&maxresults=60&f=advanced&val-base-0=crisis%20clim%C3%A1tica&fld-base-0=alltext&bln-base-1=and&val-base-1=regulaci%C3%B3n&fld-base-1=alltext
+2026-05-24 20:00:24,180 - INFO - [线程6178467840|账号ECARD0688869] 🔍 开始处理新二组合(climate_policy)：crisis climática + regulaciones 
+2026-05-24 20:00:24,180 - INFO - ✅ 二组合 ('climate_policy', 'crisis climática', 'regulación') 处理成功 (18/1035)
+2026-05-24 20:00:39,512 - INFO - [线程6178467840|账号ECARD0688869] ✅ 二组合(climate_policy) crisis climática + regulaciones 有 618 条结果 📍 URL: https://infoweb-newsbank-com.lapl.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=&maxresults=60&f=advanced&val-base-0=crisis%20clim%C3%A1tica&fld-base-0=alltext&bln-base-1=and&val-base-1=regulaciones&fld-base-1=alltext
+2026-05-24 20:00:39,512 - INFO - [线程6178467840|账号ECARD0688869] 🔍 开始处理新二组合(climate_policy)：crisis climática + legislación 
+2026-05-24 20:00:39,512 - INFO - ✅ 二组合 ('climate_policy', 'crisis climática', 'regulaciones') 处理成功 (19/1035)
+2026-05-24 20:00:53,576 - INFO - [线程6178467840|账号ECARD0688869] ✅ 二组合(climate_policy) crisis climática + legislación 有 889 条结果 📍 URL: https://infoweb-newsbank-com.lapl.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=&maxresults=60&f=advanced&val-base-0=crisis%20clim%C3%A1tica&fld-base-0=alltext&bln-base-1=and&val-base-1=legislaci%C3%B3n&fld-base-1=alltext
+2026-05-24 20:00:53,576 - INFO - [线程6178467840|账号ECARD0688869] 🔍 开始处理新二组合(climate_policy)：crisis climática + ley 
+2026-05-24 20:00:53,576 - INFO - ✅ 二组合 ('climate_policy', 'crisis climática', 'legislación') 处理成功 (20/1035)
+2026-05-24 20:01:09,133 - INFO - [线程6178467840|账号ECARD0688869] ✅ 二组合(climate_policy) crisis climática + ley 有 3940 条结果 📍 URL: https://infoweb-newsbank-com.lapl.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=&maxresults=60&f=advanced&val-base-0=crisis%20clim%C3%A1tica&fld-base-0=alltext&bln-base-1=and&val-base-1=ley&fld-base-1=alltext
+2026-05-24 20:01:09,133 - INFO - [线程6178467840|账号ECARD0688869] 🔍 开始处理新二组合(climate_policy)：crisis climática + parlamento 
+2026-05-24 20:01:09,133 - INFO - ✅ 二组合 ('climate_policy', 'crisis climática', 'ley') 处理成功 (21/1035)
+2026-05-24 20:01:22,407 - INFO - [线程6178467840|账号ECARD0688869] ✅ 二组合(climate_policy) crisis climática + parlamento 有 1628 条结果 📍 URL: https://infoweb-newsbank-com.lapl.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=&maxresults=60&f=advanced&val-base-0=crisis%20clim%C3%A1tica&fld-base-0=alltext&bln-base-1=and&val-base-1=parlamento&fld-base-1=alltext
+2026-05-24 20:01:22,407 - INFO - [线程6178467840|账号ECARD0688869] 🔍 开始处理新二组合(climate_policy)：crisis climática + congreso 
+2026-05-24 20:01:22,407 - INFO - ✅ 二组合 ('climate_policy', 'crisis climática', 'parlamento') 处理成功 (22/1035)
+2026-05-24 20:01:51,160 - INFO - [线程6178467840|账号ECARD0688869] ✅ 二组合(climate_policy) crisis climática + congreso 有 3158 条结果 📍 URL: https://infoweb-newsbank-com.lapl.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=&maxresults=60&f=advanced&val-base-0=crisis%20clim%C3%A1tica&fld-base-0=alltext&bln-base-1=and&val-base-1=congreso&fld-base-1=alltext
+2026-05-24 20:01:51,160 - INFO - [线程6178467840|账号ECARD0688869] 🔍 开始处理新二组合(climate_policy)：crisis climática + Asamblea Nacional 
+2026-05-24 20:01:51,160 - INFO - ✅ 二组合 ('climate_policy', 'crisis climática', 'congreso') 处理成功 (23/1035)
+2026-05-24 20:02:04,457 - INFO - [线程6178467840|账号ECARD0688869] ✅ 二组合(climate_policy) crisis climática + Asamblea Nacional 有 871 条结果 📍 URL: https://infoweb-newsbank-com.lapl.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=&maxresults=60&f=advanced&val-base-0=crisis%20clim%C3%A1tica&fld-base-0=alltext&bln-base-1=and&val-base-1=Asamblea%20Nacional&fld-base-1=alltext
+2026-05-24 20:02:04,457 - INFO - [线程6178467840|账号ECARD0688869] 🔍 开始处理新二组合(climate_policy)：crisis climática + presidente 
+2026-05-24 20:02:04,457 - INFO - ✅ 二组合 ('climate_policy', 'crisis climática', 'Asamblea Nacional') 处理成功 (24/1035)
+2026-05-24 20:02:27,907 - INFO - [线程6178467840|账号ECARD0688869] ✅ 二组合(climate_policy) crisis climática + presidente 有 12884 条结果 📍 URL: https://infoweb-newsbank-com.lapl.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=&maxresults=60&f=advanced&val-base-0=crisis%20clim%C3%A1tica&fld-base-0=alltext&bln-base-1=and&val-base-1=presidente&fld-base-1=alltext
+2026-05-24 20:02:27,907 - INFO - [线程6178467840|账号ECARD0688869] 🔍 开始处理新二组合(climate_policy)：crisis climática + ministro 
+2026-05-24 20:02:27,907 - INFO - ✅ 二组合 ('climate_policy', 'crisis climática', 'presidente') 处理成功 (25/1035)
+2026-05-24 20:02:41,203 - INFO - [线程6178467840|账号ECARD0688869] ✅ 二组合(climate_policy) crisis climática + ministro 有 4705 条结果 📍 URL: https://infoweb-newsbank-com.lapl.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=&maxresults=60&f=advanced&val-base-0=crisis%20clim%C3%A1tica&fld-base-0=alltext&bln-base-1=and&val-base-1=ministro&fld-base-1=alltext
+2026-05-24 20:02:41,203 - INFO - [线程6178467840|账号ECARD0688869] 🔍 开始处理新二组合(climate_policy)：crisis climática + presidencia 
+2026-05-24 20:02:41,203 - INFO - ✅ 二组合 ('climate_policy', 'crisis climática', 'ministro') 处理成功 (26/1035)
+2026-05-24 20:02:55,084 - INFO - [线程6178467840|账号ECARD0688869] ✅ 二组合(climate_policy) crisis climática + presidencia 有 2855 条结果 📍 URL: https://infoweb-newsbank-com.lapl.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=&maxresults=60&f=advanced&val-base-0=crisis%20clim%C3%A1tica&fld-base-0=alltext&bln-base-1=and&val-base-1=presidencia&fld-base-1=alltext
+2026-05-24 20:02:55,084 - INFO - [线程6178467840|账号ECARD0688869] 🔍 开始处理新二组合(climate_policy)：crisis climática + gobierno 
+2026-05-24 20:02:55,084 - INFO - ✅ 二组合 ('climate_policy', 'crisis climática', 'presidencia') 处理成功 (27/1035)
+2026-05-24 20:03:21,492 - INFO - [线程6178467840|账号ECARD0688869] ✅ 二组合(climate_policy) crisis climática + gobierno 有 12487 条结果 📍 URL: https://infoweb-newsbank-com.lapl.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=&maxresults=60&f=advanced&val-base-0=crisis%20clim%C3%A1tica&fld-base-0=alltext&bln-base-1=and&val-base-1=gobierno&fld-base-1=alltext
+2026-05-24 20:03:21,492 - INFO - [线程6178467840|账号ECARD0688869] 🔍 开始处理新二组合(climate_policy)：crisis climática + Ministerio del Poder Popular para el Ecosocialismo 
+2026-05-24 20:03:21,492 - INFO - ✅ 二组合 ('climate_policy', 'crisis climática', 'gobierno') 处理成功 (28/1035)
+2026-05-24 20:03:34,752 - INFO - [线程6178467840|账号ECARD0688869] ✅ 二组合(climate_policy) crisis climática + Ministerio del Poder Popular para el Ecosocialismo 有 4 条结果 📍 URL: https://infoweb-newsbank-com.lapl.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=&maxresults=60&f=advanced&val-base-0=crisis%20clim%C3%A1tica&fld-base-0=alltext&bln-base-1=and&val-base-1=Ministerio%20del%20Poder%20Popular%20para%20el%20Ecosocialismo&fld-base-1=alltext
+2026-05-24 20:03:34,752 - INFO - [线程6178467840|账号ECARD0688869] 🔍 开始处理新二组合(climate_policy)：crisis climática + MINEC 
+2026-05-24 20:03:34,752 - INFO - ✅ 二组合 ('climate_policy', 'crisis climática', 'Ministerio del Poder Popular para el Ecosocialismo') 处理成功 (29/1035)
+2026-05-24 20:03:47,989 - INFO - [线程6178467840|账号ECARD0688869] ✅ 二组合(climate_policy) crisis climática + MINEC 有 6 条结果 📍 URL: https://infoweb-newsbank-com.lapl.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=&maxresults=60&f=advanced&val-base-0=crisis%20clim%C3%A1tica&fld-base-0=alltext&bln-base-1=and&val-base-1=MINEC&fld-base-1=alltext
+2026-05-24 20:03:47,989 - INFO - [线程6178467840|账号ECARD0688869] 🔍 开始处理新二组合(climate_policy)：gases de efecto invernadero + política 
+2026-05-24 20:03:47,989 - INFO - ✅ 二组合 ('climate_policy', 'crisis climática', 'MINEC') 处理成功 (30/1035)
+2026-05-24 20:04:01,270 - INFO - [线程6178467840|账号ECARD0688869] ✅ 二组合(climate_policy) gases de efecto invernadero + política 有 10791 条结果 📍 URL: https://infoweb-newsbank-com.lapl.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=&maxresults=60&f=advanced&val-base-0=gases%20de%20efecto%20invernadero&fld-base-0=alltext&bln-base-1=and&val-base-1=pol%C3%ADtica&fld-base-1=alltext
+2026-05-24 20:04:01,270 - INFO - [线程6178467840|账号ECARD0688869] 🔍 开始处理新二组合(climate_policy)：gases de efecto invernadero + políticas 
+2026-05-24 20:04:01,270 - INFO - ✅ 二组合 ('climate_policy', 'gases de efecto invernadero', 'política') 处理成功 (31/1035)
+2026-05-24 20:04:14,567 - INFO - [线程6178467840|账号ECARD0688869] ✅ 二组合(climate_policy) gases de efecto invernadero + políticas 有 9404 条结果 📍 URL: https://infoweb-newsbank-com.lapl.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=&maxresults=60&f=advanced&val-base-0=gases%20de%20efecto%20invernadero&fld-base-0=alltext&bln-base-1=and&val-base-1=pol%C3%ADticas&fld-base-1=alltext
+2026-05-24 20:04:14,567 - INFO - [线程6178467840|账号ECARD0688869] 🔍 开始处理新二组合(climate_policy)：gases de efecto invernadero + regulación 
+2026-05-24 20:04:14,567 - INFO - ✅ 二组合 ('climate_policy', 'gases de efecto invernadero', 'políticas') 处理成功 (32/1035)
+2026-05-24 20:04:37,681 - INFO - [线程6178467840|账号ECARD0688869] ✅ 二组合(climate_policy) gases de efecto invernadero + regulación 有 1745 条结果 📍 URL: https://infoweb-newsbank-com.lapl.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=&maxresults=60&f=advanced&val-base-0=gases%20de%20efecto%20invernadero&fld-base-0=alltext&bln-base-1=and&val-base-1=regulaci%C3%B3n&fld-base-1=alltext
+2026-05-24 20:04:37,681 - INFO - [线程6178467840|账号ECARD0688869] 🔍 开始处理新二组合(climate_policy)：gases de efecto invernadero + regulaciones 
+2026-05-24 20:04:37,681 - INFO - ✅ 二组合 ('climate_policy', 'gases de efecto invernadero', 'regulación') 处理成功 (33/1035)
+2026-05-24 20:05:00,829 - INFO - [线程6178467840|账号ECARD0688869] ✅ 二组合(climate_policy) gases de efecto invernadero + regulaciones 有 1733 条结果 📍 URL: https://infoweb-newsbank-com.lapl.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=&maxresults=60&f=advanced&val-base-0=gases%20de%20efecto%20invernadero&fld-base-0=alltext&bln-base-1=and&val-base-1=regulaciones&fld-base-1=alltext
+2026-05-24 20:05:00,830 - INFO - [线程6178467840|账号ECARD0688869] 🔍 开始处理新二组合(climate_policy)：gases de efecto invernadero + legislación 
+2026-05-24 20:05:00,830 - INFO - ✅ 二组合 ('climate_policy', 'gases de efecto invernadero', 'regulaciones') 处理成功 (34/1035)
+2026-05-24 20:05:14,128 - INFO - [线程6178467840|账号ECARD0688869] ✅ 二组合(climate_policy) gases de efecto invernadero + legislación 有 1682 条结果 📍 URL: https://infoweb-newsbank-com.lapl.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=&maxresults=60&f=advanced&val-base-0=gases%20de%20efecto%20invernadero&fld-base-0=alltext&bln-base-1=and&val-base-1=legislaci%C3%B3n&fld-base-1=alltext
+2026-05-24 20:05:14,128 - INFO - [线程6178467840|账号ECARD0688869] 🔍 开始处理新二组合(climate_policy)：gases de efecto invernadero + ley 
+2026-05-24 20:05:14,128 - INFO - ✅ 二组合 ('climate_policy', 'gases de efecto invernadero', 'legislación') 处理成功 (35/1035)
+2026-05-24 20:05:39,109 - INFO - [线程6178467840|账号ECARD0688869] ✅ 二组合(climate_policy) gases de efecto invernadero + ley 有 5834 条结果 📍 URL: https://infoweb-newsbank-com.lapl.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=&maxresults=60&f=advanced&val-base-0=gases%20de%20efecto%20invernadero&fld-base-0=alltext&bln-base-1=and&val-base-1=ley&fld-base-1=alltext
+2026-05-24 20:05:39,109 - INFO - [线程6178467840|账号ECARD0688869] 🔍 开始处理新二组合(climate_policy)：gases de efecto invernadero + parlamento 
+2026-05-24 20:05:39,109 - INFO - ✅ 二组合 ('climate_policy', 'gases de efecto invernadero', 'ley') 处理成功 (36/1035)
+2026-05-24 20:05:52,401 - INFO - [线程6178467840|账号ECARD0688869] ✅ 二组合(climate_policy) gases de efecto invernadero + parlamento 有 1371 条结果 📍 URL: https://infoweb-newsbank-com.lapl.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=&maxresults=60&f=advanced&val-base-0=gases%20de%20efecto%20invernadero&fld-base-0=alltext&bln-base-1=and&val-base-1=parlamento&fld-base-1=alltext
+2026-05-24 20:05:52,401 - INFO - [线程6178467840|账号ECARD0688869] 🔍 开始处理新二组合(climate_policy)：gases de efecto invernadero + congreso 
+2026-05-24 20:05:52,401 - INFO - ✅ 二组合 ('climate_policy', 'gases de efecto invernadero', 'parlamento') 处理成功 (37/1035)
+2026-05-24 20:06:05,678 - INFO - [线程6178467840|账号ECARD0688869] ✅ 二组合(climate_policy) gases de efecto invernadero + congreso 有 3156 条结果 📍 URL: https://infoweb-newsbank-com.lapl.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=&maxresults=60&f=advanced&val-base-0=gases%20de%20efecto%20invernadero&fld-base-0=alltext&bln-base-1=and&val-base-1=congreso&fld-base-1=alltext
+2026-05-24 20:06:05,678 - INFO - [线程6178467840|账号ECARD0688869] 🔍 开始处理新二组合(climate_policy)：gases de efecto invernadero + Asamblea Nacional 
+2026-05-24 20:06:05,678 - INFO - ✅ 二组合 ('climate_policy', 'gases de efecto invernadero', 'congreso') 处理成功 (38/1035)
+2026-05-24 20:06:29,795 - INFO - [线程6178467840|账号ECARD0688869] ✅ 二组合(climate_policy) gases de efecto invernadero + Asamblea Nacional 有 613 条结果 📍 URL: https://infoweb-newsbank-com.lapl.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=&maxresults=60&f=advanced&val-base-0=gases%20de%20efecto%20invernadero&fld-base-0=alltext&bln-base-1=and&val-base-1=Asamblea%20Nacional&fld-base-1=alltext
+2026-05-24 20:06:29,795 - INFO - [线程6178467840|账号ECARD0688869] 🔍 开始处理新二组合(climate_policy)：gases de efecto invernadero + presidente 
+2026-05-24 20:06:29,795 - INFO - ✅ 二组合 ('climate_policy', 'gases de efecto invernadero', 'Asamblea Nacional') 处理成功 (39/1035)
+2026-05-24 20:06:55,536 - INFO - [线程6178467840|账号ECARD0688869] ✅ 二组合(climate_policy) gases de efecto invernadero + presidente 有 15527 条结果 📍 URL: https://infoweb-newsbank-com.lapl.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=&maxresults=60&f=advanced&val-base-0=gases%20de%20efecto%20invernadero&fld-base-0=alltext&bln-base-1=and&val-base-1=presidente&fld-base-1=alltext
+2026-05-24 20:06:55,536 - INFO - [线程6178467840|账号ECARD0688869] 🔍 开始处理新二组合(climate_policy)：gases de efecto invernadero + ministro 
+2026-05-24 20:06:55,537 - INFO - ✅ 二组合 ('climate_policy', 'gases de efecto invernadero', 'presidente') 处理成功 (40/1035)
+2026-05-24 20:07:08,863 - INFO - [线程6178467840|账号ECARD0688869] ✅ 二组合(climate_policy) gases de efecto invernadero + ministro 有 5861 条结果 📍 URL: https://infoweb-newsbank-com.lapl.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=&maxresults=60&f=advanced&val-base-0=gases%20de%20efecto%20invernadero&fld-base-0=alltext&bln-base-1=and&val-base-1=ministro&fld-base-1=alltext
+2026-05-24 20:07:08,863 - INFO - [线程6178467840|账号ECARD0688869] 🔍 开始处理新二组合(climate_policy)：gases de efecto invernadero + presidencia 
+2026-05-24 20:07:08,863 - INFO - ✅ 二组合 ('climate_policy', 'gases de efecto invernadero', 'ministro') 处理成功 (41/1035)
+2026-05-24 20:07:22,375 - INFO - [线程6178467840|账号ECARD0688869] ✅ 二组合(climate_policy) gases de efecto invernadero + presidencia 有 2654 条结果 📍 URL: https://infoweb-newsbank-com.lapl.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=&maxresults=60&f=advanced&val-base-0=gases%20de%20efecto%20invernadero&fld-base-0=alltext&bln-base-1=and&val-base-1=presidencia&fld-base-1=alltext
+2026-05-24 20:07:22,375 - INFO - [线程6178467840|账号ECARD0688869] 🔍 开始处理新二组合(climate_policy)：gases de efecto invernadero + gobierno 
+2026-05-24 20:07:22,375 - INFO - ✅ 二组合 ('climate_policy', 'gases de efecto invernadero', 'presidencia') 处理成功 (42/1035)
+2026-05-24 20:07:35,681 - INFO - [线程6178467840|账号ECARD0688869] ✅ 二组合(climate_policy) gases de efecto invernadero + gobierno 有 16446 条结果 📍 URL: https://infoweb-newsbank-com.lapl.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=&maxresults=60&f=advanced&val-base-0=gases%20de%20efecto%20invernadero&fld-base-0=alltext&bln-base-1=and&val-base-1=gobierno&fld-base-1=alltext
+2026-05-24 20:07:35,682 - INFO - [线程6178467840|账号ECARD0688869] 🔍 开始处理新二组合(climate_policy)：gases de efecto invernadero + Ministerio del Poder Popular para el Ecosocialismo 
+2026-05-24 20:07:35,682 - INFO - ✅ 二组合 ('climate_policy', 'gases de efecto invernadero', 'gobierno') 处理成功 (43/1035)
+2026-05-24 20:07:56,154 - INFO - [线程6178467840|账号ECARD0688869] ❌ 二组合(climate_policy) gases de efecto invernadero + Ministerio del Poder Popular para el Ecosocialismo 无结果 📍 URL: https://infoweb-newsbank-com.lapl.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=&maxresults=60&f=advanced&val-base-0=gases%20de%20efecto%20invernadero&fld-base-0=alltext&bln-base-1=and&val-base-1=Ministerio%20del%20Poder%20Popular%20para%20el%20Ecosocialismo&fld-base-1=alltext
+2026-05-24 20:07:56,154 - INFO - [线程6178467840|账号ECARD0688869] 🔍 开始处理新二组合(climate_policy)：gases de efecto invernadero + MINEC 
+2026-05-24 20:07:56,154 - INFO - ✅ 二组合 ('climate_policy', 'gases de efecto invernadero', 'Ministerio del Poder Popular para el Ecosocialismo') 处理成功 (44/1035)
+2026-05-24 20:08:17,499 - INFO - [线程6178467840|账号ECARD0688869] ✅ 二组合(climate_policy) gases de efecto invernadero + MINEC 有 1 条结果 📍 URL: https://infoweb-newsbank-com.lapl.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=&maxresults=60&f=advanced&val-base-0=gases%20de%20efecto%20invernadero&fld-base-0=alltext&bln-base-1=and&val-base-1=MINEC&fld-base-1=alltext
+2026-05-24 20:08:17,500 - INFO - [线程6178467840|账号ECARD0688869] 🔍 开始处理新二组合(climate_policy)：CO2 + política 
+2026-05-24 20:08:17,500 - INFO - ✅ 二组合 ('climate_policy', 'gases de efecto invernadero', 'MINEC') 处理成功 (45/1035)
+2026-05-24 20:08:30,767 - INFO - [线程6178467840|账号ECARD0688869] ✅ 二组合(climate_policy) CO2 + política 有 7611 条结果 📍 URL: https://infoweb-newsbank-com.lapl.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=&maxresults=60&f=advanced&val-base-0=CO2&fld-base-0=alltext&bln-base-1=and&val-base-1=pol%C3%ADtica&fld-base-1=alltext
+2026-05-24 20:08:30,768 - INFO - [线程6178467840|账号ECARD0688869] 🔍 开始处理新二组合(climate_policy)：CO2 + políticas 
+2026-05-24 20:08:30,768 - INFO - ✅ 二组合 ('climate_policy', 'CO2', 'política') 处理成功 (46/1035)
+2026-05-24 20:08:44,037 - INFO - [线程6178467840|账号ECARD0688869] ✅ 二组合(climate_policy) CO2 + políticas 有 6180 条结果 📍 URL: https://infoweb-newsbank-com.lapl.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=&maxresults=60&f=advanced&val-base-0=CO2&fld-base-0=alltext&bln-base-1=and&val-base-1=pol%C3%ADticas&fld-base-1=alltext
+2026-05-24 20:08:44,037 - INFO - [线程6178467840|账号ECARD0688869] 🔍 开始处理新二组合(climate_policy)：CO2 + regulación 
+2026-05-24 20:08:44,037 - INFO - ✅ 二组合 ('climate_policy', 'CO2', 'políticas') 处理成功 (47/1035)
+2026-05-24 20:09:07,407 - INFO - [线程6178467840|账号ECARD0688869] ✅ 二组合(climate_policy) CO2 + regulación 有 1293 条结果 📍 URL: https://infoweb-newsbank-com.lapl.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=&maxresults=60&f=advanced&val-base-0=CO2&fld-base-0=alltext&bln-base-1=and&val-base-1=regulaci%C3%B3n&fld-base-1=alltext
+2026-05-24 20:09:07,407 - INFO - [线程6178467840|账号ECARD0688869] 🔍 开始处理新二组合(climate_policy)：CO2 + regulaciones 
+2026-05-24 20:09:07,407 - INFO - ✅ 二组合 ('climate_policy', 'CO2', 'regulación') 处理成功 (48/1035)
+2026-05-24 20:09:30,670 - INFO - [线程6178467840|账号ECARD0688869] ✅ 二组合(climate_policy) CO2 + regulaciones 有 890 条结果 📍 URL: https://infoweb-newsbank-com.lapl.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=&maxresults=60&f=advanced&val-base-0=CO2&fld-base-0=alltext&bln-base-1=and&val-base-1=regulaciones&fld-base-1=alltext
+2026-05-24 20:09:30,671 - INFO - [线程6178467840|账号ECARD0688869] 🔍 开始处理新二组合(climate_policy)：CO2 + legislación 
+2026-05-24 20:09:30,671 - INFO - ✅ 二组合 ('climate_policy', 'CO2', 'regulaciones') 处理成功 (49/1035)
+2026-05-24 20:09:55,998 - INFO - [线程6178467840|账号ECARD0688869] ✅ 二组合(climate_policy) CO2 + legislación 有 885 条结果 📍 URL: https://infoweb-newsbank-com.lapl.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=&maxresults=60&f=advanced&val-base-0=CO2&fld-base-0=alltext&bln-base-1=and&val-base-1=legislaci%C3%B3n&fld-base-1=alltext
+2026-05-24 20:09:55,998 - INFO - [线程6178467840|账号ECARD0688869] 🔍 开始处理新二组合(climate_policy)：CO2 + ley 
+2026-05-24 20:09:55,998 - INFO - ✅ 二组合 ('climate_policy', 'CO2', 'legislación') 处理成功 (50/1035)
+2026-05-24 20:10:09,269 - INFO - [线程6178467840|账号ECARD0688869] ✅ 二组合(climate_policy) CO2 + ley 有 3644 条结果 📍 URL: https://infoweb-newsbank-com.lapl.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=&maxresults=60&f=advanced&val-base-0=CO2&fld-base-0=alltext&bln-base-1=and&val-base-1=ley&fld-base-1=alltext
+2026-05-24 20:10:09,269 - INFO - [线程6178467840|账号ECARD0688869] 🔍 开始处理新二组合(climate_policy)：CO2 + parlamento 
+2026-05-24 20:10:09,269 - INFO - ✅ 二组合 ('climate_policy', 'CO2', 'ley') 处理成功 (51/1035)
+2026-05-24 20:10:22,526 - INFO - [线程6178467840|账号ECARD0688869] ✅ 二组合(climate_policy) CO2 + parlamento 有 1341 条结果 📍 URL: https://infoweb-newsbank-com.lapl.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=&maxresults=60&f=advanced&val-base-0=CO2&fld-base-0=alltext&bln-base-1=and&val-base-1=parlamento&fld-base-1=alltext
+2026-05-24 20:10:22,526 - INFO - [线程6178467840|账号ECARD0688869] 🔍 开始处理新二组合(climate_policy)：CO2 + congreso 
+2026-05-24 20:10:22,526 - INFO - ✅ 二组合 ('climate_policy', 'CO2', 'parlamento') 处理成功 (52/1035)
+2026-05-24 20:10:45,626 - INFO - [线程6178467840|账号ECARD0688869] ✅ 二组合(climate_policy) CO2 + congreso 有 1442 条结果 📍 URL: https://infoweb-newsbank-com.lapl.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=&maxresults=60&f=advanced&val-base-0=CO2&fld-base-0=alltext&bln-base-1=and&val-base-1=congreso&fld-base-1=alltext
+2026-05-24 20:10:45,627 - INFO - [线程6178467840|账号ECARD0688869] 🔍 开始处理新二组合(climate_policy)：CO2 + Asamblea Nacional 
+2026-05-24 20:10:45,627 - INFO - ✅ 二组合 ('climate_policy', 'CO2', 'congreso') 处理成功 (53/1035)
+2026-05-24 20:10:58,904 - INFO - [线程6178467840|账号ECARD0688869] ✅ 二组合(climate_policy) CO2 + Asamblea Nacional 有 278 条结果 📍 URL: https://infoweb-newsbank-com.lapl.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=&maxresults=60&f=advanced&val-base-0=CO2&fld-base-0=alltext&bln-base-1=and&val-base-1=Asamblea%20Nacional&fld-base-1=alltext
+2026-05-24 20:10:58,904 - INFO - [线程6178467840|账号ECARD0688869] 🔍 开始处理新二组合(climate_policy)：CO2 + presidente 
+2026-05-24 20:10:58,904 - INFO - ✅ 二组合 ('climate_policy', 'CO2', 'Asamblea Nacional') 处理成功 (54/1035)
+2026-05-24 20:11:22,875 - INFO - [线程6178467840|账号ECARD0688869] ✅ 二组合(climate_policy) CO2 + presidente 有 13017 条结果 📍 URL: https://infoweb-newsbank-com.lapl.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=&maxresults=60&f=advanced&val-base-0=CO2&fld-base-0=alltext&bln-base-1=and&val-base-1=presidente&fld-base-1=alltext
+2026-05-24 20:11:22,875 - INFO - [线程6178467840|账号ECARD0688869] 🔍 开始处理新二组合(climate_policy)：CO2 + ministro 
+2026-05-24 20:11:22,875 - INFO - ✅ 二组合 ('climate_policy', 'CO2', 'presidente') 处理成功 (55/1035)
+2026-05-24 20:11:36,151 - INFO - [线程6178467840|账号ECARD0688869] ✅ 二组合(climate_policy) CO2 + ministro 有 3945 条结果 📍 URL: https://infoweb-newsbank-com.lapl.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=&maxresults=60&f=advanced&val-base-0=CO2&fld-base-0=alltext&bln-base-1=and&val-base-1=ministro&fld-base-1=alltext
+2026-05-24 20:11:36,151 - INFO - [线程6178467840|账号ECARD0688869] 🔍 开始处理新二组合(climate_policy)：CO2 + presidencia 
+2026-05-24 20:11:36,151 - INFO - ✅ 二组合 ('climate_policy', 'CO2', 'ministro') 处理成功 (56/1035)
+2026-05-24 20:11:49,423 - INFO - [线程6178467840|账号ECARD0688869] ✅ 二组合(climate_policy) CO2 + presidencia 有 1498 条结果 📍 URL: https://infoweb-newsbank-com.lapl.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=&maxresults=60&f=advanced&val-base-0=CO2&fld-base-0=alltext&bln-base-1=and&val-base-1=presidencia&fld-base-1=alltext
+2026-05-24 20:11:49,423 - INFO - [线程6178467840|账号ECARD0688869] 🔍 开始处理新二组合(climate_policy)：CO2 + gobierno 
+2026-05-24 20:11:49,423 - INFO - ✅ 二组合 ('climate_policy', 'CO2', 'presidencia') 处理成功 (57/1035)
+2026-05-24 20:12:14,565 - INFO - [线程6178467840|账号ECARD0688869] ✅ 二组合(climate_policy) CO2 + gobierno 有 8563 条结果 📍 URL: https://infoweb-newsbank-com.lapl.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=&maxresults=60&f=advanced&val-base-0=CO2&fld-base-0=alltext&bln-base-1=and&val-base-1=gobierno&fld-base-1=alltext
+2026-05-24 20:12:14,565 - INFO - [线程6178467840|账号ECARD0688869] 🔍 开始处理新二组合(climate_policy)：CO2 + Ministerio del Poder Popular para el Ecosocialismo 
+2026-05-24 20:12:14,565 - INFO - ✅ 二组合 ('climate_policy', 'CO2', 'gobierno') 处理成功 (58/1035)
+2026-05-24 20:12:27,832 - INFO - [线程6178467840|账号ECARD0688869] ✅ 二组合(climate_policy) CO2 + Ministerio del Poder Popular para el Ecosocialismo 有 2 条结果 📍 URL: https://infoweb-newsbank-com.lapl.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=&maxresults=60&f=advanced&val-base-0=CO2&fld-base-0=alltext&bln-base-1=and&val-base-1=Ministerio%20del%20Poder%20Popular%20para%20el%20Ecosocialismo&fld-base-1=alltext
+2026-05-24 20:12:27,832 - INFO - [线程6178467840|账号ECARD0688869] 🔍 开始处理新二组合(climate_policy)：CO2 + MINEC 
+2026-05-24 20:12:27,832 - INFO - ✅ 二组合 ('climate_policy', 'CO2', 'Ministerio del Poder Popular para el Ecosocialismo') 处理成功 (59/1035)
+2026-05-24 20:12:41,073 - INFO - [线程6178467840|账号ECARD0688869] ✅ 二组合(climate_policy) CO2 + MINEC 有 11 条结果 📍 URL: https://infoweb-newsbank-com.lapl.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=&maxresults=60&f=advanced&val-base-0=CO2&fld-base-0=alltext&bln-base-1=and&val-base-1=MINEC&fld-base-1=alltext
+2026-05-24 20:12:41,073 - INFO - [线程6178467840|账号ECARD0688869] 🔍 开始处理新二组合(climate_policy)：calentamiento global + política 
+2026-05-24 20:12:41,074 - INFO - ✅ 二组合 ('climate_policy', 'CO2', 'MINEC') 处理成功 (60/1035)
+2026-05-24 20:12:54,473 - INFO - [线程6178467840|账号ECARD0688869] ✅ 二组合(climate_policy) calentamiento global + política 有 13169 条结果 📍 URL: https://infoweb-newsbank-com.lapl.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=&maxresults=60&f=advanced&val-base-0=calentamiento%20global&fld-base-0=alltext&bln-base-1=and&val-base-1=pol%C3%ADtica&fld-base-1=alltext
+2026-05-24 20:12:54,473 - INFO - [线程6178467840|账号ECARD0688869] 🔍 开始处理新二组合(climate_policy)：calentamiento global + políticas 
+2026-05-24 20:12:54,473 - INFO - ✅ 二组合 ('climate_policy', 'calentamiento global', 'política') 处理成功 (61/1035)
+2026-05-24 20:13:07,751 - INFO - [线程6178467840|账号ECARD0688869] ✅ 二组合(climate_policy) calentamiento global + políticas 有 8893 条结果 📍 URL: https://infoweb-newsbank-com.lapl.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=&maxresults=60&f=advanced&val-base-0=calentamiento%20global&fld-base-0=alltext&bln-base-1=and&val-base-1=pol%C3%ADticas&fld-base-1=alltext
+2026-05-24 20:13:07,751 - INFO - [线程6178467840|账号ECARD0688869] 🔍 开始处理新二组合(climate_policy)：calentamiento global + regulación 
+2026-05-24 20:13:07,751 - INFO - ✅ 二组合 ('climate_policy', 'calentamiento global', 'políticas') 处理成功 (62/1035)
+2026-05-24 20:13:32,169 - INFO - [线程6178467840|账号ECARD0688869] ✅ 二组合(climate_policy) calentamiento global + regulación 有 1316 条结果 📍 URL: https://infoweb-newsbank-com.lapl.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=&maxresults=60&f=advanced&val-base-0=calentamiento%20global&fld-base-0=alltext&bln-base-1=and&val-base-1=regulaci%C3%B3n&fld-base-1=alltext
+2026-05-24 20:13:32,170 - INFO - [线程6178467840|账号ECARD0688869] 🔍 开始处理新二组合(climate_policy)：calentamiento global + regulaciones 
+2026-05-24 20:13:32,170 - INFO - ✅ 二组合 ('climate_policy', 'calentamiento global', 'regulación') 处理成功 (63/1035)
+2026-05-24 20:13:45,466 - INFO - [线程6178467840|账号ECARD0688869] ✅ 二组合(climate_policy) calentamiento global + regulaciones 有 1271 条结果 📍 URL: https://infoweb-newsbank-com.lapl.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=&maxresults=60&f=advanced&val-base-0=calentamiento%20global&fld-base-0=alltext&bln-base-1=and&val-base-1=regulaciones&fld-base-1=alltext
+2026-05-24 20:13:45,466 - INFO - [线程6178467840|账号ECARD0688869] 🔍 开始处理新二组合(climate_policy)：calentamiento global + legislación 
+2026-05-24 20:13:45,467 - INFO - ✅ 二组合 ('climate_policy', 'calentamiento global', 'regulaciones') 处理成功 (64/1035)
+2026-05-24 20:14:12,339 - INFO - [线程6178467840|账号ECARD0688869] ✅ 二组合(climate_policy) calentamiento global + legislación 有 1270 条结果 📍 URL: https://infoweb-newsbank-com.lapl.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=&maxresults=60&f=advanced&val-base-0=calentamiento%20global&fld-base-0=alltext&bln-base-1=and&val-base-1=legislaci%C3%B3n&fld-base-1=alltext
+2026-05-24 20:14:12,340 - INFO - [线程6178467840|账号ECARD0688869] 🔍 开始处理新二组合(climate_policy)：calentamiento global + ley 
+2026-05-24 20:14:12,340 - INFO - ✅ 二组合 ('climate_policy', 'calentamiento global', 'legislación') 处理成功 (65/1035)
+2026-05-24 20:14:29,247 - INFO - [线程6178467840|账号ECARD0688869] ✅ 二组合(climate_policy) calentamiento global + ley 有 4698 条结果 📍 URL: https://infoweb-newsbank-com.lapl.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=&maxresults=60&f=advanced&val-base-0=calentamiento%20global&fld-base-0=alltext&bln-base-1=and&val-base-1=ley&fld-base-1=alltext
+2026-05-24 20:14:29,247 - INFO - [线程6178467840|账号ECARD0688869] 🔍 开始处理新二组合(climate_policy)：calentamiento global + parlamento 
+2026-05-24 20:14:29,247 - INFO - ✅ 二组合 ('climate_policy', 'calentamiento global', 'ley') 处理成功 (66/1035)
+2026-05-24 20:14:47,927 - INFO - [线程6178467840|账号ECARD0688869] ✅ 二组合(climate_policy) calentamiento global + parlamento 有 1418 条结果 📍 URL: https://infoweb-newsbank-com.lapl.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=&maxresults=60&f=advanced&val-base-0=calentamiento%20global&fld-base-0=alltext&bln-base-1=and&val-base-1=parlamento&fld-base-1=alltext
+2026-05-24 20:14:47,928 - INFO - [线程6178467840|账号ECARD0688869] 🔍 开始处理新二组合(climate_policy)：calentamiento global + congreso 
+2026-05-24 20:14:47,928 - INFO - ✅ 二组合 ('climate_policy', 'calentamiento global', 'parlamento') 处理成功 (67/1035)
+2026-05-24 20:15:14,424 - INFO - [线程6178467840|账号ECARD0688869] ✅ 二组合(climate_policy) calentamiento global + congreso 有 4065 条结果 📍 URL: https://infoweb-newsbank-com.lapl.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=&maxresults=60&f=advanced&val-base-0=calentamiento%20global&fld-base-0=alltext&bln-base-1=and&val-base-1=congreso&fld-base-1=alltext
+2026-05-24 20:15:14,425 - INFO - [线程6178467840|账号ECARD0688869] 🔍 开始处理新二组合(climate_policy)：calentamiento global + Asamblea Nacional 
+2026-05-24 20:15:14,425 - INFO - ✅ 二组合 ('climate_policy', 'calentamiento global', 'congreso') 处理成功 (68/1035)
+2026-05-24 20:15:29,596 - INFO - [线程6178467840|账号ECARD0688869] ✅ 二组合(climate_policy) calentamiento global + Asamblea Nacional 有 690 条结果 📍 URL: https://infoweb-newsbank-com.lapl.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=&maxresults=60&f=advanced&val-base-0=calentamiento%20global&fld-base-0=alltext&bln-base-1=and&val-base-1=Asamblea%20Nacional&fld-base-1=alltext
+2026-05-24 20:15:29,596 - INFO - [线程6178467840|账号ECARD0688869] 🔍 开始处理新二组合(climate_policy)：calentamiento global + presidente 
+2026-05-24 20:15:29,597 - INFO - ✅ 二组合 ('climate_policy', 'calentamiento global', 'Asamblea Nacional') 处理成功 (69/1035)
+2026-05-24 20:15:42,886 - INFO - [线程6178467840|账号ECARD0688869] ✅ 二组合(climate_policy) calentamiento global + presidente 有 18700 条结果 📍 URL: https://infoweb-newsbank-com.lapl.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=&maxresults=60&f=advanced&val-base-0=calentamiento%20global&fld-base-0=alltext&bln-base-1=and&val-base-1=presidente&fld-base-1=alltext
+2026-05-24 20:15:42,887 - INFO - [线程6178467840|账号ECARD0688869] 🔍 开始处理新二组合(climate_policy)：calentamiento global + ministro 
+2026-05-24 20:15:42,887 - INFO - ✅ 二组合 ('climate_policy', 'calentamiento global', 'presidente') 处理成功 (70/1035)
+2026-05-24 20:15:56,188 - INFO - [线程6178467840|账号ECARD0688869] ✅ 二组合(climate_policy) calentamiento global + ministro 有 6105 条结果 📍 URL: https://infoweb-newsbank-com.lapl.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=&maxresults=60&f=advanced&val-base-0=calentamiento%20global&fld-base-0=alltext&bln-base-1=and&val-base-1=ministro&fld-base-1=alltext
+2026-05-24 20:15:56,188 - INFO - [线程6178467840|账号ECARD0688869] 🔍 开始处理新二组合(climate_policy)：calentamiento global + presidencia 
+2026-05-24 20:15:56,188 - INFO - ✅ 二组合 ('climate_policy', 'calentamiento global', 'ministro') 处理成功 (71/1035)
+2026-05-24 20:16:09,521 - INFO - [线程6178467840|账号ECARD0688869] ✅ 二组合(climate_policy) calentamiento global + presidencia 有 3483 条结果 📍 URL: https://infoweb-newsbank-com.lapl.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=&maxresults=60&f=advanced&val-base-0=calentamiento%20global&fld-base-0=alltext&bln-base-1=and&val-base-1=presidencia&fld-base-1=alltext
+2026-05-24 20:16:09,521 - INFO - [线程6178467840|账号ECARD0688869] 🔍 开始处理新二组合(climate_policy)：calentamiento global + gobierno 
+2026-05-24 20:16:09,521 - INFO - ✅ 二组合 ('climate_policy', 'calentamiento global', 'presidencia') 处理成功 (72/1035)
+2026-05-24 20:16:22,800 - INFO - [线程6178467840|账号ECARD0688869] ✅ 二组合(climate_policy) calentamiento global + gobierno 有 17583 条结果 📍 URL: https://infoweb-newsbank-com.lapl.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=&maxresults=60&f=advanced&val-base-0=calentamiento%20global&fld-base-0=alltext&bln-base-1=and&val-base-1=gobierno&fld-base-1=alltext
+2026-05-24 20:16:22,800 - INFO - [线程6178467840|账号ECARD0688869] 🔍 开始处理新二组合(climate_policy)：calentamiento global + Ministerio del Poder Popular para el Ecosocialismo 
+2026-05-24 20:16:22,800 - INFO - ✅ 二组合 ('climate_policy', 'calentamiento global', 'gobierno') 处理成功 (73/1035)
+2026-05-24 20:16:36,082 - INFO - [线程6178467840|账号ECARD0688869] ❌ 二组合(climate_policy) calentamiento global + Ministerio del Poder Popular para el Ecosocialismo 无结果 📍 URL: https://infoweb-newsbank-com.lapl.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=&maxresults=60&f=advanced&val-base-0=calentamiento%20global&fld-base-0=alltext&bln-base-1=and&val-base-1=Ministerio%20del%20Poder%20Popular%20para%20el%20Ecosocialismo&fld-base-1=alltext
+2026-05-24 20:16:36,082 - INFO - [线程6178467840|账号ECARD0688869] 🔍 开始处理新二组合(climate_policy)：calentamiento global + MINEC 
+2026-05-24 20:16:36,082 - INFO - ✅ 二组合 ('climate_policy', 'calentamiento global', 'Ministerio del Poder Popular para el Ecosocialismo') 处理成功 (74/1035)
+2026-05-24 20:16:49,319 - INFO - [线程6178467840|账号ECARD0688869] ✅ 二组合(climate_policy) calentamiento global + MINEC 有 2 条结果 📍 URL: https://infoweb-newsbank-com.lapl.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=&maxresults=60&f=advanced&val-base-0=calentamiento%20global&fld-base-0=alltext&bln-base-1=and&val-base-1=MINEC&fld-base-1=alltext
+2026-05-24 20:16:49,320 - INFO - [线程6178467840|账号ECARD0688869] 🔍 开始处理新二组合(climate_policy)：clima extremo + política 
+2026-05-24 20:16:49,320 - INFO - ✅ 二组合 ('climate_policy', 'calentamiento global', 'MINEC') 处理成功 (75/1035)
+2026-05-24 20:17:14,595 - INFO - [线程6178467840|账号ECARD0688869] ✅ 二组合(climate_policy) clima extremo + política 有 4620 条结果 📍 URL: https://infoweb-newsbank-com.lapl.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=&maxresults=60&f=advanced&val-base-0=clima%20extremo&fld-base-0=alltext&bln-base-1=and&val-base-1=pol%C3%ADtica&fld-base-1=alltext
+2026-05-24 20:17:14,595 - INFO - [线程6178467840|账号ECARD0688869] 🔍 开始处理新二组合(climate_policy)：clima extremo + políticas 
+2026-05-24 20:17:14,596 - INFO - ✅ 二组合 ('climate_policy', 'clima extremo', 'política') 处理成功 (76/1035)
+2026-05-24 20:17:27,901 - INFO - [线程6178467840|账号ECARD0688869] ✅ 二组合(climate_policy) clima extremo + políticas 有 2908 条结果 📍 URL: https://infoweb-newsbank-com.lapl.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=&maxresults=60&f=advanced&val-base-0=clima%20extremo&fld-base-0=alltext&bln-base-1=and&val-base-1=pol%C3%ADticas&fld-base-1=alltext
+2026-05-24 20:17:27,902 - INFO - [线程6178467840|账号ECARD0688869] 🔍 开始处理新二组合(climate_policy)：clima extremo + regulación 
+2026-05-24 20:17:27,902 - INFO - ✅ 二组合 ('climate_policy', 'clima extremo', 'políticas') 处理成功 (77/1035)
+2026-05-24 20:17:41,180 - INFO - [线程6178467840|账号ECARD0688869] ✅ 二组合(climate_policy) clima extremo + regulación 有 298 条结果 📍 URL: https://infoweb-newsbank-com.lapl.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=&maxresults=60&f=advanced&val-base-0=clima%20extremo&fld-base-0=alltext&bln-base-1=and&val-base-1=regulaci%C3%B3n&fld-base-1=alltext
+2026-05-24 20:17:41,180 - INFO - [线程6178467840|账号ECARD0688869] 🔍 开始处理新二组合(climate_policy)：clima extremo + regulaciones 
+2026-05-24 20:17:41,180 - INFO - ✅ 二组合 ('climate_policy', 'clima extremo', 'regulación') 处理成功 (78/1035)
+2026-05-24 20:17:54,466 - INFO - [线程6178467840|账号ECARD0688869] ✅ 二组合(climate_policy) clima extremo + regulaciones 有 250 条结果 📍 URL: https://infoweb-newsbank-com.lapl.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=&maxresults=60&f=advanced&val-base-0=clima%20extremo&fld-base-0=alltext&bln-base-1=and&val-base-1=regulaciones&fld-base-1=alltext
+2026-05-24 20:17:54,467 - INFO - [线程6178467840|账号ECARD0688869] 🔍 开始处理新二组合(climate_policy)：clima extremo + legislación 
+2026-05-24 20:17:54,467 - INFO - ✅ 二组合 ('climate_policy', 'clima extremo', 'regulaciones') 处理成功 (79/1035)
+2026-05-24 20:18:14,778 - INFO - [线程6178467840|账号ECARD0688869] ✅ 二组合(climate_policy) clima extremo + legislación 有 366 条结果 📍 URL: https://infoweb-newsbank-com.lapl.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=&maxresults=60&f=advanced&val-base-0=clima%20extremo&fld-base-0=alltext&bln-base-1=and&val-base-1=legislaci%C3%B3n&fld-base-1=alltext
+2026-05-24 20:18:14,779 - INFO - [线程6178467840|账号ECARD0688869] 🔍 开始处理新二组合(climate_policy)：clima extremo + ley 
+2026-05-24 20:18:14,779 - INFO - ✅ 二组合 ('climate_policy', 'clima extremo', 'legislación') 处理成功 (80/1035)
+2026-05-24 20:18:28,067 - INFO - [线程6178467840|账号ECARD0688869] ✅ 二组合(climate_policy) clima extremo + ley 有 1953 条结果 📍 URL: https://infoweb-newsbank-com.lapl.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=&maxresults=60&f=advanced&val-base-0=clima%20extremo&fld-base-0=alltext&bln-base-1=and&val-base-1=ley&fld-base-1=alltext
+2026-05-24 20:18:28,067 - INFO - [线程6178467840|账号ECARD0688869] 🔍 开始处理新二组合(climate_policy)：clima extremo + parlamento 
+2026-05-24 20:18:28,067 - INFO - ✅ 二组合 ('climate_policy', 'clima extremo', 'ley') 处理成功 (81/1035)
+2026-05-24 20:18:51,862 - INFO - [线程6178467840|账号ECARD0688869] ✅ 二组合(climate_policy) clima extremo + parlamento 有 440 条结果 📍 URL: https://infoweb-newsbank-com.lapl.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=&maxresults=60&f=advanced&val-base-0=clima%20extremo&fld-base-0=alltext&bln-base-1=and&val-base-1=parlamento&fld-base-1=alltext
+2026-05-24 20:18:51,863 - INFO - [线程6178467840|账号ECARD0688869] 🔍 开始处理新二组合(climate_policy)：clima extremo + congreso 
+2026-05-24 20:18:51,863 - INFO - ✅ 二组合 ('climate_policy', 'clima extremo', 'parlamento') 处理成功 (82/1035)
+2026-05-24 20:19:05,154 - INFO - [线程6178467840|账号ECARD0688869] ✅ 二组合(climate_policy) clima extremo + congreso 有 1362 条结果 📍 URL: https://infoweb-newsbank-com.lapl.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=&maxresults=60&f=advanced&val-base-0=clima%20extremo&fld-base-0=alltext&bln-base-1=and&val-base-1=congreso&fld-base-1=alltext
+2026-05-24 20:19:05,155 - INFO - [线程6178467840|账号ECARD0688869] 🔍 开始处理新二组合(climate_policy)：clima extremo + Asamblea Nacional 
+2026-05-24 20:19:05,155 - INFO - ✅ 二组合 ('climate_policy', 'clima extremo', 'congreso') 处理成功 (83/1035)
+2026-05-24 20:19:18,464 - INFO - [线程6178467840|账号ECARD0688869] ✅ 二组合(climate_policy) clima extremo + Asamblea Nacional 有 250 条结果 📍 URL: https://infoweb-newsbank-com.lapl.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=&maxresults=60&f=advanced&val-base-0=clima%20extremo&fld-base-0=alltext&bln-base-1=and&val-base-1=Asamblea%20Nacional&fld-base-1=alltext
+2026-05-24 20:19:18,465 - INFO - [线程6178467840|账号ECARD0688869] 🔍 开始处理新二组合(climate_policy)：clima extremo + presidente 
+2026-05-24 20:19:18,465 - INFO - ✅ 二组合 ('climate_policy', 'clima extremo', 'Asamblea Nacional') 处理成功 (84/1035)
+2026-05-24 20:19:31,746 - INFO - [线程6178467840|账号ECARD0688869] ✅ 二组合(climate_policy) clima extremo + presidente 有 5862 条结果 📍 URL: https://infoweb-newsbank-com.lapl.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=&maxresults=60&f=advanced&val-base-0=clima%20extremo&fld-base-0=alltext&bln-base-1=and&val-base-1=presidente&fld-base-1=alltext
+2026-05-24 20:19:31,747 - INFO - [线程6178467840|账号ECARD0688869] 🔍 开始处理新二组合(climate_policy)：clima extremo + ministro 
+2026-05-24 20:19:31,747 - INFO - ✅ 二组合 ('climate_policy', 'clima extremo', 'presidente') 处理成功 (85/1035)
+2026-05-24 20:19:58,155 - INFO - [线程6178467840|账号ECARD0688869] ✅ 二组合(climate_policy) clima extremo + ministro 有 1743 条结果 📍 URL: https://infoweb-newsbank-com.lapl.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=&maxresults=60&f=advanced&val-base-0=clima%20extremo&fld-base-0=alltext&bln-base-1=and&val-base-1=ministro&fld-base-1=alltext
+2026-05-24 20:19:58,155 - INFO - [线程6178467840|账号ECARD0688869] 🔍 开始处理新二组合(climate_policy)：clima extremo + presidencia 
+2026-05-24 20:19:58,155 - INFO - ✅ 二组合 ('climate_policy', 'clima extremo', 'ministro') 处理成功 (86/1035)
+2026-05-24 20:20:11,717 - INFO - [线程6178467840|账号ECARD0688869] ✅ 二组合(climate_policy) clima extremo + presidencia 有 1193 条结果 📍 URL: https://infoweb-newsbank-com.lapl.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=&maxresults=60&f=advanced&val-base-0=clima%20extremo&fld-base-0=alltext&bln-base-1=and&val-base-1=presidencia&fld-base-1=alltext
+2026-05-24 20:20:11,717 - INFO - [线程6178467840|账号ECARD0688869] 🔍 开始处理新二组合(climate_policy)：clima extremo + gobierno 
+2026-05-24 20:20:11,717 - INFO - ✅ 二组合 ('climate_policy', 'clima extremo', 'presidencia') 处理成功 (87/1035)
+2026-05-24 20:20:25,002 - INFO - [线程6178467840|账号ECARD0688869] ✅ 二组合(climate_policy) clima extremo + gobierno 有 5289 条结果 📍 URL: https://infoweb-newsbank-com.lapl.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=&maxresults=60&f=advanced&val-base-0=clima%20extremo&fld-base-0=alltext&bln-base-1=and&val-base-1=gobierno&fld-base-1=alltext
+2026-05-24 20:20:25,003 - INFO - [线程6178467840|账号ECARD0688869] 🔍 开始处理新二组合(climate_policy)：clima extremo + Ministerio del Poder Popular para el Ecosocialismo 
+2026-05-24 20:20:25,003 - INFO - ✅ 二组合 ('climate_policy', 'clima extremo', 'gobierno') 处理成功 (88/1035)
+2026-05-24 20:20:38,264 - INFO - [线程6178467840|账号ECARD0688869] ❌ 二组合(climate_policy) clima extremo + Ministerio del Poder Popular para el Ecosocialismo 无结果 📍 URL: https://infoweb-newsbank-com.lapl.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=&maxresults=60&f=advanced&val-base-0=clima%20extremo&fld-base-0=alltext&bln-base-1=and&val-base-1=Ministerio%20del%20Poder%20Popular%20para%20el%20Ecosocialismo&fld-base-1=alltext
+2026-05-24 20:20:38,264 - INFO - [线程6178467840|账号ECARD0688869] 🔍 开始处理新二组合(climate_policy)：clima extremo + MINEC 
+2026-05-24 20:20:38,264 - INFO - ✅ 二组合 ('climate_policy', 'clima extremo', 'Ministerio del Poder Popular para el Ecosocialismo') 处理成功 (89/1035)
+2026-05-24 20:21:01,651 - INFO - [线程6178467840|账号ECARD0688869] ❌ 二组合(climate_policy) clima extremo + MINEC 无结果 📍 URL: https://infoweb-newsbank-com.lapl.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=&maxresults=60&f=advanced&val-base-0=clima%20extremo&fld-base-0=alltext&bln-base-1=and&val-base-1=MINEC&fld-base-1=alltext
+2026-05-24 20:21:01,652 - INFO - [线程6178467840|账号ECARD0688869] 🔍 开始处理新二组合(climate_policy)：temperatura extrema + política 
+2026-05-24 20:21:01,652 - INFO - ✅ 二组合 ('climate_policy', 'clima extremo', 'MINEC') 处理成功 (90/1035)
+2026-05-24 20:21:25,849 - INFO - [线程6178467840|账号ECARD0688869] ✅ 二组合(climate_policy) temperatura extrema + política 有 852 条结果 📍 URL: https://infoweb-newsbank-com.lapl.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=&maxresults=60&f=advanced&val-base-0=temperatura%20extrema&fld-base-0=alltext&bln-base-1=and&val-base-1=pol%C3%ADtica&fld-base-1=alltext
+2026-05-24 20:21:25,849 - INFO - [线程6178467840|账号ECARD0688869] 🔍 开始处理新二组合(climate_policy)：temperatura extrema + políticas 
+2026-05-24 20:21:25,849 - INFO - ✅ 二组合 ('climate_policy', 'temperatura extrema', 'política') 处理成功 (91/1035)
+2026-05-24 20:21:39,140 - INFO - [线程6178467840|账号ECARD0688869] ✅ 二组合(climate_policy) temperatura extrema + políticas 有 596 条结果 📍 URL: https://infoweb-newsbank-com.lapl.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=&maxresults=60&f=advanced&val-base-0=temperatura%20extrema&fld-base-0=alltext&bln-base-1=and&val-base-1=pol%C3%ADticas&fld-base-1=alltext
+2026-05-24 20:21:39,140 - INFO - [线程6178467840|账号ECARD0688869] 🔍 开始处理新二组合(climate_policy)：temperatura extrema + regulación 
+2026-05-24 20:21:39,140 - INFO - ✅ 二组合 ('climate_policy', 'temperatura extrema', 'políticas') 处理成功 (92/1035)
+2026-05-24 20:22:03,028 - INFO - [线程6178467840|账号ECARD0688869] ✅ 二组合(climate_policy) temperatura extrema + regulación 有 85 条结果 📍 URL: https://infoweb-newsbank-com.lapl.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=&maxresults=60&f=advanced&val-base-0=temperatura%20extrema&fld-base-0=alltext&bln-base-1=and&val-base-1=regulaci%C3%B3n&fld-base-1=alltext
+2026-05-24 20:22:03,029 - INFO - [线程6178467840|账号ECARD0688869] 🔍 开始处理新二组合(climate_policy)：temperatura extrema + regulaciones 
+2026-05-24 20:22:03,029 - INFO - ✅ 二组合 ('climate_policy', 'temperatura extrema', 'regulación') 处理成功 (93/1035)
+2026-05-24 20:22:16,313 - INFO - [线程6178467840|账号ECARD0688869] ✅ 二组合(climate_policy) temperatura extrema + regulaciones 有 34 条结果 📍 URL: https://infoweb-newsbank-com.lapl.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=&maxresults=60&f=advanced&val-base-0=temperatura%20extrema&fld-base-0=alltext&bln-base-1=and&val-base-1=regulaciones&fld-base-1=alltext
+2026-05-24 20:22:16,314 - INFO - [线程6178467840|账号ECARD0688869] 🔍 开始处理新二组合(climate_policy)：temperatura extrema + legislación 
+2026-05-24 20:22:16,314 - INFO - ✅ 二组合 ('climate_policy', 'temperatura extrema', 'regulaciones') 处理成功 (94/1035)
+2026-05-24 20:22:29,590 - INFO - [线程6178467840|账号ECARD0688869] ✅ 二组合(climate_policy) temperatura extrema + legislación 有 56 条结果 📍 URL: https://infoweb-newsbank-com.lapl.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=&maxresults=60&f=advanced&val-base-0=temperatura%20extrema&fld-base-0=alltext&bln-base-1=and&val-base-1=legislaci%C3%B3n&fld-base-1=alltext
+2026-05-24 20:22:29,590 - INFO - [线程6178467840|账号ECARD0688869] 🔍 开始处理新二组合(climate_policy)：temperatura extrema + ley 
+2026-05-24 20:22:29,590 - INFO - ✅ 二组合 ('climate_policy', 'temperatura extrema', 'legislación') 处理成功 (95/1035)
+2026-05-24 20:22:42,878 - INFO - [线程6178467840|账号ECARD0688869] ✅ 二组合(climate_policy) temperatura extrema + ley 有 400 条结果 📍 URL: https://infoweb-newsbank-com.lapl.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=&maxresults=60&f=advanced&val-base-0=temperatura%20extrema&fld-base-0=alltext&bln-base-1=and&val-base-1=ley&fld-base-1=alltext
+2026-05-24 20:22:42,879 - INFO - [线程6178467840|账号ECARD0688869] 🔍 开始处理新二组合(climate_policy)：temperatura extrema + parlamento 
+2026-05-24 20:22:42,879 - INFO - ✅ 二组合 ('climate_policy', 'temperatura extrema', 'ley') 处理成功 (96/1035)
+2026-05-24 20:22:56,153 - INFO - [线程6178467840|账号ECARD0688869] ✅ 二组合(climate_policy) temperatura extrema + parlamento 有 146 条结果 📍 URL: https://infoweb-newsbank-com.lapl.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=&maxresults=60&f=advanced&val-base-0=temperatura%20extrema&fld-base-0=alltext&bln-base-1=and&val-base-1=parlamento&fld-base-1=alltext
+2026-05-24 20:22:56,153 - INFO - [线程6178467840|账号ECARD0688869] 🔍 开始处理新二组合(climate_policy)：temperatura extrema + congreso 
+2026-05-24 20:22:56,153 - INFO - ✅ 二组合 ('climate_policy', 'temperatura extrema', 'parlamento') 处理成功 (97/1035)
+2026-05-24 20:23:09,432 - INFO - [线程6178467840|账号ECARD0688869] ✅ 二组合(climate_policy) temperatura extrema + congreso 有 203 条结果 📍 URL: https://infoweb-newsbank-com.lapl.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=&maxresults=60&f=advanced&val-base-0=temperatura%20extrema&fld-base-0=alltext&bln-base-1=and&val-base-1=congreso&fld-base-1=alltext
+2026-05-24 20:23:09,432 - INFO - [线程6178467840|账号ECARD0688869] 🔍 开始处理新二组合(climate_policy)：temperatura extrema + Asamblea Nacional 
+2026-05-24 20:23:09,432 - INFO - ✅ 二组合 ('climate_policy', 'temperatura extrema', 'congreso') 处理成功 (98/1035)
+2026-05-24 20:23:33,178 - INFO - [线程6178467840|账号ECARD0688869] ✅ 二组合(climate_policy) temperatura extrema + Asamblea Nacional 有 51 条结果 📍 URL: https://infoweb-newsbank-com.lapl.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=&maxresults=60&f=advanced&val-base-0=temperatura%20extrema&fld-base-0=alltext&bln-base-1=and&val-base-1=Asamblea%20Nacional&fld-base-1=alltext
+2026-05-24 20:23:33,178 - INFO - [线程6178467840|账号ECARD0688869] 🔍 开始处理新二组合(climate_policy)：temperatura extrema + presidente 
+2026-05-24 20:23:33,179 - INFO - ✅ 二组合 ('climate_policy', 'temperatura extrema', 'Asamblea Nacional') 处理成功 (99/1035)
+2026-05-24 20:23:46,481 - INFO - [线程6178467840|账号ECARD0688869] ✅ 二组合(climate_policy) temperatura extrema + presidente 有 1144 条结果 📍 URL: https://infoweb-newsbank-com.lapl.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=&maxresults=60&f=advanced&val-base-0=temperatura%20extrema&fld-base-0=alltext&bln-base-1=and&val-base-1=presidente&fld-base-1=alltext
+2026-05-24 20:23:46,481 - INFO - [线程6178467840|账号ECARD0688869] 🔍 开始处理新二组合(climate_policy)：temperatura extrema + ministro 
+2026-05-24 20:23:46,481 - INFO - ✅ 二组合 ('climate_policy', 'temperatura extrema', 'presidente') 处理成功 (100/1035)
+2026-05-24 20:23:59,760 - INFO - [线程6178467840|账号ECARD0688869] ✅ 二组合(climate_policy) temperatura extrema + ministro 有 447 条结果 📍 URL: https://infoweb-newsbank-com.lapl.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=&maxresults=60&f=advanced&val-base-0=temperatura%20extrema&fld-base-0=alltext&bln-base-1=and&val-base-1=ministro&fld-base-1=alltext
+2026-05-24 20:23:59,760 - INFO - [线程6178467840|账号ECARD0688869] 🔍 开始处理新二组合(climate_policy)：temperatura extrema + presidencia 
+2026-05-24 20:23:59,760 - INFO - ✅ 二组合 ('climate_policy', 'temperatura extrema', 'ministro') 处理成功 (101/1035)
+2026-05-24 20:24:13,034 - INFO - [线程6178467840|账号ECARD0688869] ✅ 二组合(climate_policy) temperatura extrema + presidencia 有 391 条结果 📍 URL: https://infoweb-newsbank-com.lapl.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=&maxresults=60&f=advanced&val-base-0=temperatura%20extrema&fld-base-0=alltext&bln-base-1=and&val-base-1=presidencia&fld-base-1=alltext
+2026-05-24 20:24:13,034 - INFO - [线程6178467840|账号ECARD0688869] 🔍 开始处理新二组合(climate_policy)：temperatura extrema + gobierno 
+2026-05-24 20:24:13,035 - INFO - ✅ 二组合 ('climate_policy', 'temperatura extrema', 'presidencia') 处理成功 (102/1035)
+2026-05-24 20:24:26,315 - INFO - [线程6178467840|账号ECARD0688869] ✅ 二组合(climate_policy) temperatura extrema + gobierno 有 1006 条结果 📍 URL: https://infoweb-newsbank-com.lapl.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=&maxresults=60&f=advanced&val-base-0=temperatura%20extrema&fld-base-0=alltext&bln-base-1=and&val-base-1=gobierno&fld-base-1=alltext
+2026-05-24 20:24:26,315 - INFO - [线程6178467840|账号ECARD0688869] 🔍 开始处理新二组合(climate_policy)：temperatura extrema + Ministerio del Poder Popular para el Ecosocialismo 
+2026-05-24 20:24:26,315 - INFO - ✅ 二组合 ('climate_policy', 'temperatura extrema', 'gobierno') 处理成功 (103/1035)
+2026-05-24 20:24:39,592 - INFO - [线程6178467840|账号ECARD0688869] ❌ 二组合(climate_policy) temperatura extrema + Ministerio del Poder Popular para el Ecosocialismo 无结果 📍 URL: https://infoweb-newsbank-com.lapl.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=&maxresults=60&f=advanced&val-base-0=temperatura%20extrema&fld-base-0=alltext&bln-base-1=and&val-base-1=Ministerio%20del%20Poder%20Popular%20para%20el%20Ecosocialismo&fld-base-1=alltext
+2026-05-24 20:24:39,592 - INFO - [线程6178467840|账号ECARD0688869] 🔍 开始处理新二组合(climate_policy)：temperatura extrema + MINEC 
+2026-05-24 20:24:39,592 - INFO - ✅ 二组合 ('climate_policy', 'temperatura extrema', 'Ministerio del Poder Popular para el Ecosocialismo') 处理成功 (104/1035)
+2026-05-24 20:24:52,827 - INFO - [线程6178467840|账号ECARD0688869] ❌ 二组合(climate_policy) temperatura extrema + MINEC 无结果 📍 URL: https://infoweb-newsbank-com.lapl.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=&maxresults=60&f=advanced&val-base-0=temperatura%20extrema&fld-base-0=alltext&bln-base-1=and&val-base-1=MINEC&fld-base-1=alltext
+2026-05-24 20:24:52,827 - INFO - [线程6178467840|账号ECARD0688869] 🔍 开始处理新二组合(climate_policy)：ola de calor + política 
+2026-05-24 20:24:52,827 - INFO - ✅ 二组合 ('climate_policy', 'temperatura extrema', 'MINEC') 处理成功 (105/1035)
+2026-05-24 20:25:06,111 - INFO - [线程6178467840|账号ECARD0688869] ✅ 二组合(climate_policy) ola de calor + política 有 2454 条结果 📍 URL: https://infoweb-newsbank-com.lapl.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=&maxresults=60&f=advanced&val-base-0=ola%20de%20calor&fld-base-0=alltext&bln-base-1=and&val-base-1=pol%C3%ADtica&fld-base-1=alltext
+2026-05-24 20:25:06,111 - INFO - [线程6178467840|账号ECARD0688869] 🔍 开始处理新二组合(climate_policy)：ola de calor + políticas 
+2026-05-24 20:25:06,111 - INFO - ✅ 二组合 ('climate_policy', 'ola de calor', 'política') 处理成功 (106/1035)
+2026-05-24 20:25:19,384 - INFO - [线程6178467840|账号ECARD0688869] ✅ 二组合(climate_policy) ola de calor + políticas 有 1123 条结果 📍 URL: https://infoweb-newsbank-com.lapl.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=&maxresults=60&f=advanced&val-base-0=ola%20de%20calor&fld-base-0=alltext&bln-base-1=and&val-base-1=pol%C3%ADticas&fld-base-1=alltext
+2026-05-24 20:25:19,384 - INFO - [线程6178467840|账号ECARD0688869] 🔍 开始处理新二组合(climate_policy)：ola de calor + regulación 
+2026-05-24 20:25:19,384 - INFO - ✅ 二组合 ('climate_policy', 'ola de calor', 'políticas') 处理成功 (107/1035)
+2026-05-24 20:25:32,709 - INFO - [线程6178467840|账号ECARD0688869] ✅ 二组合(climate_policy) ola de calor + regulación 有 241 条结果 📍 URL: https://infoweb-newsbank-com.lapl.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=&maxresults=60&f=advanced&val-base-0=ola%20de%20calor&fld-base-0=alltext&bln-base-1=and&val-base-1=regulaci%C3%B3n&fld-base-1=alltext
+2026-05-24 20:25:32,709 - INFO - [线程6178467840|账号ECARD0688869] 🔍 开始处理新二组合(climate_policy)：ola de calor + regulaciones 
+2026-05-24 20:25:32,709 - INFO - ✅ 二组合 ('climate_policy', 'ola de calor', 'regulación') 处理成功 (108/1035)
+2026-05-24 20:25:57,713 - INFO - [线程6178467840|账号ECARD0688869] ✅ 二组合(climate_policy) ola de calor + regulaciones 有 156 条结果 📍 URL: https://infoweb-newsbank-com.lapl.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=&maxresults=60&f=advanced&val-base-0=ola%20de%20calor&fld-base-0=alltext&bln-base-1=and&val-base-1=regulaciones&fld-base-1=alltext
+2026-05-24 20:25:57,714 - INFO - [线程6178467840|账号ECARD0688869] 🔍 开始处理新二组合(climate_policy)：ola de calor + legislación 
+2026-05-24 20:25:57,714 - INFO - ✅ 二组合 ('climate_policy', 'ola de calor', 'regulaciones') 处理成功 (109/1035)
+2026-05-24 20:26:25,343 - INFO - [线程6178467840|账号ECARD0688869] ✅ 二组合(climate_policy) ola de calor + legislación 有 186 条结果 📍 URL: https://infoweb-newsbank-com.lapl.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=&maxresults=60&f=advanced&val-base-0=ola%20de%20calor&fld-base-0=alltext&bln-base-1=and&val-base-1=legislaci%C3%B3n&fld-base-1=alltext
+2026-05-24 20:26:25,343 - INFO - [线程6178467840|账号ECARD0688869] 🔍 开始处理新二组合(climate_policy)：ola de calor + ley 
+2026-05-24 20:26:25,343 - INFO - ✅ 二组合 ('climate_policy', 'ola de calor', 'legislación') 处理成功 (110/1035)
+2026-05-24 20:26:53,682 - INFO - [线程6178467840|账号ECARD0688869] ✅ 二组合(climate_policy) ola de calor + ley 有 1472 条结果 📍 URL: https://infoweb-newsbank-com.lapl.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=&maxresults=60&f=advanced&val-base-0=ola%20de%20calor&fld-base-0=alltext&bln-base-1=and&val-base-1=ley&fld-base-1=alltext
+2026-05-24 20:26:53,682 - INFO - [线程6178467840|账号ECARD0688869] 🔍 开始处理新二组合(climate_policy)：ola de calor + parlamento 
+2026-05-24 20:26:53,683 - INFO - ✅ 二组合 ('climate_policy', 'ola de calor', 'ley') 处理成功 (111/1035)
+2026-05-24 20:27:18,410 - INFO - [线程6178467840|账号ECARD0688869] ✅ 二组合(climate_policy) ola de calor + parlamento 有 479 条结果 📍 URL: https://infoweb-newsbank-com.lapl.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=&maxresults=60&f=advanced&val-base-0=ola%20de%20calor&fld-base-0=alltext&bln-base-1=and&val-base-1=parlamento&fld-base-1=alltext
+2026-05-24 20:27:18,410 - INFO - [线程6178467840|账号ECARD0688869] 🔍 开始处理新二组合(climate_policy)：ola de calor + congreso 
+2026-05-24 20:27:18,410 - INFO - ✅ 二组合 ('climate_policy', 'ola de calor', 'parlamento') 处理成功 (112/1035)
+2026-05-24 20:27:31,715 - INFO - [线程6178467840|账号ECARD0688869] ✅ 二组合(climate_policy) ola de calor + congreso 有 903 条结果 📍 URL: https://infoweb-newsbank-com.lapl.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=&maxresults=60&f=advanced&val-base-0=ola%20de%20calor&fld-base-0=alltext&bln-base-1=and&val-base-1=congreso&fld-base-1=alltext
+2026-05-24 20:27:31,715 - INFO - [线程6178467840|账号ECARD0688869] 🔍 开始处理新二组合(climate_policy)：ola de calor + Asamblea Nacional 
+2026-05-24 20:27:31,715 - INFO - ✅ 二组合 ('climate_policy', 'ola de calor', 'congreso') 处理成功 (113/1035)
+2026-05-24 20:27:44,996 - INFO - [线程6178467840|账号ECARD0688869] ✅ 二组合(climate_policy) ola de calor + Asamblea Nacional 有 229 条结果 📍 URL: https://infoweb-newsbank-com.lapl.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=&maxresults=60&f=advanced&val-base-0=ola%20de%20calor&fld-base-0=alltext&bln-base-1=and&val-base-1=Asamblea%20Nacional&fld-base-1=alltext
+2026-05-24 20:27:44,996 - INFO - [线程6178467840|账号ECARD0688869] 🔍 开始处理新二组合(climate_policy)：ola de calor + presidente 
+2026-05-24 20:27:44,996 - INFO - ✅ 二组合 ('climate_policy', 'ola de calor', 'Asamblea Nacional') 处理成功 (114/1035)
+2026-05-24 20:28:12,745 - INFO - [线程6178467840|账号ECARD0688869] ✅ 二组合(climate_policy) ola de calor + presidente 有 4380 条结果 📍 URL: https://infoweb-newsbank-com.lapl.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=&maxresults=60&f=advanced&val-base-0=ola%20de%20calor&fld-base-0=alltext&bln-base-1=and&val-base-1=presidente&fld-base-1=alltext
+2026-05-24 20:28:12,745 - INFO - [线程6178467840|账号ECARD0688869] 🔍 开始处理新二组合(climate_policy)：ola de calor + ministro 
+2026-05-24 20:28:12,745 - INFO - ✅ 二组合 ('climate_policy', 'ola de calor', 'presidente') 处理成功 (115/1035)
+2026-05-24 20:28:38,530 - INFO - [线程6178467840|账号ECARD0688869] ✅ 二组合(climate_policy) ola de calor + ministro 有 2215 条结果 📍 URL: https://infoweb-newsbank-com.lapl.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=&maxresults=60&f=advanced&val-base-0=ola%20de%20calor&fld-base-0=alltext&bln-base-1=and&val-base-1=ministro&fld-base-1=alltext
+2026-05-24 20:28:38,530 - INFO - [线程6178467840|账号ECARD0688869] 🔍 开始处理新二组合(climate_policy)：ola de calor + presidencia 
+2026-05-24 20:28:38,530 - INFO - ✅ 二组合 ('climate_policy', 'ola de calor', 'ministro') 处理成功 (116/1035)
+2026-05-24 20:28:51,828 - INFO - [线程6178467840|账号ECARD0688869] ✅ 二组合(climate_policy) ola de calor + presidencia 有 682 条结果 📍 URL: https://infoweb-newsbank-com.lapl.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=&maxresults=60&f=advanced&val-base-0=ola%20de%20calor&fld-base-0=alltext&bln-base-1=and&val-base-1=presidencia&fld-base-1=alltext
+2026-05-24 20:28:51,828 - INFO - [线程6178467840|账号ECARD0688869] 🔍 开始处理新二组合(climate_policy)：ola de calor + gobierno 
+2026-05-24 20:28:51,828 - INFO - ✅ 二组合 ('climate_policy', 'ola de calor', 'presidencia') 处理成功 (117/1035)
+2026-05-24 20:29:15,860 - INFO - [线程6178467840|账号ECARD0688869] ✅ 二组合(climate_policy) ola de calor + gobierno 有 5839 条结果 📍 URL: https://infoweb-newsbank-com.lapl.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=&maxresults=60&f=advanced&val-base-0=ola%20de%20calor&fld-base-0=alltext&bln-base-1=and&val-base-1=gobierno&fld-base-1=alltext
+2026-05-24 20:29:15,860 - INFO - [线程6178467840|账号ECARD0688869] 🔍 开始处理新二组合(climate_policy)：ola de calor + Ministerio del Poder Popular para el Ecosocialismo 
+2026-05-24 20:29:15,860 - INFO - ✅ 二组合 ('climate_policy', 'ola de calor', 'gobierno') 处理成功 (118/1035)
+2026-05-24 20:29:29,139 - INFO - [线程6178467840|账号ECARD0688869] ❌ 二组合(climate_policy) ola de calor + Ministerio del Poder Popular para el Ecosocialismo 无结果 📍 URL: https://infoweb-newsbank-com.lapl.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=&maxresults=60&f=advanced&val-base-0=ola%20de%20calor&fld-base-0=alltext&bln-base-1=and&val-base-1=Ministerio%20del%20Poder%20Popular%20para%20el%20Ecosocialismo&fld-base-1=alltext
+2026-05-24 20:29:29,139 - INFO - [线程6178467840|账号ECARD0688869] 🔍 开始处理新二组合(climate_policy)：ola de calor + MINEC 
+2026-05-24 20:29:29,139 - INFO - ✅ 二组合 ('climate_policy', 'ola de calor', 'Ministerio del Poder Popular para el Ecosocialismo') 处理成功 (119/1035)
+2026-05-24 20:29:42,376 - INFO - [线程6178467840|账号ECARD0688869] ❌ 二组合(climate_policy) ola de calor + MINEC 无结果 📍 URL: https://infoweb-newsbank-com.lapl.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=&maxresults=60&f=advanced&val-base-0=ola%20de%20calor&fld-base-0=alltext&bln-base-1=and&val-base-1=MINEC&fld-base-1=alltext
+2026-05-24 20:29:42,376 - INFO - [线程6178467840|账号ECARD0688869] 🔍 开始处理新二组合(climate_policy)：ola de frío + política 
+2026-05-24 20:29:42,376 - INFO - ✅ 二组合 ('climate_policy', 'ola de calor', 'MINEC') 处理成功 (120/1035)
+2026-05-24 20:29:55,812 - INFO - [线程6178467840|账号ECARD0688869] ✅ 二组合(climate_policy) ola de frío + política 有 1545 条结果 📍 URL: https://infoweb-newsbank-com.lapl.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=&maxresults=60&f=advanced&val-base-0=ola%20de%20fr%C3%ADo&fld-base-0=alltext&bln-base-1=and&val-base-1=pol%C3%ADtica&fld-base-1=alltext
+2026-05-24 20:29:55,812 - INFO - [线程6178467840|账号ECARD0688869] 🔍 开始处理新二组合(climate_policy)：ola de frío + políticas 
+2026-05-24 20:29:55,812 - INFO - ✅ 二组合 ('climate_policy', 'ola de frío', 'política') 处理成功 (121/1035)
+2026-05-24 20:30:21,741 - INFO - [线程6178467840|账号ECARD0688869] ✅ 二组合(climate_policy) ola de frío + políticas 有 575 条结果 📍 URL: https://infoweb-newsbank-com.lapl.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=&maxresults=60&f=advanced&val-base-0=ola%20de%20fr%C3%ADo&fld-base-0=alltext&bln-base-1=and&val-base-1=pol%C3%ADticas&fld-base-1=alltext
+2026-05-24 20:30:21,741 - INFO - [线程6178467840|账号ECARD0688869] 🔍 开始处理新二组合(climate_policy)：ola de frío + regulación 
+2026-05-24 20:30:21,742 - INFO - ✅ 二组合 ('climate_policy', 'ola de frío', 'políticas') 处理成功 (122/1035)
+2026-05-24 20:30:35,041 - INFO - [线程6178467840|账号ECARD0688869] ✅ 二组合(climate_policy) ola de frío + regulación 有 68 条结果 📍 URL: https://infoweb-newsbank-com.lapl.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=&maxresults=60&f=advanced&val-base-0=ola%20de%20fr%C3%ADo&fld-base-0=alltext&bln-base-1=and&val-base-1=regulaci%C3%B3n&fld-base-1=alltext
+2026-05-24 20:30:35,041 - INFO - [线程6178467840|账号ECARD0688869] 🔍 开始处理新二组合(climate_policy)：ola de frío + regulaciones 
+2026-05-24 20:30:35,041 - INFO - ✅ 二组合 ('climate_policy', 'ola de frío', 'regulación') 处理成功 (123/1035)
+2026-05-24 20:30:48,328 - INFO - [线程6178467840|账号ECARD0688869] ✅ 二组合(climate_policy) ola de frío + regulaciones 有 68 条结果 📍 URL: https://infoweb-newsbank-com.lapl.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=&maxresults=60&f=advanced&val-base-0=ola%20de%20fr%C3%ADo&fld-base-0=alltext&bln-base-1=and&val-base-1=regulaciones&fld-base-1=alltext
+2026-05-24 20:30:48,329 - INFO - [线程6178467840|账号ECARD0688869] 🔍 开始处理新二组合(climate_policy)：ola de frío + legislación 
+2026-05-24 20:30:48,329 - INFO - ✅ 二组合 ('climate_policy', 'ola de frío', 'regulaciones') 处理成功 (124/1035)
+2026-05-24 20:31:01,608 - INFO - [线程6178467840|账号ECARD0688869] ✅ 二组合(climate_policy) ola de frío + legislación 有 79 条结果 📍 URL: https://infoweb-newsbank-com.lapl.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=&maxresults=60&f=advanced&val-base-0=ola%20de%20fr%C3%ADo&fld-base-0=alltext&bln-base-1=and&val-base-1=legislaci%C3%B3n&fld-base-1=alltext
+2026-05-24 20:31:01,609 - INFO - [线程6178467840|账号ECARD0688869] 🔍 开始处理新二组合(climate_policy)：ola de frío + ley 
+2026-05-24 20:31:01,609 - INFO - ✅ 二组合 ('climate_policy', 'ola de frío', 'legislación') 处理成功 (125/1035)
+2026-05-24 20:31:31,474 - INFO - [线程6178467840|账号ECARD0688869] ✅ 二组合(climate_policy) ola de frío + ley 有 735 条结果 📍 URL: https://infoweb-newsbank-com.lapl.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=&maxresults=60&f=advanced&val-base-0=ola%20de%20fr%C3%ADo&fld-base-0=alltext&bln-base-1=and&val-base-1=ley&fld-base-1=alltext
+2026-05-24 20:31:31,474 - INFO - [线程6178467840|账号ECARD0688869] 🔍 开始处理新二组合(climate_policy)：ola de frío + parlamento 
+2026-05-24 20:31:31,474 - INFO - ✅ 二组合 ('climate_policy', 'ola de frío', 'ley') 处理成功 (126/1035)
+2026-05-24 20:31:44,777 - INFO - [线程6178467840|账号ECARD0688869] ✅ 二组合(climate_policy) ola de frío + parlamento 有 299 条结果 📍 URL: https://infoweb-newsbank-com.lapl.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=&maxresults=60&f=advanced&val-base-0=ola%20de%20fr%C3%ADo&fld-base-0=alltext&bln-base-1=and&val-base-1=parlamento&fld-base-1=alltext
+2026-05-24 20:31:44,778 - INFO - [线程6178467840|账号ECARD0688869] 🔍 开始处理新二组合(climate_policy)：ola de frío + congreso 
+2026-05-24 20:31:44,778 - INFO - ✅ 二组合 ('climate_policy', 'ola de frío', 'parlamento') 处理成功 (127/1035)
+2026-05-24 20:31:58,057 - INFO - [线程6178467840|账号ECARD0688869] ✅ 二组合(climate_policy) ola de frío + congreso 有 530 条结果 📍 URL: https://infoweb-newsbank-com.lapl.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=&maxresults=60&f=advanced&val-base-0=ola%20de%20fr%C3%ADo&fld-base-0=alltext&bln-base-1=and&val-base-1=congreso&fld-base-1=alltext
+2026-05-24 20:31:58,057 - INFO - [线程6178467840|账号ECARD0688869] 🔍 开始处理新二组合(climate_policy)：ola de frío + Asamblea Nacional 
+2026-05-24 20:31:58,057 - INFO - ✅ 二组合 ('climate_policy', 'ola de frío', 'congreso') 处理成功 (128/1035)
+2026-05-24 20:32:11,334 - INFO - [线程6178467840|账号ECARD0688869] ✅ 二组合(climate_policy) ola de frío + Asamblea Nacional 有 158 条结果 📍 URL: https://infoweb-newsbank-com.lapl.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=&maxresults=60&f=advanced&val-base-0=ola%20de%20fr%C3%ADo&fld-base-0=alltext&bln-base-1=and&val-base-1=Asamblea%20Nacional&fld-base-1=alltext
+2026-05-24 20:32:11,334 - INFO - [线程6178467840|账号ECARD0688869] 🔍 开始处理新二组合(climate_policy)：ola de frío + presidente 
+2026-05-24 20:32:11,334 - INFO - ✅ 二组合 ('climate_policy', 'ola de frío', 'Asamblea Nacional') 处理成功 (129/1035)
+2026-05-24 20:32:25,971 - INFO - [线程6178467840|账号ECARD0688869] ✅ 二组合(climate_policy) ola de frío + presidente 有 2749 条结果 📍 URL: https://infoweb-newsbank-com.lapl.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=&maxresults=60&f=advanced&val-base-0=ola%20de%20fr%C3%ADo&fld-base-0=alltext&bln-base-1=and&val-base-1=presidente&fld-base-1=alltext
+2026-05-24 20:32:25,971 - INFO - [线程6178467840|账号ECARD0688869] 🔍 开始处理新二组合(climate_policy)：ola de frío + ministro 
+2026-05-24 20:32:25,971 - INFO - ✅ 二组合 ('climate_policy', 'ola de frío', 'presidente') 处理成功 (130/1035)
+2026-05-24 20:32:39,775 - INFO - [线程6178467840|账号ECARD0688869] ✅ 二组合(climate_policy) ola de frío + ministro 有 1344 条结果 📍 URL: https://infoweb-newsbank-com.lapl.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=&maxresults=60&f=advanced&val-base-0=ola%20de%20fr%C3%ADo&fld-base-0=alltext&bln-base-1=and&val-base-1=ministro&fld-base-1=alltext
+2026-05-24 20:32:39,775 - INFO - [线程6178467840|账号ECARD0688869] 🔍 开始处理新二组合(climate_policy)：ola de frío + presidencia 
+2026-05-24 20:32:39,775 - INFO - ✅ 二组合 ('climate_policy', 'ola de frío', 'ministro') 处理成功 (131/1035)
+2026-05-24 20:32:53,106 - INFO - [线程6178467840|账号ECARD0688869] ✅ 二组合(climate_policy) ola de frío + presidencia 有 399 条结果 📍 URL: https://infoweb-newsbank-com.lapl.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=&maxresults=60&f=advanced&val-base-0=ola%20de%20fr%C3%ADo&fld-base-0=alltext&bln-base-1=and&val-base-1=presidencia&fld-base-1=alltext
+2026-05-24 20:32:53,106 - INFO - [线程6178467840|账号ECARD0688869] 🔍 开始处理新二组合(climate_policy)：ola de frío + gobierno 
+2026-05-24 20:32:53,106 - INFO - ✅ 二组合 ('climate_policy', 'ola de frío', 'presidencia') 处理成功 (132/1035)
+2026-05-24 20:33:09,166 - INFO - [线程6178467840|账号ECARD0688869] ✅ 二组合(climate_policy) ola de frío + gobierno 有 3282 条结果 📍 URL: https://infoweb-newsbank-com.lapl.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=&maxresults=60&f=advanced&val-base-0=ola%20de%20fr%C3%ADo&fld-base-0=alltext&bln-base-1=and&val-base-1=gobierno&fld-base-1=alltext
+2026-05-24 20:33:09,167 - INFO - [线程6178467840|账号ECARD0688869] 🔍 开始处理新二组合(climate_policy)：ola de frío + Ministerio del Poder Popular para el Ecosocialismo 
+2026-05-24 20:33:09,167 - INFO - ✅ 二组合 ('climate_policy', 'ola de frío', 'gobierno') 处理成功 (133/1035)
+2026-05-24 20:33:22,424 - INFO - [线程6178467840|账号ECARD0688869] ❌ 二组合(climate_policy) ola de frío + Ministerio del Poder Popular para el Ecosocialismo 无结果 📍 URL: https://infoweb-newsbank-com.lapl.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=&maxresults=60&f=advanced&val-base-0=ola%20de%20fr%C3%ADo&fld-base-0=alltext&bln-base-1=and&val-base-1=Ministerio%20del%20Poder%20Popular%20para%20el%20Ecosocialismo&fld-base-1=alltext
+2026-05-24 20:33:22,425 - INFO - [线程6178467840|账号ECARD0688869] 🔍 开始处理新二组合(climate_policy)：ola de frío + MINEC 
+2026-05-24 20:33:22,425 - INFO - ✅ 二组合 ('climate_policy', 'ola de frío', 'Ministerio del Poder Popular para el Ecosocialismo') 处理成功 (134/1035)
+2026-05-24 20:33:35,683 - INFO - [线程6178467840|账号ECARD0688869] ✅ 二组合(climate_policy) ola de frío + MINEC 有 1 条结果 📍 URL: https://infoweb-newsbank-com.lapl.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=&maxresults=60&f=advanced&val-base-0=ola%20de%20fr%C3%ADo&fld-base-0=alltext&bln-base-1=and&val-base-1=MINEC&fld-base-1=alltext
+2026-05-24 20:33:35,683 - INFO - [线程6178467840|账号ECARD0688869] 🔍 开始处理新二组合(climate_policy)：sequía + política 
+2026-05-24 20:33:35,683 - INFO - ✅ 二组合 ('climate_policy', 'ola de frío', 'MINEC') 处理成功 (135/1035)
+2026-05-24 20:33:52,553 - INFO - [线程6178467840|账号ECARD0688869] ✅ 二组合(climate_policy) sequía + política 有 18190 条结果 📍 URL: https://infoweb-newsbank-com.lapl.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=&maxresults=60&f=advanced&val-base-0=sequ%C3%ADa&fld-base-0=alltext&bln-base-1=and&val-base-1=pol%C3%ADtica&fld-base-1=alltext
+2026-05-24 20:33:52,553 - INFO - [线程6178467840|账号ECARD0688869] 🔍 开始处理新二组合(climate_policy)：sequía + políticas 
+2026-05-24 20:33:52,553 - INFO - ✅ 二组合 ('climate_policy', 'sequía', 'política') 处理成功 (136/1035)
+2026-05-24 20:34:17,406 - INFO - [线程6178467840|账号ECARD0688869] ✅ 二组合(climate_policy) sequía + políticas 有 8949 条结果 📍 URL: https://infoweb-newsbank-com.lapl.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=&maxresults=60&f=advanced&val-base-0=sequ%C3%ADa&fld-base-0=alltext&bln-base-1=and&val-base-1=pol%C3%ADticas&fld-base-1=alltext
+2026-05-24 20:34:17,406 - INFO - [线程6178467840|账号ECARD0688869] 🔍 开始处理新二组合(climate_policy)：sequía + regulación 
+2026-05-24 20:34:17,406 - INFO - ✅ 二组合 ('climate_policy', 'sequía', 'políticas') 处理成功 (137/1035)
+2026-05-24 20:34:43,629 - INFO - [线程6178467840|账号ECARD0688869] ✅ 二组合(climate_policy) sequía + regulación 有 1663 条结果 📍 URL: https://infoweb-newsbank-com.lapl.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=&maxresults=60&f=advanced&val-base-0=sequ%C3%ADa&fld-base-0=alltext&bln-base-1=and&val-base-1=regulaci%C3%B3n&fld-base-1=alltext
+2026-05-24 20:34:43,630 - INFO - [线程6178467840|账号ECARD0688869] 🔍 开始处理新二组合(climate_policy)：sequía + regulaciones 
+2026-05-24 20:34:43,630 - INFO - ✅ 二组合 ('climate_policy', 'sequía', 'regulación') 处理成功 (138/1035)
+2026-05-24 20:35:10,883 - INFO - [线程6178467840|账号ECARD0688869] ✅ 二组合(climate_policy) sequía + regulaciones 有 921 条结果 📍 URL: https://infoweb-newsbank-com.lapl.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=&maxresults=60&f=advanced&val-base-0=sequ%C3%ADa&fld-base-0=alltext&bln-base-1=and&val-base-1=regulaciones&fld-base-1=alltext
+2026-05-24 20:35:10,883 - INFO - [线程6178467840|账号ECARD0688869] 🔍 开始处理新二组合(climate_policy)：sequía + legislación 
+2026-05-24 20:35:10,883 - INFO - ✅ 二组合 ('climate_policy', 'sequía', 'regulaciones') 处理成功 (139/1035)
+2026-05-24 20:35:24,187 - INFO - [线程6178467840|账号ECARD0688869] ✅ 二组合(climate_policy) sequía + legislación 有 1363 条结果 📍 URL: https://infoweb-newsbank-com.lapl.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=&maxresults=60&f=advanced&val-base-0=sequ%C3%ADa&fld-base-0=alltext&bln-base-1=and&val-base-1=legislaci%C3%B3n&fld-base-1=alltext
+2026-05-24 20:35:24,187 - INFO - [线程6178467840|账号ECARD0688869] 🔍 开始处理新二组合(climate_policy)：sequía + ley 
+2026-05-24 20:35:24,187 - INFO - ✅ 二组合 ('climate_policy', 'sequía', 'legislación') 处理成功 (140/1035)
+2026-05-24 20:35:37,514 - INFO - [线程6178467840|账号ECARD0688869] ✅ 二组合(climate_policy) sequía + ley 有 8828 条结果 📍 URL: https://infoweb-newsbank-com.lapl.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=&maxresults=60&f=advanced&val-base-0=sequ%C3%ADa&fld-base-0=alltext&bln-base-1=and&val-base-1=ley&fld-base-1=alltext
+2026-05-24 20:35:37,514 - INFO - [线程6178467840|账号ECARD0688869] 🔍 开始处理新二组合(climate_policy)：sequía + parlamento 
+2026-05-24 20:35:37,514 - INFO - ✅ 二组合 ('climate_policy', 'sequía', 'ley') 处理成功 (141/1035)
+2026-05-24 20:36:03,396 - INFO - [线程6178467840|账号ECARD0688869] ✅ 二组合(climate_policy) sequía + parlamento 有 1741 条结果 📍 URL: https://infoweb-newsbank-com.lapl.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=&maxresults=60&f=advanced&val-base-0=sequ%C3%ADa&fld-base-0=alltext&bln-base-1=and&val-base-1=parlamento&fld-base-1=alltext
+2026-05-24 20:36:03,396 - INFO - [线程6178467840|账号ECARD0688869] 🔍 开始处理新二组合(climate_policy)：sequía + congreso 
+2026-05-24 20:36:03,397 - INFO - ✅ 二组合 ('climate_policy', 'sequía', 'parlamento') 处理成功 (142/1035)
+2026-05-24 20:36:17,190 - INFO - [线程6178467840|账号ECARD0688869] ✅ 二组合(climate_policy) sequía + congreso 有 5879 条结果 📍 URL: https://infoweb-newsbank-com.lapl.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=&maxresults=60&f=advanced&val-base-0=sequ%C3%ADa&fld-base-0=alltext&bln-base-1=and&val-base-1=congreso&fld-base-1=alltext
+2026-05-24 20:36:17,190 - INFO - [线程6178467840|账号ECARD0688869] 🔍 开始处理新二组合(climate_policy)：sequía + Asamblea Nacional 
+2026-05-24 20:36:17,190 - INFO - ✅ 二组合 ('climate_policy', 'sequía', 'congreso') 处理成功 (143/1035)
+2026-05-24 20:36:44,113 - INFO - [线程6178467840|账号ECARD0688869] ✅ 二组合(climate_policy) sequía + Asamblea Nacional 有 1539 条结果 📍 URL: https://infoweb-newsbank-com.lapl.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=&maxresults=60&f=advanced&val-base-0=sequ%C3%ADa&fld-base-0=alltext&bln-base-1=and&val-base-1=Asamblea%20Nacional&fld-base-1=alltext
+2026-05-24 20:36:44,113 - INFO - [线程6178467840|账号ECARD0688869] 🔍 开始处理新二组合(climate_policy)：sequía + presidente 
+2026-05-24 20:36:44,113 - INFO - ✅ 二组合 ('climate_policy', 'sequía', 'Asamblea Nacional') 处理成功 (144/1035)
+2026-05-24 20:37:09,031 - INFO - [线程6178467840|账号ECARD0688869] ✅ 二组合(climate_policy) sequía + presidente 有 30612 条结果 📍 URL: https://infoweb-newsbank-com.lapl.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=&maxresults=60&f=advanced&val-base-0=sequ%C3%ADa&fld-base-0=alltext&bln-base-1=and&val-base-1=presidente&fld-base-1=alltext
+2026-05-24 20:37:09,031 - INFO - [线程6178467840|账号ECARD0688869] 🔍 开始处理新二组合(climate_policy)：sequía + ministro 
+2026-05-24 20:37:09,031 - INFO - ✅ 二组合 ('climate_policy', 'sequía', 'presidente') 处理成功 (145/1035)
+2026-05-24 20:37:38,555 - INFO - [线程6178467840|账号ECARD0688869] ✅ 二组合(climate_policy) sequía + ministro 有 11570 条结果 📍 URL: https://infoweb-newsbank-com.lapl.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=&maxresults=60&f=advanced&val-base-0=sequ%C3%ADa&fld-base-0=alltext&bln-base-1=and&val-base-1=ministro&fld-base-1=alltext
+2026-05-24 20:37:38,555 - INFO - [线程6178467840|账号ECARD0688869] 🔍 开始处理新二组合(climate_policy)：sequía + presidencia 
+2026-05-24 20:37:38,555 - INFO - ✅ 二组合 ('climate_policy', 'sequía', 'ministro') 处理成功 (146/1035)
+2026-05-24 20:37:51,838 - INFO - [线程6178467840|账号ECARD0688869] ✅ 二组合(climate_policy) sequía + presidencia 有 4100 条结果 📍 URL: https://infoweb-newsbank-com.lapl.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=&maxresults=60&f=advanced&val-base-0=sequ%C3%ADa&fld-base-0=alltext&bln-base-1=and&val-base-1=presidencia&fld-base-1=alltext
+2026-05-24 20:37:51,838 - INFO - [线程6178467840|账号ECARD0688869] 🔍 开始处理新二组合(climate_policy)：sequía + gobierno 
+2026-05-24 20:37:51,838 - INFO - ✅ 二组合 ('climate_policy', 'sequía', 'presidencia') 处理成功 (147/1035)
+2026-05-24 20:38:07,700 - INFO - [线程6178467840|账号ECARD0688869] ✅ 二组合(climate_policy) sequía + gobierno 有 40405 条结果 📍 URL: https://infoweb-newsbank-com.lapl.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=&maxresults=60&f=advanced&val-base-0=sequ%C3%ADa&fld-base-0=alltext&bln-base-1=and&val-base-1=gobierno&fld-base-1=alltext
+2026-05-24 20:38:07,700 - INFO - [线程6178467840|账号ECARD0688869] 🔍 开始处理新二组合(climate_policy)：sequía + Ministerio del Poder Popular para el Ecosocialismo 
+2026-05-24 20:38:07,700 - INFO - ✅ 二组合 ('climate_policy', 'sequía', 'gobierno') 处理成功 (148/1035)
+2026-05-24 20:38:20,953 - INFO - [线程6178467840|账号ECARD0688869] ✅ 二组合(climate_policy) sequía + Ministerio del Poder Popular para el Ecosocialismo 有 1 条结果 📍 URL: https://infoweb-newsbank-com.lapl.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=&maxresults=60&f=advanced&val-base-0=sequ%C3%ADa&fld-base-0=alltext&bln-base-1=and&val-base-1=Ministerio%20del%20Poder%20Popular%20para%20el%20Ecosocialismo&fld-base-1=alltext
+2026-05-24 20:38:20,954 - INFO - [线程6178467840|账号ECARD0688869] 🔍 开始处理新二组合(climate_policy)：sequía + MINEC 
+2026-05-24 20:38:20,954 - INFO - ✅ 二组合 ('climate_policy', 'sequía', 'Ministerio del Poder Popular para el Ecosocialismo') 处理成功 (149/1035)
+2026-05-24 20:38:34,187 - INFO - [线程6178467840|账号ECARD0688869] ✅ 二组合(climate_policy) sequía + MINEC 有 5 条结果 📍 URL: https://infoweb-newsbank-com.lapl.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=&maxresults=60&f=advanced&val-base-0=sequ%C3%ADa&fld-base-0=alltext&bln-base-1=and&val-base-1=MINEC&fld-base-1=alltext
+2026-05-24 20:38:34,187 - INFO - [线程6178467840|账号ECARD0688869] 🔍 开始处理新二组合(climate_policy)：incendio forestal + política 
+2026-05-24 20:38:34,187 - INFO - ✅ 二组合 ('climate_policy', 'sequía', 'MINEC') 处理成功 (150/1035)
+2026-05-24 20:39:03,496 - INFO - [线程6178467840|账号ECARD0688869] ✅ 二组合(climate_policy) incendio forestal + política 有 1464 条结果 📍 URL: https://infoweb-newsbank-com.lapl.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=&maxresults=60&f=advanced&val-base-0=incendio%20forestal&fld-base-0=alltext&bln-base-1=and&val-base-1=pol%C3%ADtica&fld-base-1=alltext
+2026-05-24 20:39:03,496 - INFO - [线程6178467840|账号ECARD0688869] 🔍 开始处理新二组合(climate_policy)：incendio forestal + políticas 
+2026-05-24 20:39:03,496 - INFO - ✅ 二组合 ('climate_policy', 'incendio forestal', 'política') 处理成功 (151/1035)
+2026-05-24 20:39:16,803 - INFO - [线程6178467840|账号ECARD0688869] ✅ 二组合(climate_policy) incendio forestal + políticas 有 749 条结果 📍 URL: https://infoweb-newsbank-com.lapl.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=&maxresults=60&f=advanced&val-base-0=incendio%20forestal&fld-base-0=alltext&bln-base-1=and&val-base-1=pol%C3%ADticas&fld-base-1=alltext
+2026-05-24 20:39:16,804 - INFO - [线程6178467840|账号ECARD0688869] 🔍 开始处理新二组合(climate_policy)：incendio forestal + regulación 
+2026-05-24 20:39:16,804 - INFO - ✅ 二组合 ('climate_policy', 'incendio forestal', 'políticas') 处理成功 (152/1035)
+2026-05-24 20:39:42,521 - INFO - [线程6178467840|账号ECARD0688869] ✅ 二组合(climate_policy) incendio forestal + regulación 有 163 条结果 📍 URL: https://infoweb-newsbank-com.lapl.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=&maxresults=60&f=advanced&val-base-0=incendio%20forestal&fld-base-0=alltext&bln-base-1=and&val-base-1=regulaci%C3%B3n&fld-base-1=alltext
+2026-05-24 20:39:42,521 - INFO - [线程6178467840|账号ECARD0688869] 🔍 开始处理新二组合(climate_policy)：incendio forestal + regulaciones 
+2026-05-24 20:39:42,521 - INFO - ✅ 二组合 ('climate_policy', 'incendio forestal', 'regulación') 处理成功 (153/1035)
+2026-05-24 20:39:55,819 - INFO - [线程6178467840|账号ECARD0688869] ✅ 二组合(climate_policy) incendio forestal + regulaciones 有 113 条结果 📍 URL: https://infoweb-newsbank-com.lapl.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=&maxresults=60&f=advanced&val-base-0=incendio%20forestal&fld-base-0=alltext&bln-base-1=and&val-base-1=regulaciones&fld-base-1=alltext
+2026-05-24 20:39:55,819 - INFO - [线程6178467840|账号ECARD0688869] 🔍 开始处理新二组合(climate_policy)：incendio forestal + legislación 
+2026-05-24 20:39:55,819 - INFO - ✅ 二组合 ('climate_policy', 'incendio forestal', 'regulaciones') 处理成功 (154/1035)
+2026-05-24 20:40:09,730 - INFO - [线程6178467840|账号ECARD0688869] ✅ 二组合(climate_policy) incendio forestal + legislación 有 284 条结果 📍 URL: https://infoweb-newsbank-com.lapl.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=&maxresults=60&f=advanced&val-base-0=incendio%20forestal&fld-base-0=alltext&bln-base-1=and&val-base-1=legislaci%C3%B3n&fld-base-1=alltext
+2026-05-24 20:40:09,731 - INFO - [线程6178467840|账号ECARD0688869] 🔍 开始处理新二组合(climate_policy)：incendio forestal + ley 
+2026-05-24 20:40:09,731 - INFO - ✅ 二组合 ('climate_policy', 'incendio forestal', 'legislación') 处理成功 (155/1035)
+2026-05-24 20:40:23,006 - INFO - [线程6178467840|账号ECARD0688869] ✅ 二组合(climate_policy) incendio forestal + ley 有 1746 条结果 📍 URL: https://infoweb-newsbank-com.lapl.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=&maxresults=60&f=advanced&val-base-0=incendio%20forestal&fld-base-0=alltext&bln-base-1=and&val-base-1=ley&fld-base-1=alltext
+2026-05-24 20:40:23,007 - INFO - [线程6178467840|账号ECARD0688869] 🔍 开始处理新二组合(climate_policy)：incendio forestal + parlamento 
+2026-05-24 20:40:23,007 - INFO - ✅ 二组合 ('climate_policy', 'incendio forestal', 'ley') 处理成功 (156/1035)
+2026-05-24 20:40:37,401 - INFO - [线程6178467840|账号ECARD0688869] ✅ 二组合(climate_policy) incendio forestal + parlamento 有 246 条结果 📍 URL: https://infoweb-newsbank-com.lapl.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=&maxresults=60&f=advanced&val-base-0=incendio%20forestal&fld-base-0=alltext&bln-base-1=and&val-base-1=parlamento&fld-base-1=alltext
+2026-05-24 20:40:37,401 - INFO - [线程6178467840|账号ECARD0688869] 🔍 开始处理新二组合(climate_policy)：incendio forestal + congreso 
+2026-05-24 20:40:37,401 - INFO - ✅ 二组合 ('climate_policy', 'incendio forestal', 'parlamento') 处理成功 (157/1035)
+2026-05-24 20:41:03,232 - INFO - [线程6178467840|账号ECARD0688869] ✅ 二组合(climate_policy) incendio forestal + congreso 有 721 条结果 📍 URL: https://infoweb-newsbank-com.lapl.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=&maxresults=60&f=advanced&val-base-0=incendio%20forestal&fld-base-0=alltext&bln-base-1=and&val-base-1=congreso&fld-base-1=alltext
+2026-05-24 20:41:03,232 - INFO - [线程6178467840|账号ECARD0688869] 🔍 开始处理新二组合(climate_policy)：incendio forestal + Asamblea Nacional 
+2026-05-24 20:41:03,232 - INFO - ✅ 二组合 ('climate_policy', 'incendio forestal', 'congreso') 处理成功 (158/1035)
+2026-05-24 20:41:16,537 - INFO - [线程6178467840|账号ECARD0688869] ✅ 二组合(climate_policy) incendio forestal + Asamblea Nacional 有 171 条结果 📍 URL: https://infoweb-newsbank-com.lapl.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=&maxresults=60&f=advanced&val-base-0=incendio%20forestal&fld-base-0=alltext&bln-base-1=and&val-base-1=Asamblea%20Nacional&fld-base-1=alltext
+2026-05-24 20:41:16,537 - INFO - [线程6178467840|账号ECARD0688869] 🔍 开始处理新二组合(climate_policy)：incendio forestal + presidente 
+2026-05-24 20:41:16,537 - INFO - ✅ 二组合 ('climate_policy', 'incendio forestal', 'Asamblea Nacional') 处理成功 (159/1035)
+2026-05-24 20:41:30,889 - INFO - [线程6178467840|账号ECARD0688869] ✅ 二组合(climate_policy) incendio forestal + presidente 有 3834 条结果 📍 URL: https://infoweb-newsbank-com.lapl.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=&maxresults=60&f=advanced&val-base-0=incendio%20forestal&fld-base-0=alltext&bln-base-1=and&val-base-1=presidente&fld-base-1=alltext
+2026-05-24 20:41:30,890 - INFO - [线程6178467840|账号ECARD0688869] 🔍 开始处理新二组合(climate_policy)：incendio forestal + ministro 
+2026-05-24 20:41:30,890 - INFO - ✅ 二组合 ('climate_policy', 'incendio forestal', 'presidente') 处理成功 (160/1035)
+2026-05-24 20:41:45,437 - INFO - [线程6178467840|账号ECARD0688869] ✅ 二组合(climate_policy) incendio forestal + ministro 有 2223 条结果 📍 URL: https://infoweb-newsbank-com.lapl.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=&maxresults=60&f=advanced&val-base-0=incendio%20forestal&fld-base-0=alltext&bln-base-1=and&val-base-1=ministro&fld-base-1=alltext
+2026-05-24 20:41:45,438 - INFO - [线程6178467840|账号ECARD0688869] 🔍 开始处理新二组合(climate_policy)：incendio forestal + presidencia 
+2026-05-24 20:41:45,438 - INFO - ✅ 二组合 ('climate_policy', 'incendio forestal', 'ministro') 处理成功 (161/1035)
+2026-05-24 20:42:10,849 - INFO - [线程6178467840|账号ECARD0688869] ✅ 二组合(climate_policy) incendio forestal + presidencia 有 463 条结果 📍 URL: https://infoweb-newsbank-com.lapl.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=&maxresults=60&f=advanced&val-base-0=incendio%20forestal&fld-base-0=alltext&bln-base-1=and&val-base-1=presidencia&fld-base-1=alltext
+2026-05-24 20:42:10,850 - INFO - [线程6178467840|账号ECARD0688869] 🔍 开始处理新二组合(climate_policy)：incendio forestal + gobierno 
+2026-05-24 20:42:10,850 - INFO - ✅ 二组合 ('climate_policy', 'incendio forestal', 'presidencia') 处理成功 (162/1035)
+2026-05-24 20:42:25,285 - INFO - [线程6178467840|账号ECARD0688869] ✅ 二组合(climate_policy) incendio forestal + gobierno 有 6701 条结果 📍 URL: https://infoweb-newsbank-com.lapl.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=&maxresults=60&f=advanced&val-base-0=incendio%20forestal&fld-base-0=alltext&bln-base-1=and&val-base-1=gobierno&fld-base-1=alltext
+2026-05-24 20:42:25,285 - INFO - [线程6178467840|账号ECARD0688869] 🔍 开始处理新二组合(climate_policy)：incendio forestal + Ministerio del Poder Popular para el Ecosocialismo 
+2026-05-24 20:42:25,285 - INFO - ✅ 二组合 ('climate_policy', 'incendio forestal', 'gobierno') 处理成功 (163/1035)
+2026-05-24 20:42:38,546 - INFO - [线程6178467840|账号ECARD0688869] ❌ 二组合(climate_policy) incendio forestal + Ministerio del Poder Popular para el Ecosocialismo 无结果 📍 URL: https://infoweb-newsbank-com.lapl.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=&maxresults=60&f=advanced&val-base-0=incendio%20forestal&fld-base-0=alltext&bln-base-1=and&val-base-1=Ministerio%20del%20Poder%20Popular%20para%20el%20Ecosocialismo&fld-base-1=alltext
+2026-05-24 20:42:38,546 - INFO - [线程6178467840|账号ECARD0688869] 🔍 开始处理新二组合(climate_policy)：incendio forestal + MINEC 
+2026-05-24 20:42:38,546 - INFO - ✅ 二组合 ('climate_policy', 'incendio forestal', 'Ministerio del Poder Popular para el Ecosocialismo') 处理成功 (164/1035)
+2026-05-24 20:42:51,781 - INFO - [线程6178467840|账号ECARD0688869] ✅ 二组合(climate_policy) incendio forestal + MINEC 有 1 条结果 📍 URL: https://infoweb-newsbank-com.lapl.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=&maxresults=60&f=advanced&val-base-0=incendio%20forestal&fld-base-0=alltext&bln-base-1=and&val-base-1=MINEC&fld-base-1=alltext
+2026-05-24 20:42:51,782 - INFO - [线程6178467840|账号ECARD0688869] 🔍 开始处理新二组合(climate_policy)：tormenta de nieve + política 
+2026-05-24 20:42:51,782 - INFO - ✅ 二组合 ('climate_policy', 'incendio forestal', 'MINEC') 处理成功 (165/1035)
+2026-05-24 20:43:05,371 - INFO - [线程6178467840|账号ECARD0688869] ✅ 二组合(climate_policy) tormenta de nieve + política 有 1002 条结果 📍 URL: https://infoweb-newsbank-com.lapl.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=&maxresults=60&f=advanced&val-base-0=tormenta%20de%20nieve&fld-base-0=alltext&bln-base-1=and&val-base-1=pol%C3%ADtica&fld-base-1=alltext
+2026-05-24 20:43:05,371 - INFO - [线程6178467840|账号ECARD0688869] 🔍 开始处理新二组合(climate_policy)：tormenta de nieve + políticas 
+2026-05-24 20:43:05,371 - INFO - ✅ 二组合 ('climate_policy', 'tormenta de nieve', 'política') 处理成功 (166/1035)
+2026-05-24 20:43:18,901 - INFO - [线程6178467840|账号ECARD0688869] ✅ 二组合(climate_policy) tormenta de nieve + políticas 有 342 条结果 📍 URL: https://infoweb-newsbank-com.lapl.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=&maxresults=60&f=advanced&val-base-0=tormenta%20de%20nieve&fld-base-0=alltext&bln-base-1=and&val-base-1=pol%C3%ADticas&fld-base-1=alltext
+2026-05-24 20:43:18,901 - INFO - [线程6178467840|账号ECARD0688869] 🔍 开始处理新二组合(climate_policy)：tormenta de nieve + regulación 
+2026-05-24 20:43:18,901 - INFO - ✅ 二组合 ('climate_policy', 'tormenta de nieve', 'políticas') 处理成功 (167/1035)
+2026-05-24 20:43:32,167 - INFO - [线程6178467840|账号ECARD0688869] ✅ 二组合(climate_policy) tormenta de nieve + regulación 有 38 条结果 📍 URL: https://infoweb-newsbank-com.lapl.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=&maxresults=60&f=advanced&val-base-0=tormenta%20de%20nieve&fld-base-0=alltext&bln-base-1=and&val-base-1=regulaci%C3%B3n&fld-base-1=alltext
+2026-05-24 20:43:32,167 - INFO - [线程6178467840|账号ECARD0688869] 🔍 开始处理新二组合(climate_policy)：tormenta de nieve + regulaciones 
+2026-05-24 20:43:32,167 - INFO - ✅ 二组合 ('climate_policy', 'tormenta de nieve', 'regulación') 处理成功 (168/1035)
+2026-05-24 20:43:45,447 - INFO - [线程6178467840|账号ECARD0688869] ✅ 二组合(climate_policy) tormenta de nieve + regulaciones 有 79 条结果 📍 URL: https://infoweb-newsbank-com.lapl.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=&maxresults=60&f=advanced&val-base-0=tormenta%20de%20nieve&fld-base-0=alltext&bln-base-1=and&val-base-1=regulaciones&fld-base-1=alltext
+2026-05-24 20:43:45,447 - INFO - [线程6178467840|账号ECARD0688869] 🔍 开始处理新二组合(climate_policy)：tormenta de nieve + legislación 
+2026-05-24 20:43:45,447 - INFO - ✅ 二组合 ('climate_policy', 'tormenta de nieve', 'regulaciones') 处理成功 (169/1035)
+2026-05-24 20:43:58,740 - INFO - [线程6178467840|账号ECARD0688869] ✅ 二组合(climate_policy) tormenta de nieve + legislación 有 80 条结果 📍 URL: https://infoweb-newsbank-com.lapl.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=&maxresults=60&f=advanced&val-base-0=tormenta%20de%20nieve&fld-base-0=alltext&bln-base-1=and&val-base-1=legislaci%C3%B3n&fld-base-1=alltext
+2026-05-24 20:43:58,741 - INFO - [线程6178467840|账号ECARD0688869] 🔍 开始处理新二组合(climate_policy)：tormenta de nieve + ley 
+2026-05-24 20:43:58,741 - INFO - ✅ 二组合 ('climate_policy', 'tormenta de nieve', 'legislación') 处理成功 (170/1035)
+2026-05-24 20:44:12,022 - INFO - [线程6178467840|账号ECARD0688869] ✅ 二组合(climate_policy) tormenta de nieve + ley 有 693 条结果 📍 URL: https://infoweb-newsbank-com.lapl.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=&maxresults=60&f=advanced&val-base-0=tormenta%20de%20nieve&fld-base-0=alltext&bln-base-1=and&val-base-1=ley&fld-base-1=alltext
+2026-05-24 20:44:12,022 - INFO - [线程6178467840|账号ECARD0688869] 🔍 开始处理新二组合(climate_policy)：tormenta de nieve + parlamento 
+2026-05-24 20:44:12,022 - INFO - ✅ 二组合 ('climate_policy', 'tormenta de nieve', 'ley') 处理成功 (171/1035)
+2026-05-24 20:44:25,307 - INFO - [线程6178467840|账号ECARD0688869] ✅ 二组合(climate_policy) tormenta de nieve + parlamento 有 204 条结果 📍 URL: https://infoweb-newsbank-com.lapl.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=&maxresults=60&f=advanced&val-base-0=tormenta%20de%20nieve&fld-base-0=alltext&bln-base-1=and&val-base-1=parlamento&fld-base-1=alltext
+2026-05-24 20:44:25,307 - INFO - [线程6178467840|账号ECARD0688869] 🔍 开始处理新二组合(climate_policy)：tormenta de nieve + congreso 
+2026-05-24 20:44:25,307 - INFO - ✅ 二组合 ('climate_policy', 'tormenta de nieve', 'parlamento') 处理成功 (172/1035)
+2026-05-24 20:44:41,360 - INFO - [线程6178467840|账号ECARD0688869] ✅ 二组合(climate_policy) tormenta de nieve + congreso 有 524 条结果 📍 URL: https://infoweb-newsbank-com.lapl.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=&maxresults=60&f=advanced&val-base-0=tormenta%20de%20nieve&fld-base-0=alltext&bln-base-1=and&val-base-1=congreso&fld-base-1=alltext
+2026-05-24 20:44:41,361 - INFO - [线程6178467840|账号ECARD0688869] 🔍 开始处理新二组合(climate_policy)：tormenta de nieve + Asamblea Nacional 
+2026-05-24 20:44:41,361 - INFO - ✅ 二组合 ('climate_policy', 'tormenta de nieve', 'congreso') 处理成功 (173/1035)
+2026-05-24 20:44:55,443 - INFO - [线程6178467840|账号ECARD0688869] ✅ 二组合(climate_policy) tormenta de nieve + Asamblea Nacional 有 105 条结果 📍 URL: https://infoweb-newsbank-com.lapl.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=&maxresults=60&f=advanced&val-base-0=tormenta%20de%20nieve&fld-base-0=alltext&bln-base-1=and&val-base-1=Asamblea%20Nacional&fld-base-1=alltext
+2026-05-24 20:44:55,444 - INFO - [线程6178467840|账号ECARD0688869] 🔍 开始处理新二组合(climate_policy)：tormenta de nieve + presidente 
+2026-05-24 20:44:55,444 - INFO - ✅ 二组合 ('climate_policy', 'tormenta de nieve', 'Asamblea Nacional') 处理成功 (174/1035)
+2026-05-24 20:45:08,766 - INFO - [线程6178467840|账号ECARD0688869] ✅ 二组合(climate_policy) tormenta de nieve + presidente 有 2511 条结果 📍 URL: https://infoweb-newsbank-com.lapl.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=&maxresults=60&f=advanced&val-base-0=tormenta%20de%20nieve&fld-base-0=alltext&bln-base-1=and&val-base-1=presidente&fld-base-1=alltext
+2026-05-24 20:45:08,766 - INFO - [线程6178467840|账号ECARD0688869] 🔍 开始处理新二组合(climate_policy)：tormenta de nieve + ministro 
+2026-05-24 20:45:08,766 - INFO - ✅ 二组合 ('climate_policy', 'tormenta de nieve', 'presidente') 处理成功 (175/1035)
+2026-05-24 20:45:37,795 - INFO - [线程6178467840|账号ECARD0688869] ✅ 二组合(climate_policy) tormenta de nieve + ministro 有 659 条结果 📍 URL: https://infoweb-newsbank-com.lapl.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=&maxresults=60&f=advanced&val-base-0=tormenta%20de%20nieve&fld-base-0=alltext&bln-base-1=and&val-base-1=ministro&fld-base-1=alltext
+2026-05-24 20:45:37,795 - INFO - [线程6178467840|账号ECARD0688869] 🔍 开始处理新二组合(climate_policy)：tormenta de nieve + presidencia 
+2026-05-24 20:45:37,795 - INFO - ✅ 二组合 ('climate_policy', 'tormenta de nieve', 'ministro') 处理成功 (176/1035)
+2026-05-24 20:45:55,639 - INFO - [线程6178467840|账号ECARD0688869] ✅ 二组合(climate_policy) tormenta de nieve + presidencia 有 297 条结果 📍 URL: https://infoweb-newsbank-com.lapl.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=&maxresults=60&f=advanced&val-base-0=tormenta%20de%20nieve&fld-base-0=alltext&bln-base-1=and&val-base-1=presidencia&fld-base-1=alltext
+2026-05-24 20:45:55,639 - INFO - [线程6178467840|账号ECARD0688869] 🔍 开始处理新二组合(climate_policy)：tormenta de nieve + gobierno 
+2026-05-24 20:45:55,639 - INFO - ✅ 二组合 ('climate_policy', 'tormenta de nieve', 'presidencia') 处理成功 (177/1035)
+2026-05-24 20:46:22,348 - INFO - [线程6178467840|账号ECARD0688869] ✅ 二组合(climate_policy) tormenta de nieve + gobierno 有 2558 条结果 📍 URL: https://infoweb-newsbank-com.lapl.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=&maxresults=60&f=advanced&val-base-0=tormenta%20de%20nieve&fld-base-0=alltext&bln-base-1=and&val-base-1=gobierno&fld-base-1=alltext
+2026-05-24 20:46:22,349 - INFO - [线程6178467840|账号ECARD0688869] 🔍 开始处理新二组合(climate_policy)：tormenta de nieve + Ministerio del Poder Popular para el Ecosocialismo 
+2026-05-24 20:46:22,349 - INFO - ✅ 二组合 ('climate_policy', 'tormenta de nieve', 'gobierno') 处理成功 (178/1035)
+2026-05-24 20:46:44,113 - INFO - [线程6178467840|账号ECARD0688869] ❌ 二组合(climate_policy) tormenta de nieve + Ministerio del Poder Popular para el Ecosocialismo 无结果 📍 URL: https://infoweb-newsbank-com.lapl.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=&maxresults=60&f=advanced&val-base-0=tormenta%20de%20nieve&fld-base-0=alltext&bln-base-1=and&val-base-1=Ministerio%20del%20Poder%20Popular%20para%20el%20Ecosocialismo&fld-base-1=alltext
+2026-05-24 20:46:44,113 - INFO - [线程6178467840|账号ECARD0688869] 🔍 开始处理新二组合(climate_policy)：tormenta de nieve + MINEC 
+2026-05-24 20:46:44,114 - INFO - ✅ 二组合 ('climate_policy', 'tormenta de nieve', 'Ministerio del Poder Popular para el Ecosocialismo') 处理成功 (179/1035)
+2026-05-24 20:47:06,162 - INFO - [线程6178467840|账号ECARD0688869] ❌ 二组合(climate_policy) tormenta de nieve + MINEC 无结果 📍 URL: https://infoweb-newsbank-com.lapl.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=&maxresults=60&f=advanced&val-base-0=tormenta%20de%20nieve&fld-base-0=alltext&bln-base-1=and&val-base-1=MINEC&fld-base-1=alltext
+2026-05-24 20:47:06,163 - INFO - [线程6178467840|账号ECARD0688869] 🔍 开始处理新二组合(climate_policy)：lluvia intensa + política 
+2026-05-24 20:47:06,163 - INFO - ✅ 二组合 ('climate_policy', 'tormenta de nieve', 'MINEC') 处理成功 (180/1035)
+2026-05-24 20:47:31,701 - INFO - [线程6178467840|账号ECARD0688869] ✅ 二组合(climate_policy) lluvia intensa + política 有 1301 条结果 📍 URL: https://infoweb-newsbank-com.lapl.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=&maxresults=60&f=advanced&val-base-0=lluvia%20intensa&fld-base-0=alltext&bln-base-1=and&val-base-1=pol%C3%ADtica&fld-base-1=alltext
+2026-05-24 20:47:31,701 - INFO - [线程6178467840|账号ECARD0688869] 🔍 开始处理新二组合(climate_policy)：lluvia intensa + políticas 
+2026-05-24 20:47:31,701 - INFO - ✅ 二组合 ('climate_policy', 'lluvia intensa', 'política') 处理成功 (181/1035)
+2026-05-24 20:47:45,601 - INFO - [线程6178467840|账号ECARD0688869] ✅ 二组合(climate_policy) lluvia intensa + políticas 有 415 条结果 📍 URL: https://infoweb-newsbank-com.lapl.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=&maxresults=60&f=advanced&val-base-0=lluvia%20intensa&fld-base-0=alltext&bln-base-1=and&val-base-1=pol%C3%ADticas&fld-base-1=alltext
+2026-05-24 20:47:45,601 - INFO - [线程6178467840|账号ECARD0688869] 🔍 开始处理新二组合(climate_policy)：lluvia intensa + regulación 
+2026-05-24 20:47:45,601 - INFO - ✅ 二组合 ('climate_policy', 'lluvia intensa', 'políticas') 处理成功 (182/1035)
+2026-05-24 20:47:58,899 - INFO - [线程6178467840|账号ECARD0688869] ✅ 二组合(climate_policy) lluvia intensa + regulación 有 101 条结果 📍 URL: https://infoweb-newsbank-com.lapl.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=&maxresults=60&f=advanced&val-base-0=lluvia%20intensa&fld-base-0=alltext&bln-base-1=and&val-base-1=regulaci%C3%B3n&fld-base-1=alltext
+2026-05-24 20:47:58,899 - INFO - [线程6178467840|账号ECARD0688869] 🔍 开始处理新二组合(climate_policy)：lluvia intensa + regulaciones 
+2026-05-24 20:47:58,900 - INFO - ✅ 二组合 ('climate_policy', 'lluvia intensa', 'regulación') 处理成功 (183/1035)
+2026-05-24 20:48:12,231 - INFO - [线程6178467840|账号ECARD0688869] ✅ 二组合(climate_policy) lluvia intensa + regulaciones 有 56 条结果 📍 URL: https://infoweb-newsbank-com.lapl.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=&maxresults=60&f=advanced&val-base-0=lluvia%20intensa&fld-base-0=alltext&bln-base-1=and&val-base-1=regulaciones&fld-base-1=alltext
+2026-05-24 20:48:12,232 - INFO - [线程6178467840|账号ECARD0688869] 🔍 开始处理新二组合(climate_policy)：lluvia intensa + legislación 
+2026-05-24 20:48:12,232 - INFO - ✅ 二组合 ('climate_policy', 'lluvia intensa', 'regulaciones') 处理成功 (184/1035)
+2026-05-24 20:48:25,537 - INFO - [线程6178467840|账号ECARD0688869] ✅ 二组合(climate_policy) lluvia intensa + legislación 有 68 条结果 📍 URL: https://infoweb-newsbank-com.lapl.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=&maxresults=60&f=advanced&val-base-0=lluvia%20intensa&fld-base-0=alltext&bln-base-1=and&val-base-1=legislaci%C3%B3n&fld-base-1=alltext
+2026-05-24 20:48:25,537 - INFO - [线程6178467840|账号ECARD0688869] 🔍 开始处理新二组合(climate_policy)：lluvia intensa + ley 
+2026-05-24 20:48:25,537 - INFO - ✅ 二组合 ('climate_policy', 'lluvia intensa', 'legislación') 处理成功 (185/1035)
+2026-05-24 20:49:11,475 - INFO - [线程6178467840|账号ECARD0688869] ✅ 二组合(climate_policy) lluvia intensa + ley 有 680 条结果 📍 URL: https://infoweb-newsbank-com.lapl.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=&maxresults=60&f=advanced&val-base-0=lluvia%20intensa&fld-base-0=alltext&bln-base-1=and&val-base-1=ley&fld-base-1=alltext
+2026-05-24 20:49:11,475 - INFO - [线程6178467840|账号ECARD0688869] 🔍 开始处理新二组合(climate_policy)：lluvia intensa + parlamento 
+2026-05-24 20:49:11,475 - INFO - ✅ 二组合 ('climate_policy', 'lluvia intensa', 'ley') 处理成功 (186/1035)
+2026-05-24 20:49:26,198 - INFO - [线程6178467840|账号ECARD0688869] ✅ 二组合(climate_policy) lluvia intensa + parlamento 有 178 条结果 📍 URL: https://infoweb-newsbank-com.lapl.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=&maxresults=60&f=advanced&val-base-0=lluvia%20intensa&fld-base-0=alltext&bln-base-1=and&val-base-1=parlamento&fld-base-1=alltext
+2026-05-24 20:49:26,198 - INFO - [线程6178467840|账号ECARD0688869] 🔍 开始处理新二组合(climate_policy)：lluvia intensa + congreso 
+2026-05-24 20:49:26,198 - INFO - ✅ 二组合 ('climate_policy', 'lluvia intensa', 'parlamento') 处理成功 (187/1035)
+2026-05-24 20:49:42,687 - INFO - [线程6178467840|账号ECARD0688869] ✅ 二组合(climate_policy) lluvia intensa + congreso 有 496 条结果 📍 URL: https://infoweb-newsbank-com.lapl.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=&maxresults=60&f=advanced&val-base-0=lluvia%20intensa&fld-base-0=alltext&bln-base-1=and&val-base-1=congreso&fld-base-1=alltext
+2026-05-24 20:49:42,688 - INFO - [线程6178467840|账号ECARD0688869] 🔍 开始处理新二组合(climate_policy)：lluvia intensa + Asamblea Nacional 
+2026-05-24 20:49:42,688 - INFO - ✅ 二组合 ('climate_policy', 'lluvia intensa', 'congreso') 处理成功 (188/1035)
+2026-05-24 20:49:55,972 - INFO - [线程6178467840|账号ECARD0688869] ✅ 二组合(climate_policy) lluvia intensa + Asamblea Nacional 有 132 条结果 📍 URL: https://infoweb-newsbank-com.lapl.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=&maxresults=60&f=advanced&val-base-0=lluvia%20intensa&fld-base-0=alltext&bln-base-1=and&val-base-1=Asamblea%20Nacional&fld-base-1=alltext
+2026-05-24 20:49:55,972 - INFO - [线程6178467840|账号ECARD0688869] 🔍 开始处理新二组合(climate_policy)：lluvia intensa + presidente 
+2026-05-24 20:49:55,972 - INFO - ✅ 二组合 ('climate_policy', 'lluvia intensa', 'Asamblea Nacional') 处理成功 (189/1035)
+2026-05-24 20:50:14,508 - INFO - [线程6178467840|账号ECARD0688869] ✅ 二组合(climate_policy) lluvia intensa + presidente 有 2713 条结果 📍 URL: https://infoweb-newsbank-com.lapl.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=&maxresults=60&f=advanced&val-base-0=lluvia%20intensa&fld-base-0=alltext&bln-base-1=and&val-base-1=presidente&fld-base-1=alltext
+2026-05-24 20:50:14,509 - INFO - [线程6178467840|账号ECARD0688869] 🔍 开始处理新二组合(climate_policy)：lluvia intensa + ministro 
+2026-05-24 20:50:14,509 - INFO - ✅ 二组合 ('climate_policy', 'lluvia intensa', 'presidente') 处理成功 (190/1035)
+2026-05-24 20:50:40,263 - INFO - [线程6178467840|账号ECARD0688869] ✅ 二组合(climate_policy) lluvia intensa + ministro 有 935 条结果 📍 URL: https://infoweb-newsbank-com.lapl.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=&maxresults=60&f=advanced&val-base-0=lluvia%20intensa&fld-base-0=alltext&bln-base-1=and&val-base-1=ministro&fld-base-1=alltext
+2026-05-24 20:50:40,263 - INFO - [线程6178467840|账号ECARD0688869] 🔍 开始处理新二组合(climate_policy)：lluvia intensa + presidencia 
+2026-05-24 20:50:40,263 - INFO - ✅ 二组合 ('climate_policy', 'lluvia intensa', 'ministro') 处理成功 (191/1035)
+2026-05-24 20:51:08,622 - INFO - [线程6178467840|账号ECARD0688869] ✅ 二组合(climate_policy) lluvia intensa + presidencia 有 387 条结果 📍 URL: https://infoweb-newsbank-com.lapl.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=&maxresults=60&f=advanced&val-base-0=lluvia%20intensa&fld-base-0=alltext&bln-base-1=and&val-base-1=presidencia&fld-base-1=alltext
+2026-05-24 20:51:08,623 - INFO - [线程6178467840|账号ECARD0688869] 🔍 开始处理新二组合(climate_policy)：lluvia intensa + gobierno 
+2026-05-24 20:51:08,623 - INFO - ✅ 二组合 ('climate_policy', 'lluvia intensa', 'presidencia') 处理成功 (192/1035)
+2026-05-24 20:51:26,653 - INFO - [线程6178467840|账号ECARD0688869] ✅ 二组合(climate_policy) lluvia intensa + gobierno 有 3702 条结果 📍 URL: https://infoweb-newsbank-com.lapl.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=&maxresults=60&f=advanced&val-base-0=lluvia%20intensa&fld-base-0=alltext&bln-base-1=and&val-base-1=gobierno&fld-base-1=alltext
+2026-05-24 20:51:26,653 - INFO - [线程6178467840|账号ECARD0688869] 🔍 开始处理新二组合(climate_policy)：lluvia intensa + Ministerio del Poder Popular para el Ecosocialismo 
+2026-05-24 20:51:26,653 - INFO - ✅ 二组合 ('climate_policy', 'lluvia intensa', 'gobierno') 处理成功 (193/1035)
+2026-05-24 20:51:39,934 - INFO - [线程6178467840|账号ECARD0688869] ❌ 二组合(climate_policy) lluvia intensa + Ministerio del Poder Popular para el Ecosocialismo 无结果 📍 URL: https://infoweb-newsbank-com.lapl.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=&maxresults=60&f=advanced&val-base-0=lluvia%20intensa&fld-base-0=alltext&bln-base-1=and&val-base-1=Ministerio%20del%20Poder%20Popular%20para%20el%20Ecosocialismo&fld-base-1=alltext
+2026-05-24 20:51:39,934 - INFO - [线程6178467840|账号ECARD0688869] 🔍 开始处理新二组合(climate_policy)：lluvia intensa + MINEC 
+2026-05-24 20:51:39,934 - INFO - ✅ 二组合 ('climate_policy', 'lluvia intensa', 'Ministerio del Poder Popular para el Ecosocialismo') 处理成功 (194/1035)
+2026-05-24 20:51:53,176 - INFO - [线程6178467840|账号ECARD0688869] ❌ 二组合(climate_policy) lluvia intensa + MINEC 无结果 📍 URL: https://infoweb-newsbank-com.lapl.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=&maxresults=60&f=advanced&val-base-0=lluvia%20intensa&fld-base-0=alltext&bln-base-1=and&val-base-1=MINEC&fld-base-1=alltext
+2026-05-24 20:51:53,176 - INFO - [线程6178467840|账号ECARD0688869] 🔍 开始处理新二组合(climate_policy)：huracán + política 
+2026-05-24 20:51:53,176 - INFO - ✅ 二组合 ('climate_policy', 'lluvia intensa', 'MINEC') 处理成功 (195/1035)
+2026-05-24 20:52:06,452 - INFO - [线程6178467840|账号ECARD0688869] ✅ 二组合(climate_policy) huracán + política 有 29210 条结果 📍 URL: https://infoweb-newsbank-com.lapl.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=&maxresults=60&f=advanced&val-base-0=hurac%C3%A1n&fld-base-0=alltext&bln-base-1=and&val-base-1=pol%C3%ADtica&fld-base-1=alltext
+2026-05-24 20:52:06,452 - INFO - [线程6178467840|账号ECARD0688869] 🔍 开始处理新二组合(climate_policy)：huracán + políticas 
+2026-05-24 20:52:06,452 - INFO - ✅ 二组合 ('climate_policy', 'huracán', 'política') 处理成功 (196/1035)
+2026-05-24 20:52:32,262 - INFO - [线程6178467840|账号ECARD0688869] ✅ 二组合(climate_policy) huracán + políticas 有 8882 条结果 📍 URL: https://infoweb-newsbank-com.lapl.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=&maxresults=60&f=advanced&val-base-0=hurac%C3%A1n&fld-base-0=alltext&bln-base-1=and&val-base-1=pol%C3%ADticas&fld-base-1=alltext
+2026-05-24 20:52:32,263 - INFO - [线程6178467840|账号ECARD0688869] 🔍 开始处理新二组合(climate_policy)：huracán + regulación 
+2026-05-24 20:52:32,263 - INFO - ✅ 二组合 ('climate_policy', 'huracán', 'políticas') 处理成功 (197/1035)
+2026-05-24 20:52:45,560 - INFO - [线程6178467840|账号ECARD0688869] ✅ 二组合(climate_policy) huracán + regulación 有 1246 条结果 📍 URL: https://infoweb-newsbank-com.lapl.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=&maxresults=60&f=advanced&val-base-0=hurac%C3%A1n&fld-base-0=alltext&bln-base-1=and&val-base-1=regulaci%C3%B3n&fld-base-1=alltext
+2026-05-24 20:52:45,561 - INFO - [线程6178467840|账号ECARD0688869] 🔍 开始处理新二组合(climate_policy)：huracán + regulaciones 
+2026-05-24 20:52:45,561 - INFO - ✅ 二组合 ('climate_policy', 'huracán', 'regulación') 处理成功 (198/1035)
+2026-05-24 20:53:00,603 - INFO - [线程6178467840|账号ECARD0688869] ✅ 二组合(climate_policy) huracán + regulaciones 有 1071 条结果 📍 URL: https://infoweb-newsbank-com.lapl.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=&maxresults=60&f=advanced&val-base-0=hurac%C3%A1n&fld-base-0=alltext&bln-base-1=and&val-base-1=regulaciones&fld-base-1=alltext
+2026-05-24 20:53:00,604 - INFO - [线程6178467840|账号ECARD0688869] 🔍 开始处理新二组合(climate_policy)：huracán + legislación 
+2026-05-24 20:53:00,604 - INFO - ✅ 二组合 ('climate_policy', 'huracán', 'regulaciones') 处理成功 (199/1035)
+2026-05-24 20:53:14,902 - INFO - [线程6178467840|账号ECARD0688869] ✅ 二组合(climate_policy) huracán + legislación 有 2369 条结果 📍 URL: https://infoweb-newsbank-com.lapl.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=&maxresults=60&f=advanced&val-base-0=hurac%C3%A1n&fld-base-0=alltext&bln-base-1=and&val-base-1=legislaci%C3%B3n&fld-base-1=alltext
+2026-05-24 20:53:14,902 - INFO - [线程6178467840|账号ECARD0688869] 🔍 开始处理新二组合(climate_policy)：huracán + ley 
+2026-05-24 20:53:14,902 - INFO - ✅ 二组合 ('climate_policy', 'huracán', 'legislación') 处理成功 (200/1035)
+2026-05-24 20:53:28,157 - INFO - [线程6178467840|账号ECARD0688869] ✅ 二组合(climate_policy) huracán + ley 有 15289 条结果 📍 URL: https://infoweb-newsbank-com.lapl.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=&maxresults=60&f=advanced&val-base-0=hurac%C3%A1n&fld-base-0=alltext&bln-base-1=and&val-base-1=ley&fld-base-1=alltext
+2026-05-24 20:53:28,158 - INFO - [线程6178467840|账号ECARD0688869] 🔍 开始处理新二组合(climate_policy)：huracán + parlamento 
+2026-05-24 20:53:28,158 - INFO - ✅ 二组合 ('climate_policy', 'huracán', 'ley') 处理成功 (201/1035)
+2026-05-24 20:53:42,616 - INFO - [线程6178467840|账号ECARD0688869] ✅ 二组合(climate_policy) huracán + parlamento 有 2647 条结果 📍 URL: https://infoweb-newsbank-com.lapl.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=&maxresults=60&f=advanced&val-base-0=hurac%C3%A1n&fld-base-0=alltext&bln-base-1=and&val-base-1=parlamento&fld-base-1=alltext
+2026-05-24 20:53:42,616 - INFO - [线程6178467840|账号ECARD0688869] 🔍 开始处理新二组合(climate_policy)：huracán + congreso 
+2026-05-24 20:53:42,616 - INFO - ✅ 二组合 ('climate_policy', 'huracán', 'parlamento') 处理成功 (202/1035)
+2026-05-24 20:53:58,849 - INFO - [线程6178467840|账号ECARD0688869] ✅ 二组合(climate_policy) huracán + congreso 有 13429 条结果 📍 URL: https://infoweb-newsbank-com.lapl.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=&maxresults=60&f=advanced&val-base-0=hurac%C3%A1n&fld-base-0=alltext&bln-base-1=and&val-base-1=congreso&fld-base-1=alltext
+2026-05-24 20:53:58,849 - INFO - [线程6178467840|账号ECARD0688869] 🔍 开始处理新二组合(climate_policy)：huracán + Asamblea Nacional 
+2026-05-24 20:53:58,849 - INFO - ✅ 二组合 ('climate_policy', 'huracán', 'congreso') 处理成功 (203/1035)
+2026-05-24 20:54:12,121 - INFO - [线程6178467840|账号ECARD0688869] ✅ 二组合(climate_policy) huracán + Asamblea Nacional 有 2348 条结果 📍 URL: https://infoweb-newsbank-com.lapl.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=&maxresults=60&f=advanced&val-base-0=hurac%C3%A1n&fld-base-0=alltext&bln-base-1=and&val-base-1=Asamblea%20Nacional&fld-base-1=alltext
+2026-05-24 20:54:12,122 - INFO - [线程6178467840|账号ECARD0688869] 🔍 开始处理新二组合(climate_policy)：huracán + presidente 
+2026-05-24 20:54:12,122 - INFO - ✅ 二组合 ('climate_policy', 'huracán', 'Asamblea Nacional') 处理成功 (204/1035)
+2026-05-24 20:54:25,434 - INFO - [线程6178467840|账号ECARD0688869] ✅ 二组合(climate_policy) huracán + presidente 有 61013 条结果 📍 URL: https://infoweb-newsbank-com.lapl.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=&maxresults=60&f=advanced&val-base-0=hurac%C3%A1n&fld-base-0=alltext&bln-base-1=and&val-base-1=presidente&fld-base-1=alltext
+2026-05-24 20:54:25,434 - INFO - [线程6178467840|账号ECARD0688869] 🔍 开始处理新二组合(climate_policy)：huracán + ministro 
+2026-05-24 20:54:25,434 - INFO - ✅ 二组合 ('climate_policy', 'huracán', 'presidente') 处理成功 (205/1035)
+2026-05-24 20:55:47,443 - INFO - 🚀 开始处理任务: 政策风险委内瑞拉El Universal (Venezuela).xlsx
+2026-05-24 20:55:47,443 - INFO - 开始初始化所有driver到2025年页面: https://infoweb-newsbank-com.lapl.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=pubname%3AVEUC%21El%2BUniversal%2B%2528Venezuela%2529&maxresults=60&f=advanced&fld-nav-0=YMD_date&val-nav-0=-2026.4
+2026-05-24 20:56:17,743 - INFO - 账号 ECARD0688869 的driver成功访问2025年页面
+2026-05-24 20:56:17,744 - INFO - ✅ 账号 ECARD0688869 的driver初始化成功
+2026-05-24 20:56:17,744 - INFO - 所有driver初始化完成
+2026-05-24 20:56:17,744 - INFO - ================================================================================
+2026-05-24 20:56:17,744 - INFO - 📋 正常模式：先处理二组合，再基于有效二组合生成三组合
+2026-05-24 20:56:17,744 - INFO - ================================================================================
+2026-05-24 20:56:17,745 - INFO - 开始处理 1035 个二组合:
+2026-05-24 20:56:17,745 - INFO -   - climate+policy: 405 个
+2026-05-24 20:56:17,745 - INFO -   - climate+uncertainty: 405 个
+2026-05-24 20:56:17,745 - INFO -   - policy+uncertainty: 225 个
+2026-05-24 20:56:17,746 - INFO - 需要处理 1035 个新的二组合
+2026-05-24 20:56:17,746 - INFO - 总计需要处理 1035 个二组合
+2026-05-24 20:56:17,746 - INFO - 使用 1 个线程处理二组合
+2026-05-24 20:56:17,746 - INFO - [线程6143455232|账号ECARD0688869] 🔍 开始处理新二组合(climate_policy)：cambio climático + política 
+2026-05-24 20:56:17,753 - INFO - 程序开始时间: 2026-05-24 20:56:17
+2026-05-24 20:56:31,020 - INFO - [线程6143455232|账号ECARD0688869] ❌ 二组合(climate_policy) cambio climático + política 无结果 📍 URL: https://infoweb-newsbank-com.lapl.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=pubname%3AVEUC%21El%2BUniversal%2B%2528Venezuela%2529&maxresults=60&f=advanced&val-base-0=cambio%20clim%C3%A1tico&fld-base-0=alltext&bln-base-1=and&val-base-1=pol%C3%ADtica&fld-base-1=alltext&fld-nav-0=YMD_date&val-nav-0=-2026.4
+2026-05-24 20:56:31,020 - INFO - [线程6143455232|账号ECARD0688869] 🔍 开始处理新二组合(climate_policy)：cambio climático + políticas 
+2026-05-24 20:56:31,020 - INFO - ✅ 二组合 ('climate_policy', 'cambio climático', 'política') 处理成功 (1/1035)
+2026-05-24 20:56:44,265 - INFO - [线程6143455232|账号ECARD0688869] ❌ 二组合(climate_policy) cambio climático + políticas 无结果 📍 URL: https://infoweb-newsbank-com.lapl.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=pubname%3AVEUC%21El%2BUniversal%2B%2528Venezuela%2529&maxresults=60&f=advanced&val-base-0=cambio%20clim%C3%A1tico&fld-base-0=alltext&bln-base-1=and&val-base-1=pol%C3%ADticas&fld-base-1=alltext&fld-nav-0=YMD_date&val-nav-0=-2026.4
+2026-05-24 20:56:44,266 - INFO - [线程6143455232|账号ECARD0688869] 🔍 开始处理新二组合(climate_policy)：cambio climático + regulación 
+2026-05-24 20:56:44,266 - INFO - ✅ 二组合 ('climate_policy', 'cambio climático', 'políticas') 处理成功 (2/1035)
+2026-05-24 20:56:57,495 - INFO - [线程6143455232|账号ECARD0688869] ❌ 二组合(climate_policy) cambio climático + regulación 无结果 📍 URL: https://infoweb-newsbank-com.lapl.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=pubname%3AVEUC%21El%2BUniversal%2B%2528Venezuela%2529&maxresults=60&f=advanced&val-base-0=cambio%20clim%C3%A1tico&fld-base-0=alltext&bln-base-1=and&val-base-1=regulaci%C3%B3n&fld-base-1=alltext&fld-nav-0=YMD_date&val-nav-0=-2026.4
+2026-05-24 20:56:57,495 - INFO - [线程6143455232|账号ECARD0688869] 🔍 开始处理新二组合(climate_policy)：cambio climático + regulaciones 
+2026-05-24 20:56:57,495 - INFO - ✅ 二组合 ('climate_policy', 'cambio climático', 'regulación') 处理成功 (3/1035)
+2026-05-24 20:57:10,746 - INFO - [线程6143455232|账号ECARD0688869] ❌ 二组合(climate_policy) cambio climático + regulaciones 无结果 📍 URL: https://infoweb-newsbank-com.lapl.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=pubname%3AVEUC%21El%2BUniversal%2B%2528Venezuela%2529&maxresults=60&f=advanced&val-base-0=cambio%20clim%C3%A1tico&fld-base-0=alltext&bln-base-1=and&val-base-1=regulaciones&fld-base-1=alltext&fld-nav-0=YMD_date&val-nav-0=-2026.4
+2026-05-24 20:57:10,746 - INFO - [线程6143455232|账号ECARD0688869] 🔍 开始处理新二组合(climate_policy)：cambio climático + legislación 
+2026-05-24 20:57:10,746 - INFO - ✅ 二组合 ('climate_policy', 'cambio climático', 'regulaciones') 处理成功 (4/1035)
