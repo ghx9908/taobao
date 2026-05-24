@@ -43,7 +43,7 @@ login_page = 'https://dclibrary.idm.oclc.org/login?url=https://infoweb.newsbank.
 SKIP_TWO_COMBO = False  # True = 直接三组合模式, False = 正常模式
 # =====================================================
 
-# 账号配置 - 每个账号对应一个驱动和线程
+# 账号配置 - 每个账号对应一个驱动和线程（DC 借书证号，登录无需密码）
 account_configs = [
     {
         'username': '41172560626291',
@@ -51,96 +51,30 @@ account_configs = [
         'driver': None,
         'thread_id': 1
     },
-    # {
-    #     'username': 'ECARD0690141',
-    #     'password': '0178',
-    #     'driver': None,
-    #     'thread_id': 2
-    # },
-    # {
-    #     'username': 'ECARD0690142',
-    #     'password': '0116',
-    #     'driver': None,
-    #     'thread_id': 3
-    # },
-    # {
-    #     'username': 'ECARD0690144',
-    #     'password': '0192',
-    #     'driver': None,
-    #     'thread_id': 4
-    # },
-    # {
-    #     'username': 'ECARD0690145',
-    #     'password': '0147',
-    #     'driver': None,
-    #     'thread_id': 5
-    # },
-    # {
-    #     'username': 'ECARD0690149',
-    #     'password': '0185',
-    #     'driver': None,
-    #     'thread_id': 6
-    # },
-    # {
-    #     'username': 'ECARD0690150',
-    #     'password': '0129',
-    #     'driver': None,
-    #     'thread_id': 7
-    # },
-    # {
-    #     'username': 'ECARD0690152',
-    #     'password': '0123',
-    #     'driver': None,
-    #     'thread_id': 8
-    # },
-    # {
-    #     'username': 'ECARD0690153',
-    #     'password': '0108',
-    #     'driver': None,
-    #     'thread_id': 9
-    # },
-    # {
-    #     'username': 'ECARD0690154',
-    #     'password': '0156',
-    #     'driver': None,
-    #     'thread_id': 10
-    # },
-    # {
-    #     'username': 'ECARD0690155',
-    #     'password': '0135',
-    #     'driver': None,
-    #     'thread_id': 11
-    # },
-    # {
-    #     'username': 'ECARD0690156',
-    #     'password': '0273',
-    #     'driver': None,
-    #     'thread_id': 12
-    # },
-    # {
-    #     'username': 'ECARD0690157',
-    #     'password': '5876',
-    #     'driver': None,
-    #     'thread_id': 13
-    # },
-    # {
-    #     'username': 'ECARD0690158',
-    #     'password': '8761',
-    #     'driver': None,
-    #     'thread_id': 14
-    # },
-    # {
-    #     'username': 'ECARD0690159',
-    #     'password': '8899',
-    #     'driver': None,
-    #     'thread_id': 15
-    # },
-    # {
-    #     'username': 'ECARD0688869',
-    #     'password': '8899',
-    #     'driver': None,
-    #     'thread_id': 16
-    # },
+    {
+        'username': '41172933627348',
+        'password': '1234',
+        'driver': None,
+        'thread_id': 2
+    },
+    {
+        'username': '41172442627349',
+        'password': '1234',
+        'driver': None,
+        'thread_id': 3
+    },
+    {
+        'username': '41172258627350',
+        'password': '1234',
+        'driver': None,
+        'thread_id': 4
+    },
+    {
+        'username': '41172631627351',
+        'password': '1234',
+        'driver': None,
+        'thread_id': 5
+    },
 ]
 
 domain_url = 'https://infoweb-newsbank-com.dclibrary.idm.oclc.org'

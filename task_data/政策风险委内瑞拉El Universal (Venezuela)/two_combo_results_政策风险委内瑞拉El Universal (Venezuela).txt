@@ -1,0 +1,127 @@
+climate_policy|||cambio climático|||política|||199
+climate_policy|||cambio climático|||políticas|||194
+climate_policy|||cambio climático|||regulación|||14
+climate_policy|||cambio climático|||regulaciones|||14
+climate_policy|||cambio climático|||legislación|||6
+climate_policy|||cambio climático|||ley|||46
+climate_policy|||cambio climático|||parlamento|||30
+climate_policy|||cambio climático|||congreso|||53
+climate_policy|||cambio climático|||Asamblea Nacional|||46
+climate_policy|||cambio climático|||presidente|||419
+climate_policy|||cambio climático|||ministro|||156
+climate_policy|||cambio climático|||presidencia|||80
+climate_policy|||cambio climático|||gobierno|||296
+climate_policy|||cambio climático|||Ministerio del Poder Popular para el Ecosocialismo|||9
+climate_policy|||cambio climático|||MINEC|||10
+climate_policy|||crisis climática|||política|||83
+climate_policy|||crisis climática|||políticas|||74
+climate_policy|||crisis climática|||regulación|||5
+climate_policy|||crisis climática|||regulaciones|||6
+climate_policy|||crisis climática|||legislación|||4
+climate_policy|||crisis climática|||ley|||22
+climate_policy|||crisis climática|||parlamento|||9
+climate_policy|||crisis climática|||congreso|||29
+climate_policy|||crisis climática|||Asamblea Nacional|||17
+climate_policy|||crisis climática|||presidente|||174
+climate_policy|||crisis climática|||ministro|||65
+climate_policy|||crisis climática|||presidencia|||30
+climate_policy|||crisis climática|||gobierno|||111
+climate_policy|||crisis climática|||Ministerio del Poder Popular para el Ecosocialismo|||2
+climate_policy|||crisis climática|||MINEC|||5
+climate_policy|||gases de efecto invernadero|||política|||15
+climate_policy|||gases de efecto invernadero|||políticas|||24
+climate_policy|||gases de efecto invernadero|||regulación|||1
+climate_policy|||gases de efecto invernadero|||regulaciones|||4
+climate_policy|||gases de efecto invernadero|||legislación|||1
+climate_policy|||gases de efecto invernadero|||ley|||3
+climate_policy|||gases de efecto invernadero|||parlamento|||2
+climate_policy|||gases de efecto invernadero|||congreso|||6
+climate_policy|||gases de efecto invernadero|||Asamblea Nacional|||1
+climate_policy|||gases de efecto invernadero|||presidente|||22
+climate_policy|||gases de efecto invernadero|||ministro|||5
+climate_policy|||gases de efecto invernadero|||presidencia|||5
+climate_policy|||gases de efecto invernadero|||gobierno|||24
+climate_policy|||gases de efecto invernadero|||Ministerio del Poder Popular para el Ecosocialismo|||0
+climate_policy|||gases de efecto invernadero|||MINEC|||0
+climate_policy|||CO2|||política|||11
+climate_policy|||CO2|||políticas|||15
+climate_policy|||CO2|||regulación|||0
+climate_policy|||CO2|||regulaciones|||0
+climate_policy|||CO2|||legislación|||1
+climate_policy|||CO2|||ley|||4
+climate_policy|||CO2|||parlamento|||1
+climate_policy|||CO2|||congreso|||9
+climate_policy|||CO2|||Asamblea Nacional|||2
+climate_policy|||CO2|||presidente|||19
+climate_policy|||CO2|||ministro|||2
+climate_policy|||CO2|||presidencia|||4
+climate_policy|||CO2|||gobierno|||9
+climate_policy|||CO2|||Ministerio del Poder Popular para el Ecosocialismo|||0
+climate_policy|||CO2|||MINEC|||0
+climate_policy|||calentamiento global|||política|||46
+climate_policy|||calentamiento global|||políticas|||48
+climate_policy|||calentamiento global|||regulación|||6
+climate_policy|||calentamiento global|||regulaciones|||4
+climate_policy|||calentamiento global|||legislación|||1
+climate_policy|||calentamiento global|||ley|||11
+climate_policy|||calentamiento global|||parlamento|||2
+climate_policy|||calentamiento global|||congreso|||20
+climate_policy|||calentamiento global|||Asamblea Nacional|||3
+climate_policy|||calentamiento global|||presidente|||62
+climate_policy|||calentamiento global|||ministro|||17
+climate_policy|||calentamiento global|||presidencia|||13
+climate_policy|||calentamiento global|||gobierno|||47
+climate_policy|||calentamiento global|||Ministerio del Poder Popular para el Ecosocialismo|||0
+climate_policy|||calentamiento global|||MINEC|||0
+climate_policy|||clima extremo|||política|||10
+climate_policy|||clima extremo|||políticas|||8
+climate_policy|||clima extremo|||regulación|||1
+climate_policy|||clima extremo|||regulaciones|||0
+climate_policy|||clima extremo|||legislación|||0
+climate_policy|||clima extremo|||ley|||5
+climate_policy|||clima extremo|||parlamento|||1
+climate_policy|||clima extremo|||congreso|||1
+climate_policy|||clima extremo|||Asamblea Nacional|||1
+climate_policy|||clima extremo|||presidente|||15
+climate_policy|||clima extremo|||ministro|||0
+climate_policy|||clima extremo|||presidencia|||2
+climate_policy|||clima extremo|||gobierno|||14
+climate_policy|||clima extremo|||Ministerio del Poder Popular para el Ecosocialismo|||0
+climate_policy|||clima extremo|||MINEC|||0
+climate_policy|||temperatura extrema|||política|||2
+climate_policy|||temperatura extrema|||políticas|||2
+climate_policy|||temperatura extrema|||regulación|||0
+climate_policy|||temperatura extrema|||regulaciones|||0
+climate_policy|||temperatura extrema|||legislación|||0
+climate_policy|||temperatura extrema|||ley|||0
+climate_policy|||temperatura extrema|||parlamento|||0
+climate_policy|||temperatura extrema|||congreso|||0
+climate_policy|||temperatura extrema|||Asamblea Nacional|||1
+climate_policy|||temperatura extrema|||presidente|||5
+climate_policy|||temperatura extrema|||ministro|||1
+climate_policy|||temperatura extrema|||presidencia|||1
+climate_policy|||temperatura extrema|||gobierno|||1
+climate_policy|||temperatura extrema|||Ministerio del Poder Popular para el Ecosocialismo|||0
+climate_policy|||temperatura extrema|||MINEC|||0
+climate_policy|||ola de calor|||política|||8
+climate_policy|||ola de calor|||políticas|||10
+climate_policy|||ola de calor|||regulación|||2
+climate_policy|||ola de calor|||regulaciones|||0
+climate_policy|||ola de calor|||legislación|||1
+climate_policy|||ola de calor|||ley|||3
+climate_policy|||ola de calor|||parlamento|||3
+climate_policy|||ola de calor|||congreso|||3
+climate_policy|||ola de calor|||Asamblea Nacional|||1
+climate_policy|||ola de calor|||presidente|||17
+climate_policy|||ola de calor|||ministro|||9
+climate_policy|||ola de calor|||presidencia|||0
+climate_policy|||ola de calor|||gobierno|||32
+climate_policy|||ola de calor|||Ministerio del Poder Popular para el Ecosocialismo|||0
+climate_policy|||ola de calor|||MINEC|||0
+climate_policy|||ola de frío|||política|||2
+climate_policy|||ola de frío|||políticas|||1
+climate_policy|||ola de frío|||regulación|||0
+climate_policy|||ola de frío|||regulaciones|||0
+climate_policy|||ola de frío|||legislación|||1
+climate_policy|||ola de frío|||ley|||0
+climate_policy|||ola de frío|||parlamento|||1
