@@ -1,0 +1,494 @@
+climate_policy|||cambio climático|||regulación|||2
+climate_policy|||cambio climático|||legislación|||1
+climate_policy|||cambio climático|||regulaciones|||1
+climate_policy|||cambio climático|||política|||11
+climate_policy|||cambio climático|||políticas|||16
+climate_policy|||cambio climático|||Presidente|||6
+climate_policy|||cambio climático|||ley|||1
+climate_policy|||cambio climático|||Asamblea Nacional|||1
+climate_policy|||cambio climático|||Administración Presidencial|||0
+climate_policy|||cambio climático|||Ministro|||0
+climate_policy|||cambio climático|||gobierno|||4
+climate_policy|||cambio climático|||MAATE|||1
+climate_policy|||crisis climática|||políticas|||3
+climate_policy|||crisis climática|||regulación|||0
+climate_policy|||cambio climático|||Ministerio del Ambiente, Agua y Transición Ecológica|||0
+climate_policy|||crisis climática|||política|||3
+climate_policy|||crisis climática|||legislación|||0
+climate_policy|||crisis climática|||ley|||1
+climate_policy|||crisis climática|||regulaciones|||0
+climate_policy|||crisis climática|||Presidente|||1
+climate_policy|||crisis climática|||Administración Presidencial|||0
+climate_policy|||crisis climática|||Asamblea Nacional|||0
+climate_policy|||crisis climática|||Ministro|||1
+climate_policy|||crisis climática|||gobierno|||2
+climate_policy|||crisis climática|||Ministerio del Ambiente, Agua y Transición Ecológica|||0
+climate_policy|||gases de efecto invernadero|||políticas|||1
+climate_policy|||gases de efecto invernadero|||regulación|||1
+climate_policy|||crisis climática|||MAATE|||0
+climate_policy|||gases de efecto invernadero|||regulaciones|||0
+climate_policy|||gases de efecto invernadero|||política|||1
+climate_policy|||gases de efecto invernadero|||ley|||0
+climate_policy|||gases de efecto invernadero|||Asamblea Nacional|||0
+climate_policy|||gases de efecto invernadero|||legislación|||0
+climate_policy|||gases de efecto invernadero|||Ministro|||0
+climate_policy|||gases de efecto invernadero|||gobierno|||0
+climate_policy|||gases de efecto invernadero|||Presidente|||0
+climate_policy|||gases de efecto invernadero|||Administración Presidencial|||0
+climate_policy|||gases de efecto invernadero|||MAATE|||1
+climate_policy|||gases de efecto invernadero|||Ministerio del Ambiente, Agua y Transición Ecológica|||2
+climate_policy|||CO2|||política|||1
+climate_policy|||CO2|||políticas|||6
+climate_policy|||CO2|||regulación|||0
+climate_policy|||CO2|||regulaciones|||0
+climate_policy|||CO2|||legislación|||0
+climate_policy|||CO2|||ley|||0
+climate_policy|||CO2|||Asamblea Nacional|||0
+climate_policy|||CO2|||Presidente|||6
+climate_policy|||CO2|||Administración Presidencial|||0
+climate_policy|||CO2|||Ministro|||1
+climate_policy|||CO2|||gobierno|||4
+climate_policy|||CO2|||Ministerio del Ambiente, Agua y Transición Ecológica|||2
+climate_policy|||CO2|||MAATE|||1
+climate_policy|||calentamiento global|||regulación|||2
+climate_policy|||calentamiento global|||regulaciones|||0
+climate_policy|||calentamiento global|||legislación|||0
+climate_policy|||calentamiento global|||política|||3
+climate_policy|||calentamiento global|||políticas|||2
+climate_policy|||calentamiento global|||ley|||2
+climate_policy|||calentamiento global|||Asamblea Nacional|||0
+climate_policy|||calentamiento global|||Administración Presidencial|||0
+climate_policy|||calentamiento global|||gobierno|||3
+climate_policy|||calentamiento global|||Presidente|||3
+climate_policy|||calentamiento global|||Ministerio del Ambiente, Agua y Transición Ecológica|||0
+climate_policy|||calentamiento global|||MAATE|||0
+climate_policy|||calentamiento global|||Ministro|||0
+climate_policy|||clima extremo|||política|||0
+climate_policy|||clima extremo|||regulación|||0
+climate_policy|||clima extremo|||legislación|||0
+climate_policy|||clima extremo|||políticas|||0
+climate_policy|||clima extremo|||ley|||0
+climate_policy|||clima extremo|||regulaciones|||0
+climate_policy|||clima extremo|||Administración Presidencial|||0
+climate_policy|||clima extremo|||Asamblea Nacional|||0
+climate_policy|||clima extremo|||gobierno|||0
+climate_policy|||clima extremo|||Presidente|||0
+climate_policy|||clima extremo|||Ministro|||0
+climate_policy|||clima extremo|||Ministerio del Ambiente, Agua y Transición Ecológica|||0
+climate_policy|||clima extremo|||MAATE|||0
+climate_policy|||temperatura extrema|||política|||0
+climate_policy|||temperatura extrema|||políticas|||0
+climate_policy|||temperatura extrema|||regulación|||0
+climate_policy|||temperatura extrema|||regulaciones|||0
+climate_policy|||temperatura extrema|||legislación|||0
+climate_policy|||temperatura extrema|||ley|||0
+climate_policy|||temperatura extrema|||Asamblea Nacional|||0
+climate_policy|||temperatura extrema|||Administración Presidencial|||0
+climate_policy|||temperatura extrema|||gobierno|||0
+climate_policy|||temperatura extrema|||Presidente|||0
+climate_policy|||temperatura extrema|||Ministro|||0
+climate_policy|||temperatura extrema|||MAATE|||0
+climate_policy|||temperatura extrema|||Ministerio del Ambiente, Agua y Transición Ecológica|||0
+climate_policy|||ola de calor|||política|||0
+climate_policy|||ola de calor|||políticas|||0
+climate_policy|||ola de calor|||regulación|||0
+climate_policy|||ola de calor|||regulaciones|||0
+climate_policy|||ola de calor|||legislación|||0
+climate_policy|||ola de calor|||ley|||0
+climate_policy|||ola de calor|||Asamblea Nacional|||0
+climate_policy|||ola de calor|||Presidente|||0
+climate_policy|||ola de calor|||Administración Presidencial|||0
+climate_policy|||ola de calor|||Ministro|||0
+climate_policy|||ola de calor|||gobierno|||0
+climate_policy|||ola de calor|||Ministerio del Ambiente, Agua y Transición Ecológica|||0
+climate_policy|||ola de calor|||MAATE|||0
+climate_policy|||ola de frío|||política|||0
+climate_policy|||ola de frío|||regulaciones|||0
+climate_policy|||ola de frío|||políticas|||0
+climate_policy|||ola de frío|||regulación|||0
+climate_policy|||ola de frío|||legislación|||0
+climate_policy|||ola de frío|||ley|||0
+climate_policy|||ola de frío|||Asamblea Nacional|||0
+climate_policy|||ola de frío|||Presidente|||0
+climate_policy|||ola de frío|||Ministro|||0
+climate_policy|||ola de frío|||gobierno|||0
+climate_policy|||ola de frío|||Administración Presidencial|||0
+climate_policy|||ola de frío|||MAATE|||0
+climate_policy|||ola de frío|||Ministerio del Ambiente, Agua y Transición Ecológica|||0
+climate_policy|||sequía|||políticas|||0
+climate_policy|||sequía|||regulación|||0
+climate_policy|||sequía|||regulaciones|||0
+climate_policy|||sequía|||legislación|||0
+climate_policy|||sequía|||política|||1
+climate_policy|||sequía|||ley|||0
+climate_policy|||sequía|||Asamblea Nacional|||0
+climate_policy|||sequía|||Presidente|||3
+climate_policy|||sequía|||Administración Presidencial|||0
+climate_policy|||sequía|||Ministro|||0
+climate_policy|||sequía|||gobierno|||2
+climate_policy|||sequía|||Ministerio del Ambiente, Agua y Transición Ecológica|||0
+climate_policy|||sequía|||MAATE|||0
+climate_policy|||incendio forestal|||política|||0
+climate_policy|||incendio forestal|||políticas|||0
+climate_policy|||incendio forestal|||regulación|||0
+climate_policy|||incendio forestal|||regulaciones|||0
+climate_policy|||incendio forestal|||legislación|||0
+climate_policy|||incendio forestal|||ley|||0
+climate_policy|||incendio forestal|||Asamblea Nacional|||0
+climate_policy|||incendio forestal|||Presidente|||0
+climate_policy|||incendio forestal|||Administración Presidencial|||0
+climate_policy|||incendio forestal|||gobierno|||0
+climate_policy|||incendio forestal|||Ministro|||0
+climate_policy|||incendio forestal|||MAATE|||0
+climate_policy|||tormenta de nieve|||política|||0
+climate_policy|||incendio forestal|||Ministerio del Ambiente, Agua y Transición Ecológica|||0
+climate_policy|||tormenta de nieve|||regulación|||0
+climate_policy|||tormenta de nieve|||regulaciones|||0
+climate_policy|||tormenta de nieve|||legislación|||0
+climate_policy|||tormenta de nieve|||políticas|||0
+climate_policy|||tormenta de nieve|||ley|||0
+climate_policy|||tormenta de nieve|||Presidente|||0
+climate_policy|||tormenta de nieve|||Asamblea Nacional|||0
+climate_policy|||tormenta de nieve|||Administración Presidencial|||0
+climate_policy|||tormenta de nieve|||Ministro|||0
+climate_policy|||tormenta de nieve|||gobierno|||0
+climate_policy|||tormenta de nieve|||Ministerio del Ambiente, Agua y Transición Ecológica|||0
+climate_policy|||lluvia intensa|||regulación|||0
+climate_policy|||lluvia intensa|||regulaciones|||0
+climate_policy|||lluvia intensa|||legislación|||0
+climate_policy|||lluvia intensa|||Asamblea Nacional|||0
+climate_policy|||lluvia intensa|||Presidente|||0
+climate_policy|||lluvia intensa|||Administración Presidencial|||0
+climate_policy|||lluvia intensa|||Ministro|||0
+climate_policy|||tormenta de nieve|||MAATE|||0
+climate_policy|||lluvia intensa|||gobierno|||0
+climate_policy|||lluvia intensa|||Ministerio del Ambiente, Agua y Transición Ecológica|||0
+climate_policy|||lluvia intensa|||políticas|||0
+climate_policy|||lluvia intensa|||MAATE|||0
+climate_policy|||huracán|||política|||0
+climate_policy|||huracán|||políticas|||0
+climate_policy|||huracán|||regulación|||0
+climate_policy|||huracán|||regulaciones|||0
+climate_policy|||lluvia intensa|||ley|||0
+climate_policy|||huracán|||legislación|||0
+climate_policy|||huracán|||Asamblea Nacional|||0
+climate_policy|||huracán|||Presidente|||0
+climate_policy|||huracán|||Administración Presidencial|||0
+climate_policy|||huracán|||ley|||0
+climate_policy|||huracán|||Ministro|||0
+climate_policy|||huracán|||gobierno|||0
+climate_policy|||huracán|||Ministerio del Ambiente, Agua y Transición Ecológica|||0
+climate_policy|||huracán|||MAATE|||0
+climate_policy|||inundación|||política|||0
+climate_policy|||inundación|||políticas|||0
+climate_policy|||inundación|||regulación|||0
+climate_policy|||inundación|||regulaciones|||0
+climate_policy|||inundación|||legislación|||0
+climate_policy|||inundación|||ley|||0
+climate_policy|||inundación|||Asamblea Nacional|||0
+climate_policy|||inundación|||Presidente|||0
+climate_policy|||inundación|||Administración Presidencial|||0
+climate_policy|||inundación|||gobierno|||0
+climate_policy|||inundación|||Ministerio del Ambiente, Agua y Transición Ecológica|||0
+climate_policy|||inundación|||Ministro|||0
+climate_policy|||inundación|||MAATE|||0
+climate_policy|||energía verde|||política|||2
+climate_policy|||energía verde|||políticas|||7
+climate_policy|||energía verde|||regulaciones|||0
+climate_policy|||energía verde|||ley|||0
+climate_policy|||energía verde|||regulación|||1
+climate_policy|||energía verde|||legislación|||0
+climate_policy|||energía verde|||Asamblea Nacional|||0
+climate_policy|||energía verde|||Presidente|||1
+climate_policy|||energía verde|||Administración Presidencial|||0
+climate_policy|||energía verde|||gobierno|||2
+climate_policy|||energía verde|||Ministerio del Ambiente, Agua y Transición Ecológica|||0
+climate_policy|||energía verde|||MAATE|||0
+climate_policy|||energía verde|||Ministro|||4
+climate_policy|||energía renovable|||política|||5
+climate_policy|||energía renovable|||políticas|||3
+climate_policy|||energía renovable|||regulación|||3
+climate_policy|||energía renovable|||legislación|||0
+climate_policy|||energía renovable|||regulaciones|||1
+climate_policy|||energía renovable|||ley|||1
+climate_policy|||energía renovable|||Asamblea Nacional|||0
+climate_policy|||energía renovable|||Presidente|||3
+climate_policy|||energía renovable|||Administración Presidencial|||0
+climate_policy|||energía renovable|||Ministro|||0
+climate_policy|||energía renovable|||gobierno|||4
+climate_policy|||energía renovable|||Ministerio del Ambiente, Agua y Transición Ecológica|||0
+climate_policy|||energía renovable|||MAATE|||0
+climate_policy|||energía limpia|||políticas|||3
+climate_policy|||energía limpia|||regulación|||2
+climate_policy|||energía limpia|||política|||4
+climate_policy|||energía limpia|||regulaciones|||1
+climate_policy|||energía limpia|||legislación|||0
+climate_policy|||energía limpia|||Administración Presidencial|||0
+climate_policy|||energía limpia|||ley|||0
+climate_policy|||energía limpia|||Asamblea Nacional|||0
+climate_policy|||energía limpia|||Presidente|||2
+climate_policy|||energía limpia|||Ministro|||0
+climate_policy|||energía limpia|||gobierno|||4
+climate_policy|||energía limpia|||Ministerio del Ambiente, Agua y Transición Ecológica|||0
+climate_policy|||energía limpia|||MAATE|||0
+climate_policy|||energía solar|||política|||5
+climate_policy|||energía solar|||políticas|||2
+climate_policy|||energía solar|||regulación|||4
+climate_policy|||energía solar|||legislación|||0
+climate_policy|||energía solar|||regulaciones|||2
+climate_policy|||energía solar|||Asamblea Nacional|||0
+climate_policy|||energía solar|||ley|||2
+climate_policy|||energía solar|||Administración Presidencial|||0
+climate_policy|||energía solar|||Ministro|||4
+climate_policy|||energía solar|||Presidente|||5
+climate_policy|||energía solar|||gobierno|||6
+climate_policy|||energía solar|||MAATE|||0
+climate_policy|||lluvia intensa|||política|||0
+climate_policy|||energía hidroeléctrica|||política|||2
+climate_policy|||energía solar|||Ministerio del Ambiente, Agua y Transición Ecológica|||0
+climate_policy|||energía hidroeléctrica|||regulación|||2
+climate_policy|||energía hidroeléctrica|||políticas|||1
+climate_policy|||energía hidroeléctrica|||regulaciones|||1
+climate_policy|||energía hidroeléctrica|||legislación|||0
+climate_policy|||energía hidroeléctrica|||ley|||1
+climate_policy|||energía hidroeléctrica|||Ministro|||1
+climate_policy|||energía hidroeléctrica|||gobierno|||4
+climate_policy|||energía hidroeléctrica|||Asamblea Nacional|||0
+climate_policy|||energía hidroeléctrica|||Administración Presidencial|||0
+climate_policy|||energía hidroeléctrica|||Ministerio del Ambiente, Agua y Transición Ecológica|||0
+climate_policy|||energía hidroeléctrica|||MAATE|||0
+climate_policy|||energía eólica|||política|||4
+climate_policy|||energía eólica|||políticas|||5
+climate_policy|||energía eólica|||regulación|||2
+climate_policy|||energía eólica|||legislación|||0
+climate_policy|||energía eólica|||regulaciones|||1
+climate_policy|||energía eólica|||Asamblea Nacional|||0
+climate_policy|||energía eólica|||Presidente|||4
+climate_policy|||energía eólica|||ley|||1
+climate_policy|||energía eólica|||gobierno|||6
+climate_policy|||energía eólica|||Ministerio del Ambiente, Agua y Transición Ecológica|||0
+climate_policy|||energía eólica|||Ministro|||6
+climate_policy|||energía eólica|||MAATE|||0
+climate_policy|||bioenergía|||política|||0
+climate_policy|||bioenergía|||políticas|||0
+climate_policy|||bioenergía|||regulación|||0
+climate_policy|||bioenergía|||regulaciones|||0
+climate_policy|||bioenergía|||legislación|||0
+climate_policy|||energía hidroeléctrica|||Presidente|||2
+climate_policy|||bioenergía|||ley|||0
+climate_policy|||bioenergía|||Asamblea Nacional|||0
+climate_policy|||bioenergía|||Presidente|||0
+climate_policy|||bioenergía|||Administración Presidencial|||0
+climate_policy|||bioenergía|||gobierno|||0
+climate_policy|||bioenergía|||Ministerio del Ambiente, Agua y Transición Ecológica|||0
+climate_policy|||bioenergía|||Ministro|||0
+climate_policy|||energía geotérmica|||política|||1
+climate_policy|||energía geotérmica|||políticas|||1
+climate_policy|||bioenergía|||MAATE|||0
+climate_policy|||energía geotérmica|||regulación|||0
+climate_policy|||energía geotérmica|||regulaciones|||0
+climate_policy|||energía geotérmica|||legislación|||0
+climate_policy|||energía geotérmica|||ley|||1
+climate_policy|||energía geotérmica|||Asamblea Nacional|||0
+climate_policy|||energía geotérmica|||Presidente|||1
+climate_policy|||energía geotérmica|||Administración Presidencial|||0
+climate_policy|||energía geotérmica|||Ministro|||0
+climate_policy|||energía eólica|||Administración Presidencial|||0
+climate_policy|||energía geotérmica|||Ministerio del Ambiente, Agua y Transición Ecológica|||0
+climate_policy|||energía geotérmica|||gobierno|||1
+climate_policy|||energía oceánica|||política|||0
+climate_policy|||energía oceánica|||políticas|||0
+climate_policy|||energía geotérmica|||MAATE|||0
+climate_policy|||energía oceánica|||regulación|||0
+climate_policy|||energía oceánica|||regulaciones|||0
+climate_policy|||energía oceánica|||legislación|||0
+climate_policy|||energía oceánica|||ley|||0
+climate_policy|||energía oceánica|||Presidente|||0
+climate_policy|||energía oceánica|||Administración Presidencial|||0
+climate_policy|||energía oceánica|||Asamblea Nacional|||0
+climate_policy|||energía oceánica|||Ministro|||0
+climate_policy|||energía oceánica|||Ministerio del Ambiente, Agua y Transición Ecológica|||0
+climate_policy|||energía oceánica|||gobierno|||0
+climate_policy|||energía oceánica|||MAATE|||0
+climate_policy|||IPCC|||política|||0
+climate_policy|||IPCC|||políticas|||0
+climate_policy|||IPCC|||regulación|||0
+climate_policy|||IPCC|||regulaciones|||0
+climate_policy|||IPCC|||legislación|||0
+climate_policy|||IPCC|||Asamblea Nacional|||0
+climate_policy|||IPCC|||Presidente|||0
+climate_policy|||IPCC|||Administración Presidencial|||0
+climate_policy|||IPCC|||ley|||0
+climate_policy|||IPCC|||Ministro|||0
+climate_policy|||IPCC|||gobierno|||0
+climate_policy|||IPCC|||Ministerio del Ambiente, Agua y Transición Ecológica|||0
+climate_policy|||IPCC|||MAATE|||0
+climate_policy|||COP|||política|||0
+climate_policy|||COP|||políticas|||1
+climate_policy|||COP|||regulación|||0
+climate_policy|||COP|||legislación|||0
+climate_policy|||COP|||ley|||0
+climate_policy|||COP|||Asamblea Nacional|||0
+climate_policy|||COP|||regulaciones|||0
+climate_policy|||COP|||Presidente|||0
+climate_policy|||COP|||Administración Presidencial|||0
+climate_policy|||COP|||Ministro|||0
+climate_policy|||COP|||gobierno|||1
+climate_policy|||COP|||Ministerio del Ambiente, Agua y Transición Ecológica|||0
+climate_policy|||COP|||MAATE|||0
+climate_policy|||Acuerdo de París|||política|||3
+climate_policy|||Acuerdo de París|||regulación|||0
+climate_policy|||Acuerdo de París|||políticas|||2
+climate_uncertainty|||gases de efecto invernadero|||rescindir|||0
+climate_uncertainty|||CO2|||incierto|||0
+climate_uncertainty|||gases de efecto invernadero|||suspender|||0
+climate_uncertainty|||CO2|||posponer|||0
+climate_uncertainty|||CO2|||abolir|||0
+climate_uncertainty|||CO2|||retirar|||0
+climate_uncertainty|||calentamiento global|||incertidumbre|||0
+climate_uncertainty|||calentamiento global|||ambiguo|||0
+climate_uncertainty|||calentamiento global|||retrasar|||0
+climate_uncertainty|||calentamiento global|||abolir|||0
+climate_uncertainty|||clima extremo|||incierto|||0
+climate_uncertainty|||clima extremo|||desconocido|||0
+climate_uncertainty|||clima extremo|||impredecible|||0
+climate_uncertainty|||temperatura extrema|||incierto|||0
+climate_uncertainty|||clima extremo|||diferir|||0
+climate_uncertainty|||temperatura extrema|||posponer|||0
+climate_uncertainty|||temperatura extrema|||abolir|||0
+climate_uncertainty|||clima extremo|||rescindir|||0
+climate_uncertainty|||ola de calor|||incierto|||0
+climate_uncertainty|||ola de calor|||desconocido|||0
+climate_uncertainty|||ola de frío|||incierto|||0
+climate_uncertainty|||ola de frío|||incierto|||0
+climate_uncertainty|||ola de frío|||retrasar|||0
+climate_uncertainty|||ola de frío|||cancelar|||0
+climate_uncertainty|||sequía|||incertidumbre|||0
+climate_uncertainty|||sequía|||vago|||0
+climate_uncertainty|||sequía|||cancelar|||0
+climate_uncertainty|||sequía|||rescindir|||0
+climate_uncertainty|||incendio forestal|||vago|||0
+climate_uncertainty|||incendio forestal|||posponer|||0
+climate_uncertainty|||incendio forestal|||rescindir|||0
+climate_uncertainty|||tormenta de nieve|||vago|||0
+climate_uncertainty|||tormenta de nieve|||posponer|||0
+climate_uncertainty|||tormenta de nieve|||rescindir|||0
+climate_uncertainty|||ola de calor|||vago|||0
+climate_uncertainty|||lluvia intensa|||incierto|||0
+climate_uncertainty|||lluvia intensa|||ambiguo|||0
+climate_uncertainty|||lluvia intensa|||rescindir|||0
+climate_uncertainty|||lluvia intensa|||suspender|||0
+climate_uncertainty|||huracán|||incierto|||0
+climate_uncertainty|||huracán|||impredecible|||0
+climate_uncertainty|||huracán|||retirar|||0
+climate_uncertainty|||inundación|||incierto|||0
+climate_uncertainty|||huracán|||suspender|||0
+climate_uncertainty|||inundación|||retrasar|||0
+climate_uncertainty|||inundación|||posponer|||0
+climate_uncertainty|||inundación|||retirar|||0
+climate_uncertainty|||energía verde|||desconocido|||0
+climate_uncertainty|||energía verde|||impredecible|||0
+climate_uncertainty|||energía verde|||posponer|||0
+climate_uncertainty|||energía renovable|||incierto|||1
+climate_uncertainty|||energía verde|||rescindir|||0
+climate_uncertainty|||energía renovable|||incierto|||1
+climate_uncertainty|||energía renovable|||abolir|||0
+climate_uncertainty|||energía renovable|||cancelar|||1
+climate_uncertainty|||energía limpia|||incertidumbre|||0
+climate_uncertainty|||energía limpia|||vago|||0
+climate_uncertainty|||energía limpia|||ambiguo|||0
+climate_uncertainty|||energía limpia|||abolir|||0
+climate_uncertainty|||energía solar|||incertidumbre|||0
+climate_uncertainty|||energía limpia|||retirar|||0
+climate_uncertainty|||energía solar|||ambiguo|||0
+climate_uncertainty|||energía solar|||diferir|||0
+climate_uncertainty|||energía hidroeléctrica|||incierto|||0
+climate_uncertainty|||energía hidroeléctrica|||desconocido|||0
+climate_uncertainty|||energía solar|||rescindir|||0
+climate_uncertainty|||energía hidroeléctrica|||retrasar|||0
+climate_uncertainty|||energía hidroeléctrica|||rescindir|||0
+climate_uncertainty|||energía hidroeléctrica|||suspender|||0
+climate_uncertainty|||energía eólica|||incierto|||0
+climate_uncertainty|||energía eólica|||rescindir|||0
+climate_uncertainty|||energía eólica|||posponer|||0
+climate_uncertainty|||energía eólica|||retrasar|||0
+climate_uncertainty|||bioenergía|||ambiguo|||0
+climate_uncertainty|||bioenergía|||impredecible|||0
+climate_uncertainty|||bioenergía|||posponer|||0
+climate_uncertainty|||bioenergía|||suspender|||0
+climate_uncertainty|||energía geotérmica|||incierto|||0
+climate_uncertainty|||energía geotérmica|||desconocido|||0
+climate_uncertainty|||energía geotérmica|||rescindir|||0
+climate_uncertainty|||energía geotérmica|||retrasar|||0
+climate_uncertainty|||energía geotérmica|||abolir|||0
+climate_uncertainty|||energía oceánica|||vago|||0
+climate_uncertainty|||energía oceánica|||retrasar|||0
+climate_uncertainty|||energía oceánica|||abolir|||0
+climate_uncertainty|||energía oceánica|||retirar|||0
+climate_uncertainty|||IPCC|||desconocido|||0
+climate_uncertainty|||IPCC|||vago|||0
+climate_uncertainty|||IPCC|||diferir|||0
+climate_uncertainty|||IPCC|||retirar|||0
+climate_uncertainty|||IPCC|||rescindir|||0
+climate_uncertainty|||COP|||posponer|||0
+climate_uncertainty|||COP|||cancelar|||0
+climate_uncertainty|||Acuerdo de París|||incertidumbre|||0
+climate_uncertainty|||COP|||retirar|||0
+climate_uncertainty|||Acuerdo de París|||impredecible|||0
+climate_uncertainty|||Acuerdo de París|||abolir|||0
+policy_uncertainty|||política|||incierto|||2
+climate_uncertainty|||Acuerdo de París|||rescindir|||0
+policy_uncertainty|||política|||ambiguo|||0
+policy_uncertainty|||política|||retrasar|||1
+policy_uncertainty|||política|||cancelar|||4
+policy_uncertainty|||política|||suspender|||0
+policy_uncertainty|||políticas|||vago|||0
+policy_uncertainty|||políticas|||retrasar|||0
+policy_uncertainty|||políticas|||ambiguo|||0
+policy_uncertainty|||políticas|||retirar|||1
+policy_uncertainty|||regulación|||incierto|||1
+policy_uncertainty|||regulación|||ambiguo|||0
+policy_uncertainty|||regulación|||posponer|||0
+policy_uncertainty|||regulación|||rescindir|||0
+policy_uncertainty|||regulaciones|||incierto|||2
+policy_uncertainty|||regulaciones|||incertidumbre|||6
+policy_uncertainty|||regulaciones|||impredecible|||1
+policy_uncertainty|||regulaciones|||diferir|||0
+policy_uncertainty|||regulaciones|||rescindir|||0
+policy_uncertainty|||legislación|||incierto|||0
+policy_uncertainty|||legislación|||desconocido|||1
+policy_uncertainty|||legislación|||cancelar|||0
+policy_uncertainty|||legislación|||impredecible|||0
+policy_uncertainty|||legislación|||retirar|||0
+policy_uncertainty|||ley|||vago|||0
+policy_uncertainty|||ley|||ambiguo|||0
+policy_uncertainty|||ley|||retrasar|||0
+policy_uncertainty|||ley|||retirar|||4
+policy_uncertainty|||Asamblea Nacional|||incierto|||0
+policy_uncertainty|||Asamblea Nacional|||incierto|||0
+policy_uncertainty|||Asamblea Nacional|||posponer|||0
+policy_uncertainty|||Asamblea Nacional|||abolir|||0
+policy_uncertainty|||Asamblea Nacional|||cancelar|||1
+policy_uncertainty|||Presidente|||posponer|||3
+policy_uncertainty|||Presidente|||vago|||0
+policy_uncertainty|||Presidente|||desconocido|||0
+policy_uncertainty|||Presidente|||suspender|||4
+policy_uncertainty|||Administración Presidencial|||incierto|||0
+policy_uncertainty|||Administración Presidencial|||vago|||0
+policy_uncertainty|||Administración Presidencial|||suspender|||0
+policy_uncertainty|||Administración Presidencial|||retrasar|||0
+policy_uncertainty|||Administración Presidencial|||rescindir|||0
+policy_uncertainty|||Ministro|||posponer|||1
+policy_uncertainty|||Ministro|||rescindir|||0
+policy_uncertainty|||Ministro|||impredecible|||0
+policy_uncertainty|||gobierno|||incierto|||6
+policy_uncertainty|||gobierno|||impredecible|||0
+policy_uncertainty|||gobierno|||ambiguo|||0
+policy_uncertainty|||gobierno|||rescindir|||0
+policy_uncertainty|||Ministerio del Ambiente, Agua y Transición Ecológica|||incertidumbre|||0
+policy_uncertainty|||Ministerio del Ambiente, Agua y Transición Ecológica|||retrasar|||0
+policy_uncertainty|||Ministerio del Ambiente, Agua y Transición Ecológica|||suspender|||0
+policy_uncertainty|||Ministerio del Ambiente, Agua y Transición Ecológica|||cancelar|||0
+policy_uncertainty|||MAATE|||incierto|||0
+policy_uncertainty|||MAATE|||abolir|||0
+policy_uncertainty|||MAATE|||diferir|||0
