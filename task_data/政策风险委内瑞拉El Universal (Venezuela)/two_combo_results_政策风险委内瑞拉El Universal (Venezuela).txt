@@ -125,3 +125,37 @@ climate_policy|||ola de frío|||regulaciones|||0
 climate_policy|||ola de frío|||legislación|||1
 climate_policy|||ola de frío|||ley|||0
 climate_policy|||ola de frío|||parlamento|||1
+climate_policy|||sequía|||parlamento|||9
+climate_policy|||ola de frío|||presidente|||5
+climate_policy|||sequía|||legislación|||0
+climate_policy|||sequía|||congreso|||9
+climate_policy|||sequía|||presidente|||79
+climate_policy|||sequía|||ministro|||36
+climate_policy|||sequía|||Asamblea Nacional|||9
+climate_policy|||sequía|||presidencia|||17
+climate_policy|||sequía|||MINEC|||0
+climate_policy|||sequía|||gobierno|||94
+climate_policy|||sequía|||Ministerio del Poder Popular para el Ecosocialismo|||3
+climate_policy|||incendio forestal|||regulación|||0
+climate_policy|||incendio forestal|||políticas|||0
+climate_policy|||incendio forestal|||política|||0
+climate_policy|||incendio forestal|||regulaciones|||0
+climate_policy|||incendio forestal|||ley|||1
+climate_policy|||incendio forestal|||legislación|||0
+climate_policy|||incendio forestal|||congreso|||0
+climate_policy|||incendio forestal|||presidente|||14
+climate_policy|||ola de frío|||presidencia|||0
+climate_policy|||ola de frío|||MINEC|||0
+climate_policy|||ola de frío|||gobierno|||7
+climate_policy|||incendio forestal|||parlamento|||0
+climate_policy|||incendio forestal|||ministro|||15
+climate_policy|||incendio forestal|||Ministerio del Poder Popular para el Ecosocialismo|||0
+climate_policy|||tormenta de nieve|||políticas|||1
+climate_policy|||incendio forestal|||MINEC|||1
+climate_policy|||tormenta de nieve|||política|||1
+climate_policy|||tormenta de nieve|||regulaciones|||0
+climate_policy|||tormenta de nieve|||legislación|||0
+climate_policy|||tormenta de nieve|||regulación|||0
+climate_policy|||ola de frío|||Asamblea Nacional|||0
+climate_policy|||ola de frío|||congreso|||0
+climate_policy|||ola de frío|||ministro|||2

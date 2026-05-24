@@ -1187,3 +1187,358 @@
 2026-05-24 22:05:02,803 - INFO - [线程6115110912|账号41172560626291] ✅ 二组合(climate_policy) ola de frío + parlamento 有 1 条结果 📍 URL: https://infoweb-newsbank-com.dclibrary.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=pubname%3AVEUC%21El%2BUniversal%2B%2528Venezuela%2529&maxresults=60&f=advanced&val-base-0=ola%20de%20fr%C3%ADo&fld-base-0=alltext&bln-base-1=and&val-base-1=parlamento&fld-base-1=alltext&fld-nav-0=YMD_date&val-nav-0=-2026.4
 2026-05-24 22:05:02,803 - INFO - [线程6115110912|账号41172560626291] 🔍 开始处理新二组合(climate_policy)：ola de frío + congreso 
 2026-05-24 22:05:02,803 - INFO - ✅ 二组合 ('climate_policy', 'ola de frío', 'parlamento') 处理成功 (127/1035)
+2026-05-24 22:17:58,569 - INFO - 🚀 开始处理任务: 政策风险委内瑞拉El Universal (Venezuela).xlsx
+2026-05-24 22:17:58,569 - INFO - 开始初始化所有driver到2025年页面: https://infoweb-newsbank-com.dclibrary.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=pubname%3AVEUC%21El%2BUniversal%2B%2528Venezuela%2529&maxresults=60&f=advanced&fld-nav-0=YMD_date&val-nav-0=-2026.4
+2026-05-24 22:18:18,940 - INFO - 账号 41172572627355 的driver成功访问2025年页面
+2026-05-24 22:18:18,940 - INFO - 账号 41172442627349 的driver成功访问2025年页面
+2026-05-24 22:18:18,941 - INFO - ✅ 账号 41172572627355 的driver初始化成功
+2026-05-24 22:18:18,941 - INFO - ✅ 账号 41172442627349 的driver初始化成功
+2026-05-24 22:18:44,461 - INFO - 账号 41172560626291 的driver成功访问2025年页面
+2026-05-24 22:18:44,462 - INFO - ✅ 账号 41172560626291 的driver初始化成功
+2026-05-24 22:18:56,941 - INFO - 账号 41172712627360 的driver成功访问2025年页面
+2026-05-24 22:18:56,941 - INFO - ✅ 账号 41172712627360 的driver初始化成功
+2026-05-24 22:19:02,076 - INFO - 账号 41172318627363 的driver成功访问2025年页面
+2026-05-24 22:19:02,077 - INFO - ✅ 账号 41172318627363 的driver初始化成功
+2026-05-24 22:19:04,127 - INFO - 账号 41172258627350 的driver成功访问2025年页面
+2026-05-24 22:19:04,127 - INFO - ✅ 账号 41172258627350 的driver初始化成功
+2026-05-24 22:19:09,100 - INFO - 账号 41172815627354 的driver成功访问2025年页面
+2026-05-24 22:19:09,101 - INFO - ✅ 账号 41172815627354 的driver初始化成功
+2026-05-24 22:19:10,835 - INFO - 账号 41172184627362 的driver成功访问2025年页面
+2026-05-24 22:19:10,835 - INFO - ✅ 账号 41172184627362 的driver初始化成功
+2026-05-24 22:19:10,868 - INFO - 账号 41172631627351 的driver成功访问2025年页面
+2026-05-24 22:19:10,869 - INFO - ✅ 账号 41172631627351 的driver初始化成功
+2026-05-24 22:19:22,273 - INFO - 账号 41172846627365 的driver成功访问2025年页面
+2026-05-24 22:19:22,274 - INFO - ✅ 账号 41172846627365 的driver初始化成功
+2026-05-24 22:19:22,840 - INFO - 账号 41172744627358 的driver成功访问2025年页面
+2026-05-24 22:19:22,841 - INFO - ✅ 账号 41172744627358 的driver初始化成功
+2026-05-24 22:19:23,057 - INFO - 账号 41172333627353 的driver成功访问2025年页面
+2026-05-24 22:19:23,057 - INFO - ✅ 账号 41172333627353 的driver初始化成功
+2026-05-24 22:19:33,607 - INFO - 账号 41172932627364 的driver成功访问2025年页面
+2026-05-24 22:19:33,607 - INFO - ✅ 账号 41172932627364 的driver初始化成功
+2026-05-24 22:19:39,801 - INFO - 账号 41172933627348 的driver成功访问2025年页面
+2026-05-24 22:19:39,801 - INFO - ✅ 账号 41172933627348 的driver初始化成功
+2026-05-24 22:19:45,090 - INFO - 账号 41172604627356 的driver成功访问2025年页面
+2026-05-24 22:19:45,092 - INFO - ✅ 账号 41172604627356 的driver初始化成功
+2026-05-24 22:19:45,093 - INFO - 所有driver初始化完成
+2026-05-24 22:19:45,094 - INFO - ================================================================================
+2026-05-24 22:19:45,094 - INFO - 📋 正常模式：先处理二组合，再基于有效二组合生成三组合
+2026-05-24 22:19:45,094 - INFO - ================================================================================
+2026-05-24 22:19:45,094 - INFO - 开始处理 1035 个二组合:
+2026-05-24 22:19:45,094 - INFO -   - climate+policy: 405 个
+2026-05-24 22:19:45,095 - INFO -   - climate+uncertainty: 405 个
+2026-05-24 22:19:45,095 - INFO -   - policy+uncertainty: 225 个
+2026-05-24 22:19:45,099 - INFO - 需要处理 908 个新的二组合
+2026-05-24 22:19:45,099 - INFO - 总计需要处理 908 个二组合
+2026-05-24 22:19:45,099 - INFO - 使用 15 个线程处理二组合
+2026-05-24 22:19:45,100 - INFO - [线程6119878656|账号41172560626291] 🔍 开始处理新二组合(climate_policy)：ola de frío + congreso 
+2026-05-24 22:19:45,100 - INFO - [线程6136705024|账号41172933627348] 🔍 开始处理新二组合(climate_policy)：ola de frío + Asamblea Nacional 
+2026-05-24 22:19:45,100 - INFO - 程序开始时间: 2026-05-24 22:19:45
+2026-05-24 22:19:45,100 - INFO - [线程6153531392|账号41172442627349] 🔍 开始处理新二组合(climate_policy)：ola de frío + presidente 
+2026-05-24 22:19:45,102 - INFO - [线程6170357760|账号41172258627350] 🔍 开始处理新二组合(climate_policy)：ola de frío + ministro 
+2026-05-24 22:19:45,102 - INFO - [线程6187184128|账号41172631627351] 🔍 开始处理新二组合(climate_policy)：ola de frío + presidencia 
+2026-05-24 22:19:45,103 - INFO - [线程6204010496|账号41172333627353] 🔍 开始处理新二组合(climate_policy)：ola de frío + gobierno 
+2026-05-24 22:19:45,103 - INFO - [线程6220836864|账号41172815627354] 🔍 开始处理新二组合(climate_policy)：ola de frío + Ministerio del Poder Popular para el Ecosocialismo 
+2026-05-24 22:19:45,104 - INFO - [线程6237663232|账号41172572627355] 🔍 开始处理新二组合(climate_policy)：ola de frío + MINEC 
+2026-05-24 22:19:45,105 - INFO - [线程6254489600|账号41172604627356] 🔍 开始处理新二组合(climate_policy)：sequía + política 
+2026-05-24 22:19:45,106 - INFO - [线程6271315968|账号41172744627358] 🔍 开始处理新二组合(climate_policy)：sequía + políticas 
+2026-05-24 22:19:45,107 - INFO - [线程6288142336|账号41172712627360] 🔍 开始处理新二组合(climate_policy)：sequía + regulación 
+2026-05-24 22:19:45,108 - INFO - [线程6304968704|账号41172184627362] 🔍 开始处理新二组合(climate_policy)：sequía + regulaciones 
+2026-05-24 22:19:45,109 - INFO - [线程6321795072|账号41172318627363] 🔍 开始处理新二组合(climate_policy)：sequía + legislación 
+2026-05-24 22:19:45,110 - INFO - [线程6338621440|账号41172932627364] 🔍 开始处理新二组合(climate_policy)：sequía + ley 
+2026-05-24 22:19:45,111 - INFO - [线程6355447808|账号41172846627365] 🔍 开始处理新二组合(climate_policy)：sequía + parlamento 
+2026-05-24 22:20:08,607 - INFO - [线程6355447808|账号41172846627365] ✅ 二组合(climate_policy) sequía + parlamento 有 9 条结果 📍 URL: https://infoweb-newsbank-com.dclibrary.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=pubname%3AVEUC%21El%2BUniversal%2B%2528Venezuela%2529&maxresults=60&f=advanced&val-base-0=sequ%C3%ADa&fld-base-0=alltext&bln-base-1=and&val-base-1=parlamento&fld-base-1=alltext&fld-nav-0=YMD_date&val-nav-0=-2026.4
+2026-05-24 22:20:08,609 - INFO - [线程6355447808|账号41172846627365] 🔍 开始处理新二组合(climate_policy)：sequía + congreso 
+2026-05-24 22:20:08,609 - INFO - ✅ 二组合 ('climate_policy', 'sequía', 'parlamento') 处理成功 (1/908)
+2026-05-24 22:20:11,846 - INFO - [线程6153531392|账号41172442627349] ✅ 二组合(climate_policy) ola de frío + presidente 有 5 条结果 📍 URL: https://infoweb-newsbank-com.dclibrary.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=pubname%3AVEUC%21El%2BUniversal%2B%2528Venezuela%2529&maxresults=60&f=advanced&val-base-0=ola%20de%20fr%C3%ADo&fld-base-0=alltext&bln-base-1=and&val-base-1=presidente&fld-base-1=alltext&fld-nav-0=YMD_date&val-nav-0=-2026.4
+2026-05-24 22:20:11,846 - INFO - [线程6153531392|账号41172442627349] 🔍 开始处理新二组合(climate_policy)：sequía + Asamblea Nacional 
+2026-05-24 22:20:11,846 - INFO - ✅ 二组合 ('climate_policy', 'ola de frío', 'presidente') 处理成功 (2/908)
+2026-05-24 22:20:14,277 - INFO - [线程6321795072|账号41172318627363] ❌ 二组合(climate_policy) sequía + legislación 无结果 📍 URL: https://infoweb-newsbank-com.dclibrary.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=pubname%3AVEUC%21El%2BUniversal%2B%2528Venezuela%2529&maxresults=60&f=advanced&val-base-0=sequ%C3%ADa&fld-base-0=alltext&bln-base-1=and&val-base-1=legislaci%C3%B3n&fld-base-1=alltext&fld-nav-0=YMD_date&val-nav-0=-2026.4
+2026-05-24 22:20:14,277 - INFO - [线程6321795072|账号41172318627363] 🔍 开始处理新二组合(climate_policy)：sequía + presidente 
+2026-05-24 22:20:14,277 - INFO - ✅ 二组合 ('climate_policy', 'sequía', 'legislación') 处理成功 (3/908)
+2026-05-24 22:20:21,853 - INFO - [线程6355447808|账号41172846627365] ✅ 二组合(climate_policy) sequía + congreso 有 9 条结果 📍 URL: https://infoweb-newsbank-com.dclibrary.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=pubname%3AVEUC%21El%2BUniversal%2B%2528Venezuela%2529&maxresults=60&f=advanced&val-base-0=sequ%C3%ADa&fld-base-0=alltext&bln-base-1=and&val-base-1=congreso&fld-base-1=alltext&fld-nav-0=YMD_date&val-nav-0=-2026.4
+2026-05-24 22:20:21,853 - INFO - [线程6355447808|账号41172846627365] 🔍 开始处理新二组合(climate_policy)：sequía + ministro 
+2026-05-24 22:20:21,853 - INFO - ✅ 二组合 ('climate_policy', 'sequía', 'congreso') 处理成功 (4/908)
+2026-05-24 22:20:28,628 - INFO - [线程6321795072|账号41172318627363] ✅ 二组合(climate_policy) sequía + presidente 有 79 条结果 📍 URL: https://infoweb-newsbank-com.dclibrary.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=pubname%3AVEUC%21El%2BUniversal%2B%2528Venezuela%2529&maxresults=60&f=advanced&val-base-0=sequ%C3%ADa&fld-base-0=alltext&bln-base-1=and&val-base-1=presidente&fld-base-1=alltext&fld-nav-0=YMD_date&val-nav-0=-2026.4
+2026-05-24 22:20:28,629 - INFO - [线程6321795072|账号41172318627363] 🔍 开始处理新二组合(climate_policy)：sequía + presidencia 
+2026-05-24 22:20:28,629 - INFO - ✅ 二组合 ('climate_policy', 'sequía', 'presidente') 处理成功 (5/908)
+2026-05-24 22:20:35,145 - INFO - [线程6355447808|账号41172846627365] ✅ 二组合(climate_policy) sequía + ministro 有 36 条结果 📍 URL: https://infoweb-newsbank-com.dclibrary.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=pubname%3AVEUC%21El%2BUniversal%2B%2528Venezuela%2529&maxresults=60&f=advanced&val-base-0=sequ%C3%ADa&fld-base-0=alltext&bln-base-1=and&val-base-1=ministro&fld-base-1=alltext&fld-nav-0=YMD_date&val-nav-0=-2026.4
+2026-05-24 22:20:35,145 - INFO - [线程6355447808|账号41172846627365] 🔍 开始处理新二组合(climate_policy)：sequía + gobierno 
+2026-05-24 22:20:35,145 - INFO - ✅ 二组合 ('climate_policy', 'sequía', 'ministro') 处理成功 (6/908)
+2026-05-24 22:20:35,989 - INFO - [线程6153531392|账号41172442627349] ✅ 二组合(climate_policy) sequía + Asamblea Nacional 有 9 条结果 📍 URL: https://infoweb-newsbank-com.dclibrary.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=pubname%3AVEUC%21El%2BUniversal%2B%2528Venezuela%2529&maxresults=60&f=advanced&val-base-0=sequ%C3%ADa&fld-base-0=alltext&bln-base-1=and&val-base-1=Asamblea%20Nacional&fld-base-1=alltext&fld-nav-0=YMD_date&val-nav-0=-2026.4
+2026-05-24 22:20:35,989 - INFO - [线程6153531392|账号41172442627349] 🔍 开始处理新二组合(climate_policy)：sequía + Ministerio del Poder Popular para el Ecosocialismo 
+2026-05-24 22:20:35,989 - INFO - ✅ 二组合 ('climate_policy', 'sequía', 'Asamblea Nacional') 处理成功 (7/908)
+2026-05-24 22:20:46,077 - INFO - [线程6321795072|账号41172318627363] ✅ 二组合(climate_policy) sequía + presidencia 有 17 条结果 📍 URL: https://infoweb-newsbank-com.dclibrary.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=pubname%3AVEUC%21El%2BUniversal%2B%2528Venezuela%2529&maxresults=60&f=advanced&val-base-0=sequ%C3%ADa&fld-base-0=alltext&bln-base-1=and&val-base-1=presidencia&fld-base-1=alltext&fld-nav-0=YMD_date&val-nav-0=-2026.4
+2026-05-24 22:20:46,077 - INFO - [线程6321795072|账号41172318627363] 🔍 开始处理新二组合(climate_policy)：sequía + MINEC 
+2026-05-24 22:20:46,078 - INFO - ✅ 二组合 ('climate_policy', 'sequía', 'presidencia') 处理成功 (8/908)
+2026-05-24 22:20:59,356 - INFO - [线程6321795072|账号41172318627363] ❌ 二组合(climate_policy) sequía + MINEC 无结果 📍 URL: https://infoweb-newsbank-com.dclibrary.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=pubname%3AVEUC%21El%2BUniversal%2B%2528Venezuela%2529&maxresults=60&f=advanced&val-base-0=sequ%C3%ADa&fld-base-0=alltext&bln-base-1=and&val-base-1=MINEC&fld-base-1=alltext&fld-nav-0=YMD_date&val-nav-0=-2026.4
+2026-05-24 22:20:59,356 - INFO - [线程6321795072|账号41172318627363] 🔍 开始处理新二组合(climate_policy)：incendio forestal + política 
+2026-05-24 22:20:59,357 - INFO - ✅ 二组合 ('climate_policy', 'sequía', 'MINEC') 处理成功 (9/908)
+2026-05-24 22:20:59,618 - INFO - [线程6355447808|账号41172846627365] ✅ 二组合(climate_policy) sequía + gobierno 有 94 条结果 📍 URL: https://infoweb-newsbank-com.dclibrary.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=pubname%3AVEUC%21El%2BUniversal%2B%2528Venezuela%2529&maxresults=60&f=advanced&val-base-0=sequ%C3%ADa&fld-base-0=alltext&bln-base-1=and&val-base-1=gobierno&fld-base-1=alltext&fld-nav-0=YMD_date&val-nav-0=-2026.4
+2026-05-24 22:20:59,619 - INFO - [线程6355447808|账号41172846627365] 🔍 开始处理新二组合(climate_policy)：incendio forestal + políticas 
+2026-05-24 22:20:59,620 - INFO - ✅ 二组合 ('climate_policy', 'sequía', 'gobierno') 处理成功 (10/908)
+2026-05-24 22:21:12,251 - INFO - [线程6153531392|账号41172442627349] ✅ 二组合(climate_policy) sequía + Ministerio del Poder Popular para el Ecosocialismo 有 3 条结果 📍 URL: https://infoweb-newsbank-com.dclibrary.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=pubname%3AVEUC%21El%2BUniversal%2B%2528Venezuela%2529&maxresults=60&f=advanced&val-base-0=sequ%C3%ADa&fld-base-0=alltext&bln-base-1=and&val-base-1=Ministerio%20del%20Poder%20Popular%20para%20el%20Ecosocialismo&fld-base-1=alltext&fld-nav-0=YMD_date&val-nav-0=-2026.4
+2026-05-24 22:21:12,251 - INFO - [线程6153531392|账号41172442627349] 🔍 开始处理新二组合(climate_policy)：incendio forestal + regulación 
+2026-05-24 22:21:12,251 - INFO - ✅ 二组合 ('climate_policy', 'sequía', 'Ministerio del Poder Popular para el Ecosocialismo') 处理成功 (11/908)
+2026-05-24 22:21:25,192 - ERROR - ❌ [线程6170357760|账号41172258627350] 页面无响应，加载超时
+2026-05-24 22:21:25,198 - ERROR - ❌ [线程6119878656|账号41172560626291] 页面无响应，加载超时
+2026-05-24 22:21:25,198 - ERROR - ❌ [线程6204010496|账号41172333627353] 页面无响应，加载超时
+2026-05-24 22:21:25,199 - ERROR - ❌ [线程6187184128|账号41172631627351] 页面无响应，加载超时
+2026-05-24 22:21:25,199 - ERROR - ❌ [线程6237663232|账号41172572627355] 页面无响应，加载超时
+2026-05-24 22:21:26,250 - ERROR - ❌ [线程6288142336|账号41172712627360] 页面无响应，加载超时
+2026-05-24 22:21:26,250 - ERROR - ❌ [线程6271315968|账号41172744627358] 页面无响应，加载超时
+2026-05-24 22:21:26,285 - ERROR - ❌ [线程6338621440|账号41172932627364] 页面无响应，加载超时
+2026-05-24 22:21:26,301 - ERROR - ❌ [线程6136705024|账号41172933627348] 页面无响应，加载超时
+2026-05-24 22:21:26,374 - ERROR - ❌ [线程6220836864|账号41172815627354] 页面无响应，加载超时
+2026-05-24 22:21:26,377 - ERROR - ❌ [线程6304968704|账号41172184627362] 页面无响应，加载超时
+2026-05-24 22:21:26,387 - ERROR - ❌ [线程6254489600|账号41172604627356] 页面无响应，加载超时
+2026-05-24 22:21:37,297 - INFO - [线程6271315968|账号41172744627358] 异常后尝试刷新页面
+2026-05-24 22:21:39,154 - INFO - [线程6220836864|账号41172815627354] 异常后尝试刷新页面
+2026-05-24 22:21:39,397 - INFO - [线程6153531392|账号41172442627349] ❌ 二组合(climate_policy) incendio forestal + regulación 无结果 📍 URL: https://infoweb-newsbank-com.dclibrary.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=pubname%3AVEUC%21El%2BUniversal%2B%2528Venezuela%2529&maxresults=60&f=advanced&val-base-0=incendio%20forestal&fld-base-0=alltext&bln-base-1=and&val-base-1=regulaci%C3%B3n&fld-base-1=alltext&fld-nav-0=YMD_date&val-nav-0=-2026.4
+2026-05-24 22:21:39,398 - INFO - [线程6153531392|账号41172442627349] 🔍 开始处理新二组合(climate_policy)：incendio forestal + regulaciones 
+2026-05-24 22:21:39,398 - INFO - ✅ 二组合 ('climate_policy', 'incendio forestal', 'regulación') 处理成功 (12/908)
+2026-05-24 22:21:39,918 - INFO - [线程6355447808|账号41172846627365] ❌ 二组合(climate_policy) incendio forestal + políticas 无结果 📍 URL: https://infoweb-newsbank-com.dclibrary.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=pubname%3AVEUC%21El%2BUniversal%2B%2528Venezuela%2529&maxresults=60&f=advanced&val-base-0=incendio%20forestal&fld-base-0=alltext&bln-base-1=and&val-base-1=pol%C3%ADticas&fld-base-1=alltext&fld-nav-0=YMD_date&val-nav-0=-2026.4
+2026-05-24 22:21:39,918 - INFO - [线程6355447808|账号41172846627365] 🔍 开始处理新二组合(climate_policy)：incendio forestal + legislación 
+2026-05-24 22:21:39,918 - INFO - ✅ 二组合 ('climate_policy', 'incendio forestal', 'políticas') 处理成功 (13/908)
+2026-05-24 22:21:42,901 - INFO - [线程6288142336|账号41172712627360] 异常后尝试刷新页面
+2026-05-24 22:21:43,988 - INFO - [线程6321795072|账号41172318627363] ❌ 二组合(climate_policy) incendio forestal + política 无结果 📍 URL: https://infoweb-newsbank-com.dclibrary.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=pubname%3AVEUC%21El%2BUniversal%2B%2528Venezuela%2529&maxresults=60&f=advanced&val-base-0=incendio%20forestal&fld-base-0=alltext&bln-base-1=and&val-base-1=pol%C3%ADtica&fld-base-1=alltext&fld-nav-0=YMD_date&val-nav-0=-2026.4
+2026-05-24 22:21:43,988 - INFO - [线程6321795072|账号41172318627363] 🔍 开始处理新二组合(climate_policy)：incendio forestal + ley 
+2026-05-24 22:21:43,989 - INFO - ✅ 二组合 ('climate_policy', 'incendio forestal', 'política') 处理成功 (14/908)
+2026-05-24 22:21:44,263 - INFO - [线程6136705024|账号41172933627348] 异常后尝试刷新页面
+2026-05-24 22:21:50,413 - INFO - [线程6254489600|账号41172604627356] 异常后尝试刷新页面
+2026-05-24 22:21:52,071 - INFO - [线程6304968704|账号41172184627362] 异常后尝试刷新页面
+2026-05-24 22:21:53,909 - INFO - [线程6153531392|账号41172442627349] ❌ 二组合(climate_policy) incendio forestal + regulaciones 无结果 📍 URL: https://infoweb-newsbank-com.dclibrary.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=pubname%3AVEUC%21El%2BUniversal%2B%2528Venezuela%2529&maxresults=60&f=advanced&val-base-0=incendio%20forestal&fld-base-0=alltext&bln-base-1=and&val-base-1=regulaciones&fld-base-1=alltext&fld-nav-0=YMD_date&val-nav-0=-2026.4
+2026-05-24 22:21:53,909 - INFO - [线程6153531392|账号41172442627349] 🔍 开始处理新二组合(climate_policy)：incendio forestal + parlamento 
+2026-05-24 22:21:53,909 - INFO - ✅ 二组合 ('climate_policy', 'incendio forestal', 'regulaciones') 处理成功 (15/908)
+2026-05-24 22:21:58,297 - INFO - [线程6321795072|账号41172318627363] ✅ 二组合(climate_policy) incendio forestal + ley 有 1 条结果 📍 URL: https://infoweb-newsbank-com.dclibrary.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=pubname%3AVEUC%21El%2BUniversal%2B%2528Venezuela%2529&maxresults=60&f=advanced&val-base-0=incendio%20forestal&fld-base-0=alltext&bln-base-1=and&val-base-1=ley&fld-base-1=alltext&fld-nav-0=YMD_date&val-nav-0=-2026.4
+2026-05-24 22:21:58,297 - INFO - [线程6321795072|账号41172318627363] 🔍 开始处理新二组合(climate_policy)：incendio forestal + congreso 
+2026-05-24 22:21:58,297 - INFO - ✅ 二组合 ('climate_policy', 'incendio forestal', 'ley') 处理成功 (16/908)
+2026-05-24 22:22:01,597 - INFO - [线程6355447808|账号41172846627365] ❌ 二组合(climate_policy) incendio forestal + legislación 无结果 📍 URL: https://infoweb-newsbank-com.dclibrary.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=pubname%3AVEUC%21El%2BUniversal%2B%2528Venezuela%2529&maxresults=60&f=advanced&val-base-0=incendio%20forestal&fld-base-0=alltext&bln-base-1=and&val-base-1=legislaci%C3%B3n&fld-base-1=alltext&fld-nav-0=YMD_date&val-nav-0=-2026.4
+2026-05-24 22:22:01,598 - INFO - [线程6355447808|账号41172846627365] 🔍 开始处理新二组合(climate_policy)：incendio forestal + Asamblea Nacional 
+2026-05-24 22:22:01,598 - INFO - ✅ 二组合 ('climate_policy', 'incendio forestal', 'legislación') 处理成功 (17/908)
+2026-05-24 22:22:02,863 - INFO - [线程6187184128|账号41172631627351] 异常后尝试刷新页面
+2026-05-24 22:22:04,899 - INFO - [线程6119878656|账号41172560626291] 异常后尝试刷新页面
+2026-05-24 22:22:07,403 - INFO - [线程6338621440|账号41172932627364] 异常后尝试刷新页面
+2026-05-24 22:22:13,731 - INFO - [线程6321795072|账号41172318627363] ❌ 二组合(climate_policy) incendio forestal + congreso 无结果 📍 URL: https://infoweb-newsbank-com.dclibrary.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=pubname%3AVEUC%21El%2BUniversal%2B%2528Venezuela%2529&maxresults=60&f=advanced&val-base-0=incendio%20forestal&fld-base-0=alltext&bln-base-1=and&val-base-1=congreso&fld-base-1=alltext&fld-nav-0=YMD_date&val-nav-0=-2026.4
+2026-05-24 22:22:13,732 - INFO - [线程6321795072|账号41172318627363] 🔍 开始处理新二组合(climate_policy)：incendio forestal + presidente 
+2026-05-24 22:22:13,733 - INFO - ✅ 二组合 ('climate_policy', 'incendio forestal', 'congreso') 处理成功 (18/908)
+2026-05-24 22:22:15,358 - ERROR -   ❌ [线程6355447808|账号41172846627365] 二组合(climate_policy) incendio forestal + Asamblea Nacional 处理异常: 访问网页失败！！！，28秒后重试 (1/3)
+2026-05-24 22:22:16,462 - INFO - [浏览器15|账号41172846627365] 🔄 旧浏览器实例已关闭
+2026-05-24 22:22:16,718 - INFO - [线程6204010496|账号41172333627353] 异常后尝试刷新页面
+2026-05-24 22:22:17,131 - INFO - [浏览器15|账号41172846627365] ✅ 浏览器重建成功！UA: Mozilla/5.0 (Macintosh; Intel Mac OS X 14_2_0) AppleWebKit/5... 视口: 1600x900
+2026-05-24 22:22:17,131 - INFO - [线程15|账号41172846627365] 开始登录，访问登录页面...
+2026-05-24 22:22:24,271 - INFO - [线程6119878656|账号41172560626291] 刷新后重新搜索成功
+2026-05-24 22:22:24,283 - ERROR -   ❌ [线程6119878656|账号41172560626291] 二组合(climate_policy) ola de frío + congreso 处理异常: 访问网页失败！！！，14秒后重试 (1/3)
+2026-05-24 22:22:25,402 - INFO - [浏览器1|账号41172560626291] 🔄 旧浏览器实例已关闭
+2026-05-24 22:22:25,973 - INFO - [浏览器1|账号41172560626291] ✅ 浏览器重建成功！UA: Mozilla/5.0 (Macintosh; Intel Mac OS X 13_6_0) AppleWebKit/5... 视口: 1366x768
+2026-05-24 22:22:25,974 - INFO - [线程1|账号41172560626291] 开始登录，访问登录页面...
+2026-05-24 22:22:26,884 - INFO - [线程6170357760|账号41172258627350] 异常后尝试刷新页面
+2026-05-24 22:22:27,183 - INFO - [线程6321795072|账号41172318627363] ✅ 二组合(climate_policy) incendio forestal + presidente 有 14 条结果 📍 URL: https://infoweb-newsbank-com.dclibrary.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=pubname%3AVEUC%21El%2BUniversal%2B%2528Venezuela%2529&maxresults=60&f=advanced&val-base-0=incendio%20forestal&fld-base-0=alltext&bln-base-1=and&val-base-1=presidente&fld-base-1=alltext&fld-nav-0=YMD_date&val-nav-0=-2026.4
+2026-05-24 22:22:27,184 - INFO - [线程6321795072|账号41172318627363] 🔍 开始处理新二组合(climate_policy)：incendio forestal + ministro 
+2026-05-24 22:22:27,184 - INFO - ✅ 二组合 ('climate_policy', 'incendio forestal', 'presidente') 处理成功 (19/908)
+2026-05-24 22:22:27,527 - INFO - [线程6237663232|账号41172572627355] 异常后尝试刷新页面
+2026-05-24 22:22:37,517 - INFO - [线程6187184128|账号41172631627351] 刷新后重新搜索成功
+2026-05-24 22:22:37,540 - INFO - [线程6187184128|账号41172631627351] ❌ 二组合(climate_policy) ola de frío + presidencia 无结果 📍 URL: https://infoweb-newsbank-com.dclibrary.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=pubname%3AVEUC%21El%2BUniversal%2B%2528Venezuela%2529&maxresults=60&f=advanced&val-base-0=ola%20de%20fr%C3%ADo&fld-base-0=alltext&bln-base-1=and&val-base-1=presidencia&fld-base-1=alltext&fld-nav-0=YMD_date&val-nav-0=-2026.4
+2026-05-24 22:22:37,540 - INFO - [线程6187184128|账号41172631627351] 🔍 开始处理新二组合(climate_policy)：incendio forestal + presidencia 
+2026-05-24 22:22:37,541 - INFO - ✅ 二组合 ('climate_policy', 'ola de frío', 'presidencia') 处理成功 (20/908)
+2026-05-24 22:22:42,678 - INFO - [线程6237663232|账号41172572627355] 刷新后重新搜索成功
+2026-05-24 22:22:42,693 - INFO - [线程6237663232|账号41172572627355] ❌ 二组合(climate_policy) ola de frío + MINEC 无结果 📍 URL: https://infoweb-newsbank-com.dclibrary.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=pubname%3AVEUC%21El%2BUniversal%2B%2528Venezuela%2529&maxresults=60&f=advanced&val-base-0=ola%20de%20fr%C3%ADo&fld-base-0=alltext&bln-base-1=and&val-base-1=MINEC&fld-base-1=alltext&fld-nav-0=YMD_date&val-nav-0=-2026.4
+2026-05-24 22:22:42,693 - INFO - [线程6237663232|账号41172572627355] 🔍 开始处理新二组合(climate_policy)：incendio forestal + gobierno 
+2026-05-24 22:22:42,693 - INFO - ✅ 二组合 ('climate_policy', 'ola de frío', 'MINEC') 处理成功 (21/908)
+2026-05-24 22:22:49,666 - INFO - [线程6204010496|账号41172333627353] 刷新后重新搜索成功
+2026-05-24 22:22:49,685 - INFO - [线程6204010496|账号41172333627353] ✅ 二组合(climate_policy) ola de frío + gobierno 有 7 条结果 📍 URL: https://infoweb-newsbank-com.dclibrary.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=pubname%3AVEUC%21El%2BUniversal%2B%2528Venezuela%2529&maxresults=60&f=advanced&val-base-0=ola%20de%20fr%C3%ADo&fld-base-0=alltext&bln-base-1=and&val-base-1=gobierno&fld-base-1=alltext&fld-nav-0=YMD_date&val-nav-0=-2026.4
+2026-05-24 22:22:49,685 - INFO - [线程6204010496|账号41172333627353] 🔍 开始处理新二组合(climate_policy)：incendio forestal + Ministerio del Poder Popular para el Ecosocialismo 
+2026-05-24 22:22:49,685 - INFO - ✅ 二组合 ('climate_policy', 'ola de frío', 'gobierno') 处理成功 (22/908)
+2026-05-24 22:23:00,289 - ERROR -   ❌ [线程6237663232|账号41172572627355] 二组合(climate_policy) incendio forestal + gobierno 处理异常: 访问网页失败！！！，25秒后重试 (1/3)
+2026-05-24 22:23:01,404 - INFO - [浏览器8|账号41172572627355] 🔄 旧浏览器实例已关闭
+2026-05-24 22:23:02,030 - INFO - [浏览器8|账号41172572627355] ✅ 浏览器重建成功！UA: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.44... 视口: 2560x1440
+2026-05-24 22:23:02,030 - INFO - [线程8|账号41172572627355] 开始登录，访问登录页面...
+2026-05-24 22:23:03,666 - INFO - [线程6153531392|账号41172442627349] ❌ 二组合(climate_policy) incendio forestal + parlamento 无结果 📍 URL: https://infoweb-newsbank-com.dclibrary.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=pubname%3AVEUC%21El%2BUniversal%2B%2528Venezuela%2529&maxresults=60&f=advanced&val-base-0=incendio%20forestal&fld-base-0=alltext&bln-base-1=and&val-base-1=parlamento&fld-base-1=alltext&fld-nav-0=YMD_date&val-nav-0=-2026.4
+2026-05-24 22:23:03,667 - INFO - [线程6153531392|账号41172442627349] 🔍 开始处理新二组合(climate_policy)：incendio forestal + MINEC 
+2026-05-24 22:23:03,667 - INFO - ✅ 二组合 ('climate_policy', 'incendio forestal', 'parlamento') 处理成功 (23/908)
+2026-05-24 22:23:04,920 - INFO - [线程6321795072|账号41172318627363] ✅ 二组合(climate_policy) incendio forestal + ministro 有 15 条结果 📍 URL: https://infoweb-newsbank-com.dclibrary.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=pubname%3AVEUC%21El%2BUniversal%2B%2528Venezuela%2529&maxresults=60&f=advanced&val-base-0=incendio%20forestal&fld-base-0=alltext&bln-base-1=and&val-base-1=ministro&fld-base-1=alltext&fld-nav-0=YMD_date&val-nav-0=-2026.4
+2026-05-24 22:23:04,920 - INFO - [线程6321795072|账号41172318627363] 🔍 开始处理新二组合(climate_policy)：tormenta de nieve + política 
+2026-05-24 22:23:04,920 - INFO - ✅ 二组合 ('climate_policy', 'incendio forestal', 'ministro') 处理成功 (24/908)
+2026-05-24 22:23:10,432 - INFO - [线程6204010496|账号41172333627353] ❌ 二组合(climate_policy) incendio forestal + Ministerio del Poder Popular para el Ecosocialismo 无结果 📍 URL: https://infoweb-newsbank-com.dclibrary.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=pubname%3AVEUC%21El%2BUniversal%2B%2528Venezuela%2529&maxresults=60&f=advanced&val-base-0=incendio%20forestal&fld-base-0=alltext&bln-base-1=and&val-base-1=Ministerio%20del%20Poder%20Popular%20para%20el%20Ecosocialismo&fld-base-1=alltext&fld-nav-0=YMD_date&val-nav-0=-2026.4
+2026-05-24 22:23:10,432 - INFO - [线程6204010496|账号41172333627353] 🔍 开始处理新二组合(climate_policy)：tormenta de nieve + políticas 
+2026-05-24 22:23:10,432 - INFO - ✅ 二组合 ('climate_policy', 'incendio forestal', 'Ministerio del Poder Popular para el Ecosocialismo') 处理成功 (25/908)
+2026-05-24 22:23:19,442 - ERROR - ❌[线程6220836864|账号41172815627354] 刷新页面后重新搜索失败: Message: 
+
+2026-05-24 22:23:19,442 - WARNING - ⚠️ [线程6220836864|账号41172815627354] 第1次尝试深度重置
+2026-05-24 22:23:23,084 - ERROR - ❌[线程6288142336|账号41172712627360] 刷新页面后重新搜索失败: Message: 
+
+2026-05-24 22:23:23,085 - WARNING - ⚠️ [线程6288142336|账号41172712627360] 第1次尝试深度重置
+2026-05-24 22:23:24,492 - ERROR - ❌[线程6136705024|账号41172933627348] 刷新页面后重新搜索失败: Message: 
+
+2026-05-24 22:23:24,492 - WARNING - ⚠️ [线程6136705024|账号41172933627348] 第1次尝试深度重置
+2026-05-24 22:23:26,659 - INFO - [线程6204010496|账号41172333627353] ✅ 二组合(climate_policy) tormenta de nieve + políticas 有 1 条结果 📍 URL: https://infoweb-newsbank-com.dclibrary.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=pubname%3AVEUC%21El%2BUniversal%2B%2528Venezuela%2529&maxresults=60&f=advanced&val-base-0=tormenta%20de%20nieve&fld-base-0=alltext&bln-base-1=and&val-base-1=pol%C3%ADticas&fld-base-1=alltext&fld-nav-0=YMD_date&val-nav-0=-2026.4
+2026-05-24 22:23:26,660 - INFO - [线程6204010496|账号41172333627353] 🔍 开始处理新二组合(climate_policy)：tormenta de nieve + regulación 
+2026-05-24 22:23:26,660 - INFO - ✅ 二组合 ('climate_policy', 'tormenta de nieve', 'políticas') 处理成功 (26/908)
+2026-05-24 22:23:26,796 - WARNING - ❌[线程6220836864|账号41172815627354] 第1次重置后页面仍有问题
+2026-05-24 22:23:26,797 - WARNING - ⚠️ [线程6220836864|账号41172815627354] 第2次尝试深度重置
+2026-05-24 22:23:30,315 - INFO - [线程6153531392|账号41172442627349] ✅ 二组合(climate_policy) incendio forestal + MINEC 有 1 条结果 📍 URL: https://infoweb-newsbank-com.dclibrary.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=pubname%3AVEUC%21El%2BUniversal%2B%2528Venezuela%2529&maxresults=60&f=advanced&val-base-0=incendio%20forestal&fld-base-0=alltext&bln-base-1=and&val-base-1=MINEC&fld-base-1=alltext&fld-nav-0=YMD_date&val-nav-0=-2026.4
+2026-05-24 22:23:30,316 - INFO - [线程6153531392|账号41172442627349] 🔍 开始处理新二组合(climate_policy)：tormenta de nieve + regulaciones 
+2026-05-24 22:23:30,316 - INFO - ✅ 二组合 ('climate_policy', 'incendio forestal', 'MINEC') 处理成功 (27/908)
+2026-05-24 22:23:30,624 - ERROR - ❌[线程6254489600|账号41172604627356] 刷新页面后重新搜索失败: Message: 
+
+2026-05-24 22:23:30,625 - WARNING - ⚠️ [线程6254489600|账号41172604627356] 第1次尝试深度重置
+2026-05-24 22:23:32,295 - ERROR - ❌[线程6304968704|账号41172184627362] 刷新页面后重新搜索失败: Message: 
+
+2026-05-24 22:23:32,295 - WARNING - ⚠️ [线程6304968704|账号41172184627362] 第1次尝试深度重置
+2026-05-24 22:23:39,408 - WARNING - ❌[线程6220836864|账号41172815627354] 第2次重置后页面仍有问题
+2026-05-24 22:23:39,408 - WARNING - ⚠️ [线程6220836864|账号41172815627354] 第3次尝试深度重置
+2026-05-24 22:23:42,173 - WARNING - ❌[线程6136705024|账号41172933627348] 第1次重置后页面仍有问题
+2026-05-24 22:23:42,173 - WARNING - ⚠️ [线程6136705024|账号41172933627348] 第2次尝试深度重置
+2026-05-24 22:23:42,581 - WARNING - ❌[线程6304968704|账号41172184627362] 第1次重置后页面仍有问题
+2026-05-24 22:23:42,581 - WARNING - ⚠️ [线程6304968704|账号41172184627362] 第2次尝试深度重置
+2026-05-24 22:23:47,551 - INFO - [线程6321795072|账号41172318627363] ✅ 二组合(climate_policy) tormenta de nieve + política 有 1 条结果 📍 URL: https://infoweb-newsbank-com.dclibrary.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=pubname%3AVEUC%21El%2BUniversal%2B%2528Venezuela%2529&maxresults=60&f=advanced&val-base-0=tormenta%20de%20nieve&fld-base-0=alltext&bln-base-1=and&val-base-1=pol%C3%ADtica&fld-base-1=alltext&fld-nav-0=YMD_date&val-nav-0=-2026.4
+2026-05-24 22:23:47,552 - INFO - [线程6321795072|账号41172318627363] 🔍 开始处理新二组合(climate_policy)：tormenta de nieve + legislación 
+2026-05-24 22:23:47,552 - INFO - ✅ 二组合 ('climate_policy', 'tormenta de nieve', 'política') 处理成功 (28/908)
+2026-05-24 22:23:47,667 - ERROR - ❌[线程6338621440|账号41172932627364] 刷新页面后重新搜索失败: Message: 
+
+2026-05-24 22:23:47,667 - WARNING - ⚠️ [线程6338621440|账号41172932627364] 第1次尝试深度重置
+2026-05-24 22:23:48,033 - WARNING - ❌[线程6220836864|账号41172815627354] 第3次重置后页面仍有问题
+2026-05-24 22:23:48,033 - ERROR - ❌ [线程6220836864|账号41172815627354] 深度重置完全失败，无法恢复正常搜索
+2026-05-24 22:23:48,035 - WARNING - ⚠️ [线程6220836864|账号41172815627354]  二组合(climate_policy) ola de frío + Ministerio del Poder Popular para el Ecosocialismo 搜索失败，13秒后重试 (1/3)
+2026-05-24 22:23:48,967 - WARNING - ❌[线程6288142336|账号41172712627360] 第1次重置后页面仍有问题
+2026-05-24 22:23:48,967 - WARNING - ⚠️ [线程6288142336|账号41172712627360] 第2次尝试深度重置
+2026-05-24 22:23:49,185 - INFO - [浏览器7|账号41172815627354] 🔄 旧浏览器实例已关闭
+2026-05-24 22:23:49,950 - INFO - [浏览器7|账号41172815627354] ✅ 浏览器重建成功！UA: Mozilla/5.0 (Macintosh; Intel Mac OS X 14_2_0) AppleWebKit/5... 视口: 1680x1050
+2026-05-24 22:23:49,950 - INFO - [线程7|账号41172815627354] 开始登录，访问登录页面...
+2026-05-24 22:23:50,239 - WARNING - ❌[线程6254489600|账号41172604627356] 第1次重置后页面仍有问题
+2026-05-24 22:23:50,239 - WARNING - ⚠️ [线程6254489600|账号41172604627356] 第2次尝试深度重置
+2026-05-24 22:23:51,302 - WARNING - ❌[线程6304968704|账号41172184627362] 第2次重置后页面仍有问题
+2026-05-24 22:23:51,302 - WARNING - ⚠️ [线程6304968704|账号41172184627362] 第3次尝试深度重置
+2026-05-24 22:23:53,091 - INFO - [线程6153531392|账号41172442627349] ❌ 二组合(climate_policy) tormenta de nieve + regulaciones 无结果 📍 URL: https://infoweb-newsbank-com.dclibrary.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=pubname%3AVEUC%21El%2BUniversal%2B%2528Venezuela%2529&maxresults=60&f=advanced&val-base-0=tormenta%20de%20nieve&fld-base-0=alltext&bln-base-1=and&val-base-1=regulaciones&fld-base-1=alltext&fld-nav-0=YMD_date&val-nav-0=-2026.4
+2026-05-24 22:23:53,091 - INFO - [线程6153531392|账号41172442627349] 🔍 开始处理新二组合(climate_policy)：tormenta de nieve + ley 
+2026-05-24 22:23:53,091 - INFO - ✅ 二组合 ('climate_policy', 'tormenta de nieve', 'regulaciones') 处理成功 (29/908)
+2026-05-24 22:23:56,712 - WARNING - ❌[线程6288142336|账号41172712627360] 第2次重置后页面仍有问题
+2026-05-24 22:23:56,713 - WARNING - ⚠️ [线程6288142336|账号41172712627360] 第3次尝试深度重置
+2026-05-24 22:23:57,606 - WARNING - ❌[线程6254489600|账号41172604627356] 第2次重置后页面仍有问题
+2026-05-24 22:23:57,606 - WARNING - ⚠️ [线程6254489600|账号41172604627356] 第3次尝试深度重置
+2026-05-24 22:24:00,486 - ERROR - ❌[线程6271315968|账号41172744627358] 刷新页面后重新搜索失败: Message: 
+
+2026-05-24 22:24:00,486 - WARNING - ⚠️ [线程6271315968|账号41172744627358] 第1次尝试深度重置
+2026-05-24 22:24:01,249 - INFO - [线程6321795072|账号41172318627363] ❌ 二组合(climate_policy) tormenta de nieve + legislación 无结果 📍 URL: https://infoweb-newsbank-com.dclibrary.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=pubname%3AVEUC%21El%2BUniversal%2B%2528Venezuela%2529&maxresults=60&f=advanced&val-base-0=tormenta%20de%20nieve&fld-base-0=alltext&bln-base-1=and&val-base-1=legislaci%C3%B3n&fld-base-1=alltext&fld-nav-0=YMD_date&val-nav-0=-2026.4
+2026-05-24 22:24:01,250 - INFO - [线程6321795072|账号41172318627363] 🔍 开始处理新二组合(climate_policy)：tormenta de nieve + parlamento 
+2026-05-24 22:24:01,250 - INFO - ✅ 二组合 ('climate_policy', 'tormenta de nieve', 'legislación') 处理成功 (30/908)
+2026-05-24 22:24:03,548 - INFO - [线程6204010496|账号41172333627353] ❌ 二组合(climate_policy) tormenta de nieve + regulación 无结果 📍 URL: https://infoweb-newsbank-com.dclibrary.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=pubname%3AVEUC%21El%2BUniversal%2B%2528Venezuela%2529&maxresults=60&f=advanced&val-base-0=tormenta%20de%20nieve&fld-base-0=alltext&bln-base-1=and&val-base-1=regulaci%C3%B3n&fld-base-1=alltext&fld-nav-0=YMD_date&val-nav-0=-2026.4
+2026-05-24 22:24:03,549 - INFO - [线程6204010496|账号41172333627353] 🔍 开始处理新二组合(climate_policy)：tormenta de nieve + congreso 
+2026-05-24 22:24:03,549 - INFO - ✅ 二组合 ('climate_policy', 'tormenta de nieve', 'regulación') 处理成功 (31/908)
+2026-05-24 22:24:05,234 - WARNING - ❌[线程6304968704|账号41172184627362] 第3次重置后页面仍有问题
+2026-05-24 22:24:05,234 - ERROR - ❌ [线程6304968704|账号41172184627362] 深度重置完全失败，无法恢复正常搜索
+2026-05-24 22:24:05,235 - WARNING - ⚠️ [线程6304968704|账号41172184627362]  二组合(climate_policy) sequía + regulaciones 搜索失败，5秒后重试 (1/3)
+2026-05-24 22:24:06,348 - INFO - [浏览器12|账号41172184627362] 🔄 旧浏览器实例已关闭
+2026-05-24 22:24:06,972 - INFO - [浏览器12|账号41172184627362] ✅ 浏览器重建成功！UA: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.38... 视口: 1920x1080
+2026-05-24 22:24:06,972 - INFO - [线程12|账号41172184627362] 开始登录，访问登录页面...
+2026-05-24 22:24:07,177 - WARNING - ❌[线程6254489600|账号41172604627356] 第3次重置后页面仍有问题
+2026-05-24 22:24:07,177 - ERROR - ❌ [线程6254489600|账号41172604627356] 深度重置完全失败，无法恢复正常搜索
+2026-05-24 22:24:07,178 - WARNING - ⚠️ [线程6254489600|账号41172604627356]  二组合(climate_policy) sequía + política 搜索失败，13秒后重试 (1/3)
+2026-05-24 22:24:07,248 - ERROR - ❌[线程6170357760|账号41172258627350] 刷新页面后重新搜索失败: Message: 
+
+2026-05-24 22:24:07,249 - WARNING - ⚠️ [线程6170357760|账号41172258627350] 第1次尝试深度重置
+2026-05-24 22:24:08,300 - INFO - [浏览器9|账号41172604627356] 🔄 旧浏览器实例已关闭
+2026-05-24 22:24:08,810 - WARNING - ❌[线程6288142336|账号41172712627360] 第3次重置后页面仍有问题
+2026-05-24 22:24:08,810 - ERROR - ❌ [线程6288142336|账号41172712627360] 深度重置完全失败，无法恢复正常搜索
+2026-05-24 22:24:08,810 - WARNING - ⚠️ [线程6288142336|账号41172712627360]  二组合(climate_policy) sequía + regulación 搜索失败，11秒后重试 (1/3)
+2026-05-24 22:24:08,901 - INFO - [浏览器9|账号41172604627356] ✅ 浏览器重建成功！UA: Mozilla/5.0 (Macintosh; Intel Mac OS X 13_6_0) AppleWebKit/5... 视口: 1280x1024
+2026-05-24 22:24:08,901 - INFO - [线程9|账号41172604627356] 开始登录，访问登录页面...
+2026-05-24 22:24:10,034 - INFO - [浏览器11|账号41172712627360] 🔄 旧浏览器实例已关闭
+2026-05-24 22:24:10,647 - INFO - [浏览器11|账号41172712627360] ✅ 浏览器重建成功！UA: Mozilla/5.0 (Macintosh; Intel Mac OS X 14_2_0) AppleWebKit/5... 视口: 1366x768
+2026-05-24 22:24:10,647 - INFO - [线程11|账号41172712627360] 开始登录，访问登录页面...
+2026-05-24 22:24:12,442 - ERROR - ❌ [线程12|账号41172184627362] 登录异常: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2026-05-24 22:24:12,485 - ERROR - ❌ [浏览器12|账号41172184627362]  重建后登录失败
+2026-05-24 22:24:12,485 - WARNING - ⚠️ [线程6304968704|账号41172184627362] 异常后浏览器重建失败
+2026-05-24 22:24:12,485 - ERROR -   ❌ [线程6304968704|账号41172184627362] 二组合(climate_policy) sequía + regulaciones 处理异常: 浏览器重建失败，44秒后重试 (2/3)
+2026-05-24 22:24:12,486 - WARNING - ❌ [线程6170357760|账号41172258627350] 第1次深度重置失败: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2026-05-24 22:24:12,486 - ERROR - ❌ [线程9|账号41172604627356] 登录异常: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2026-05-24 22:24:12,490 - ERROR - ❌ [浏览器9|账号41172604627356]  重建后登录失败
+2026-05-24 22:24:12,490 - WARNING - ⚠️ [线程6254489600|账号41172604627356] 异常后浏览器重建失败
+2026-05-24 22:24:12,490 - ERROR -   ❌ [线程6254489600|账号41172604627356] 二组合(climate_policy) sequía + política 处理异常: 浏览器重建失败，42秒后重试 (2/3)
+2026-05-24 22:24:12,493 - WARNING - ❌ [线程6271315968|账号41172744627358] 第1次深度重置失败: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2026-05-24 22:24:12,501 - WARNING - ❌ [线程6136705024|账号41172933627348] 第2次深度重置失败: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2026-05-24 22:24:12,506 - WARNING - ❌ [线程6338621440|账号41172932627364] 第1次深度重置失败: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2026-05-24 22:24:12,490 - ERROR - ❌ [线程6153531392|账号41172442627349] 页面无响应，加载超时
+2026-05-24 22:24:12,487 - ERROR - ❌ [线程11|账号41172712627360] 登录异常: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2026-05-24 22:24:12,509 - ERROR - ❌ [线程6204010496|账号41172333627353] 页面无响应，加载超时
+2026-05-24 22:24:12,510 - ERROR - ❌ [浏览器11|账号41172712627360]  重建后登录失败
+2026-05-24 22:24:12,510 - WARNING - ⚠️ [线程6288142336|账号41172712627360] 异常后浏览器重建失败
+2026-05-24 22:24:12,510 - ERROR -   ❌ [线程6288142336|账号41172712627360] 二组合(climate_policy) sequía + regulación 处理异常: 浏览器重建失败，26秒后重试 (2/3)
+2026-05-24 22:24:12,512 - ERROR - ❌ [线程1|账号41172560626291] 登录异常: HTTPConnectionPool(host='localhost', port=59324): Max retries exceeded with url: /session/88fd39b632e6204fedec8948feba353a/title (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x11b2ea640>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2026-05-24 22:24:12,512 - ERROR - ❌ [浏览器1|账号41172560626291]  重建后登录失败
+2026-05-24 22:24:12,512 - WARNING - ⚠️  [线程6119878656|账号41172560626291] 异常后浏览器重建失败
+2026-05-24 22:24:12,512 - ERROR - ❌[线程6153531392|账号41172442627349] 刷新页面后重新搜索失败: HTTPConnectionPool(host='localhost', port=52048): Max retries exceeded with url: /session/bc5205cfde7969e156df7317a3a7b070/refresh (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x11b2eaa00>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2026-05-24 22:24:12,513 - WARNING - ⚠️ [线程6119878656|账号41172560626291]  无法将driver放回队列
+2026-05-24 22:24:12,513 - ERROR - ❌ [线程7|账号41172815627354] 登录异常: HTTPConnectionPool(host='localhost', port=60263): Max retries exceeded with url: /session/ae2b7324c6988ecbfe09996fc35d989f/title (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x11b2ea790>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2026-05-24 22:24:12,513 - ERROR - ❌ [浏览器7|账号41172815627354]  重建后登录失败
+2026-05-24 22:24:12,513 - WARNING - ⚠️ [线程6220836864|账号41172815627354] 异常后浏览器重建失败
+2026-05-24 22:24:12,513 - INFO - [线程6119878656|账号未知账号] 🔍 开始处理新二组合(climate_policy)：tormenta de nieve + Asamblea Nacional 
+2026-05-24 22:24:12,513 - ERROR - ❌ [线程15|账号41172846627365] 登录异常: HTTPConnectionPool(host='localhost', port=59214): Max retries exceeded with url: /session/1ebbb77361e035cfa0a24ffdb4f64d87/execute/sync (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x11b2eae20>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2026-05-24 22:24:12,513 - WARNING - ⚠️ [线程6153531392|账号41172442627349] 第1次尝试深度重置
+2026-05-24 22:24:12,513 - ERROR -   ❌ [线程6220836864|账号41172815627354] 二组合(climate_policy) ola de frío + Ministerio del Poder Popular para el Ecosocialismo 处理异常: 浏览器重建失败，26秒后重试 (2/3)
+2026-05-24 22:24:12,513 - ERROR - ❌ [线程8|账号41172572627355] 登录异常: HTTPConnectionPool(host='localhost', port=59687): Max retries exceeded with url: /session/f2904837eb40ffed477b99f9575bdfd4/execute/sync (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x11b2eabb0>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2026-05-24 22:24:12,513 - ERROR - ❌ [浏览器15|账号41172846627365]  重建后登录失败
+2026-05-24 22:24:12,514 - ERROR - ❌ [浏览器8|账号41172572627355]  重建后登录失败
+2026-05-24 22:24:12,514 - WARNING - ⚠️  [线程6355447808|账号41172846627365] 异常后浏览器重建失败
+2026-05-24 22:24:12,514 - WARNING - ⚠️  [线程6237663232|账号41172572627355] 异常后浏览器重建失败
+2026-05-24 22:24:12,514 - WARNING - ⚠️ [线程6355447808|账号41172846627365]  无法将driver放回队列
+2026-05-24 22:24:12,514 - ERROR - ❌[线程6204010496|账号41172333627353] 刷新页面后重新搜索失败: HTTPConnectionPool(host='localhost', port=52049): Max retries exceeded with url: /session/d57d489aa517c4e58e615834caf7b6c1/refresh (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x11b2fe1c0>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2026-05-24 22:24:12,514 - WARNING - ⚠️ [线程6237663232|账号41172572627355]  无法将driver放回队列
+2026-05-24 22:24:12,514 - INFO - [线程6355447808|账号未知账号] 🔍 开始处理新二组合(climate_policy)：tormenta de nieve + presidente 
+2026-05-24 22:24:12,514 - WARNING - ⚠️ [线程6204010496|账号41172333627353] 第1次尝试深度重置
+2026-05-24 22:24:12,514 - INFO - [线程6237663232|账号未知账号] 🔍 开始处理新二组合(climate_policy)：tormenta de nieve + ministro 
+2026-05-24 22:24:12,516 - ERROR - ❌ [线程6119878656|账号未知账号] 页面无响应，加载超时
+2026-05-24 22:24:12,517 - WARNING - ❌ [线程6153531392|账号41172442627349] 第1次深度重置失败: HTTPConnectionPool(host='localhost', port=52048): Max retries exceeded with url: /session/bc5205cfde7969e156df7317a3a7b070/refresh (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x11b715940>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2026-05-24 22:24:12,517 - ERROR - ❌ [线程6355447808|账号未知账号] 页面无响应，加载超时
+2026-05-24 22:24:12,518 - WARNING - ❌ [线程6204010496|账号41172333627353] 第1次深度重置失败: HTTPConnectionPool(host='localhost', port=52049): Max retries exceeded with url: /session/d57d489aa517c4e58e615834caf7b6c1/refresh (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x11b715d60>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2026-05-24 22:24:12,518 - ERROR - ❌ [线程6237663232|账号未知账号] 页面无响应，加载超时
+2026-05-24 22:24:12,520 - ERROR - ❌[线程6119878656|账号未知账号] 刷新页面后重新搜索失败: HTTPConnectionPool(host='localhost', port=52044): Max retries exceeded with url: /session/00bd3d944b95ee117971b2eca2083aee/refresh (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x11b729e20>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2026-05-24 22:24:12,520 - WARNING - ⚠️ [线程6119878656|账号未知账号] 第1次尝试深度重置
+2026-05-24 22:24:12,522 - ERROR - ❌[线程6355447808|账号未知账号] 刷新页面后重新搜索失败: HTTPConnectionPool(host='localhost', port=52058): Max retries exceeded with url: /session/5252e85be8cb9bbd530a45b9c11aee04/refresh (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x11b7424f0>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2026-05-24 22:24:12,522 - WARNING - ⚠️ [线程6355447808|账号未知账号] 第1次尝试深度重置
+2026-05-24 22:24:12,539 - ERROR - ❌[线程6237663232|账号未知账号] 刷新页面后重新搜索失败: HTTPConnectionPool(host='localhost', port=52051): Max retries exceeded with url: /session/243e6911c87af7e30e0c6bacffe0431b/refresh (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x11b7426a0>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2026-05-24 22:24:12,539 - WARNING - ⚠️ [线程6237663232|账号未知账号] 第1次尝试深度重置
+2026-05-24 22:24:12,541 - WARNING - ❌ [线程6355447808|账号未知账号] 第1次深度重置失败: HTTPConnectionPool(host='localhost', port=52058): Max retries exceeded with url: /session/5252e85be8cb9bbd530a45b9c11aee04/refresh (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x11b757250>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2026-05-24 22:24:12,542 - WARNING - ❌ [线程6119878656|账号未知账号] 第1次深度重置失败: HTTPConnectionPool(host='localhost', port=52044): Max retries exceeded with url: /session/00bd3d944b95ee117971b2eca2083aee/refresh (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x11b757580>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2026-05-24 22:24:12,547 - WARNING - ❌ [线程6237663232|账号未知账号] 第1次深度重置失败: HTTPConnectionPool(host='localhost', port=52051): Max retries exceeded with url: /session/243e6911c87af7e30e0c6bacffe0431b/refresh (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x11b757b80>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2026-05-24 22:24:12,679 - ERROR - ❌ [线程6187184128|账号41172631627351] 页面无响应，加载超时
+2026-05-24 22:24:12,696 - ERROR - ❌[线程6187184128|账号41172631627351] 刷新页面后重新搜索失败: HTTPConnectionPool(host='localhost', port=52047): Max retries exceeded with url: /session/5a0f2d2fe1991c9acf699074e70a815f/refresh (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x11b7708e0>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2026-05-24 22:24:12,697 - WARNING - ⚠️ [线程6187184128|账号41172631627351] 第1次尝试深度重置
+2026-05-24 22:24:12,712 - WARNING - ❌ [线程6187184128|账号41172631627351] 第1次深度重置失败: HTTPConnectionPool(host='localhost', port=52047): Max retries exceeded with url: /session/5a0f2d2fe1991c9acf699074e70a815f/refresh (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x11b788070>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2026-05-24 22:26:51,333 - INFO - 🚀 开始处理任务: 政策风险委内瑞拉El Universal (Venezuela).xlsx
+2026-05-24 22:26:51,333 - INFO - 开始初始化所有driver到2025年页面: https://infoweb-newsbank-com.dclibrary.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=pubname%3AVEUC%21El%2BUniversal%2B%2528Venezuela%2529&maxresults=60&f=advanced&fld-nav-0=YMD_date&val-nav-0=-2026.4
+2026-05-24 22:27:22,432 - INFO - 账号 41172631627351 的driver成功访问2025年页面
+2026-05-24 22:27:22,432 - INFO - ✅ 账号 41172631627351 的driver初始化成功
+2026-05-24 22:27:28,030 - INFO - 账号 41172560626291 的driver成功访问2025年页面
+2026-05-24 22:27:28,031 - INFO - ✅ 账号 41172560626291 的driver初始化成功
+2026-05-24 22:27:28,176 - INFO - 账号 41172933627348 的driver成功访问2025年页面
+2026-05-24 22:27:28,177 - INFO - ✅ 账号 41172933627348 的driver初始化成功
+2026-05-24 22:27:29,675 - INFO - 账号 41172258627350 的driver成功访问2025年页面
+2026-05-24 22:27:29,675 - INFO - ✅ 账号 41172258627350 的driver初始化成功
+2026-05-24 22:27:31,454 - INFO - 账号 41172442627349 的driver成功访问2025年页面
+2026-05-24 22:27:31,455 - INFO - ✅ 账号 41172442627349 的driver初始化成功
+2026-05-24 22:27:31,455 - INFO - 所有driver初始化完成
+2026-05-24 22:27:31,455 - INFO - ================================================================================
+2026-05-24 22:27:31,456 - INFO - 📋 正常模式：先处理二组合，再基于有效二组合生成三组合
+2026-05-24 22:27:31,456 - INFO - ================================================================================
+2026-05-24 22:27:31,456 - INFO - 开始处理 1035 个二组合:
+2026-05-24 22:27:31,456 - INFO -   - climate+policy: 405 个
+2026-05-24 22:27:31,456 - INFO -   - climate+uncertainty: 405 个
+2026-05-24 22:27:31,456 - INFO -   - policy+uncertainty: 225 个
+2026-05-24 22:27:31,457 - INFO - 需要处理 877 个新的二组合
+2026-05-24 22:27:31,457 - INFO - 总计需要处理 877 个二组合
+2026-05-24 22:27:31,458 - INFO - 使用 5 个线程处理二组合
+2026-05-24 22:27:31,459 - INFO - [线程6184022016|账号41172560626291] 🔍 开始处理新二组合(climate_policy)：ola de frío + congreso 
+2026-05-24 22:27:31,459 - INFO - [线程6200848384|账号41172933627348] 🔍 开始处理新二组合(climate_policy)：ola de frío + Asamblea Nacional 
+2026-05-24 22:27:31,459 - INFO - 程序开始时间: 2026-05-24 22:27:31
+2026-05-24 22:27:31,459 - INFO - [线程6217674752|账号41172442627349] 🔍 开始处理新二组合(climate_policy)：ola de frío + ministro 
+2026-05-24 22:27:31,460 - INFO - [线程6234501120|账号41172258627350] 🔍 开始处理新二组合(climate_policy)：ola de frío + Ministerio del Poder Popular para el Ecosocialismo 
+2026-05-24 22:27:31,461 - INFO - [线程6251327488|账号41172631627351] 🔍 开始处理新二组合(climate_policy)：sequía + política 
+2026-05-24 22:27:45,141 - INFO - [线程6200848384|账号41172933627348] ❌ 二组合(climate_policy) ola de frío + Asamblea Nacional 无结果 📍 URL: https://infoweb-newsbank-com.dclibrary.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=pubname%3AVEUC%21El%2BUniversal%2B%2528Venezuela%2529&maxresults=60&f=advanced&val-base-0=ola%20de%20fr%C3%ADo&fld-base-0=alltext&bln-base-1=and&val-base-1=Asamblea%20Nacional&fld-base-1=alltext&fld-nav-0=YMD_date&val-nav-0=-2026.4
+2026-05-24 22:27:45,141 - INFO - [线程6200848384|账号41172933627348] 🔍 开始处理新二组合(climate_policy)：sequía + políticas 
+2026-05-24 22:27:45,141 - INFO - ✅ 二组合 ('climate_policy', 'ola de frío', 'Asamblea Nacional') 处理成功 (1/877)
+2026-05-24 22:27:45,144 - INFO - [线程6184022016|账号41172560626291] ❌ 二组合(climate_policy) ola de frío + congreso 无结果 📍 URL: https://infoweb-newsbank-com.dclibrary.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=pubname%3AVEUC%21El%2BUniversal%2B%2528Venezuela%2529&maxresults=60&f=advanced&val-base-0=ola%20de%20fr%C3%ADo&fld-base-0=alltext&bln-base-1=and&val-base-1=congreso&fld-base-1=alltext&fld-nav-0=YMD_date&val-nav-0=-2026.4
+2026-05-24 22:27:45,144 - INFO - [线程6184022016|账号41172560626291] 🔍 开始处理新二组合(climate_policy)：sequía + regulación 
+2026-05-24 22:27:45,144 - INFO - ✅ 二组合 ('climate_policy', 'ola de frío', 'congreso') 处理成功 (2/877)
+2026-05-24 22:27:45,151 - INFO - [线程6217674752|账号41172442627349] ✅ 二组合(climate_policy) ola de frío + ministro 有 2 条结果 📍 URL: https://infoweb-newsbank-com.dclibrary.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=pubname%3AVEUC%21El%2BUniversal%2B%2528Venezuela%2529&maxresults=60&f=advanced&val-base-0=ola%20de%20fr%C3%ADo&fld-base-0=alltext&bln-base-1=and&val-base-1=ministro&fld-base-1=alltext&fld-nav-0=YMD_date&val-nav-0=-2026.4
+2026-05-24 22:27:45,151 - INFO - [线程6217674752|账号41172442627349] 🔍 开始处理新二组合(climate_policy)：sequía + regulaciones 
+2026-05-24 22:27:45,151 - INFO - ✅ 二组合 ('climate_policy', 'ola de frío', 'ministro') 处理成功 (3/877)
