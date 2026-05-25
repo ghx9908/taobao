@@ -827,3 +827,93 @@ climate_uncertainty|||energía eólica|||suspender|||0
 climate_uncertainty|||bioenergía|||incierto|||0
 climate_uncertainty|||energía eólica|||abolir|||0
 climate_uncertainty|||bioenergía|||vago|||0
+climate_uncertainty|||bioenergía|||incierto|||0
+climate_uncertainty|||bioenergía|||desconocido|||0
+climate_uncertainty|||bioenergía|||diferir|||0
+climate_uncertainty|||bioenergía|||retirar|||0
+climate_uncertainty|||energía geotérmica|||incertidumbre|||0
+climate_uncertainty|||energía geotérmica|||impredecible|||0
+climate_uncertainty|||energía geotérmica|||diferir|||0
+climate_uncertainty|||energía geotérmica|||suspender|||0
+climate_uncertainty|||energía oceánica|||ambiguo|||0
+climate_uncertainty|||energía oceánica|||impredecible|||0
+climate_uncertainty|||energía geotérmica|||cancelar|||0
+climate_uncertainty|||energía oceánica|||cancelar|||0
+climate_uncertainty|||energía oceánica|||rescindir|||0
+climate_uncertainty|||energía oceánica|||posponer|||0
+climate_uncertainty|||IPCC|||ambiguo|||0
+climate_uncertainty|||IPCC|||retrasar|||0
+climate_uncertainty|||IPCC|||abolir|||0
+climate_uncertainty|||IPCC|||suspender|||0
+climate_uncertainty|||COP|||incierto|||0
+climate_uncertainty|||COP|||diferir|||0
+climate_uncertainty|||COP|||abolir|||0
+climate_uncertainty|||COP|||incierto|||0
+climate_uncertainty|||COP|||ambiguo|||0
+climate_uncertainty|||COP|||rescindir|||0
+climate_uncertainty|||Acuerdo de París|||desconocido|||0
+climate_uncertainty|||Acuerdo de París|||vago|||0
+climate_uncertainty|||Acuerdo de París|||retrasar|||0
+climate_uncertainty|||Acuerdo de París|||retirar|||0
+policy_uncertainty|||política|||incertidumbre|||18
+climate_uncertainty|||Acuerdo de París|||cancelar|||0
+policy_uncertainty|||política|||posponer|||1
+policy_uncertainty|||política|||desconocido|||0
+policy_uncertainty|||política|||abolir|||1
+policy_uncertainty|||políticas|||desconocido|||1
+policy_uncertainty|||políticas|||impredecible|||0
+policy_uncertainty|||políticas|||diferir|||0
+policy_uncertainty|||políticas|||cancelar|||2
+policy_uncertainty|||regulación|||abolir|||0
+policy_uncertainty|||regulación|||impredecible|||1
+policy_uncertainty|||regulación|||retrasar|||0
+policy_uncertainty|||regulación|||retirar|||2
+policy_uncertainty|||regulaciones|||retirar|||1
+policy_uncertainty|||regulaciones|||desconocido|||0
+policy_uncertainty|||legislación|||incertidumbre|||0
+policy_uncertainty|||regulaciones|||abolir|||0
+policy_uncertainty|||regulaciones|||posponer|||0
+policy_uncertainty|||legislación|||ambiguo|||0
+policy_uncertainty|||legislación|||retrasar|||0
+policy_uncertainty|||legislación|||suspender|||0
+policy_uncertainty|||ley|||desconocido|||1
+policy_uncertainty|||ley|||impredecible|||0
+policy_uncertainty|||ley|||cancelar|||4
+policy_uncertainty|||ley|||posponer|||0
+policy_uncertainty|||Asamblea Nacional|||vago|||0
+policy_uncertainty|||Asamblea Nacional|||desconocido|||0
+policy_uncertainty|||Asamblea Nacional|||retrasar|||0
+policy_uncertainty|||Asamblea Nacional|||rescindir|||0
+policy_uncertainty|||Presidente|||incierto|||9
+policy_uncertainty|||Presidente|||incierto|||9
+policy_uncertainty|||Presidente|||impredecible|||1
+policy_uncertainty|||Presidente|||diferir|||1
+policy_uncertainty|||Administración Presidencial|||desconocido|||0
+climate_uncertainty|||tormenta de nieve|||retirar|||0
+policy_uncertainty|||Presidente|||cancelar|||5
+climate_uncertainty|||lluvia intensa|||cancelar|||0
+policy_uncertainty|||Presidente|||retirar|||4
+climate_uncertainty|||tormenta de nieve|||cancelar|||0
+policy_uncertainty|||Administración Presidencial|||cancelar|||0
+policy_uncertainty|||Ministro|||desconocido|||0
+policy_uncertainty|||Ministro|||retrasar|||1
+policy_uncertainty|||Ministro|||abolir|||1
+policy_uncertainty|||Administración Presidencial|||abolir|||0
+policy_uncertainty|||Ministro|||retirar|||1
+policy_uncertainty|||Ministerio del Ambiente, Agua y Transición Ecológica|||incierto|||0
+policy_uncertainty|||Ministerio del Ambiente, Agua y Transición Ecológica|||abolir|||0
+policy_uncertainty|||Ministerio del Ambiente, Agua y Transición Ecológica|||rescindir|||0
+policy_uncertainty|||gobierno|||retrasar|||2
+policy_uncertainty|||Administración Presidencial|||impredecible|||0
+policy_uncertainty|||Ministerio del Ambiente, Agua y Transición Ecológica|||incierto|||0
+policy_uncertainty|||Ministerio del Ambiente, Agua y Transición Ecológica|||desconocido|||0
+policy_uncertainty|||MAATE|||posponer|||0
+policy_uncertainty|||MAATE|||rescindir|||0
+policy_uncertainty|||MAATE|||suspender|||0
+policy_uncertainty|||ley|||incertidumbre|||11
+climate_uncertainty|||huracán|||ambiguo|||0
+climate_uncertainty|||inundación|||ambiguo|||0
+climate_uncertainty|||huracán|||diferir|||0
+climate_uncertainty|||huracán|||cancelar|||0
+climate_uncertainty|||huracán|||incertidumbre|||0
+policy_uncertainty|||regulación|||desconocido|||1

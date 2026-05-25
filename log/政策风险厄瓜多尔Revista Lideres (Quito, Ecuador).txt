@@ -13833,3 +13833,680 @@ Stacktrace:
 2026-05-25 09:08:33,841 - INFO - [线程6350237696|账号41172318627363] ❌ 二组合(climate_uncertainty) bioenergía + vago 无结果 📍 URL: https://infoweb-newsbank-com.dclibrary.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=pubname%3AREVLI%21Revista%2BLideres%2B%2528Quito%252C%2BEcuador%2529&maxresults=60&f=advanced&val-base-0=bioenerg%C3%ADa&fld-base-0=alltext&bln-base-1=and&val-base-1=vago&fld-base-1=alltext&fld-nav-0=YMD_date&val-nav-0=-2026.4
 2026-05-25 09:08:33,842 - INFO - [线程6350237696|账号41172318627363] 🔍 开始处理新二组合(climate_uncertainty)：energía geotérmica + impredecible 
 2026-05-25 09:08:33,842 - INFO - ✅ 二组合 ('climate_uncertainty', 'bioenergía', 'vago') 处理成功 (43/141)
+2026-05-25 09:08:39,875 - INFO - [线程6148321280|账号41172560626291] ❌ 二组合(climate_uncertainty) bioenergía + incierto 无结果 📍 URL: https://infoweb-newsbank-com.dclibrary.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=pubname%3AREVLI%21Revista%2BLideres%2B%2528Quito%252C%2BEcuador%2529&maxresults=60&f=advanced&val-base-0=bioenerg%C3%ADa&fld-base-0=alltext&bln-base-1=and&val-base-1=incierto&fld-base-1=alltext&fld-nav-0=YMD_date&val-nav-0=-2026.4
+2026-05-25 09:08:39,875 - INFO - [线程6148321280|账号41172560626291] 🔍 开始处理新二组合(climate_uncertainty)：energía geotérmica + diferir 
+2026-05-25 09:08:39,875 - INFO - ✅ 二组合 ('climate_uncertainty', 'bioenergía', 'incierto') 处理成功 (44/141)
+2026-05-25 09:08:40,680 - INFO - [线程6232453120|账号41172333627353] ❌ 二组合(climate_uncertainty) bioenergía + desconocido 无结果 📍 URL: https://infoweb-newsbank-com.dclibrary.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=pubname%3AREVLI%21Revista%2BLideres%2B%2528Quito%252C%2BEcuador%2529&maxresults=60&f=advanced&val-base-0=bioenerg%C3%ADa&fld-base-0=alltext&bln-base-1=and&val-base-1=desconocido&fld-base-1=alltext&fld-nav-0=YMD_date&val-nav-0=-2026.4
+2026-05-25 09:08:40,680 - INFO - [线程6232453120|账号41172333627353] 🔍 开始处理新二组合(climate_uncertainty)：energía geotérmica + cancelar 
+2026-05-25 09:08:40,680 - INFO - ✅ 二组合 ('climate_uncertainty', 'bioenergía', 'desconocido') 处理成功 (45/141)
+2026-05-25 09:08:40,767 - INFO - [线程6383890432|账号41172846627365] ❌ 二组合(climate_uncertainty) bioenergía + diferir 无结果 📍 URL: https://infoweb-newsbank-com.dclibrary.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=pubname%3AREVLI%21Revista%2BLideres%2B%2528Quito%252C%2BEcuador%2529&maxresults=60&f=advanced&val-base-0=bioenerg%C3%ADa&fld-base-0=alltext&bln-base-1=and&val-base-1=diferir&fld-base-1=alltext&fld-nav-0=YMD_date&val-nav-0=-2026.4
+2026-05-25 09:08:40,768 - INFO - [线程6383890432|账号41172846627365] 🔍 开始处理新二组合(climate_uncertainty)：energía geotérmica + suspender 
+2026-05-25 09:08:40,768 - INFO - ✅ 二组合 ('climate_uncertainty', 'bioenergía', 'diferir') 处理成功 (46/141)
+2026-05-25 09:08:44,105 - INFO - [线程6215626752|账号41172631627351] ❌ 二组合(climate_uncertainty) bioenergía + retirar 无结果 📍 URL: https://infoweb-newsbank-com.dclibrary.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=pubname%3AREVLI%21Revista%2BLideres%2B%2528Quito%252C%2BEcuador%2529&maxresults=60&f=advanced&val-base-0=bioenerg%C3%ADa&fld-base-0=alltext&bln-base-1=and&val-base-1=retirar&fld-base-1=alltext&fld-nav-0=YMD_date&val-nav-0=-2026.4
+2026-05-25 09:08:44,105 - INFO - [线程6215626752|账号41172631627351] 🔍 开始处理新二组合(climate_uncertainty)：energía oceánica + ambiguo 
+2026-05-25 09:08:44,105 - INFO - ✅ 二组合 ('climate_uncertainty', 'bioenergía', 'retirar') 处理成功 (47/141)
+2026-05-25 09:08:44,645 - INFO - [线程6333411328|账号41172184627362] ❌ 二组合(climate_uncertainty) energía geotérmica + incertidumbre 无结果 📍 URL: https://infoweb-newsbank-com.dclibrary.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=pubname%3AREVLI%21Revista%2BLideres%2B%2528Quito%252C%2BEcuador%2529&maxresults=60&f=advanced&val-base-0=energ%C3%ADa%20geot%C3%A9rmica&fld-base-0=alltext&bln-base-1=and&val-base-1=incertidumbre&fld-base-1=alltext&fld-nav-0=YMD_date&val-nav-0=-2026.4
+2026-05-25 09:08:44,649 - INFO - [线程6333411328|账号41172184627362] 🔍 开始处理新二组合(climate_uncertainty)：energía oceánica + impredecible 
+2026-05-25 09:08:44,649 - INFO - ✅ 二组合 ('climate_uncertainty', 'energía geotérmica', 'incertidumbre') 处理成功 (48/141)
+2026-05-25 09:08:47,158 - INFO - [线程6350237696|账号41172318627363] ❌ 二组合(climate_uncertainty) energía geotérmica + impredecible 无结果 📍 URL: https://infoweb-newsbank-com.dclibrary.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=pubname%3AREVLI%21Revista%2BLideres%2B%2528Quito%252C%2BEcuador%2529&maxresults=60&f=advanced&val-base-0=energ%C3%ADa%20geot%C3%A9rmica&fld-base-0=alltext&bln-base-1=and&val-base-1=impredecible&fld-base-1=alltext&fld-nav-0=YMD_date&val-nav-0=-2026.4
+2026-05-25 09:08:47,158 - INFO - [线程6350237696|账号41172318627363] 🔍 开始处理新二组合(climate_uncertainty)：energía oceánica + posponer 
+2026-05-25 09:08:47,158 - INFO - ✅ 二组合 ('climate_uncertainty', 'energía geotérmica', 'impredecible') 处理成功 (49/141)
+2026-05-25 09:08:53,122 - INFO - [线程6148321280|账号41172560626291] ❌ 二组合(climate_uncertainty) energía geotérmica + diferir 无结果 📍 URL: https://infoweb-newsbank-com.dclibrary.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=pubname%3AREVLI%21Revista%2BLideres%2B%2528Quito%252C%2BEcuador%2529&maxresults=60&f=advanced&val-base-0=energ%C3%ADa%20geot%C3%A9rmica&fld-base-0=alltext&bln-base-1=and&val-base-1=diferir&fld-base-1=alltext&fld-nav-0=YMD_date&val-nav-0=-2026.4
+2026-05-25 09:08:53,123 - INFO - [线程6148321280|账号41172560626291] 🔍 开始处理新二组合(climate_uncertainty)：energía oceánica + cancelar 
+2026-05-25 09:08:53,123 - INFO - ✅ 二组合 ('climate_uncertainty', 'energía geotérmica', 'diferir') 处理成功 (50/141)
+2026-05-25 09:08:54,103 - INFO - [线程6383890432|账号41172846627365] ❌ 二组合(climate_uncertainty) energía geotérmica + suspender 无结果 📍 URL: https://infoweb-newsbank-com.dclibrary.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=pubname%3AREVLI%21Revista%2BLideres%2B%2528Quito%252C%2BEcuador%2529&maxresults=60&f=advanced&val-base-0=energ%C3%ADa%20geot%C3%A9rmica&fld-base-0=alltext&bln-base-1=and&val-base-1=suspender&fld-base-1=alltext&fld-nav-0=YMD_date&val-nav-0=-2026.4
+2026-05-25 09:08:54,103 - INFO - [线程6383890432|账号41172846627365] 🔍 开始处理新二组合(climate_uncertainty)：energía oceánica + rescindir 
+2026-05-25 09:08:54,103 - INFO - ✅ 二组合 ('climate_uncertainty', 'energía geotérmica', 'suspender') 处理成功 (51/141)
+2026-05-25 09:08:57,788 - INFO - [线程6215626752|账号41172631627351] ❌ 二组合(climate_uncertainty) energía oceánica + ambiguo 无结果 📍 URL: https://infoweb-newsbank-com.dclibrary.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=pubname%3AREVLI%21Revista%2BLideres%2B%2528Quito%252C%2BEcuador%2529&maxresults=60&f=advanced&val-base-0=energ%C3%ADa%20oce%C3%A1nica&fld-base-0=alltext&bln-base-1=and&val-base-1=ambiguo&fld-base-1=alltext&fld-nav-0=YMD_date&val-nav-0=-2026.4
+2026-05-25 09:08:57,788 - INFO - [线程6215626752|账号41172631627351] 🔍 开始处理新二组合(climate_uncertainty)：IPCC + ambiguo 
+2026-05-25 09:08:57,788 - INFO - ✅ 二组合 ('climate_uncertainty', 'energía oceánica', 'ambiguo') 处理成功 (52/141)
+2026-05-25 09:08:58,025 - INFO - [线程6333411328|账号41172184627362] ❌ 二组合(climate_uncertainty) energía oceánica + impredecible 无结果 📍 URL: https://infoweb-newsbank-com.dclibrary.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=pubname%3AREVLI%21Revista%2BLideres%2B%2528Quito%252C%2BEcuador%2529&maxresults=60&f=advanced&val-base-0=energ%C3%ADa%20oce%C3%A1nica&fld-base-0=alltext&bln-base-1=and&val-base-1=impredecible&fld-base-1=alltext&fld-nav-0=YMD_date&val-nav-0=-2026.4
+2026-05-25 09:08:58,026 - INFO - [线程6333411328|账号41172184627362] 🔍 开始处理新二组合(climate_uncertainty)：IPCC + retrasar 
+2026-05-25 09:08:58,026 - INFO - ✅ 二组合 ('climate_uncertainty', 'energía oceánica', 'impredecible') 处理成功 (53/141)
+2026-05-25 09:09:02,258 - INFO - [线程6232453120|账号41172333627353] ❌ 二组合(climate_uncertainty) energía geotérmica + cancelar 无结果 📍 URL: https://infoweb-newsbank-com.dclibrary.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=pubname%3AREVLI%21Revista%2BLideres%2B%2528Quito%252C%2BEcuador%2529&maxresults=60&f=advanced&val-base-0=energ%C3%ADa%20geot%C3%A9rmica&fld-base-0=alltext&bln-base-1=and&val-base-1=cancelar&fld-base-1=alltext&fld-nav-0=YMD_date&val-nav-0=-2026.4
+2026-05-25 09:09:02,258 - INFO - [线程6232453120|账号41172333627353] 🔍 开始处理新二组合(climate_uncertainty)：IPCC + abolir 
+2026-05-25 09:09:02,258 - INFO - ✅ 二组合 ('climate_uncertainty', 'energía geotérmica', 'cancelar') 处理成功 (54/141)
+2026-05-25 09:09:06,456 - INFO - [线程6148321280|账号41172560626291] ❌ 二组合(climate_uncertainty) energía oceánica + cancelar 无结果 📍 URL: https://infoweb-newsbank-com.dclibrary.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=pubname%3AREVLI%21Revista%2BLideres%2B%2528Quito%252C%2BEcuador%2529&maxresults=60&f=advanced&val-base-0=energ%C3%ADa%20oce%C3%A1nica&fld-base-0=alltext&bln-base-1=and&val-base-1=cancelar&fld-base-1=alltext&fld-nav-0=YMD_date&val-nav-0=-2026.4
+2026-05-25 09:09:06,456 - INFO - [线程6148321280|账号41172560626291] 🔍 开始处理新二组合(climate_uncertainty)：IPCC + suspender 
+2026-05-25 09:09:06,456 - INFO - ✅ 二组合 ('climate_uncertainty', 'energía oceánica', 'cancelar') 处理成功 (55/141)
+2026-05-25 09:09:07,413 - INFO - [线程6383890432|账号41172846627365] ❌ 二组合(climate_uncertainty) energía oceánica + rescindir 无结果 📍 URL: https://infoweb-newsbank-com.dclibrary.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=pubname%3AREVLI%21Revista%2BLideres%2B%2528Quito%252C%2BEcuador%2529&maxresults=60&f=advanced&val-base-0=energ%C3%ADa%20oce%C3%A1nica&fld-base-0=alltext&bln-base-1=and&val-base-1=rescindir&fld-base-1=alltext&fld-nav-0=YMD_date&val-nav-0=-2026.4
+2026-05-25 09:09:07,414 - INFO - [线程6383890432|账号41172846627365] 🔍 开始处理新二组合(climate_uncertainty)：COP + incierto 
+2026-05-25 09:09:07,414 - INFO - ✅ 二组合 ('climate_uncertainty', 'energía oceánica', 'rescindir') 处理成功 (56/141)
+2026-05-25 09:09:08,272 - INFO - [线程6350237696|账号41172318627363] ❌ 二组合(climate_uncertainty) energía oceánica + posponer 无结果 📍 URL: https://infoweb-newsbank-com.dclibrary.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=pubname%3AREVLI%21Revista%2BLideres%2B%2528Quito%252C%2BEcuador%2529&maxresults=60&f=advanced&val-base-0=energ%C3%ADa%20oce%C3%A1nica&fld-base-0=alltext&bln-base-1=and&val-base-1=posponer&fld-base-1=alltext&fld-nav-0=YMD_date&val-nav-0=-2026.4
+2026-05-25 09:09:08,272 - INFO - [线程6350237696|账号41172318627363] 🔍 开始处理新二组合(climate_uncertainty)：COP + incierto 
+2026-05-25 09:09:08,272 - INFO - ✅ 二组合 ('climate_uncertainty', 'energía oceánica', 'posponer') 处理成功 (57/141)
+2026-05-25 09:09:11,075 - INFO - [线程6215626752|账号41172631627351] ❌ 二组合(climate_uncertainty) IPCC + ambiguo 无结果 📍 URL: https://infoweb-newsbank-com.dclibrary.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=pubname%3AREVLI%21Revista%2BLideres%2B%2528Quito%252C%2BEcuador%2529&maxresults=60&f=advanced&val-base-0=IPCC&fld-base-0=alltext&bln-base-1=and&val-base-1=ambiguo&fld-base-1=alltext&fld-nav-0=YMD_date&val-nav-0=-2026.4
+2026-05-25 09:09:11,076 - INFO - [线程6215626752|账号41172631627351] 🔍 开始处理新二组合(climate_uncertainty)：COP + ambiguo 
+2026-05-25 09:09:11,076 - INFO - ✅ 二组合 ('climate_uncertainty', 'IPCC', 'ambiguo') 处理成功 (58/141)
+2026-05-25 09:09:11,330 - INFO - [线程6333411328|账号41172184627362] ❌ 二组合(climate_uncertainty) IPCC + retrasar 无结果 📍 URL: https://infoweb-newsbank-com.dclibrary.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=pubname%3AREVLI%21Revista%2BLideres%2B%2528Quito%252C%2BEcuador%2529&maxresults=60&f=advanced&val-base-0=IPCC&fld-base-0=alltext&bln-base-1=and&val-base-1=retrasar&fld-base-1=alltext&fld-nav-0=YMD_date&val-nav-0=-2026.4
+2026-05-25 09:09:11,331 - INFO - [线程6333411328|账号41172184627362] 🔍 开始处理新二组合(climate_uncertainty)：COP + diferir 
+2026-05-25 09:09:11,331 - INFO - ✅ 二组合 ('climate_uncertainty', 'IPCC', 'retrasar') 处理成功 (59/141)
+2026-05-25 09:09:14,377 - ERROR - ❌[线程6266105856|账号41172572627355] 刷新页面后重新搜索失败: Message: 
+
+2026-05-25 09:09:14,378 - WARNING - ⚠️ [线程6266105856|账号41172572627355] 第1次尝试深度重置
+2026-05-25 09:09:15,414 - ERROR - ❌[线程6165147648|账号41172933627348] 刷新页面后重新搜索失败: Message: 
+
+2026-05-25 09:09:15,414 - WARNING - ⚠️ [线程6165147648|账号41172933627348] 第1次尝试深度重置
+2026-05-25 09:09:15,605 - INFO - [线程6232453120|账号41172333627353] ❌ 二组合(climate_uncertainty) IPCC + abolir 无结果 📍 URL: https://infoweb-newsbank-com.dclibrary.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=pubname%3AREVLI%21Revista%2BLideres%2B%2528Quito%252C%2BEcuador%2529&maxresults=60&f=advanced&val-base-0=IPCC&fld-base-0=alltext&bln-base-1=and&val-base-1=abolir&fld-base-1=alltext&fld-nav-0=YMD_date&val-nav-0=-2026.4
+2026-05-25 09:09:15,606 - INFO - [线程6232453120|账号41172333627353] 🔍 开始处理新二组合(climate_uncertainty)：COP + abolir 
+2026-05-25 09:09:15,606 - INFO - ✅ 二组合 ('climate_uncertainty', 'IPCC', 'abolir') 处理成功 (60/141)
+2026-05-25 09:09:17,009 - ERROR - ❌[线程6181974016|账号41172442627349] 刷新页面后重新搜索失败: Message: 
+
+2026-05-25 09:09:17,010 - ERROR - ❌[线程6198800384|账号41172258627350] 刷新页面后重新搜索失败: Message: 
+
+2026-05-25 09:09:17,010 - WARNING - ⚠️ [线程6181974016|账号41172442627349] 第1次尝试深度重置
+2026-05-25 09:09:17,010 - WARNING - ⚠️ [线程6198800384|账号41172258627350] 第1次尝试深度重置
+2026-05-25 09:09:18,459 - ERROR - ❌[线程6282932224|账号41172604627356] 刷新页面后重新搜索失败: Message: 
+
+2026-05-25 09:09:18,459 - WARNING - ⚠️ [线程6282932224|账号41172604627356] 第1次尝试深度重置
+2026-05-25 09:09:18,517 - ERROR - ❌[线程6367064064|账号41172932627364] 刷新页面后重新搜索失败: Message: 
+
+2026-05-25 09:09:18,517 - WARNING - ⚠️ [线程6367064064|账号41172932627364] 第1次尝试深度重置
+2026-05-25 09:09:19,841 - INFO - [线程6148321280|账号41172560626291] ❌ 二组合(climate_uncertainty) IPCC + suspender 无结果 📍 URL: https://infoweb-newsbank-com.dclibrary.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=pubname%3AREVLI%21Revista%2BLideres%2B%2528Quito%252C%2BEcuador%2529&maxresults=60&f=advanced&val-base-0=IPCC&fld-base-0=alltext&bln-base-1=and&val-base-1=suspender&fld-base-1=alltext&fld-nav-0=YMD_date&val-nav-0=-2026.4
+2026-05-25 09:09:19,841 - INFO - [线程6148321280|账号41172560626291] 🔍 开始处理新二组合(climate_uncertainty)：COP + rescindir 
+2026-05-25 09:09:19,841 - INFO - ✅ 二组合 ('climate_uncertainty', 'IPCC', 'suspender') 处理成功 (61/141)
+2026-05-25 09:09:20,810 - INFO - [线程6383890432|账号41172846627365] ❌ 二组合(climate_uncertainty) COP + incierto 无结果 📍 URL: https://infoweb-newsbank-com.dclibrary.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=pubname%3AREVLI%21Revista%2BLideres%2B%2528Quito%252C%2BEcuador%2529&maxresults=60&f=advanced&val-base-0=COP&fld-base-0=alltext&bln-base-1=and&val-base-1=incierto&fld-base-1=alltext&fld-nav-0=YMD_date&val-nav-0=-2026.4
+2026-05-25 09:09:20,810 - INFO - [线程6383890432|账号41172846627365] 🔍 开始处理新二组合(climate_uncertainty)：Acuerdo de París + desconocido 
+2026-05-25 09:09:20,810 - INFO - ✅ 二组合 ('climate_uncertainty', 'COP', 'incierto') 处理成功 (62/141)
+2026-05-25 09:09:20,848 - ERROR - ❌[线程6299758592|账号41172744627358] 刷新页面后重新搜索失败: Message: 
+
+2026-05-25 09:09:20,849 - WARNING - ⚠️ [线程6299758592|账号41172744627358] 第1次尝试深度重置
+2026-05-25 09:09:22,393 - ERROR - ❌[线程6249279488|账号41172815627354] 刷新页面后重新搜索失败: Message: 
+
+2026-05-25 09:09:22,394 - WARNING - ⚠️ [线程6249279488|账号41172815627354] 第1次尝试深度重置
+2026-05-25 09:09:22,747 - WARNING - ❌[线程6266105856|账号41172572627355] 第1次重置后页面仍有问题
+2026-05-25 09:09:22,747 - WARNING - ⚠️ [线程6266105856|账号41172572627355] 第2次尝试深度重置
+2026-05-25 09:09:23,291 - ERROR - ❌[线程6316584960|账号41172712627360] 刷新页面后重新搜索失败: Message: 
+
+2026-05-25 09:09:23,291 - WARNING - ⚠️ [线程6316584960|账号41172712627360] 第1次尝试深度重置
+2026-05-25 09:09:24,241 - WARNING - ❌[线程6165147648|账号41172933627348] 第1次重置后页面仍有问题
+2026-05-25 09:09:24,242 - WARNING - ⚠️ [线程6165147648|账号41172933627348] 第2次尝试深度重置
+2026-05-25 09:09:25,454 - INFO - [线程6333411328|账号41172184627362] ❌ 二组合(climate_uncertainty) COP + diferir 无结果 📍 URL: https://infoweb-newsbank-com.dclibrary.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=pubname%3AREVLI%21Revista%2BLideres%2B%2528Quito%252C%2BEcuador%2529&maxresults=60&f=advanced&val-base-0=COP&fld-base-0=alltext&bln-base-1=and&val-base-1=diferir&fld-base-1=alltext&fld-nav-0=YMD_date&val-nav-0=-2026.4
+2026-05-25 09:09:25,456 - INFO - [线程6333411328|账号41172184627362] 🔍 开始处理新二组合(climate_uncertainty)：Acuerdo de París + vago 
+2026-05-25 09:09:25,457 - INFO - ✅ 二组合 ('climate_uncertainty', 'COP', 'diferir') 处理成功 (63/141)
+2026-05-25 09:09:25,992 - WARNING - ❌[线程6181974016|账号41172442627349] 第1次重置后页面仍有问题
+2026-05-25 09:09:25,992 - WARNING - ⚠️ [线程6181974016|账号41172442627349] 第2次尝试深度重置
+2026-05-25 09:09:27,168 - WARNING - ❌[线程6282932224|账号41172604627356] 第1次重置后页面仍有问题
+2026-05-25 09:09:27,168 - WARNING - ⚠️ [线程6282932224|账号41172604627356] 第2次尝试深度重置
+2026-05-25 09:09:29,082 - WARNING - ❌[线程6198800384|账号41172258627350] 第1次重置后页面仍有问题
+2026-05-25 09:09:29,083 - WARNING - ⚠️ [线程6198800384|账号41172258627350] 第2次尝试深度重置
+2026-05-25 09:09:29,362 - INFO - [线程6232453120|账号41172333627353] ❌ 二组合(climate_uncertainty) COP + abolir 无结果 📍 URL: https://infoweb-newsbank-com.dclibrary.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=pubname%3AREVLI%21Revista%2BLideres%2B%2528Quito%252C%2BEcuador%2529&maxresults=60&f=advanced&val-base-0=COP&fld-base-0=alltext&bln-base-1=and&val-base-1=abolir&fld-base-1=alltext&fld-nav-0=YMD_date&val-nav-0=-2026.4
+2026-05-25 09:09:29,363 - INFO - [线程6232453120|账号41172333627353] 🔍 开始处理新二组合(climate_uncertainty)：Acuerdo de París + retrasar 
+2026-05-25 09:09:29,363 - INFO - ✅ 二组合 ('climate_uncertainty', 'COP', 'abolir') 处理成功 (64/141)
+2026-05-25 09:09:29,643 - WARNING - ❌[线程6299758592|账号41172744627358] 第1次重置后页面仍有问题
+2026-05-25 09:09:29,643 - WARNING - ⚠️ [线程6299758592|账号41172744627358] 第2次尝试深度重置
+2026-05-25 09:09:29,644 - INFO - [线程6350237696|账号41172318627363] ❌ 二组合(climate_uncertainty) COP + incierto 无结果 📍 URL: https://infoweb-newsbank-com.dclibrary.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=pubname%3AREVLI%21Revista%2BLideres%2B%2528Quito%252C%2BEcuador%2529&maxresults=60&f=advanced&val-base-0=COP&fld-base-0=alltext&bln-base-1=and&val-base-1=incierto&fld-base-1=alltext&fld-nav-0=YMD_date&val-nav-0=-2026.4
+2026-05-25 09:09:29,645 - INFO - [线程6350237696|账号41172318627363] 🔍 开始处理新二组合(climate_uncertainty)：Acuerdo de París + cancelar 
+2026-05-25 09:09:29,648 - INFO - ✅ 二组合 ('climate_uncertainty', 'COP', 'incierto') 处理成功 (65/141)
+2026-05-25 09:09:30,185 - WARNING - ❌[线程6367064064|账号41172932627364] 第1次重置后页面仍有问题
+2026-05-25 09:09:30,190 - WARNING - ⚠️ [线程6367064064|账号41172932627364] 第2次尝试深度重置
+2026-05-25 09:09:31,108 - WARNING - ❌[线程6249279488|账号41172815627354] 第1次重置后页面仍有问题
+2026-05-25 09:09:31,108 - WARNING - ⚠️ [线程6249279488|账号41172815627354] 第2次尝试深度重置
+2026-05-25 09:09:31,172 - WARNING - ❌[线程6165147648|账号41172933627348] 第2次重置后页面仍有问题
+2026-05-25 09:09:31,172 - WARNING - ⚠️ [线程6165147648|账号41172933627348] 第3次尝试深度重置
+2026-05-25 09:09:31,387 - WARNING - ❌[线程6266105856|账号41172572627355] 第2次重置后页面仍有问题
+2026-05-25 09:09:31,387 - WARNING - ⚠️ [线程6266105856|账号41172572627355] 第3次尝试深度重置
+2026-05-25 09:09:31,762 - WARNING - ❌[线程6316584960|账号41172712627360] 第1次重置后页面仍有问题
+2026-05-25 09:09:31,762 - WARNING - ⚠️ [线程6316584960|账号41172712627360] 第2次尝试深度重置
+2026-05-25 09:09:32,531 - INFO - [线程6215626752|账号41172631627351] ❌ 二组合(climate_uncertainty) COP + ambiguo 无结果 📍 URL: https://infoweb-newsbank-com.dclibrary.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=pubname%3AREVLI%21Revista%2BLideres%2B%2528Quito%252C%2BEcuador%2529&maxresults=60&f=advanced&val-base-0=COP&fld-base-0=alltext&bln-base-1=and&val-base-1=ambiguo&fld-base-1=alltext&fld-nav-0=YMD_date&val-nav-0=-2026.4
+2026-05-25 09:09:32,532 - INFO - [线程6215626752|账号41172631627351] 🔍 开始处理新二组合(climate_uncertainty)：Acuerdo de París + retirar 
+2026-05-25 09:09:32,532 - INFO - ✅ 二组合 ('climate_uncertainty', 'COP', 'ambiguo') 处理成功 (66/141)
+2026-05-25 09:09:33,129 - WARNING - ❌[线程6181974016|账号41172442627349] 第2次重置后页面仍有问题
+2026-05-25 09:09:33,129 - WARNING - ⚠️ [线程6181974016|账号41172442627349] 第3次尝试深度重置
+2026-05-25 09:09:33,395 - INFO - [线程6148321280|账号41172560626291] ❌ 二组合(climate_uncertainty) COP + rescindir 无结果 📍 URL: https://infoweb-newsbank-com.dclibrary.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=pubname%3AREVLI%21Revista%2BLideres%2B%2528Quito%252C%2BEcuador%2529&maxresults=60&f=advanced&val-base-0=COP&fld-base-0=alltext&bln-base-1=and&val-base-1=rescindir&fld-base-1=alltext&fld-nav-0=YMD_date&val-nav-0=-2026.4
+2026-05-25 09:09:33,396 - INFO - [线程6148321280|账号41172560626291] 🔍 开始处理新二组合(policy_uncertainty)：política + incertidumbre 
+2026-05-25 09:09:33,396 - INFO - ✅ 二组合 ('climate_uncertainty', 'COP', 'rescindir') 处理成功 (67/141)
+2026-05-25 09:09:34,325 - WARNING - ❌[线程6282932224|账号41172604627356] 第2次重置后页面仍有问题
+2026-05-25 09:09:34,325 - WARNING - ⚠️ [线程6282932224|账号41172604627356] 第3次尝试深度重置
+2026-05-25 09:09:34,670 - INFO - [线程6383890432|账号41172846627365] ❌ 二组合(climate_uncertainty) Acuerdo de París + desconocido 无结果 📍 URL: https://infoweb-newsbank-com.dclibrary.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=pubname%3AREVLI%21Revista%2BLideres%2B%2528Quito%252C%2BEcuador%2529&maxresults=60&f=advanced&val-base-0=Acuerdo%20de%20Par%C3%ADs&fld-base-0=alltext&bln-base-1=and&val-base-1=desconocido&fld-base-1=alltext&fld-nav-0=YMD_date&val-nav-0=-2026.4
+2026-05-25 09:09:34,671 - INFO - [线程6383890432|账号41172846627365] 🔍 开始处理新二组合(policy_uncertainty)：política + desconocido 
+2026-05-25 09:09:34,671 - INFO - ✅ 二组合 ('climate_uncertainty', 'Acuerdo de París', 'desconocido') 处理成功 (68/141)
+2026-05-25 09:09:37,410 - WARNING - ❌[线程6299758592|账号41172744627358] 第2次重置后页面仍有问题
+2026-05-25 09:09:37,410 - WARNING - ⚠️ [线程6299758592|账号41172744627358] 第3次尝试深度重置
+2026-05-25 09:09:37,900 - WARNING - ❌[线程6165147648|账号41172933627348] 第3次重置后页面仍有问题
+2026-05-25 09:09:37,900 - ERROR - ❌ [线程6165147648|账号41172933627348] 深度重置完全失败，无法恢复正常搜索
+2026-05-25 09:09:37,900 - WARNING - ⚠️ [线程6165147648|账号41172933627348]  二组合(climate_uncertainty) tormenta de nieve + cancelar 搜索失败，7秒后重试 (1/3)
+2026-05-25 09:09:38,042 - WARNING - ❌[线程6249279488|账号41172815627354] 第2次重置后页面仍有问题
+2026-05-25 09:09:38,042 - WARNING - ⚠️ [线程6249279488|账号41172815627354] 第3次尝试深度重置
+2026-05-25 09:09:38,501 - WARNING - ❌[线程6266105856|账号41172572627355] 第3次重置后页面仍有问题
+2026-05-25 09:09:38,501 - ERROR - ❌ [线程6266105856|账号41172572627355] 深度重置完全失败，无法恢复正常搜索
+2026-05-25 09:09:38,501 - WARNING - ⚠️ [线程6266105856|账号41172572627355]  二组合(climate_uncertainty) huracán + incertidumbre 搜索失败，13秒后重试 (1/3)
+2026-05-25 09:09:38,580 - WARNING - ❌[线程6316584960|账号41172712627360] 第2次重置后页面仍有问题
+2026-05-25 09:09:38,581 - WARNING - ⚠️ [线程6316584960|账号41172712627360] 第3次尝试深度重置
+2026-05-25 09:09:39,024 - INFO - [浏览器2|账号41172933627348] 🔄 旧浏览器实例已关闭
+2026-05-25 09:09:39,253 - WARNING - ❌[线程6198800384|账号41172258627350] 第2次重置后页面仍有问题
+2026-05-25 09:09:39,253 - WARNING - ⚠️ [线程6198800384|账号41172258627350] 第3次尝试深度重置
+2026-05-25 09:09:39,614 - INFO - [线程6333411328|账号41172184627362] ❌ 二组合(climate_uncertainty) Acuerdo de París + vago 无结果 📍 URL: https://infoweb-newsbank-com.dclibrary.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=pubname%3AREVLI%21Revista%2BLideres%2B%2528Quito%252C%2BEcuador%2529&maxresults=60&f=advanced&val-base-0=Acuerdo%20de%20Par%C3%ADs&fld-base-0=alltext&bln-base-1=and&val-base-1=vago&fld-base-1=alltext&fld-nav-0=YMD_date&val-nav-0=-2026.4
+2026-05-25 09:09:39,614 - INFO - [线程6333411328|账号41172184627362] 🔍 开始处理新二组合(policy_uncertainty)：política + posponer 
+2026-05-25 09:09:39,615 - INFO - ✅ 二组合 ('climate_uncertainty', 'Acuerdo de París', 'vago') 处理成功 (69/141)
+2026-05-25 09:09:39,920 - INFO - [浏览器2|账号41172933627348] ✅ 浏览器重建成功！UA: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.38... 视口: 1920x1080
+2026-05-25 09:09:39,920 - INFO - [线程2|账号41172933627348] 开始登录，访问登录页面...
+2026-05-25 09:09:39,975 - WARNING - ❌[线程6181974016|账号41172442627349] 第3次重置后页面仍有问题
+2026-05-25 09:09:39,975 - ERROR - ❌ [线程6181974016|账号41172442627349] 深度重置完全失败，无法恢复正常搜索
+2026-05-25 09:09:39,976 - WARNING - ⚠️ [线程6181974016|账号41172442627349]  二组合(climate_uncertainty) tormenta de nieve + retirar 搜索失败，8秒后重试 (1/3)
+2026-05-25 09:09:40,019 - INFO - [浏览器8|账号41172572627355] 🔄 旧浏览器实例已关闭
+2026-05-25 09:09:40,777 - INFO - [浏览器8|账号41172572627355] ✅ 浏览器重建成功！UA: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.44... 视口: 2560x1440
+2026-05-25 09:09:40,777 - INFO - [线程8|账号41172572627355] 开始登录，访问登录页面...
+2026-05-25 09:09:40,942 - WARNING - ❌[线程6367064064|账号41172932627364] 第2次重置后页面仍有问题
+2026-05-25 09:09:40,942 - WARNING - ⚠️ [线程6367064064|账号41172932627364] 第3次尝试深度重置
+2026-05-25 09:09:41,125 - WARNING - ❌[线程6282932224|账号41172604627356] 第3次重置后页面仍有问题
+2026-05-25 09:09:41,125 - ERROR - ❌ [线程6282932224|账号41172604627356] 深度重置完全失败，无法恢复正常搜索
+2026-05-25 09:09:41,125 - WARNING - ⚠️ [线程6282932224|账号41172604627356]  二组合(climate_uncertainty) huracán + ambiguo 搜索失败，15秒后重试 (1/3)
+2026-05-25 09:09:41,189 - INFO - [浏览器3|账号41172442627349] 🔄 旧浏览器实例已关闭
+2026-05-25 09:09:41,944 - INFO - [浏览器3|账号41172442627349] ✅ 浏览器重建成功！UA: Mozilla/5.0 (Macintosh; Intel Mac OS X 14_2_0) AppleWebKit/5... 视口: 1440x900
+2026-05-25 09:09:41,944 - INFO - [线程3|账号41172442627349] 开始登录，访问登录页面...
+2026-05-25 09:09:42,238 - INFO - [浏览器9|账号41172604627356] 🔄 旧浏览器实例已关闭
+2026-05-25 09:09:42,958 - INFO - [浏览器9|账号41172604627356] ✅ 浏览器重建成功！UA: Mozilla/5.0 (Macintosh; Intel Mac OS X 13_6_0) AppleWebKit/5... 视口: 1280x1024
+2026-05-25 09:09:42,958 - INFO - [线程9|账号41172604627356] 开始登录，访问登录页面...
+2026-05-25 09:09:43,811 - INFO - [线程6232453120|账号41172333627353] ❌ 二组合(climate_uncertainty) Acuerdo de París + retrasar 无结果 📍 URL: https://infoweb-newsbank-com.dclibrary.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=pubname%3AREVLI%21Revista%2BLideres%2B%2528Quito%252C%2BEcuador%2529&maxresults=60&f=advanced&val-base-0=Acuerdo%20de%20Par%C3%ADs&fld-base-0=alltext&bln-base-1=and&val-base-1=retrasar&fld-base-1=alltext&fld-nav-0=YMD_date&val-nav-0=-2026.4
+2026-05-25 09:09:43,811 - INFO - [线程6232453120|账号41172333627353] 🔍 开始处理新二组合(policy_uncertainty)：política + abolir 
+2026-05-25 09:09:43,811 - INFO - ✅ 二组合 ('climate_uncertainty', 'Acuerdo de París', 'retrasar') 处理成功 (70/141)
+2026-05-25 09:09:45,212 - WARNING - ❌[线程6249279488|账号41172815627354] 第3次重置后页面仍有问题
+2026-05-25 09:09:45,213 - ERROR - ❌ [线程6249279488|账号41172815627354] 深度重置完全失败，无法恢复正常搜索
+2026-05-25 09:09:45,215 - WARNING - ⚠️ [线程6249279488|账号41172815627354]  二组合(climate_uncertainty) lluvia intensa + cancelar 搜索失败，5秒后重试 (1/3)
+2026-05-25 09:09:45,702 - WARNING - ❌[线程6316584960|账号41172712627360] 第3次重置后页面仍有问题
+2026-05-25 09:09:45,702 - ERROR - ❌ [线程6316584960|账号41172712627360] 深度重置完全失败，无法恢复正常搜索
+2026-05-25 09:09:45,703 - WARNING - ⚠️ [线程6316584960|账号41172712627360]  二组合(climate_uncertainty) huracán + cancelar 搜索失败，13秒后重试 (1/3)
+2026-05-25 09:09:46,076 - INFO - [线程6215626752|账号41172631627351] ❌ 二组合(climate_uncertainty) Acuerdo de París + retirar 无结果 📍 URL: https://infoweb-newsbank-com.dclibrary.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=pubname%3AREVLI%21Revista%2BLideres%2B%2528Quito%252C%2BEcuador%2529&maxresults=60&f=advanced&val-base-0=Acuerdo%20de%20Par%C3%ADs&fld-base-0=alltext&bln-base-1=and&val-base-1=retirar&fld-base-1=alltext&fld-nav-0=YMD_date&val-nav-0=-2026.4
+2026-05-25 09:09:46,076 - INFO - [线程6215626752|账号41172631627351] 🔍 开始处理新二组合(policy_uncertainty)：políticas + desconocido 
+2026-05-25 09:09:46,077 - INFO - ✅ 二组合 ('climate_uncertainty', 'Acuerdo de París', 'retirar') 处理成功 (71/141)
+2026-05-25 09:09:46,475 - WARNING - ❌[线程6299758592|账号41172744627358] 第3次重置后页面仍有问题
+2026-05-25 09:09:46,475 - ERROR - ❌ [线程6299758592|账号41172744627358] 深度重置完全失败，无法恢复正常搜索
+2026-05-25 09:09:46,476 - WARNING - ⚠️ [线程6299758592|账号41172744627358]  二组合(climate_uncertainty) huracán + diferir 搜索失败，6秒后重试 (1/3)
+2026-05-25 09:09:46,511 - INFO - [浏览器7|账号41172815627354] 🔄 旧浏览器实例已关闭
+2026-05-25 09:09:46,916 - INFO - [浏览器11|账号41172712627360] 🔄 旧浏览器实例已关闭
+2026-05-25 09:09:46,940 - INFO - [线程6148321280|账号41172560626291] ✅ 二组合(policy_uncertainty) política + incertidumbre 有 18 条结果 📍 URL: https://infoweb-newsbank-com.dclibrary.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=pubname%3AREVLI%21Revista%2BLideres%2B%2528Quito%252C%2BEcuador%2529&maxresults=60&f=advanced&val-base-0=pol%C3%ADtica&fld-base-0=alltext&bln-base-1=and&val-base-1=incertidumbre&fld-base-1=alltext&fld-nav-0=YMD_date&val-nav-0=-2026.4
+2026-05-25 09:09:46,941 - INFO - [线程6148321280|账号41172560626291] 🔍 开始处理新二组合(policy_uncertainty)：políticas + impredecible 
+2026-05-25 09:09:46,941 - INFO - ✅ 二组合 ('policy_uncertainty', 'política', 'incertidumbre') 处理成功 (72/141)
+2026-05-25 09:09:47,164 - INFO - [浏览器7|账号41172815627354] ✅ 浏览器重建成功！UA: Mozilla/5.0 (Macintosh; Intel Mac OS X 14_2_0) AppleWebKit/5... 视口: 1680x1050
+2026-05-25 09:09:47,164 - INFO - [线程7|账号41172815627354] 开始登录，访问登录页面...
+2026-05-25 09:09:47,663 - INFO - [浏览器10|账号41172744627358] 🔄 旧浏览器实例已关闭
+2026-05-25 09:09:47,832 - INFO - [浏览器11|账号41172712627360] ✅ 浏览器重建成功！UA: Mozilla/5.0 (Macintosh; Intel Mac OS X 14_2_0) AppleWebKit/5... 视口: 1366x768
+2026-05-25 09:09:47,832 - INFO - [线程11|账号41172712627360] 开始登录，访问登录页面...
+2026-05-25 09:09:48,375 - INFO - [浏览器10|账号41172744627358] ✅ 浏览器重建成功！UA: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36... 视口: 1024x768
+2026-05-25 09:09:48,375 - INFO - [线程10|账号41172744627358] 开始登录，访问登录页面...
+2026-05-25 09:09:49,670 - WARNING - ❌[线程6198800384|账号41172258627350] 第3次重置后页面仍有问题
+2026-05-25 09:09:49,671 - ERROR - ❌ [线程6198800384|账号41172258627350] 深度重置完全失败，无法恢复正常搜索
+2026-05-25 09:09:49,671 - WARNING - ⚠️ [线程6198800384|账号41172258627350]  二组合(climate_uncertainty) tormenta de nieve + suspender 搜索失败，10秒后重试 (1/3)
+2026-05-25 09:09:50,774 - INFO - [浏览器4|账号41172258627350] 🔄 旧浏览器实例已关闭
+2026-05-25 09:09:51,084 - WARNING - ❌[线程6367064064|账号41172932627364] 第3次重置后页面仍有问题
+2026-05-25 09:09:51,086 - ERROR - ❌ [线程6367064064|账号41172932627364] 深度重置完全失败，无法恢复正常搜索
+2026-05-25 09:09:51,087 - WARNING - ⚠️ [线程6367064064|账号41172932627364]  二组合(climate_uncertainty) inundación + ambiguo 搜索失败，8秒后重试 (1/3)
+2026-05-25 09:09:51,458 - INFO - [浏览器4|账号41172258627350] ✅ 浏览器重建成功！UA: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.40... 视口: 1536x864
+2026-05-25 09:09:51,458 - INFO - [线程4|账号41172258627350] 开始登录，访问登录页面...
+2026-05-25 09:09:51,525 - INFO - [线程6350237696|账号41172318627363] ❌ 二组合(climate_uncertainty) Acuerdo de París + cancelar 无结果 📍 URL: https://infoweb-newsbank-com.dclibrary.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=pubname%3AREVLI%21Revista%2BLideres%2B%2528Quito%252C%2BEcuador%2529&maxresults=60&f=advanced&val-base-0=Acuerdo%20de%20Par%C3%ADs&fld-base-0=alltext&bln-base-1=and&val-base-1=cancelar&fld-base-1=alltext&fld-nav-0=YMD_date&val-nav-0=-2026.4
+2026-05-25 09:09:51,527 - INFO - [线程6350237696|账号41172318627363] 🔍 开始处理新二组合(policy_uncertainty)：políticas + diferir 
+2026-05-25 09:09:51,529 - INFO - ✅ 二组合 ('climate_uncertainty', 'Acuerdo de París', 'cancelar') 处理成功 (73/141)
+2026-05-25 09:09:52,191 - INFO - [浏览器14|账号41172932627364] 🔄 旧浏览器实例已关闭
+2026-05-25 09:09:52,900 - INFO - [浏览器14|账号41172932627364] ✅ 浏览器重建成功！UA: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.40... 视口: 1536x864
+2026-05-25 09:09:52,900 - INFO - [线程14|账号41172932627364] 开始登录，访问登录页面...
+2026-05-25 09:09:53,394 - INFO - [线程6333411328|账号41172184627362] ✅ 二组合(policy_uncertainty) política + posponer 有 1 条结果 📍 URL: https://infoweb-newsbank-com.dclibrary.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=pubname%3AREVLI%21Revista%2BLideres%2B%2528Quito%252C%2BEcuador%2529&maxresults=60&f=advanced&val-base-0=pol%C3%ADtica&fld-base-0=alltext&bln-base-1=and&val-base-1=posponer&fld-base-1=alltext&fld-nav-0=YMD_date&val-nav-0=-2026.4
+2026-05-25 09:09:53,394 - INFO - [线程6333411328|账号41172184627362] 🔍 开始处理新二组合(policy_uncertainty)：políticas + cancelar 
+2026-05-25 09:09:53,394 - INFO - ✅ 二组合 ('policy_uncertainty', 'política', 'posponer') 处理成功 (74/141)
+2026-05-25 09:09:57,751 - INFO - [线程6383890432|账号41172846627365] ❌ 二组合(policy_uncertainty) política + desconocido 无结果 📍 URL: https://infoweb-newsbank-com.dclibrary.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=pubname%3AREVLI%21Revista%2BLideres%2B%2528Quito%252C%2BEcuador%2529&maxresults=60&f=advanced&val-base-0=pol%C3%ADtica&fld-base-0=alltext&bln-base-1=and&val-base-1=desconocido&fld-base-1=alltext&fld-nav-0=YMD_date&val-nav-0=-2026.4
+2026-05-25 09:09:57,752 - INFO - [线程6383890432|账号41172846627365] 🔍 开始处理新二组合(policy_uncertainty)：regulación + desconocido 
+2026-05-25 09:09:57,752 - INFO - ✅ 二组合 ('policy_uncertainty', 'política', 'desconocido') 处理成功 (75/141)
+2026-05-25 09:09:58,346 - INFO - [线程6232453120|账号41172333627353] ✅ 二组合(policy_uncertainty) política + abolir 有 1 条结果 📍 URL: https://infoweb-newsbank-com.dclibrary.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=pubname%3AREVLI%21Revista%2BLideres%2B%2528Quito%252C%2BEcuador%2529&maxresults=60&f=advanced&val-base-0=pol%C3%ADtica&fld-base-0=alltext&bln-base-1=and&val-base-1=abolir&fld-base-1=alltext&fld-nav-0=YMD_date&val-nav-0=-2026.4
+2026-05-25 09:09:58,346 - INFO - [线程6232453120|账号41172333627353] 🔍 开始处理新二组合(policy_uncertainty)：regulación + impredecible 
+2026-05-25 09:09:58,346 - INFO - ✅ 二组合 ('policy_uncertainty', 'política', 'abolir') 处理成功 (76/141)
+2026-05-25 09:09:59,690 - INFO - [线程6215626752|账号41172631627351] ✅ 二组合(policy_uncertainty) políticas + desconocido 有 1 条结果 📍 URL: https://infoweb-newsbank-com.dclibrary.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=pubname%3AREVLI%21Revista%2BLideres%2B%2528Quito%252C%2BEcuador%2529&maxresults=60&f=advanced&val-base-0=pol%C3%ADticas&fld-base-0=alltext&bln-base-1=and&val-base-1=desconocido&fld-base-1=alltext&fld-nav-0=YMD_date&val-nav-0=-2026.4
+2026-05-25 09:09:59,691 - INFO - [线程6215626752|账号41172631627351] 🔍 开始处理新二组合(policy_uncertainty)：regulación + retrasar 
+2026-05-25 09:09:59,691 - INFO - ✅ 二组合 ('policy_uncertainty', 'políticas', 'desconocido') 处理成功 (77/141)
+2026-05-25 09:10:07,778 - INFO - [线程6148321280|账号41172560626291] ❌ 二组合(policy_uncertainty) políticas + impredecible 无结果 📍 URL: https://infoweb-newsbank-com.dclibrary.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=pubname%3AREVLI%21Revista%2BLideres%2B%2528Quito%252C%2BEcuador%2529&maxresults=60&f=advanced&val-base-0=pol%C3%ADticas&fld-base-0=alltext&bln-base-1=and&val-base-1=impredecible&fld-base-1=alltext&fld-nav-0=YMD_date&val-nav-0=-2026.4
+2026-05-25 09:10:07,778 - INFO - [线程6148321280|账号41172560626291] 🔍 开始处理新二组合(policy_uncertainty)：regulación + abolir 
+2026-05-25 09:10:07,778 - INFO - ✅ 二组合 ('policy_uncertainty', 'políticas', 'impredecible') 处理成功 (78/141)
+2026-05-25 09:10:13,173 - INFO - [线程6350237696|账号41172318627363] ❌ 二组合(policy_uncertainty) políticas + diferir 无结果 📍 URL: https://infoweb-newsbank-com.dclibrary.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=pubname%3AREVLI%21Revista%2BLideres%2B%2528Quito%252C%2BEcuador%2529&maxresults=60&f=advanced&val-base-0=pol%C3%ADticas&fld-base-0=alltext&bln-base-1=and&val-base-1=diferir&fld-base-1=alltext&fld-nav-0=YMD_date&val-nav-0=-2026.4
+2026-05-25 09:10:13,173 - INFO - [线程6350237696|账号41172318627363] 🔍 开始处理新二组合(policy_uncertainty)：regulación + retirar 
+2026-05-25 09:10:13,173 - INFO - ✅ 二组合 ('policy_uncertainty', 'políticas', 'diferir') 处理成功 (79/141)
+2026-05-25 09:10:14,731 - ERROR -   ❌ [线程6383890432|账号41172846627365] 二组合(policy_uncertainty) regulación + desconocido 处理异常: 访问网页失败！！！，30秒后重试 (1/3)
+2026-05-25 09:10:15,891 - INFO - [浏览器15|账号41172846627365] 🔄 旧浏览器实例已关闭
+2026-05-25 09:10:16,546 - INFO - [浏览器15|账号41172846627365] ✅ 浏览器重建成功！UA: Mozilla/5.0 (Macintosh; Intel Mac OS X 14_2_0) AppleWebKit/5... 视口: 1600x900
+2026-05-25 09:10:16,548 - INFO - [线程15|账号41172846627365] 开始登录，访问登录页面...
+2026-05-25 09:10:17,034 - INFO - [线程6333411328|账号41172184627362] ✅ 二组合(policy_uncertainty) políticas + cancelar 有 2 条结果 📍 URL: https://infoweb-newsbank-com.dclibrary.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=pubname%3AREVLI%21Revista%2BLideres%2B%2528Quito%252C%2BEcuador%2529&maxresults=60&f=advanced&val-base-0=pol%C3%ADticas&fld-base-0=alltext&bln-base-1=and&val-base-1=cancelar&fld-base-1=alltext&fld-nav-0=YMD_date&val-nav-0=-2026.4
+2026-05-25 09:10:17,034 - INFO - [线程6333411328|账号41172184627362] 🔍 开始处理新二组合(policy_uncertainty)：regulaciones + desconocido 
+2026-05-25 09:10:17,035 - INFO - ✅ 二组合 ('policy_uncertainty', 'políticas', 'cancelar') 处理成功 (80/141)
+2026-05-25 09:10:21,207 - INFO - [线程6148321280|账号41172560626291] ❌ 二组合(policy_uncertainty) regulación + abolir 无结果 📍 URL: https://infoweb-newsbank-com.dclibrary.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=pubname%3AREVLI%21Revista%2BLideres%2B%2528Quito%252C%2BEcuador%2529&maxresults=60&f=advanced&val-base-0=regulaci%C3%B3n&fld-base-0=alltext&bln-base-1=and&val-base-1=abolir&fld-base-1=alltext&fld-nav-0=YMD_date&val-nav-0=-2026.4
+2026-05-25 09:10:21,208 - INFO - [线程6148321280|账号41172560626291] 🔍 开始处理新二组合(policy_uncertainty)：regulaciones + posponer 
+2026-05-25 09:10:21,208 - INFO - ✅ 二组合 ('policy_uncertainty', 'regulación', 'abolir') 处理成功 (81/141)
+2026-05-25 09:10:21,545 - INFO - [线程6232453120|账号41172333627353] ✅ 二组合(policy_uncertainty) regulación + impredecible 有 1 条结果 📍 URL: https://infoweb-newsbank-com.dclibrary.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=pubname%3AREVLI%21Revista%2BLideres%2B%2528Quito%252C%2BEcuador%2529&maxresults=60&f=advanced&val-base-0=regulaci%C3%B3n&fld-base-0=alltext&bln-base-1=and&val-base-1=impredecible&fld-base-1=alltext&fld-nav-0=YMD_date&val-nav-0=-2026.4
+2026-05-25 09:10:21,545 - INFO - [线程6232453120|账号41172333627353] 🔍 开始处理新二组合(policy_uncertainty)：regulaciones + abolir 
+2026-05-25 09:10:21,545 - INFO - ✅ 二组合 ('policy_uncertainty', 'regulación', 'impredecible') 处理成功 (82/141)
+2026-05-25 09:10:23,656 - INFO - [线程6215626752|账号41172631627351] ❌ 二组合(policy_uncertainty) regulación + retrasar 无结果 📍 URL: https://infoweb-newsbank-com.dclibrary.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=pubname%3AREVLI%21Revista%2BLideres%2B%2528Quito%252C%2BEcuador%2529&maxresults=60&f=advanced&val-base-0=regulaci%C3%B3n&fld-base-0=alltext&bln-base-1=and&val-base-1=retrasar&fld-base-1=alltext&fld-nav-0=YMD_date&val-nav-0=-2026.4
+2026-05-25 09:10:23,656 - INFO - [线程6215626752|账号41172631627351] 🔍 开始处理新二组合(policy_uncertainty)：regulaciones + retirar 
+2026-05-25 09:10:23,656 - INFO - ✅ 二组合 ('policy_uncertainty', 'regulación', 'retrasar') 处理成功 (83/141)
+2026-05-25 09:10:27,515 - INFO - [线程6350237696|账号41172318627363] ✅ 二组合(policy_uncertainty) regulación + retirar 有 2 条结果 📍 URL: https://infoweb-newsbank-com.dclibrary.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=pubname%3AREVLI%21Revista%2BLideres%2B%2528Quito%252C%2BEcuador%2529&maxresults=60&f=advanced&val-base-0=regulaci%C3%B3n&fld-base-0=alltext&bln-base-1=and&val-base-1=retirar&fld-base-1=alltext&fld-nav-0=YMD_date&val-nav-0=-2026.4
+2026-05-25 09:10:27,515 - INFO - [线程6350237696|账号41172318627363] 🔍 开始处理新二组合(policy_uncertainty)：legislación + incertidumbre 
+2026-05-25 09:10:27,515 - INFO - ✅ 二组合 ('policy_uncertainty', 'regulación', 'retirar') 处理成功 (84/141)
+2026-05-25 09:10:37,015 - INFO - [线程6215626752|账号41172631627351] ✅ 二组合(policy_uncertainty) regulaciones + retirar 有 1 条结果 📍 URL: https://infoweb-newsbank-com.dclibrary.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=pubname%3AREVLI%21Revista%2BLideres%2B%2528Quito%252C%2BEcuador%2529&maxresults=60&f=advanced&val-base-0=regulaciones&fld-base-0=alltext&bln-base-1=and&val-base-1=retirar&fld-base-1=alltext&fld-nav-0=YMD_date&val-nav-0=-2026.4
+2026-05-25 09:10:37,015 - INFO - [线程6215626752|账号41172631627351] 🔍 开始处理新二组合(policy_uncertainty)：legislación + ambiguo 
+2026-05-25 09:10:37,015 - INFO - ✅ 二组合 ('policy_uncertainty', 'regulaciones', 'retirar') 处理成功 (85/141)
+2026-05-25 09:10:40,223 - INFO - [线程6333411328|账号41172184627362] ❌ 二组合(policy_uncertainty) regulaciones + desconocido 无结果 📍 URL: https://infoweb-newsbank-com.dclibrary.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=pubname%3AREVLI%21Revista%2BLideres%2B%2528Quito%252C%2BEcuador%2529&maxresults=60&f=advanced&val-base-0=regulaciones&fld-base-0=alltext&bln-base-1=and&val-base-1=desconocido&fld-base-1=alltext&fld-nav-0=YMD_date&val-nav-0=-2026.4
+2026-05-25 09:10:40,223 - INFO - [线程6333411328|账号41172184627362] 🔍 开始处理新二组合(policy_uncertainty)：legislación + retrasar 
+2026-05-25 09:10:40,223 - INFO - ✅ 二组合 ('policy_uncertainty', 'regulaciones', 'desconocido') 处理成功 (86/141)
+2026-05-25 09:10:40,812 - INFO - [线程6350237696|账号41172318627363] ❌ 二组合(policy_uncertainty) legislación + incertidumbre 无结果 📍 URL: https://infoweb-newsbank-com.dclibrary.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=pubname%3AREVLI%21Revista%2BLideres%2B%2528Quito%252C%2BEcuador%2529&maxresults=60&f=advanced&val-base-0=legislaci%C3%B3n&fld-base-0=alltext&bln-base-1=and&val-base-1=incertidumbre&fld-base-1=alltext&fld-nav-0=YMD_date&val-nav-0=-2026.4
+2026-05-25 09:10:40,813 - INFO - [线程6350237696|账号41172318627363] 🔍 开始处理新二组合(policy_uncertainty)：legislación + suspender 
+2026-05-25 09:10:40,813 - INFO - ✅ 二组合 ('policy_uncertainty', 'legislación', 'incertidumbre') 处理成功 (87/141)
+2026-05-25 09:10:44,274 - INFO - [线程6232453120|账号41172333627353] ❌ 二组合(policy_uncertainty) regulaciones + abolir 无结果 📍 URL: https://infoweb-newsbank-com.dclibrary.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=pubname%3AREVLI%21Revista%2BLideres%2B%2528Quito%252C%2BEcuador%2529&maxresults=60&f=advanced&val-base-0=regulaciones&fld-base-0=alltext&bln-base-1=and&val-base-1=abolir&fld-base-1=alltext&fld-nav-0=YMD_date&val-nav-0=-2026.4
+2026-05-25 09:10:44,275 - INFO - [线程6232453120|账号41172333627353] 🔍 开始处理新二组合(policy_uncertainty)：ley + incertidumbre 
+2026-05-25 09:10:44,275 - INFO - ✅ 二组合 ('policy_uncertainty', 'regulaciones', 'abolir') 处理成功 (88/141)
+2026-05-25 09:10:46,235 - INFO - [线程6148321280|账号41172560626291] ❌ 二组合(policy_uncertainty) regulaciones + posponer 无结果 📍 URL: https://infoweb-newsbank-com.dclibrary.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=pubname%3AREVLI%21Revista%2BLideres%2B%2528Quito%252C%2BEcuador%2529&maxresults=60&f=advanced&val-base-0=regulaciones&fld-base-0=alltext&bln-base-1=and&val-base-1=posponer&fld-base-1=alltext&fld-nav-0=YMD_date&val-nav-0=-2026.4
+2026-05-25 09:10:46,235 - INFO - [线程6148321280|账号41172560626291] 🔍 开始处理新二组合(policy_uncertainty)：ley + desconocido 
+2026-05-25 09:10:46,235 - INFO - ✅ 二组合 ('policy_uncertainty', 'regulaciones', 'posponer') 处理成功 (89/141)
+2026-05-25 09:10:59,655 - INFO - [线程3|账号41172442627349] ✅ 登录成功（DC 卡号登录）
+2026-05-25 09:10:59,655 - INFO - [浏览器3|账号41172442627349] ✅ 重建后登录成功
+2026-05-25 09:10:59,656 - INFO - [线程6181974016|账号41172442627349] ✅ 异常后浏览器重建成功
+2026-05-25 09:11:00,662 - INFO - [线程7|账号41172815627354] ✅ 登录成功（DC 卡号登录）
+2026-05-25 09:11:00,662 - INFO - [浏览器7|账号41172815627354] ✅ 重建后登录成功
+2026-05-25 09:11:00,664 - INFO - [线程6249279488|账号41172815627354] ✅ 异常后浏览器重建成功
+2026-05-25 09:11:01,262 - INFO - [线程8|账号41172572627355] ✅ 登录成功（DC 卡号登录）
+2026-05-25 09:11:01,262 - INFO - [浏览器8|账号41172572627355] ✅ 重建后登录成功
+2026-05-25 09:11:01,264 - INFO - [线程6266105856|账号41172572627355] ✅ 异常后浏览器重建成功
+2026-05-25 09:11:03,021 - INFO - [线程6215626752|账号41172631627351] ❌ 二组合(policy_uncertainty) legislación + ambiguo 无结果 📍 URL: https://infoweb-newsbank-com.dclibrary.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=pubname%3AREVLI%21Revista%2BLideres%2B%2528Quito%252C%2BEcuador%2529&maxresults=60&f=advanced&val-base-0=legislaci%C3%B3n&fld-base-0=alltext&bln-base-1=and&val-base-1=ambiguo&fld-base-1=alltext&fld-nav-0=YMD_date&val-nav-0=-2026.4
+2026-05-25 09:11:03,022 - INFO - [线程6215626752|账号41172631627351] 🔍 开始处理新二组合(policy_uncertainty)：ley + impredecible 
+2026-05-25 09:11:03,022 - INFO - ✅ 二组合 ('policy_uncertainty', 'legislación', 'ambiguo') 处理成功 (90/141)
+2026-05-25 09:11:03,133 - INFO - [线程6333411328|账号41172184627362] ❌ 二组合(policy_uncertainty) legislación + retrasar 无结果 📍 URL: https://infoweb-newsbank-com.dclibrary.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=pubname%3AREVLI%21Revista%2BLideres%2B%2528Quito%252C%2BEcuador%2529&maxresults=60&f=advanced&val-base-0=legislaci%C3%B3n&fld-base-0=alltext&bln-base-1=and&val-base-1=retrasar&fld-base-1=alltext&fld-nav-0=YMD_date&val-nav-0=-2026.4
+2026-05-25 09:11:03,133 - INFO - [线程6333411328|账号41172184627362] 🔍 开始处理新二组合(policy_uncertainty)：ley + posponer 
+2026-05-25 09:11:03,143 - INFO - ✅ 二组合 ('policy_uncertainty', 'legislación', 'retrasar') 处理成功 (91/141)
+2026-05-25 09:11:04,535 - INFO - [线程6350237696|账号41172318627363] ❌ 二组合(policy_uncertainty) legislación + suspender 无结果 📍 URL: https://infoweb-newsbank-com.dclibrary.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=pubname%3AREVLI%21Revista%2BLideres%2B%2528Quito%252C%2BEcuador%2529&maxresults=60&f=advanced&val-base-0=legislaci%C3%B3n&fld-base-0=alltext&bln-base-1=and&val-base-1=suspender&fld-base-1=alltext&fld-nav-0=YMD_date&val-nav-0=-2026.4
+2026-05-25 09:11:04,537 - INFO - [线程6350237696|账号41172318627363] 🔍 开始处理新二组合(policy_uncertainty)：ley + cancelar 
+2026-05-25 09:11:04,537 - INFO - ✅ 二组合 ('policy_uncertainty', 'legislación', 'suspender') 处理成功 (92/141)
+2026-05-25 09:11:07,956 - INFO - [线程6148321280|账号41172560626291] ✅ 二组合(policy_uncertainty) ley + desconocido 有 1 条结果 📍 URL: https://infoweb-newsbank-com.dclibrary.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=pubname%3AREVLI%21Revista%2BLideres%2B%2528Quito%252C%2BEcuador%2529&maxresults=60&f=advanced&val-base-0=ley&fld-base-0=alltext&bln-base-1=and&val-base-1=desconocido&fld-base-1=alltext&fld-nav-0=YMD_date&val-nav-0=-2026.4
+2026-05-25 09:11:07,956 - INFO - [线程6148321280|账号41172560626291] 🔍 开始处理新二组合(policy_uncertainty)：Asamblea Nacional + desconocido 
+2026-05-25 09:11:07,956 - INFO - ✅ 二组合 ('policy_uncertainty', 'ley', 'desconocido') 处理成功 (93/141)
+2026-05-25 09:11:11,148 - INFO - [线程11|账号41172712627360] ✅ 登录成功（DC 卡号登录）
+2026-05-25 09:11:11,148 - INFO - [浏览器11|账号41172712627360] ✅ 重建后登录成功
+2026-05-25 09:11:11,166 - INFO - [线程6316584960|账号41172712627360] ✅ 异常后浏览器重建成功
+2026-05-25 09:11:16,755 - INFO - [线程6215626752|账号41172631627351] ❌ 二组合(policy_uncertainty) ley + impredecible 无结果 📍 URL: https://infoweb-newsbank-com.dclibrary.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=pubname%3AREVLI%21Revista%2BLideres%2B%2528Quito%252C%2BEcuador%2529&maxresults=60&f=advanced&val-base-0=ley&fld-base-0=alltext&bln-base-1=and&val-base-1=impredecible&fld-base-1=alltext&fld-nav-0=YMD_date&val-nav-0=-2026.4
+2026-05-25 09:11:16,755 - INFO - [线程6215626752|账号41172631627351] 🔍 开始处理新二组合(policy_uncertainty)：Asamblea Nacional + vago 
+2026-05-25 09:11:16,756 - INFO - ✅ 二组合 ('policy_uncertainty', 'ley', 'impredecible') 处理成功 (94/141)
+2026-05-25 09:11:17,907 - INFO - [线程6350237696|账号41172318627363] ✅ 二组合(policy_uncertainty) ley + cancelar 有 4 条结果 📍 URL: https://infoweb-newsbank-com.dclibrary.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=pubname%3AREVLI%21Revista%2BLideres%2B%2528Quito%252C%2BEcuador%2529&maxresults=60&f=advanced&val-base-0=ley&fld-base-0=alltext&bln-base-1=and&val-base-1=cancelar&fld-base-1=alltext&fld-nav-0=YMD_date&val-nav-0=-2026.4
+2026-05-25 09:11:17,908 - INFO - [线程6350237696|账号41172318627363] 🔍 开始处理新二组合(policy_uncertainty)：Asamblea Nacional + retrasar 
+2026-05-25 09:11:17,908 - INFO - ✅ 二组合 ('policy_uncertainty', 'ley', 'cancelar') 处理成功 (95/141)
+2026-05-25 09:11:25,798 - INFO - [线程2|账号41172933627348] ✅ 登录成功（DC 卡号登录）
+2026-05-25 09:11:25,798 - INFO - [浏览器2|账号41172933627348] ✅ 重建后登录成功
+2026-05-25 09:11:25,800 - INFO - [线程6165147648|账号41172933627348] ✅ 异常后浏览器重建成功
+2026-05-25 09:11:27,056 - INFO - [线程6333411328|账号41172184627362] ❌ 二组合(policy_uncertainty) ley + posponer 无结果 📍 URL: https://infoweb-newsbank-com.dclibrary.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=pubname%3AREVLI%21Revista%2BLideres%2B%2528Quito%252C%2BEcuador%2529&maxresults=60&f=advanced&val-base-0=ley&fld-base-0=alltext&bln-base-1=and&val-base-1=posponer&fld-base-1=alltext&fld-nav-0=YMD_date&val-nav-0=-2026.4
+2026-05-25 09:11:27,057 - INFO - [线程6333411328|账号41172184627362] 🔍 开始处理新二组合(policy_uncertainty)：Asamblea Nacional + rescindir 
+2026-05-25 09:11:27,057 - INFO - ✅ 二组合 ('policy_uncertainty', 'ley', 'posponer') 处理成功 (96/141)
+2026-05-25 09:11:30,128 - INFO - [线程6215626752|账号41172631627351] ❌ 二组合(policy_uncertainty) Asamblea Nacional + vago 无结果 📍 URL: https://infoweb-newsbank-com.dclibrary.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=pubname%3AREVLI%21Revista%2BLideres%2B%2528Quito%252C%2BEcuador%2529&maxresults=60&f=advanced&val-base-0=Asamblea%20Nacional&fld-base-0=alltext&bln-base-1=and&val-base-1=vago&fld-base-1=alltext&fld-nav-0=YMD_date&val-nav-0=-2026.4
+2026-05-25 09:11:30,128 - INFO - [线程6215626752|账号41172631627351] 🔍 开始处理新二组合(policy_uncertainty)：Presidente + incierto 
+2026-05-25 09:11:30,129 - INFO - ✅ 二组合 ('policy_uncertainty', 'Asamblea Nacional', 'vago') 处理成功 (97/141)
+2026-05-25 09:11:30,288 - INFO - [线程6148321280|账号41172560626291] ❌ 二组合(policy_uncertainty) Asamblea Nacional + desconocido 无结果 📍 URL: https://infoweb-newsbank-com.dclibrary.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=pubname%3AREVLI%21Revista%2BLideres%2B%2528Quito%252C%2BEcuador%2529&maxresults=60&f=advanced&val-base-0=Asamblea%20Nacional&fld-base-0=alltext&bln-base-1=and&val-base-1=desconocido&fld-base-1=alltext&fld-nav-0=YMD_date&val-nav-0=-2026.4
+2026-05-25 09:11:30,288 - INFO - [线程6148321280|账号41172560626291] 🔍 开始处理新二组合(policy_uncertainty)：Presidente + incierto 
+2026-05-25 09:11:30,288 - INFO - ✅ 二组合 ('policy_uncertainty', 'Asamblea Nacional', 'desconocido') 处理成功 (98/141)
+2026-05-25 09:11:31,341 - INFO - [线程6350237696|账号41172318627363] ❌ 二组合(policy_uncertainty) Asamblea Nacional + retrasar 无结果 📍 URL: https://infoweb-newsbank-com.dclibrary.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=pubname%3AREVLI%21Revista%2BLideres%2B%2528Quito%252C%2BEcuador%2529&maxresults=60&f=advanced&val-base-0=Asamblea%20Nacional&fld-base-0=alltext&bln-base-1=and&val-base-1=retrasar&fld-base-1=alltext&fld-nav-0=YMD_date&val-nav-0=-2026.4
+2026-05-25 09:11:31,341 - INFO - [线程6350237696|账号41172318627363] 🔍 开始处理新二组合(policy_uncertainty)：Presidente + impredecible 
+2026-05-25 09:11:31,342 - INFO - ✅ 二组合 ('policy_uncertainty', 'Asamblea Nacional', 'retrasar') 处理成功 (99/141)
+2026-05-25 09:11:34,874 - INFO - [线程14|账号41172932627364] ✅ 登录成功（DC 卡号登录）
+2026-05-25 09:11:34,874 - INFO - [浏览器14|账号41172932627364] ✅ 重建后登录成功
+2026-05-25 09:11:34,877 - INFO - [线程6367064064|账号41172932627364] ✅ 异常后浏览器重建成功
+2026-05-25 09:11:39,430 - INFO - [线程6266105856|账号41172572627355] 🔍 开始处理新二组合(climate_uncertainty)：huracán + incertidumbre (尝试 2/3)
+2026-05-25 09:11:40,389 - INFO - [线程6333411328|账号41172184627362] ❌ 二组合(policy_uncertainty) Asamblea Nacional + rescindir 无结果 📍 URL: https://infoweb-newsbank-com.dclibrary.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=pubname%3AREVLI%21Revista%2BLideres%2B%2528Quito%252C%2BEcuador%2529&maxresults=60&f=advanced&val-base-0=Asamblea%20Nacional&fld-base-0=alltext&bln-base-1=and&val-base-1=rescindir&fld-base-1=alltext&fld-nav-0=YMD_date&val-nav-0=-2026.4
+2026-05-25 09:11:40,389 - INFO - [线程6333411328|账号41172184627362] 🔍 开始处理新二组合(policy_uncertainty)：Presidente + diferir 
+2026-05-25 09:11:40,389 - INFO - ✅ 二组合 ('policy_uncertainty', 'Asamblea Nacional', 'rescindir') 处理成功 (100/141)
+2026-05-25 09:11:43,506 - INFO - [线程6215626752|账号41172631627351] ✅ 二组合(policy_uncertainty) Presidente + incierto 有 9 条结果 📍 URL: https://infoweb-newsbank-com.dclibrary.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=pubname%3AREVLI%21Revista%2BLideres%2B%2528Quito%252C%2BEcuador%2529&maxresults=60&f=advanced&val-base-0=Presidente&fld-base-0=alltext&bln-base-1=and&val-base-1=incierto&fld-base-1=alltext&fld-nav-0=YMD_date&val-nav-0=-2026.4
+2026-05-25 09:11:43,506 - INFO - [线程6215626752|账号41172631627351] 🔍 开始处理新二组合(policy_uncertainty)：Presidente + cancelar 
+2026-05-25 09:11:43,506 - INFO - ✅ 二组合 ('policy_uncertainty', 'Presidente', 'incierto') 处理成功 (101/141)
+2026-05-25 09:11:43,678 - INFO - [线程6148321280|账号41172560626291] ✅ 二组合(policy_uncertainty) Presidente + incierto 有 9 条结果 📍 URL: https://infoweb-newsbank-com.dclibrary.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=pubname%3AREVLI%21Revista%2BLideres%2B%2528Quito%252C%2BEcuador%2529&maxresults=60&f=advanced&val-base-0=Presidente&fld-base-0=alltext&bln-base-1=and&val-base-1=incierto&fld-base-1=alltext&fld-nav-0=YMD_date&val-nav-0=-2026.4
+2026-05-25 09:11:43,679 - INFO - [线程6148321280|账号41172560626291] 🔍 开始处理新二组合(policy_uncertainty)：Presidente + retirar 
+2026-05-25 09:11:43,679 - INFO - ✅ 二组合 ('policy_uncertainty', 'Presidente', 'incierto') 处理成功 (102/141)
+2026-05-25 09:11:44,441 - INFO - [线程6165147648|账号41172933627348] 🔍 开始处理新二组合(climate_uncertainty)：tormenta de nieve + cancelar (尝试 2/3)
+2026-05-25 09:11:44,685 - INFO - [线程6350237696|账号41172318627363] ✅ 二组合(policy_uncertainty) Presidente + impredecible 有 1 条结果 📍 URL: https://infoweb-newsbank-com.dclibrary.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=pubname%3AREVLI%21Revista%2BLideres%2B%2528Quito%252C%2BEcuador%2529&maxresults=60&f=advanced&val-base-0=Presidente&fld-base-0=alltext&bln-base-1=and&val-base-1=impredecible&fld-base-1=alltext&fld-nav-0=YMD_date&val-nav-0=-2026.4
+2026-05-25 09:11:44,685 - INFO - [线程6350237696|账号41172318627363] 🔍 开始处理新二组合(policy_uncertainty)：Administración Presidencial + desconocido 
+2026-05-25 09:11:44,685 - INFO - ✅ 二组合 ('policy_uncertainty', 'Presidente', 'impredecible') 处理成功 (103/141)
+2026-05-25 09:11:45,184 - INFO - [线程6316584960|账号41172712627360] 🔍 开始处理新二组合(climate_uncertainty)：huracán + cancelar (尝试 2/3)
+2026-05-25 09:11:45,517 - INFO - [线程6249279488|账号41172815627354] 🔍 开始处理新二组合(climate_uncertainty)：lluvia intensa + cancelar (尝试 2/3)
+2026-05-25 09:11:48,460 - INFO - [线程6181974016|账号41172442627349] 🔍 开始处理新二组合(climate_uncertainty)：tormenta de nieve + retirar (尝试 2/3)
+2026-05-25 09:11:53,685 - INFO - [线程6333411328|账号41172184627362] ✅ 二组合(policy_uncertainty) Presidente + diferir 有 1 条结果 📍 URL: https://infoweb-newsbank-com.dclibrary.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=pubname%3AREVLI%21Revista%2BLideres%2B%2528Quito%252C%2BEcuador%2529&maxresults=60&f=advanced&val-base-0=Presidente&fld-base-0=alltext&bln-base-1=and&val-base-1=diferir&fld-base-1=alltext&fld-nav-0=YMD_date&val-nav-0=-2026.4
+2026-05-25 09:11:53,686 - INFO - [线程6333411328|账号41172184627362] 🔍 开始处理新二组合(policy_uncertainty)：Administración Presidencial + impredecible 
+2026-05-25 09:11:53,686 - INFO - ✅ 二组合 ('policy_uncertainty', 'Presidente', 'diferir') 处理成功 (104/141)
+2026-05-25 09:11:54,161 - INFO - [线程9|账号41172604627356] ✅ 登录成功（DC 卡号登录）
+2026-05-25 09:11:54,161 - INFO - [浏览器9|账号41172604627356] ✅ 重建后登录成功
+2026-05-25 09:11:54,163 - INFO - [线程6282932224|账号41172604627356] ✅ 异常后浏览器重建成功
+2026-05-25 09:11:57,971 - INFO - [线程6350237696|账号41172318627363] ❌ 二组合(policy_uncertainty) Administración Presidencial + desconocido 无结果 📍 URL: https://infoweb-newsbank-com.dclibrary.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=pubname%3AREVLI%21Revista%2BLideres%2B%2528Quito%252C%2BEcuador%2529&maxresults=60&f=advanced&val-base-0=Administraci%C3%B3n%20Presidencial&fld-base-0=alltext&bln-base-1=and&val-base-1=desconocido&fld-base-1=alltext&fld-nav-0=YMD_date&val-nav-0=-2026.4
+2026-05-25 09:11:57,971 - INFO - [线程6350237696|账号41172318627363] 🔍 开始处理新二组合(policy_uncertainty)：Administración Presidencial + abolir 
+2026-05-25 09:11:57,971 - INFO - ✅ 二组合 ('policy_uncertainty', 'Administración Presidencial', 'desconocido') 处理成功 (105/141)
+2026-05-25 09:12:01,931 - INFO - [线程6181974016|账号41172442627349] ❌ 二组合(climate_uncertainty) tormenta de nieve + retirar 无结果 📍 URL: https://infoweb-newsbank-com.dclibrary.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=pubname%3AREVLI%21Revista%2BLideres%2B%2528Quito%252C%2BEcuador%2529&maxresults=60&f=advanced&val-base-0=tormenta%20de%20nieve&fld-base-0=alltext&bln-base-1=and&val-base-1=retirar&fld-base-1=alltext&fld-nav-0=YMD_date&val-nav-0=-2026.4
+2026-05-25 09:12:01,932 - INFO - [线程6181974016|账号41172442627349] 🔍 开始处理新二组合(policy_uncertainty)：Administración Presidencial + cancelar 
+2026-05-25 09:12:01,932 - INFO - ✅ 二组合 ('climate_uncertainty', 'tormenta de nieve', 'retirar') 处理成功 (106/141)
+2026-05-25 09:12:05,351 - INFO - [线程15|账号41172846627365] ✅ 登录成功（DC 卡号登录）
+2026-05-25 09:12:05,351 - INFO - [浏览器15|账号41172846627365] ✅ 重建后登录成功
+2026-05-25 09:12:05,353 - INFO - [线程6383890432|账号41172846627365] ✅ 异常后浏览器重建成功
+2026-05-25 09:12:06,359 - INFO - [线程6215626752|账号41172631627351] ✅ 二组合(policy_uncertainty) Presidente + cancelar 有 5 条结果 📍 URL: https://infoweb-newsbank-com.dclibrary.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=pubname%3AREVLI%21Revista%2BLideres%2B%2528Quito%252C%2BEcuador%2529&maxresults=60&f=advanced&val-base-0=Presidente&fld-base-0=alltext&bln-base-1=and&val-base-1=cancelar&fld-base-1=alltext&fld-nav-0=YMD_date&val-nav-0=-2026.4
+2026-05-25 09:12:06,359 - INFO - [线程6215626752|账号41172631627351] 🔍 开始处理新二组合(policy_uncertainty)：Ministro + desconocido 
+2026-05-25 09:12:06,359 - INFO - ✅ 二组合 ('policy_uncertainty', 'Presidente', 'cancelar') 处理成功 (107/141)
+2026-05-25 09:12:07,189 - INFO - [线程6249279488|账号41172815627354] ❌ 二组合(climate_uncertainty) lluvia intensa + cancelar 无结果 📍 URL: https://infoweb-newsbank-com.dclibrary.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=pubname%3AREVLI%21Revista%2BLideres%2B%2528Quito%252C%2BEcuador%2529&maxresults=60&f=advanced&val-base-0=lluvia%20intensa&fld-base-0=alltext&bln-base-1=and&val-base-1=cancelar&fld-base-1=alltext&fld-nav-0=YMD_date&val-nav-0=-2026.4
+2026-05-25 09:12:07,189 - INFO - [线程6249279488|账号41172815627354] 🔍 开始处理新二组合(policy_uncertainty)：Ministro + retrasar 
+2026-05-25 09:12:07,189 - INFO - ✅ 二组合 ('climate_uncertainty', 'lluvia intensa', 'cancelar') 处理成功 (108/141)
+2026-05-25 09:12:07,193 - INFO - [线程6148321280|账号41172560626291] ✅ 二组合(policy_uncertainty) Presidente + retirar 有 4 条结果 📍 URL: https://infoweb-newsbank-com.dclibrary.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=pubname%3AREVLI%21Revista%2BLideres%2B%2528Quito%252C%2BEcuador%2529&maxresults=60&f=advanced&val-base-0=Presidente&fld-base-0=alltext&bln-base-1=and&val-base-1=retirar&fld-base-1=alltext&fld-nav-0=YMD_date&val-nav-0=-2026.4
+2026-05-25 09:12:07,194 - INFO - [线程6148321280|账号41172560626291] 🔍 开始处理新二组合(policy_uncertainty)：Ministro + abolir 
+2026-05-25 09:12:07,194 - INFO - ✅ 二组合 ('policy_uncertainty', 'Presidente', 'retirar') 处理成功 (109/141)
+2026-05-25 09:12:07,524 - ERROR - ❌ [线程4|账号41172258627350] 登录异常: Message: stale element reference: stale element not found
+  (Session info: chrome=148.0.7778.179); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+0   chromedriver                        0x0000000100de8c40 cxxbridge1$str$ptr + 3221216
+1   chromedriver                        0x0000000100de0b1c cxxbridge1$str$ptr + 3188156
+2   chromedriver                        0x00000001008a38f4 _RNvCsiKAbIcglKMQ_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 75152
+3   chromedriver                        0x00000001008b55b4 _RNvCsiKAbIcglKMQ_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 148048
+4   chromedriver                        0x00000001008b4664 _RNvCsiKAbIcglKMQ_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 144128
+5   chromedriver                        0x00000001008aa380 _RNvCsiKAbIcglKMQ_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 102428
+6   chromedriver                        0x00000001008aa48c _RNvCsiKAbIcglKMQ_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 102696
+7   chromedriver                        0x00000001008a8b60 _RNvCsiKAbIcglKMQ_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 96252
+8   chromedriver                        0x00000001008ac004 _RNvCsiKAbIcglKMQ_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 109728
+9   chromedriver                        0x000000010092c690 _RNvCsiKAbIcglKMQ_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 635692
+10  chromedriver                        0x000000010092b6f4 _RNvCsiKAbIcglKMQ_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 631696
+11  chromedriver                        0x00000001008e19c0 _RNvCsiKAbIcglKMQ_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 329308
+12  chromedriver                        0x0000000100da6b70 cxxbridge1$str$ptr + 2950672
+13  chromedriver                        0x0000000100daa2c8 cxxbridge1$str$ptr + 2964840
+14  chromedriver                        0x0000000100d8b8a8 cxxbridge1$str$ptr + 2839368
+15  chromedriver                        0x0000000100daab48 cxxbridge1$str$ptr + 2967016
+16  chromedriver                        0x0000000100d7c3d4 cxxbridge1$str$ptr + 2776692
+17  chromedriver                        0x0000000100dcf7ac cxxbridge1$str$ptr + 3117644
+18  chromedriver                        0x0000000100dcf90c cxxbridge1$str$ptr + 3117996
+19  chromedriver                        0x0000000100de0774 cxxbridge1$str$ptr + 3187220
+20  libsystem_pthread.dylib             0x0000000194ddbc0c _pthread_start + 136
+21  libsystem_pthread.dylib             0x0000000194dd6b80 thread_start + 8
+
+2026-05-25 09:12:07,524 - ERROR - ❌ [浏览器4|账号41172258627350]  重建后登录失败
+2026-05-25 09:12:07,524 - WARNING - ⚠️ [线程6198800384|账号41172258627350] 异常后浏览器重建失败
+2026-05-25 09:12:07,524 - ERROR -   ❌ [线程6198800384|账号41172258627350] 二组合(climate_uncertainty) tormenta de nieve + suspender 处理异常: 浏览器重建失败，48秒后重试 (2/3)
+2026-05-25 09:12:08,526 - ERROR - ❌ [线程6198800384|账号41172258627350]  无法找到对应的config，跳过当前组合
+2026-05-25 09:12:08,526 - WARNING - ⚠️ [线程6198800384|账号41172258627350]  无法将driver放回队列
+2026-05-25 09:12:08,526 - INFO - [线程6198800384|账号未知账号] 🔍 开始处理新二组合(policy_uncertainty)：Ministro + cancelar 
+2026-05-25 09:12:08,526 - ERROR - ❌ 二组合 ('climate_uncertainty', 'tormenta de nieve', 'suspender') 处理失败 (110/141)
+2026-05-25 09:12:08,529 - ERROR - ❌ [线程6198800384|账号未知账号] 页面无响应，加载超时
+2026-05-25 09:12:08,531 - ERROR - ❌[线程6198800384|账号未知账号] 刷新页面后重新搜索失败: HTTPConnectionPool(host='localhost', port=53889): Max retries exceeded with url: /session/80e61eef7e35079b5b8e137d174f2db5/refresh (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1069eb670>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2026-05-25 09:12:08,531 - WARNING - ⚠️ [线程6198800384|账号未知账号] 第1次尝试深度重置
+2026-05-25 09:12:08,534 - WARNING - ❌ [线程6198800384|账号未知账号] 第1次深度重置失败: HTTPConnectionPool(host='localhost', port=53889): Max retries exceeded with url: /session/80e61eef7e35079b5b8e137d174f2db5/refresh (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1069cc9d0>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2026-05-25 09:12:09,301 - INFO - [线程6165147648|账号41172933627348] ❌ 二组合(climate_uncertainty) tormenta de nieve + cancelar 无结果 📍 URL: https://infoweb-newsbank-com.dclibrary.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=pubname%3AREVLI%21Revista%2BLideres%2B%2528Quito%252C%2BEcuador%2529&maxresults=60&f=advanced&val-base-0=tormenta%20de%20nieve&fld-base-0=alltext&bln-base-1=and&val-base-1=cancelar&fld-base-1=alltext&fld-nav-0=YMD_date&val-nav-0=-2026.4
+2026-05-25 09:12:09,301 - INFO - [线程6165147648|账号41172933627348] 🔍 开始处理新二组合(policy_uncertainty)：Ministro + retirar 
+2026-05-25 09:12:09,301 - INFO - ✅ 二组合 ('climate_uncertainty', 'tormenta de nieve', 'cancelar') 处理成功 (111/141)
+2026-05-25 09:12:09,536 - WARNING - ⚠️ [线程6198800384|账号未知账号] 第2次尝试深度重置
+2026-05-25 09:12:09,623 - WARNING - ❌ [线程6198800384|账号未知账号] 第2次深度重置失败: HTTPConnectionPool(host='localhost', port=53889): Max retries exceeded with url: /session/80e61eef7e35079b5b8e137d174f2db5/refresh (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1069cca60>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2026-05-25 09:12:10,625 - WARNING - ⚠️ [线程6198800384|账号未知账号] 第3次尝试深度重置
+2026-05-25 09:12:10,627 - WARNING - ❌ [线程6198800384|账号未知账号] 第3次深度重置失败: HTTPConnectionPool(host='localhost', port=53889): Max retries exceeded with url: /session/80e61eef7e35079b5b8e137d174f2db5/refresh (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x11058c430>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2026-05-25 09:12:10,628 - ERROR - ❌ [线程6198800384|账号未知账号] 所有深度重置尝试都失败
+2026-05-25 09:12:10,628 - ERROR - ❌ [线程6198800384|账号未知账号] 深度重置完全失败，无法恢复正常搜索
+2026-05-25 09:12:10,628 - WARNING - ⚠️ [线程6198800384|账号未知账号]  二组合(policy_uncertainty) Ministro + cancelar 搜索失败，7秒后重试 (1/3)
+2026-05-25 09:12:11,632 - ERROR - ❌[线程6198800384|账号未知账号]  无法找到对应的config，跳过当前组合
+2026-05-25 09:12:11,632 - ERROR -   ❌ [线程6198800384|账号未知账号] 二组合(policy_uncertainty) Ministro + cancelar 处理异常: 无法找到对应的config，42秒后重试 (2/3)
+2026-05-25 09:12:12,633 - ERROR - ❌ [线程6198800384|账号未知账号]  无法找到对应的config，跳过当前组合
+2026-05-25 09:12:12,634 - WARNING - ⚠️ [线程6198800384|账号未知账号]  无法将driver放回队列
+2026-05-25 09:12:12,634 - INFO - [线程6198800384|账号未知账号] 🔍 开始处理新二组合(policy_uncertainty)：gobierno + vago 
+2026-05-25 09:12:12,634 - ERROR - ❌ 二组合 ('policy_uncertainty', 'Ministro', 'cancelar') 处理失败 (112/141)
+2026-05-25 09:12:12,636 - ERROR - ❌ [线程6198800384|账号未知账号] 页面无响应，加载超时
+2026-05-25 09:12:12,638 - ERROR - ❌[线程6198800384|账号未知账号] 刷新页面后重新搜索失败: HTTPConnectionPool(host='localhost', port=53889): Max retries exceeded with url: /session/80e61eef7e35079b5b8e137d174f2db5/refresh (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x110597790>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2026-05-25 09:12:12,638 - WARNING - ⚠️ [线程6198800384|账号未知账号] 第1次尝试深度重置
+2026-05-25 09:12:12,639 - WARNING - ❌ [线程6198800384|账号未知账号] 第1次深度重置失败: HTTPConnectionPool(host='localhost', port=53889): Max retries exceeded with url: /session/80e61eef7e35079b5b8e137d174f2db5/refresh (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1069cc190>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2026-05-25 09:12:13,644 - WARNING - ⚠️ [线程6198800384|账号未知账号] 第2次尝试深度重置
+2026-05-25 09:12:13,658 - WARNING - ❌ [线程6198800384|账号未知账号] 第2次深度重置失败: HTTPConnectionPool(host='localhost', port=53889): Max retries exceeded with url: /session/80e61eef7e35079b5b8e137d174f2db5/refresh (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x110597a00>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2026-05-25 09:12:14,662 - WARNING - ⚠️ [线程6198800384|账号未知账号] 第3次尝试深度重置
+2026-05-25 09:12:14,665 - WARNING - ❌ [线程6198800384|账号未知账号] 第3次深度重置失败: HTTPConnectionPool(host='localhost', port=53889): Max retries exceeded with url: /session/80e61eef7e35079b5b8e137d174f2db5/refresh (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1105b2f40>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2026-05-25 09:12:14,666 - ERROR - ❌ [线程6198800384|账号未知账号] 所有深度重置尝试都失败
+2026-05-25 09:12:14,666 - ERROR - ❌ [线程6198800384|账号未知账号] 深度重置完全失败，无法恢复正常搜索
+2026-05-25 09:12:14,666 - WARNING - ⚠️ [线程6198800384|账号未知账号]  二组合(policy_uncertainty) gobierno + vago 搜索失败，9秒后重试 (1/3)
+2026-05-25 09:12:15,252 - INFO - [线程6181974016|账号41172442627349] ❌ 二组合(policy_uncertainty) Administración Presidencial + cancelar 无结果 📍 URL: https://infoweb-newsbank-com.dclibrary.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=pubname%3AREVLI%21Revista%2BLideres%2B%2528Quito%252C%2BEcuador%2529&maxresults=60&f=advanced&val-base-0=Administraci%C3%B3n%20Presidencial&fld-base-0=alltext&bln-base-1=and&val-base-1=cancelar&fld-base-1=alltext&fld-nav-0=YMD_date&val-nav-0=-2026.4
+2026-05-25 09:12:15,252 - INFO - [线程6181974016|账号41172442627349] 🔍 开始处理新二组合(policy_uncertainty)：gobierno + retrasar 
+2026-05-25 09:12:15,252 - INFO - ✅ 二组合 ('policy_uncertainty', 'Administración Presidencial', 'cancelar') 处理成功 (113/141)
+2026-05-25 09:12:15,670 - ERROR - ❌[线程6198800384|账号未知账号]  无法找到对应的config，跳过当前组合
+2026-05-25 09:12:15,670 - ERROR -   ❌ [线程6198800384|账号未知账号] 二组合(policy_uncertainty) gobierno + vago 处理异常: 无法找到对应的config，20秒后重试 (2/3)
+2026-05-25 09:12:16,671 - ERROR - ❌ [线程6198800384|账号未知账号]  无法找到对应的config，跳过当前组合
+2026-05-25 09:12:16,671 - WARNING - ⚠️ [线程6198800384|账号未知账号]  无法将driver放回队列
+2026-05-25 09:12:16,671 - INFO - [线程6198800384|账号未知账号] 🔍 开始处理新二组合(policy_uncertainty)：gobierno + abolir 
+2026-05-25 09:12:16,671 - ERROR - ❌ 二组合 ('policy_uncertainty', 'gobierno', 'vago') 处理失败 (114/141)
+2026-05-25 09:12:16,674 - ERROR - ❌ [线程6198800384|账号未知账号] 页面无响应，加载超时
+2026-05-25 09:12:16,676 - ERROR - ❌[线程6198800384|账号未知账号] 刷新页面后重新搜索失败: HTTPConnectionPool(host='localhost', port=53889): Max retries exceeded with url: /session/80e61eef7e35079b5b8e137d174f2db5/refresh (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x11045fca0>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2026-05-25 09:12:16,676 - WARNING - ⚠️ [线程6198800384|账号未知账号] 第1次尝试深度重置
+2026-05-25 09:12:16,678 - WARNING - ❌ [线程6198800384|账号未知账号] 第1次深度重置失败: HTTPConnectionPool(host='localhost', port=53889): Max retries exceeded with url: /session/80e61eef7e35079b5b8e137d174f2db5/refresh (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x10697ec70>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2026-05-25 09:12:17,681 - WARNING - ⚠️ [线程6198800384|账号未知账号] 第2次尝试深度重置
+2026-05-25 09:12:17,685 - WARNING - ❌ [线程6198800384|账号未知账号] 第2次深度重置失败: HTTPConnectionPool(host='localhost', port=53889): Max retries exceeded with url: /session/80e61eef7e35079b5b8e137d174f2db5/refresh (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1119033d0>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2026-05-25 09:12:18,686 - WARNING - ⚠️ [线程6198800384|账号未知账号] 第3次尝试深度重置
+2026-05-25 09:12:18,689 - WARNING - ❌ [线程6198800384|账号未知账号] 第3次深度重置失败: HTTPConnectionPool(host='localhost', port=53889): Max retries exceeded with url: /session/80e61eef7e35079b5b8e137d174f2db5/refresh (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111903970>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2026-05-25 09:12:18,689 - ERROR - ❌ [线程6198800384|账号未知账号] 所有深度重置尝试都失败
+2026-05-25 09:12:18,689 - ERROR - ❌ [线程6198800384|账号未知账号] 深度重置完全失败，无法恢复正常搜索
+2026-05-25 09:12:18,689 - WARNING - ⚠️ [线程6198800384|账号未知账号]  二组合(policy_uncertainty) gobierno + abolir 搜索失败，12秒后重试 (1/3)
+2026-05-25 09:12:19,664 - INFO - [线程6215626752|账号41172631627351] ❌ 二组合(policy_uncertainty) Ministro + desconocido 无结果 📍 URL: https://infoweb-newsbank-com.dclibrary.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=pubname%3AREVLI%21Revista%2BLideres%2B%2528Quito%252C%2BEcuador%2529&maxresults=60&f=advanced&val-base-0=Ministro&fld-base-0=alltext&bln-base-1=and&val-base-1=desconocido&fld-base-1=alltext&fld-nav-0=YMD_date&val-nav-0=-2026.4
+2026-05-25 09:12:19,667 - INFO - [线程6215626752|账号41172631627351] 🔍 开始处理新二组合(policy_uncertainty)：Ministerio del Ambiente, Agua y Transición Ecológica + incierto 
+2026-05-25 09:12:19,667 - INFO - ✅ 二组合 ('policy_uncertainty', 'Ministro', 'desconocido') 处理成功 (115/141)
+2026-05-25 09:12:19,691 - ERROR - ❌[线程6198800384|账号未知账号]  无法找到对应的config，跳过当前组合
+2026-05-25 09:12:19,694 - ERROR -   ❌ [线程6198800384|账号未知账号] 二组合(policy_uncertainty) gobierno + abolir 处理异常: 无法找到对应的config，28秒后重试 (2/3)
+2026-05-25 09:12:20,638 - INFO - [线程6249279488|账号41172815627354] ✅ 二组合(policy_uncertainty) Ministro + retrasar 有 1 条结果 📍 URL: https://infoweb-newsbank-com.dclibrary.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=pubname%3AREVLI%21Revista%2BLideres%2B%2528Quito%252C%2BEcuador%2529&maxresults=60&f=advanced&val-base-0=Ministro&fld-base-0=alltext&bln-base-1=and&val-base-1=retrasar&fld-base-1=alltext&fld-nav-0=YMD_date&val-nav-0=-2026.4
+2026-05-25 09:12:20,638 - INFO - [线程6249279488|账号41172815627354] 🔍 开始处理新二组合(policy_uncertainty)：Ministerio del Ambiente, Agua y Transición Ecológica + incierto 
+2026-05-25 09:12:20,638 - INFO - ✅ 二组合 ('policy_uncertainty', 'Ministro', 'retrasar') 处理成功 (116/141)
+2026-05-25 09:12:20,642 - INFO - [线程6148321280|账号41172560626291] ✅ 二组合(policy_uncertainty) Ministro + abolir 有 1 条结果 📍 URL: https://infoweb-newsbank-com.dclibrary.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=pubname%3AREVLI%21Revista%2BLideres%2B%2528Quito%252C%2BEcuador%2529&maxresults=60&f=advanced&val-base-0=Ministro&fld-base-0=alltext&bln-base-1=and&val-base-1=abolir&fld-base-1=alltext&fld-nav-0=YMD_date&val-nav-0=-2026.4
+2026-05-25 09:12:20,642 - INFO - [线程6148321280|账号41172560626291] 🔍 开始处理新二组合(policy_uncertainty)：Ministerio del Ambiente, Agua y Transición Ecológica + desconocido 
+2026-05-25 09:12:20,642 - INFO - ✅ 二组合 ('policy_uncertainty', 'Ministro', 'abolir') 处理成功 (117/141)
+2026-05-25 09:12:20,695 - ERROR - ❌ [线程6198800384|账号未知账号]  无法找到对应的config，跳过当前组合
+2026-05-25 09:12:20,695 - WARNING - ⚠️ [线程6198800384|账号未知账号]  无法将driver放回队列
+2026-05-25 09:12:20,696 - INFO - [线程6198800384|账号未知账号] 🔍 开始处理新二组合(policy_uncertainty)：Ministerio del Ambiente, Agua y Transición Ecológica + ambiguo 
+2026-05-25 09:12:20,698 - ERROR - ❌ 二组合 ('policy_uncertainty', 'gobierno', 'abolir') 处理失败 (118/141)
+2026-05-25 09:12:20,747 - ERROR - ❌ [线程6198800384|账号未知账号] 页面无响应，加载超时
+2026-05-25 09:12:20,787 - ERROR - ❌[线程6198800384|账号未知账号] 刷新页面后重新搜索失败: HTTPConnectionPool(host='localhost', port=53889): Max retries exceeded with url: /session/80e61eef7e35079b5b8e137d174f2db5/refresh (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1119032b0>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2026-05-25 09:12:20,787 - WARNING - ⚠️ [线程6198800384|账号未知账号] 第1次尝试深度重置
+2026-05-25 09:12:20,792 - WARNING - ❌ [线程6198800384|账号未知账号] 第1次深度重置失败: HTTPConnectionPool(host='localhost', port=53889): Max retries exceeded with url: /session/80e61eef7e35079b5b8e137d174f2db5/refresh (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111903f10>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2026-05-25 09:12:21,696 - INFO - [线程6350237696|账号41172318627363] ❌ 二组合(policy_uncertainty) Administración Presidencial + abolir 无结果 📍 URL: https://infoweb-newsbank-com.dclibrary.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=pubname%3AREVLI%21Revista%2BLideres%2B%2528Quito%252C%2BEcuador%2529&maxresults=60&f=advanced&val-base-0=Administraci%C3%B3n%20Presidencial&fld-base-0=alltext&bln-base-1=and&val-base-1=abolir&fld-base-1=alltext&fld-nav-0=YMD_date&val-nav-0=-2026.4
+2026-05-25 09:12:21,696 - INFO - [线程6350237696|账号41172318627363] 🔍 开始处理新二组合(policy_uncertainty)：Ministerio del Ambiente, Agua y Transición Ecológica + abolir 
+2026-05-25 09:12:21,696 - INFO - ✅ 二组合 ('policy_uncertainty', 'Administración Presidencial', 'abolir') 处理成功 (119/141)
+2026-05-25 09:12:21,796 - WARNING - ⚠️ [线程6198800384|账号未知账号] 第2次尝试深度重置
+2026-05-25 09:12:21,803 - WARNING - ❌ [线程6198800384|账号未知账号] 第2次深度重置失败: HTTPConnectionPool(host='localhost', port=53889): Max retries exceeded with url: /session/80e61eef7e35079b5b8e137d174f2db5/refresh (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1119225e0>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2026-05-25 09:12:22,727 - INFO - [线程6165147648|账号41172933627348] ✅ 二组合(policy_uncertainty) Ministro + retirar 有 1 条结果 📍 URL: https://infoweb-newsbank-com.dclibrary.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=pubname%3AREVLI%21Revista%2BLideres%2B%2528Quito%252C%2BEcuador%2529&maxresults=60&f=advanced&val-base-0=Ministro&fld-base-0=alltext&bln-base-1=and&val-base-1=retirar&fld-base-1=alltext&fld-nav-0=YMD_date&val-nav-0=-2026.4
+2026-05-25 09:12:22,728 - INFO - [线程6165147648|账号41172933627348] 🔍 开始处理新二组合(policy_uncertainty)：Ministerio del Ambiente, Agua y Transición Ecológica + rescindir 
+2026-05-25 09:12:22,728 - INFO - ✅ 二组合 ('policy_uncertainty', 'Ministro', 'retirar') 处理成功 (120/141)
+2026-05-25 09:12:22,805 - WARNING - ⚠️ [线程6198800384|账号未知账号] 第3次尝试深度重置
+2026-05-25 09:12:22,808 - WARNING - ❌ [线程6198800384|账号未知账号] 第3次深度重置失败: HTTPConnectionPool(host='localhost', port=53889): Max retries exceeded with url: /session/80e61eef7e35079b5b8e137d174f2db5/refresh (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111922a90>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2026-05-25 09:12:22,808 - ERROR - ❌ [线程6198800384|账号未知账号] 所有深度重置尝试都失败
+2026-05-25 09:12:22,808 - ERROR - ❌ [线程6198800384|账号未知账号] 深度重置完全失败，无法恢复正常搜索
+2026-05-25 09:12:22,808 - WARNING - ⚠️ [线程6198800384|账号未知账号]  二组合(policy_uncertainty) Ministerio del Ambiente, Agua y Transición Ecológica + ambiguo 搜索失败，15秒后重试 (1/3)
+2026-05-25 09:12:23,810 - ERROR - ❌[线程6198800384|账号未知账号]  无法找到对应的config，跳过当前组合
+2026-05-25 09:12:23,810 - ERROR -   ❌ [线程6198800384|账号未知账号] 二组合(policy_uncertainty) Ministerio del Ambiente, Agua y Transición Ecológica + ambiguo 处理异常: 无法找到对应的config，60秒后重试 (2/3)
+2026-05-25 09:12:24,517 - ERROR - ❌ [线程6232453120|账号41172333627353] 页面无响应，加载超时
+2026-05-25 09:12:24,813 - ERROR - ❌ [线程6198800384|账号未知账号]  无法找到对应的config，跳过当前组合
+2026-05-25 09:12:24,813 - WARNING - ⚠️ [线程6198800384|账号未知账号]  无法将driver放回队列
+2026-05-25 09:12:24,813 - INFO - [线程6198800384|账号未知账号] 🔍 开始处理新二组合(policy_uncertainty)：MAATE + desconocido 
+2026-05-25 09:12:24,814 - ERROR - ❌ 二组合 ('policy_uncertainty', 'Ministerio del Ambiente, Agua y Transición Ecológica', 'ambiguo') 处理失败 (121/141)
+2026-05-25 09:12:24,815 - ERROR - ❌ [线程6198800384|账号未知账号] 页面无响应，加载超时
+2026-05-25 09:12:24,820 - ERROR - ❌[线程6198800384|账号未知账号] 刷新页面后重新搜索失败: HTTPConnectionPool(host='localhost', port=53889): Max retries exceeded with url: /session/80e61eef7e35079b5b8e137d174f2db5/refresh (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111922820>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2026-05-25 09:12:24,820 - WARNING - ⚠️ [线程6198800384|账号未知账号] 第1次尝试深度重置
+2026-05-25 09:12:24,822 - WARNING - ❌ [线程6198800384|账号未知账号] 第1次深度重置失败: HTTPConnectionPool(host='localhost', port=53889): Max retries exceeded with url: /session/80e61eef7e35079b5b8e137d174f2db5/refresh (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1119224c0>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2026-05-25 09:12:25,827 - WARNING - ⚠️ [线程6198800384|账号未知账号] 第2次尝试深度重置
+2026-05-25 09:12:25,830 - WARNING - ❌ [线程6198800384|账号未知账号] 第2次深度重置失败: HTTPConnectionPool(host='localhost', port=53889): Max retries exceeded with url: /session/80e61eef7e35079b5b8e137d174f2db5/refresh (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111903b50>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2026-05-25 09:12:26,833 - WARNING - ⚠️ [线程6198800384|账号未知账号] 第3次尝试深度重置
+2026-05-25 09:12:26,835 - WARNING - ❌ [线程6198800384|账号未知账号] 第3次深度重置失败: HTTPConnectionPool(host='localhost', port=53889): Max retries exceeded with url: /session/80e61eef7e35079b5b8e137d174f2db5/refresh (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111903ee0>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2026-05-25 09:12:26,836 - ERROR - ❌ [线程6198800384|账号未知账号] 所有深度重置尝试都失败
+2026-05-25 09:12:26,836 - ERROR - ❌ [线程6198800384|账号未知账号] 深度重置完全失败，无法恢复正常搜索
+2026-05-25 09:12:26,836 - WARNING - ⚠️ [线程6198800384|账号未知账号]  二组合(policy_uncertainty) MAATE + desconocido 搜索失败，11秒后重试 (1/3)
+2026-05-25 09:12:27,838 - ERROR - ❌[线程6198800384|账号未知账号]  无法找到对应的config，跳过当前组合
+2026-05-25 09:12:27,838 - ERROR -   ❌ [线程6198800384|账号未知账号] 二组合(policy_uncertainty) MAATE + desconocido 处理异常: 无法找到对应的config，58秒后重试 (2/3)
+2026-05-25 09:12:28,841 - ERROR - ❌ [线程6198800384|账号未知账号]  无法找到对应的config，跳过当前组合
+2026-05-25 09:12:28,842 - WARNING - ⚠️ [线程6198800384|账号未知账号]  无法将driver放回队列
+2026-05-25 09:12:28,842 - INFO - [线程6198800384|账号未知账号] 🔍 开始处理新二组合(policy_uncertainty)：MAATE + ambiguo 
+2026-05-25 09:12:28,842 - ERROR - ❌ 二组合 ('policy_uncertainty', 'MAATE', 'desconocido') 处理失败 (122/141)
+2026-05-25 09:12:28,847 - ERROR - ❌ [线程6198800384|账号未知账号] 页面无响应，加载超时
+2026-05-25 09:12:28,849 - ERROR - ❌[线程6198800384|账号未知账号] 刷新页面后重新搜索失败: HTTPConnectionPool(host='localhost', port=53889): Max retries exceeded with url: /session/80e61eef7e35079b5b8e137d174f2db5/refresh (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1119032e0>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2026-05-25 09:12:28,849 - WARNING - ⚠️ [线程6198800384|账号未知账号] 第1次尝试深度重置
+2026-05-25 09:12:28,851 - WARNING - ❌ [线程6198800384|账号未知账号] 第1次深度重置失败: HTTPConnectionPool(host='localhost', port=53889): Max retries exceeded with url: /session/80e61eef7e35079b5b8e137d174f2db5/refresh (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111922040>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2026-05-25 09:12:29,856 - WARNING - ⚠️ [线程6198800384|账号未知账号] 第2次尝试深度重置
+2026-05-25 09:12:29,859 - WARNING - ❌ [线程6198800384|账号未知账号] 第2次深度重置失败: HTTPConnectionPool(host='localhost', port=53889): Max retries exceeded with url: /session/80e61eef7e35079b5b8e137d174f2db5/refresh (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1119225e0>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2026-05-25 09:12:30,861 - WARNING - ⚠️ [线程6198800384|账号未知账号] 第3次尝试深度重置
+2026-05-25 09:12:30,865 - WARNING - ❌ [线程6198800384|账号未知账号] 第3次深度重置失败: HTTPConnectionPool(host='localhost', port=53889): Max retries exceeded with url: /session/80e61eef7e35079b5b8e137d174f2db5/refresh (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1105b2b20>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2026-05-25 09:12:30,866 - ERROR - ❌ [线程6198800384|账号未知账号] 所有深度重置尝试都失败
+2026-05-25 09:12:30,866 - ERROR - ❌ [线程6198800384|账号未知账号] 深度重置完全失败，无法恢复正常搜索
+2026-05-25 09:12:30,866 - WARNING - ⚠️ [线程6198800384|账号未知账号]  二组合(policy_uncertainty) MAATE + ambiguo 搜索失败，8秒后重试 (1/3)
+2026-05-25 09:12:31,869 - ERROR - ❌[线程6198800384|账号未知账号]  无法找到对应的config，跳过当前组合
+2026-05-25 09:12:31,869 - ERROR -   ❌ [线程6198800384|账号未知账号] 二组合(policy_uncertainty) MAATE + ambiguo 处理异常: 无法找到对应的config，40秒后重试 (2/3)
+2026-05-25 09:12:31,956 - INFO - [线程10|账号41172744627358] ✅ 登录成功（DC 卡号登录）
+2026-05-25 09:12:31,956 - INFO - [浏览器10|账号41172744627358] ✅ 重建后登录成功
+2026-05-25 09:12:31,962 - INFO - [线程6299758592|账号41172744627358] ✅ 异常后浏览器重建成功
+2026-05-25 09:12:32,049 - INFO - [线程6232453120|账号41172333627353] 异常后尝试刷新页面
+2026-05-25 09:12:32,870 - ERROR - ❌ [线程6198800384|账号未知账号]  无法找到对应的config，跳过当前组合
+2026-05-25 09:12:32,870 - WARNING - ⚠️ [线程6198800384|账号未知账号]  无法将driver放回队列
+2026-05-25 09:12:32,870 - INFO - [线程6198800384|账号未知账号] 🔍 开始处理新二组合(policy_uncertainty)：MAATE + impredecible 
+2026-05-25 09:12:32,870 - ERROR - ❌ 二组合 ('policy_uncertainty', 'MAATE', 'ambiguo') 处理失败 (123/141)
+2026-05-25 09:12:32,873 - ERROR - ❌ [线程6198800384|账号未知账号] 页面无响应，加载超时
+2026-05-25 09:12:32,875 - ERROR - ❌[线程6198800384|账号未知账号] 刷新页面后重新搜索失败: HTTPConnectionPool(host='localhost', port=53889): Max retries exceeded with url: /session/80e61eef7e35079b5b8e137d174f2db5/refresh (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111922bb0>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2026-05-25 09:12:32,875 - WARNING - ⚠️ [线程6198800384|账号未知账号] 第1次尝试深度重置
+2026-05-25 09:12:32,877 - WARNING - ❌ [线程6198800384|账号未知账号] 第1次深度重置失败: HTTPConnectionPool(host='localhost', port=53889): Max retries exceeded with url: /session/80e61eef7e35079b5b8e137d174f2db5/refresh (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111922160>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2026-05-25 09:12:33,040 - INFO - [线程6215626752|账号41172631627351] ❌ 二组合(policy_uncertainty) Ministerio del Ambiente, Agua y Transición Ecológica + incierto 无结果 📍 URL: https://infoweb-newsbank-com.dclibrary.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=pubname%3AREVLI%21Revista%2BLideres%2B%2528Quito%252C%2BEcuador%2529&maxresults=60&f=advanced&val-base-0=Ministerio%20del%20Ambiente%2C%20Agua%20y%20Transici%C3%B3n%20Ecol%C3%B3gica&fld-base-0=alltext&bln-base-1=and&val-base-1=incierto&fld-base-1=alltext&fld-nav-0=YMD_date&val-nav-0=-2026.4
+2026-05-25 09:12:33,040 - INFO - [线程6215626752|账号41172631627351] 🔍 开始处理新二组合(policy_uncertainty)：MAATE + posponer 
+2026-05-25 09:12:33,041 - INFO - ✅ 二组合 ('policy_uncertainty', 'Ministerio del Ambiente, Agua y Transición Ecológica', 'incierto') 处理成功 (124/141)
+2026-05-25 09:12:33,880 - WARNING - ⚠️ [线程6198800384|账号未知账号] 第2次尝试深度重置
+2026-05-25 09:12:33,887 - WARNING - ❌ [线程6198800384|账号未知账号] 第2次深度重置失败: HTTPConnectionPool(host='localhost', port=53889): Max retries exceeded with url: /session/80e61eef7e35079b5b8e137d174f2db5/refresh (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1069f60d0>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2026-05-25 09:12:34,892 - WARNING - ⚠️ [线程6198800384|账号未知账号] 第3次尝试深度重置
+2026-05-25 09:12:34,895 - WARNING - ❌ [线程6198800384|账号未知账号] 第3次深度重置失败: HTTPConnectionPool(host='localhost', port=53889): Max retries exceeded with url: /session/80e61eef7e35079b5b8e137d174f2db5/refresh (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111903e50>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2026-05-25 09:12:34,895 - ERROR - ❌ [线程6198800384|账号未知账号] 所有深度重置尝试都失败
+2026-05-25 09:12:34,895 - ERROR - ❌ [线程6198800384|账号未知账号] 深度重置完全失败，无法恢复正常搜索
+2026-05-25 09:12:34,895 - WARNING - ⚠️ [线程6198800384|账号未知账号]  二组合(policy_uncertainty) MAATE + impredecible 搜索失败，6秒后重试 (1/3)
+2026-05-25 09:12:35,073 - INFO - [线程6350237696|账号41172318627363] ❌ 二组合(policy_uncertainty) Ministerio del Ambiente, Agua y Transición Ecológica + abolir 无结果 📍 URL: https://infoweb-newsbank-com.dclibrary.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=pubname%3AREVLI%21Revista%2BLideres%2B%2528Quito%252C%2BEcuador%2529&maxresults=60&f=advanced&val-base-0=Ministerio%20del%20Ambiente%2C%20Agua%20y%20Transici%C3%B3n%20Ecol%C3%B3gica&fld-base-0=alltext&bln-base-1=and&val-base-1=abolir&fld-base-1=alltext&fld-nav-0=YMD_date&val-nav-0=-2026.4
+2026-05-25 09:12:35,073 - INFO - [线程6350237696|账号41172318627363] 🔍 开始处理新二组合(policy_uncertainty)：MAATE + rescindir 
+2026-05-25 09:12:35,074 - INFO - ✅ 二组合 ('policy_uncertainty', 'Ministerio del Ambiente, Agua y Transición Ecológica', 'abolir') 处理成功 (125/141)
+2026-05-25 09:12:35,899 - ERROR - ❌[线程6198800384|账号未知账号]  无法找到对应的config，跳过当前组合
+2026-05-25 09:12:35,899 - ERROR -   ❌ [线程6198800384|账号未知账号] 二组合(policy_uncertainty) MAATE + impredecible 处理异常: 无法找到对应的config，24秒后重试 (2/3)
+2026-05-25 09:12:36,042 - INFO - [线程6165147648|账号41172933627348] ❌ 二组合(policy_uncertainty) Ministerio del Ambiente, Agua y Transición Ecológica + rescindir 无结果 📍 URL: https://infoweb-newsbank-com.dclibrary.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=pubname%3AREVLI%21Revista%2BLideres%2B%2528Quito%252C%2BEcuador%2529&maxresults=60&f=advanced&val-base-0=Ministerio%20del%20Ambiente%2C%20Agua%20y%20Transici%C3%B3n%20Ecol%C3%B3gica&fld-base-0=alltext&bln-base-1=and&val-base-1=rescindir&fld-base-1=alltext&fld-nav-0=YMD_date&val-nav-0=-2026.4
+2026-05-25 09:12:36,042 - INFO - [线程6165147648|账号41172933627348] 🔍 开始处理新二组合(policy_uncertainty)：MAATE + suspender 
+2026-05-25 09:12:36,042 - INFO - ✅ 二组合 ('policy_uncertainty', 'Ministerio del Ambiente, Agua y Transición Ecológica', 'rescindir') 处理成功 (126/141)
+2026-05-25 09:12:36,903 - ERROR - ❌ [线程6198800384|账号未知账号]  无法找到对应的config，跳过当前组合
+2026-05-25 09:12:36,904 - WARNING - ⚠️ [线程6198800384|账号未知账号]  无法将driver放回队列
+2026-05-25 09:12:36,904 - ERROR - ❌ 二组合 ('policy_uncertainty', 'MAATE', 'impredecible') 处理失败 (127/141)
+2026-05-25 09:12:37,175 - INFO - [线程6181974016|账号41172442627349] ✅ 二组合(policy_uncertainty) gobierno + retrasar 有 2 条结果 📍 URL: https://infoweb-newsbank-com.dclibrary.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=pubname%3AREVLI%21Revista%2BLideres%2B%2528Quito%252C%2BEcuador%2529&maxresults=60&f=advanced&val-base-0=gobierno&fld-base-0=alltext&bln-base-1=and&val-base-1=retrasar&fld-base-1=alltext&fld-nav-0=YMD_date&val-nav-0=-2026.4
+2026-05-25 09:12:37,176 - INFO - ✅ 二组合 ('policy_uncertainty', 'gobierno', 'retrasar') 处理成功 (128/141)
+2026-05-25 09:12:42,144 - INFO - [线程6333411328|账号41172184627362] ❌ 二组合(policy_uncertainty) Administración Presidencial + impredecible 无结果 📍 URL: https://infoweb-newsbank-com.dclibrary.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=pubname%3AREVLI%21Revista%2BLideres%2B%2528Quito%252C%2BEcuador%2529&maxresults=60&f=advanced&val-base-0=Administraci%C3%B3n%20Presidencial&fld-base-0=alltext&bln-base-1=and&val-base-1=impredecible&fld-base-1=alltext&fld-nav-0=YMD_date&val-nav-0=-2026.4
+2026-05-25 09:12:42,144 - INFO - ✅ 二组合 ('policy_uncertainty', 'Administración Presidencial', 'impredecible') 处理成功 (129/141)
+2026-05-25 09:12:42,967 - INFO - [线程6249279488|账号41172815627354] ❌ 二组合(policy_uncertainty) Ministerio del Ambiente, Agua y Transición Ecológica + incierto 无结果 📍 URL: https://infoweb-newsbank-com.dclibrary.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=pubname%3AREVLI%21Revista%2BLideres%2B%2528Quito%252C%2BEcuador%2529&maxresults=60&f=advanced&val-base-0=Ministerio%20del%20Ambiente%2C%20Agua%20y%20Transici%C3%B3n%20Ecol%C3%B3gica&fld-base-0=alltext&bln-base-1=and&val-base-1=incierto&fld-base-1=alltext&fld-nav-0=YMD_date&val-nav-0=-2026.4
+2026-05-25 09:12:42,968 - INFO - ✅ 二组合 ('policy_uncertainty', 'Ministerio del Ambiente, Agua y Transición Ecológica', 'incierto') 处理成功 (130/141)
+2026-05-25 09:12:44,286 - INFO - [线程6148321280|账号41172560626291] ❌ 二组合(policy_uncertainty) Ministerio del Ambiente, Agua y Transición Ecológica + desconocido 无结果 📍 URL: https://infoweb-newsbank-com.dclibrary.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=pubname%3AREVLI%21Revista%2BLideres%2B%2528Quito%252C%2BEcuador%2529&maxresults=60&f=advanced&val-base-0=Ministerio%20del%20Ambiente%2C%20Agua%20y%20Transici%C3%B3n%20Ecol%C3%B3gica&fld-base-0=alltext&bln-base-1=and&val-base-1=desconocido&fld-base-1=alltext&fld-nav-0=YMD_date&val-nav-0=-2026.4
+2026-05-25 09:12:44,286 - INFO - ✅ 二组合 ('policy_uncertainty', 'Ministerio del Ambiente, Agua y Transición Ecológica', 'desconocido') 处理成功 (131/141)
+2026-05-25 09:12:46,326 - INFO - [线程6215626752|账号41172631627351] ❌ 二组合(policy_uncertainty) MAATE + posponer 无结果 📍 URL: https://infoweb-newsbank-com.dclibrary.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=pubname%3AREVLI%21Revista%2BLideres%2B%2528Quito%252C%2BEcuador%2529&maxresults=60&f=advanced&val-base-0=MAATE&fld-base-0=alltext&bln-base-1=and&val-base-1=posponer&fld-base-1=alltext&fld-nav-0=YMD_date&val-nav-0=-2026.4
+2026-05-25 09:12:46,326 - INFO - ✅ 二组合 ('policy_uncertainty', 'MAATE', 'posponer') 处理成功 (132/141)
+2026-05-25 09:12:48,344 - INFO - [线程6350237696|账号41172318627363] ❌ 二组合(policy_uncertainty) MAATE + rescindir 无结果 📍 URL: https://infoweb-newsbank-com.dclibrary.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=pubname%3AREVLI%21Revista%2BLideres%2B%2528Quito%252C%2BEcuador%2529&maxresults=60&f=advanced&val-base-0=MAATE&fld-base-0=alltext&bln-base-1=and&val-base-1=rescindir&fld-base-1=alltext&fld-nav-0=YMD_date&val-nav-0=-2026.4
+2026-05-25 09:12:48,344 - INFO - ✅ 二组合 ('policy_uncertainty', 'MAATE', 'rescindir') 处理成功 (133/141)
+2026-05-25 09:12:49,305 - INFO - [线程6165147648|账号41172933627348] ❌ 二组合(policy_uncertainty) MAATE + suspender 无结果 📍 URL: https://infoweb-newsbank-com.dclibrary.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=pubname%3AREVLI%21Revista%2BLideres%2B%2528Quito%252C%2BEcuador%2529&maxresults=60&f=advanced&val-base-0=MAATE&fld-base-0=alltext&bln-base-1=and&val-base-1=suspender&fld-base-1=alltext&fld-nav-0=YMD_date&val-nav-0=-2026.4
+2026-05-25 09:12:49,305 - INFO - ✅ 二组合 ('policy_uncertainty', 'MAATE', 'suspender') 处理成功 (134/141)
+2026-05-25 09:12:49,622 - INFO - [线程6383890432|账号41172846627365] 🔍 开始处理新二组合(policy_uncertainty)：regulación + desconocido (尝试 2/3)
+2026-05-25 09:12:50,254 - INFO - [线程6299758592|账号41172744627358] 🔍 开始处理新二组合(climate_uncertainty)：huracán + diferir (尝试 2/3)
+2026-05-25 09:12:51,532 - INFO - [线程6367064064|账号41172932627364] 🔍 开始处理新二组合(climate_uncertainty)：inundación + ambiguo (尝试 2/3)
+2026-05-25 09:12:52,850 - INFO - [线程6282932224|账号41172604627356] 🔍 开始处理新二组合(climate_uncertainty)：huracán + ambiguo (尝试 2/3)
+2026-05-25 09:12:53,403 - INFO - [线程6232453120|账号41172333627353] 刷新后重新搜索成功
+2026-05-25 09:12:53,421 - INFO - [线程6232453120|账号41172333627353] ✅ 二组合(policy_uncertainty) ley + incertidumbre 有 11 条结果 📍 URL: https://infoweb-newsbank-com.dclibrary.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=pubname%3AREVLI%21Revista%2BLideres%2B%2528Quito%252C%2BEcuador%2529&maxresults=60&f=advanced&val-base-0=ley&fld-base-0=alltext&bln-base-1=and&val-base-1=incertidumbre&fld-base-1=alltext&fld-nav-0=YMD_date&val-nav-0=-2026.4
+2026-05-25 09:12:53,422 - INFO - ✅ 二组合 ('policy_uncertainty', 'ley', 'incertidumbre') 处理成功 (135/141)
+2026-05-25 09:13:06,229 - INFO - [线程6282932224|账号41172604627356] ❌ 二组合(climate_uncertainty) huracán + ambiguo 无结果 📍 URL: https://infoweb-newsbank-com.dclibrary.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=pubname%3AREVLI%21Revista%2BLideres%2B%2528Quito%252C%2BEcuador%2529&maxresults=60&f=advanced&val-base-0=hurac%C3%A1n&fld-base-0=alltext&bln-base-1=and&val-base-1=ambiguo&fld-base-1=alltext&fld-nav-0=YMD_date&val-nav-0=-2026.4
+2026-05-25 09:13:06,230 - INFO - ✅ 二组合 ('climate_uncertainty', 'huracán', 'ambiguo') 处理成功 (136/141)
+2026-05-25 09:13:20,152 - ERROR - ❌ [线程6266105856|账号41172572627355] 页面无响应，加载超时
+2026-05-25 09:13:22,385 - INFO - [线程6367064064|账号41172932627364] ❌ 二组合(climate_uncertainty) inundación + ambiguo 无结果 📍 URL: https://infoweb-newsbank-com.dclibrary.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=pubname%3AREVLI%21Revista%2BLideres%2B%2528Quito%252C%2BEcuador%2529&maxresults=60&f=advanced&val-base-0=inundaci%C3%B3n&fld-base-0=alltext&bln-base-1=and&val-base-1=ambiguo&fld-base-1=alltext&fld-nav-0=YMD_date&val-nav-0=-2026.4
+2026-05-25 09:13:22,386 - INFO - ✅ 二组合 ('climate_uncertainty', 'inundación', 'ambiguo') 处理成功 (137/141)
+2026-05-25 09:13:25,586 - ERROR - ❌ [线程6316584960|账号41172712627360] 页面无响应，加载超时
+2026-05-25 09:13:32,922 - INFO - [线程6299758592|账号41172744627358] ❌ 二组合(climate_uncertainty) huracán + diferir 无结果 📍 URL: https://infoweb-newsbank-com.dclibrary.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=pubname%3AREVLI%21Revista%2BLideres%2B%2528Quito%252C%2BEcuador%2529&maxresults=60&f=advanced&val-base-0=hurac%C3%A1n&fld-base-0=alltext&bln-base-1=and&val-base-1=diferir&fld-base-1=alltext&fld-nav-0=YMD_date&val-nav-0=-2026.4
+2026-05-25 09:13:32,922 - INFO - ✅ 二组合 ('climate_uncertainty', 'huracán', 'diferir') 处理成功 (138/141)
+2026-05-25 09:13:40,029 - INFO - [线程6266105856|账号41172572627355] 异常后尝试刷新页面
+2026-05-25 09:13:44,446 - INFO - [线程6316584960|账号41172712627360] 异常后尝试刷新页面
+2026-05-25 09:13:57,776 - INFO - [线程6316584960|账号41172712627360] 刷新后重新搜索成功
+2026-05-25 09:13:57,800 - INFO - [线程6316584960|账号41172712627360] ❌ 二组合(climate_uncertainty) huracán + cancelar 无结果 📍 URL: https://infoweb-newsbank-com.dclibrary.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=pubname%3AREVLI%21Revista%2BLideres%2B%2528Quito%252C%2BEcuador%2529&maxresults=60&f=advanced&val-base-0=hurac%C3%A1n&fld-base-0=alltext&bln-base-1=and&val-base-1=cancelar&fld-base-1=alltext&fld-nav-0=YMD_date&val-nav-0=-2026.4
+2026-05-25 09:13:57,800 - INFO - ✅ 二组合 ('climate_uncertainty', 'huracán', 'cancelar') 处理成功 (139/141)
+2026-05-25 09:14:30,041 - ERROR - ❌ [线程6383890432|账号41172846627365] 页面无响应，加载超时
+2026-05-25 09:14:38,631 - INFO - [线程6383890432|账号41172846627365] 异常后尝试刷新页面
+2026-05-25 09:15:20,379 - ERROR - ❌[线程6266105856|账号41172572627355] 刷新页面后重新搜索失败: Message: 
+
+2026-05-25 09:15:20,381 - WARNING - ⚠️ [线程6266105856|账号41172572627355] 第1次尝试深度重置
+2026-05-25 09:15:27,670 - WARNING - ❌[线程6266105856|账号41172572627355] 第1次重置后页面仍有问题
+2026-05-25 09:15:27,671 - WARNING - ⚠️ [线程6266105856|账号41172572627355] 第2次尝试深度重置
+2026-05-25 09:15:35,125 - WARNING - ❌[线程6266105856|账号41172572627355] 第2次重置后页面仍有问题
+2026-05-25 09:15:35,125 - WARNING - ⚠️ [线程6266105856|账号41172572627355] 第3次尝试深度重置
+2026-05-25 09:15:42,511 - WARNING - ❌[线程6266105856|账号41172572627355] 第3次重置后页面仍有问题
+2026-05-25 09:15:42,511 - ERROR - ❌ [线程6266105856|账号41172572627355] 深度重置完全失败，无法恢复正常搜索
+2026-05-25 09:15:42,511 - WARNING - ⚠️ [线程6266105856|账号41172572627355]  二组合(climate_uncertainty) huracán + incertidumbre 搜索失败，28秒后重试 (2/3)
+2026-05-25 09:15:43,612 - INFO - [浏览器8|账号41172572627355] 🔄 旧浏览器实例已关闭
+2026-05-25 09:15:44,367 - INFO - [浏览器8|账号41172572627355] ✅ 浏览器重建成功！UA: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.44... 视口: 2560x1440
+2026-05-25 09:15:44,367 - INFO - [线程8|账号41172572627355] 开始登录，访问登录页面...
+2026-05-25 09:16:19,146 - ERROR - ❌[线程6383890432|账号41172846627365] 刷新页面后重新搜索失败: Message: 
+
+2026-05-25 09:16:19,147 - WARNING - ⚠️ [线程6383890432|账号41172846627365] 第1次尝试深度重置
+2026-05-25 09:16:26,583 - WARNING - ❌[线程6383890432|账号41172846627365] 第1次重置后页面仍有问题
+2026-05-25 09:16:26,584 - WARNING - ⚠️ [线程6383890432|账号41172846627365] 第2次尝试深度重置
+2026-05-25 09:16:30,878 - INFO - [线程8|账号41172572627355] ✅ 登录成功（DC 卡号登录）
+2026-05-25 09:16:30,879 - INFO - [浏览器8|账号41172572627355] ✅ 重建后登录成功
+2026-05-25 09:16:30,880 - INFO - [线程6266105856|账号41172572627355] ✅ 异常后浏览器重建成功
+2026-05-25 09:16:34,548 - WARNING - ❌[线程6383890432|账号41172846627365] 第2次重置后页面仍有问题
+2026-05-25 09:16:34,549 - WARNING - ⚠️ [线程6383890432|账号41172846627365] 第3次尝试深度重置
+2026-05-25 09:16:41,917 - WARNING - ❌[线程6383890432|账号41172846627365] 第3次重置后页面仍有问题
+2026-05-25 09:16:41,918 - ERROR - ❌ [线程6383890432|账号41172846627365] 深度重置完全失败，无法恢复正常搜索
+2026-05-25 09:16:41,918 - WARNING - ⚠️ [线程6383890432|账号41172846627365]  二组合(policy_uncertainty) regulación + desconocido 搜索失败，30秒后重试 (2/3)
+2026-05-25 09:16:43,016 - INFO - [浏览器15|账号41172846627365] 🔄 旧浏览器实例已关闭
+2026-05-25 09:16:43,538 - INFO - [浏览器15|账号41172846627365] ✅ 浏览器重建成功！UA: Mozilla/5.0 (Macintosh; Intel Mac OS X 14_2_0) AppleWebKit/5... 视口: 1600x900
+2026-05-25 09:16:43,538 - INFO - [线程15|账号41172846627365] 开始登录，访问登录页面...
+2026-05-25 09:17:06,206 - INFO - [线程6266105856|账号41172572627355] 🔍 开始处理新二组合(climate_uncertainty)：huracán + incertidumbre (尝试 3/3)
+2026-05-25 09:17:26,954 - INFO - [线程6266105856|账号41172572627355] ❌ 二组合(climate_uncertainty) huracán + incertidumbre 无结果 📍 URL: https://infoweb-newsbank-com.dclibrary.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=pubname%3AREVLI%21Revista%2BLideres%2B%2528Quito%252C%2BEcuador%2529&maxresults=60&f=advanced&val-base-0=hurac%C3%A1n&fld-base-0=alltext&bln-base-1=and&val-base-1=incertidumbre&fld-base-1=alltext&fld-nav-0=YMD_date&val-nav-0=-2026.4
+2026-05-25 09:17:26,955 - INFO - ✅ 二组合 ('climate_uncertainty', 'huracán', 'incertidumbre') 处理成功 (140/141)
+2026-05-25 09:17:32,507 - INFO - [线程15|账号41172846627365] ✅ 登录成功（DC 卡号登录）
+2026-05-25 09:17:32,507 - INFO - [浏览器15|账号41172846627365] ✅ 重建后登录成功
+2026-05-25 09:17:32,509 - INFO - [线程6383890432|账号41172846627365] ✅ 异常后浏览器重建成功
+2026-05-25 09:18:08,007 - INFO - [线程6383890432|账号41172846627365] 🔍 开始处理新二组合(policy_uncertainty)：regulación + desconocido (尝试 3/3)
+2026-05-25 09:18:30,198 - INFO - [线程6383890432|账号41172846627365] ✅ 二组合(policy_uncertainty) regulación + desconocido 有 1 条结果 📍 URL: https://infoweb-newsbank-com.dclibrary.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=pubname%3AREVLI%21Revista%2BLideres%2B%2528Quito%252C%2BEcuador%2529&maxresults=60&f=advanced&val-base-0=regulaci%C3%B3n&fld-base-0=alltext&bln-base-1=and&val-base-1=desconocido&fld-base-1=alltext&fld-nav-0=YMD_date&val-nav-0=-2026.4
+2026-05-25 09:18:30,199 - INFO - ✅ 二组合 ('policy_uncertainty', 'regulación', 'desconocido') 处理成功 (141/141)
+2026-05-25 09:18:30,203 - INFO - 多线程二组合处理完成，共处理 141 个二组合
+2026-05-25 09:18:30,204 - INFO - 二组合处理完成，有效组合数: 160
+2026-05-25 09:18:30,205 - INFO - 有效二组合统计:
+2026-05-25 09:18:30,205 - INFO -   - climate+policy: 91 个
+2026-05-25 09:18:30,205 - INFO -   - climate+uncertainty: 10 个
+2026-05-25 09:18:30,205 - INFO -   - policy+uncertainty: 59 个
+2026-05-25 09:18:30,206 - INFO - 基于有效二组合筛选，生成了 64 个三组合
+2026-05-25 09:18:30,206 - INFO - 基于有效二组合，总共需要处理 64 个三组合
+2026-05-25 09:18:30,206 - INFO - 剩余需要处理 23 个三组合
+2026-05-25 09:18:30,206 - INFO - 使用 15 个线程处理组合
+2026-05-25 09:18:30,207 - INFO - [线程6148321280|账号41172560626291] 🚀 获取driver延迟3秒 🔍 开始处理组合：cambio climático + política + incertidumbre
+2026-05-25 09:18:30,208 - INFO - [线程6165147648|账号41172933627348] 🚀 获取driver延迟3秒 🔍 开始处理组合：cambio climático + políticas + desconocido
+2026-05-25 09:18:30,208 - INFO - [线程6181974016|账号41172442627349] 🚀 获取driver延迟3秒 🔍 开始处理组合：cambio climático + regulación + desconocido
+2026-05-25 09:18:30,208 - INFO - [线程6198800384|账号41172258627350] 🚀 获取driver延迟4秒 🔍 开始处理组合：cambio climático + regulación + impredecible
+2026-05-25 09:18:30,209 - INFO - [线程6215626752|账号41172631627351] 🚀 获取driver延迟4秒 🔍 开始处理组合：cambio climático + ley + incertidumbre
+2026-05-25 09:18:30,209 - INFO - [线程6232453120|账号41172333627353] 🚀 获取driver延迟4秒 🔍 开始处理组合：cambio climático + ley + desconocido
+2026-05-25 09:18:30,210 - INFO - [线程6249279488|账号41172815627354] 🚀 获取driver延迟4秒 🔍 开始处理组合：cambio climático + Presidente + incierto
+2026-05-25 09:18:30,210 - INFO - [线程6266105856|账号41172572627355] 🚀 获取driver延迟4秒 🔍 开始处理组合：cambio climático + Presidente + incierto
+2026-05-25 09:18:30,210 - INFO - [线程6282932224|账号41172604627356] 🚀 获取driver延迟2秒 🔍 开始处理组合：cambio climático + Presidente + impredecible
+2026-05-25 09:18:30,213 - INFO - [线程6299758592|账号41172744627358] 🚀 获取driver延迟3秒 🔍 开始处理组合：energía renovable + políticas + cancelar
+2026-05-25 09:18:30,214 - INFO - [线程6316584960|账号41172712627360] 🚀 获取driver延迟4秒 🔍 开始处理组合：energía renovable + ley + cancelar
+2026-05-25 09:18:30,217 - INFO - [线程6333411328|账号41172184627362] 🚀 获取driver延迟4秒 🔍 开始处理组合：energía renovable + Presidente + incierto
+2026-05-25 09:18:30,218 - INFO - [线程6350237696|账号41172318627363] 🚀 获取driver延迟4秒 🔍 开始处理组合：energía renovable + Presidente + incierto
+2026-05-25 09:18:30,218 - INFO - [线程6367064064|账号41172932627364] 🚀 获取driver延迟3秒 🔍 开始处理组合：energía renovable + Presidente + cancelar
+2026-05-25 09:18:30,226 - INFO - [线程6383890432|账号41172846627365] 🚀 获取driver延迟5秒 🔍 开始处理组合：energía limpia + políticas + cancelar
+2026-05-25 09:18:41,613 - ERROR - ❌ [线程6148321280|账号41172560626291] 页面无响应，加载超时
+2026-05-25 09:18:41,617 - ERROR - ❌ [线程6367064064|账号41172932627364] 页面无响应，加载超时
+2026-05-25 09:18:41,618 - ERROR - ❌ [线程6181974016|账号41172442627349] 页面无响应，加载超时
+2026-05-25 09:18:41,619 - ERROR - ❌ [线程6350237696|账号41172318627363] 页面无响应，加载超时
+2026-05-25 09:18:41,619 - ERROR - ❌ [线程6266105856|账号41172572627355] 页面无响应，加载超时
+2026-05-25 09:18:41,621 - ERROR - ❌ [线程6316584960|账号41172712627360] 页面无响应，加载超时
+2026-05-25 09:18:41,621 - ERROR - ❌ [线程6215626752|账号41172631627351] 页面无响应，加载超时
+2026-05-25 09:18:41,622 - ERROR - ❌ [线程6299758592|账号41172744627358] 页面无响应，加载超时
+2026-05-25 09:18:41,632 - ERROR - ❌[线程6367064064|账号41172932627364] 刷新页面后重新搜索失败: HTTPConnectionPool(host='localhost', port=61994): Max retries exceeded with url: /session/f6870022987285ea6c48cb67befda817/refresh (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1105dd670>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2026-05-25 09:18:41,633 - WARNING - ⚠️ [线程6367064064|账号41172932627364] 第1次尝试深度重置
+2026-05-25 09:18:41,634 - ERROR - ❌ [线程6232453120|账号41172333627353] 页面无响应，加载超时
+2026-05-25 09:18:41,634 - ERROR - ❌ [线程6333411328|账号41172184627362] 页面无响应，加载超时
+2026-05-25 09:18:41,634 - ERROR - ❌ [线程6198800384|账号41172258627350] 页面无响应，加载超时
+2026-05-25 09:18:41,636 - ERROR - ❌[线程6148321280|账号41172560626291] 刷新页面后重新搜索失败: HTTPConnectionPool(host='localhost', port=53886): Max retries exceeded with url: /session/53d1b59192757df33bbf1efd2adde087/refresh (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1105e5d00>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2026-05-25 09:18:41,636 - ERROR - ❌[线程6181974016|账号41172442627349] 刷新页面后重新搜索失败: HTTPConnectionPool(host='localhost', port=61554): Max retries exceeded with url: /session/36380cabcbabb66e9809d8340615c7f7/refresh (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1105e5b80>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2026-05-25 09:18:41,636 - WARNING - ⚠️ [线程6148321280|账号41172560626291] 第1次尝试深度重置
+2026-05-25 09:18:41,637 - WARNING - ⚠️ [线程6181974016|账号41172442627349] 第1次尝试深度重置
+2026-05-25 09:18:41,637 - ERROR - ❌[线程6350237696|账号41172318627363] 刷新页面后重新搜索失败: HTTPConnectionPool(host='localhost', port=53898): Max retries exceeded with url: /session/740ab17ecb07bcad3d8deab663abe2e1/refresh (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1119537f0>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2026-05-25 09:18:41,638 - ERROR - ❌[线程6316584960|账号41172712627360] 刷新页面后重新搜索失败: HTTPConnectionPool(host='localhost', port=61720): Max retries exceeded with url: /session/e0a52898e180ba81880c32d3f156ea45/refresh (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111953d90>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2026-05-25 09:18:41,638 - ERROR - ❌[线程6215626752|账号41172631627351] 刷新页面后重新搜索失败: HTTPConnectionPool(host='localhost', port=53890): Max retries exceeded with url: /session/4d66df4faf2423d30399eb4809066961/refresh (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x11196b550>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2026-05-25 09:18:41,638 - ERROR - ❌[线程6266105856|账号41172572627355] 刷新页面后重新搜索失败: HTTPConnectionPool(host='localhost', port=50371): Max retries exceeded with url: /session/50a633c3a10c3f06748d55073356580b/refresh (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111953c10>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2026-05-25 09:18:41,638 - WARNING - ⚠️ [线程6350237696|账号41172318627363] 第1次尝试深度重置
+2026-05-25 09:18:41,639 - WARNING - ⚠️ [线程6316584960|账号41172712627360] 第1次尝试深度重置
+2026-05-25 09:18:41,639 - WARNING - ⚠️ [线程6215626752|账号41172631627351] 第1次尝试深度重置
+2026-05-25 09:18:41,639 - WARNING - ⚠️ [线程6266105856|账号41172572627355] 第1次尝试深度重置
+2026-05-25 09:18:41,639 - ERROR - ❌[线程6299758592|账号41172744627358] 刷新页面后重新搜索失败: HTTPConnectionPool(host='localhost', port=61759): Max retries exceeded with url: /session/8d5049f30002f8a83051e535fbdef9a7/refresh (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x11196bc10>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2026-05-25 09:18:41,639 - ERROR - ❌[线程6333411328|账号41172184627362] 刷新页面后重新搜索失败: HTTPConnectionPool(host='localhost', port=53897): Max retries exceeded with url: /session/69533fd382c57c75f7315fe77bba1375/refresh (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111987190>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2026-05-25 09:18:41,641 - WARNING - ⚠️ [线程6333411328|账号41172184627362] 第1次尝试深度重置
+2026-05-25 09:18:41,640 - ERROR - ❌[线程6232453120|账号41172333627353] 刷新页面后重新搜索失败: HTTPConnectionPool(host='localhost', port=53891): Max retries exceeded with url: /session/5ada5de6fb8bdeb6d6fcdee2464cf4f9/refresh (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111987790>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2026-05-25 09:18:41,641 - ERROR - ❌[线程6198800384|账号41172258627350] 刷新页面后重新搜索失败: HTTPConnectionPool(host='localhost', port=61898): Max retries exceeded with url: /session/ed308ef7f8e9bfb1bede3fe885162fce/refresh (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111987c70>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2026-05-25 09:18:41,641 - WARNING - ⚠️ [线程6299758592|账号41172744627358] 第1次尝试深度重置
+2026-05-25 09:18:41,640 - WARNING - ❌ [线程6367064064|账号41172932627364] 第1次深度重置失败: HTTPConnectionPool(host='localhost', port=61994): Max retries exceeded with url: /session/f6870022987285ea6c48cb67befda817/refresh (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111987310>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2026-05-25 09:18:41,643 - WARNING - ⚠️ [线程6232453120|账号41172333627353] 第1次尝试深度重置
+2026-05-25 09:18:41,644 - WARNING - ⚠️ [线程6198800384|账号41172258627350] 第1次尝试深度重置
+2026-05-25 09:18:41,645 - WARNING - ❌ [线程6148321280|账号41172560626291] 第1次深度重置失败: HTTPConnectionPool(host='localhost', port=53886): Max retries exceeded with url: /session/53d1b59192757df33bbf1efd2adde087/refresh (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1119a2820>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2026-05-25 09:18:41,646 - WARNING - ❌ [线程6181974016|账号41172442627349] 第1次深度重置失败: HTTPConnectionPool(host='localhost', port=61554): Max retries exceeded with url: /session/36380cabcbabb66e9809d8340615c7f7/refresh (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1119be100>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2026-05-25 09:18:41,647 - WARNING - ❌ [线程6215626752|账号41172631627351] 第1次深度重置失败: HTTPConnectionPool(host='localhost', port=53890): Max retries exceeded with url: /session/4d66df4faf2423d30399eb4809066961/refresh (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1119be9d0>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2026-05-25 09:18:41,649 - WARNING - ❌ [线程6266105856|账号41172572627355] 第1次深度重置失败: HTTPConnectionPool(host='localhost', port=50371): Max retries exceeded with url: /session/50a633c3a10c3f06748d55073356580b/refresh (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1119d8040>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2026-05-25 09:18:41,650 - WARNING - ❌ [线程6350237696|账号41172318627363] 第1次深度重置失败: HTTPConnectionPool(host='localhost', port=53898): Max retries exceeded with url: /session/740ab17ecb07bcad3d8deab663abe2e1/refresh (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1119bee80>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2026-05-25 09:18:41,650 - WARNING - ❌ [线程6316584960|账号41172712627360] 第1次深度重置失败: HTTPConnectionPool(host='localhost', port=61720): Max retries exceeded with url: /session/e0a52898e180ba81880c32d3f156ea45/refresh (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1119d8670>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2026-05-25 09:18:41,651 - WARNING - ❌ [线程6333411328|账号41172184627362] 第1次深度重置失败: HTTPConnectionPool(host='localhost', port=53897): Max retries exceeded with url: /session/69533fd382c57c75f7315fe77bba1375/refresh (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1119d87f0>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2026-05-25 09:18:41,652 - WARNING - ❌ [线程6299758592|账号41172744627358] 第1次深度重置失败: HTTPConnectionPool(host='localhost', port=61759): Max retries exceeded with url: /session/8d5049f30002f8a83051e535fbdef9a7/refresh (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1105b2820>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2026-05-25 09:18:41,656 - WARNING - ❌ [线程6232453120|账号41172333627353] 第1次深度重置失败: HTTPConnectionPool(host='localhost', port=53891): Max retries exceeded with url: /session/5ada5de6fb8bdeb6d6fcdee2464cf4f9/refresh (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1105adfd0>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2026-05-25 09:18:41,658 - WARNING - ❌ [线程6198800384|账号41172258627350] 第1次深度重置失败: HTTPConnectionPool(host='localhost', port=61898): Max retries exceeded with url: /session/ed308ef7f8e9bfb1bede3fe885162fce/refresh (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1119038e0>: Failed to establish a new connection: [Errno 61] Connection refused'))
