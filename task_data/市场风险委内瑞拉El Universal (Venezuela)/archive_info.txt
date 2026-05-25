@@ -1,0 +1,3 @@
+任务文件已归档到: task_data/市场风险委内瑞拉El Universal (Venezuela)
+包含文件: condition.txt, results.txt, failed_conditions.txt, two_combo_results_*.txt
+归档时间: 2026-05-25 03:33:53

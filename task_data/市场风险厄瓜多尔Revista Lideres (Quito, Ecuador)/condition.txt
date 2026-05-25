@@ -1,0 +1,304 @@
+desarrollo verde|||empresa|||apreciar
+desarrollo verde|||compañía|||apreciar
+desarrollo verde|||institución financiera|||preferencia
+desarrollo verde|||empresa|||preferencia
+desarrollo verde|||institución financiera|||apoyar
+desarrollo verde|||compañía|||preferencia
+desarrollo verde|||inversor|||apoyar
+desarrollo verde|||institución financiera|||prioridad
+desarrollo verde|||empresa|||prioridad
+desarrollo verde|||compañía|||apoyar
+desarrollo verde|||empresa|||tender a
+desarrollo verde|||consumidor|||apoyar
+desarrollo verde|||compañía|||tender a
+desarrollo verde|||compañía|||prioridad
+desarrollo verde|||empresa|||apoyar
+desarrollo verde|||consumidor|||apreciar
+desarrollo verde|||consumidor|||preferencia
+desarrollo verde|||cliente|||prioridad
+desarrollo verde|||público|||preferencia
+desarrollo verde|||cliente|||apreciar
+desarrollo verde|||cliente|||preferencia
+desarrollo verde|||hogar|||apoyar
+desarrollo verde|||consumidor|||prioridad
+desarrollo verde|||hogar|||preferencia
+desarrollo verde|||hogar|||apreciar
+desarrollo verde|||hogar|||prioridad
+desarrollo verde|||cliente|||apoyar
+desarrollo verde|||público|||apreciar
+desarrollo verde|||público|||prioridad
+economía verde|||institución financiera|||apoyar
+economía verde|||inversor|||apoyar
+desarrollo verde|||público|||apoyar
+economía verde|||institución financiera|||preferencia
+economía verde|||institución financiera|||prioridad
+economía verde|||institución financiera|||disposición a
+economía verde|||empresa|||preferencia
+economía verde|||empresa|||prioridad
+economía verde|||empresa|||tender a
+economía verde|||empresa|||estar dispuesto a
+economía verde|||empresa|||disposición a
+economía verde|||compañía|||apreciar
+economía verde|||compañía|||apoyar
+economía verde|||compañía|||preferencia
+economía verde|||compañía|||prioridad
+economía verde|||compañía|||tender a
+economía verde|||compañía|||estar dispuesto a
+economía verde|||compañía|||disposición a
+economía verde|||empresa|||apreciar
+economía verde|||empresa|||apoyar
+economía verde|||consumidor|||preferencia
+economía verde|||consumidor|||prioridad
+economía verde|||consumidor|||estar dispuesto a
+economía verde|||cliente|||apreciar
+economía verde|||cliente|||apoyar
+economía verde|||cliente|||preferencia
+economía verde|||cliente|||prioridad
+economía verde|||cliente|||estar dispuesto a
+economía verde|||cliente|||disposición a
+economía verde|||hogar|||apoyar
+economía verde|||consumidor|||apreciar
+economía verde|||consumidor|||apoyar
+economía verde|||hogar|||preferencia
+economía verde|||consumidor|||disposición a
+economía verde|||hogar|||prioridad
+economía verde|||hogar|||estar dispuesto a
+economía verde|||hogar|||disposición a
+economía verde|||público|||apoyar
+economía verde|||hogar|||apreciar
+economía verde|||público|||prioridad
+economía verde|||público|||disposición a
+transición verde|||empresa|||apoyar
+transición verde|||compañía|||apoyar
+transición verde|||consumidor|||apoyar
+economía verde|||público|||apreciar
+transición verde|||público|||apoyar
+tecnología verde|||institución financiera|||apoyar
+economía verde|||público|||preferencia
+tecnología verde|||empresa|||apoyar
+tecnología verde|||compañía|||tender a
+tecnología verde|||consumidor|||apoyar
+tecnología verde|||hogar|||apoyar
+tecnología verde|||cliente|||apoyar
+transición verde|||cliente|||apoyar
+tecnología verde|||compañía|||apoyar
+tecnología verde|||empresa|||tender a
+innovación verde|||hogar|||apoyar
+innovación verde|||público|||apoyar
+tecnología verde|||público|||apoyar
+innovación verde|||institución financiera|||apoyar
+innovación verde|||empresa|||apoyar
+innovación verde|||compañía|||apoyar
+innovación verde|||cliente|||apoyar
+innovación verde|||consumidor|||apoyar
+energía verde|||hogar|||apoyar
+energía verde|||público|||apoyar
+energía verde|||inversor|||apoyar
+energía verde|||compañía|||apoyar
+energía limpia|||compañía|||apoyar
+energía limpia|||empresa|||aceptar
+energía verde|||cliente|||apoyar
+energía verde|||empresa|||apoyar
+energía verde|||consumidor|||apoyar
+energía limpia|||consumidor|||apoyar
+energía limpia|||cliente|||apoyar
+energía limpia|||compañía|||aceptar
+energía limpia|||empresa|||apoyar
+energía limpia|||público|||apoyar
+energía renovable|||empresa|||apoyar
+energía limpia|||consumidor|||aceptar
+energía renovable|||empresa|||aceptar
+energía limpia|||cliente|||aceptar
+energía renovable|||cliente|||apoyar
+energía renovable|||institución financiera|||apoyar
+energía limpia|||público|||aceptar
+energía renovable|||compañía|||apoyar
+energía renovable|||compañía|||aceptar
+energía renovable|||consumidor|||apoyar
+energía renovable|||consumidor|||aceptar
+energía renovable|||cliente|||aceptar
+energía renovable|||público|||apoyar
+energía renovable|||público|||aceptar
+energía solar|||empresa|||apoyar
+energía solar|||empresa|||aceptar
+energía solar|||consumidor|||priorizar
+energía solar|||empresa|||priorizar
+energía solar|||compañía|||apoyar
+energía solar|||cliente|||aceptar
+energía solar|||hogar|||apoyar
+energía solar|||compañía|||aceptar
+energía solar|||compañía|||priorizar
+energía solar|||consumidor|||apoyar
+energía solar|||consumidor|||aceptar
+energía solar|||cliente|||apoyar
+energía solar|||hogar|||priorizar
+energía solar|||público|||apoyar
+energía solar|||público|||priorizar
+energía hidráulica|||empresa|||prioridad
+energía hidráulica|||consumidor|||prioridad
+energía solar|||hogar|||aceptar
+energía eólica|||empresa|||apoyar
+energía solar|||público|||aceptar
+energía eólica|||compañía|||aceptar
+energía eólica|||inversor|||apoyar
+energía eólica|||compañía|||priorizar
+energía eólica|||inversor|||aceptar
+energía eólica|||consumidor|||priorizar
+energía eólica|||empresa|||aceptar
+energía eólica|||empresa|||priorizar
+energía eólica|||hogar|||apoyar
+energía eólica|||hogar|||aceptar
+energía eólica|||compañía|||apoyar
+energía eólica|||consumidor|||aceptar
+energía eólica|||consumidor|||apoyar
+energía eólica|||público|||aceptar
+energía eólica|||público|||priorizar
+hidrógeno|||compañía|||apoyar
+energía eólica|||hogar|||priorizar
+hidrógeno|||público|||apoyar
+energía eólica|||público|||apoyar
+producto verde|||institución financiera|||apoyar
+hidrógeno|||empresa|||apoyar
+producto verde|||empresa|||disposición a
+producto verde|||institución financiera|||preferencia
+producto verde|||compañía|||apreciar
+producto verde|||institución financiera|||disposición a
+producto verde|||empresa|||apoyar
+producto verde|||empresa|||apreciar
+producto verde|||empresa|||preferencia
+producto verde|||compañía|||estar dispuesto a
+producto verde|||consumidor|||apoyar
+producto verde|||empresa|||estar dispuesto a
+producto verde|||compañía|||apoyar
+producto verde|||consumidor|||preferencia
+producto verde|||compañía|||preferencia
+producto verde|||compañía|||disposición a
+producto verde|||consumidor|||apreciar
+producto verde|||consumidor|||disposición a
+producto verde|||cliente|||apoyar
+producto verde|||cliente|||apreciar
+producto verde|||cliente|||preferencia
+producto verde|||cliente|||estar dispuesto a
+producto verde|||cliente|||disposición a
+producto verde|||hogar|||apoyar
+producto verde|||hogar|||apreciar
+producto verde|||consumidor|||estar dispuesto a
+producto verde|||hogar|||estar dispuesto a
+producto verde|||público|||apoyar
+producto verde|||público|||preferencia
+producto ecológico|||empresa|||apoyar
+producto ecológico|||empresa|||preferencia
+producto verde|||hogar|||preferencia
+producto ecológico|||compañía|||apoyar
+producto verde|||hogar|||disposición a
+producto ecológico|||cliente|||apoyar
+producto ecológico|||cliente|||preferencia
+producto verde|||público|||disposición a
+producto verde|||público|||apreciar
+producto ecológico|||público|||preferencia
+producto ecológico|||consumidor|||apoyar
+producto ecológico|||compañía|||preferencia
+producto ecológico|||consumidor|||preferencia
+producto sostenible|||institución financiera|||apoyar
+producto ecológico|||hogar|||apoyar
+producto sostenible|||institución financiera|||prioridad
+producto ecológico|||hogar|||preferencia
+producto ecológico|||público|||apoyar
+producto sostenible|||institución financiera|||favorecer
+producto sostenible|||institución financiera|||preferencia
+producto sostenible|||empresa|||favorecer
+producto sostenible|||empresa|||preferencia
+producto sostenible|||institución financiera|||disposición a
+producto sostenible|||empresa|||disposición a
+producto sostenible|||empresa|||aceptar
+producto sostenible|||empresa|||apoyar
+producto sostenible|||compañía|||aceptar
+producto sostenible|||empresa|||confiar
+producto sostenible|||compañía|||preferencia
+producto sostenible|||empresa|||prioridad
+producto sostenible|||compañía|||apoyar
+producto sostenible|||compañía|||favorecer
+producto sostenible|||consumidor|||apoyar
+producto sostenible|||consumidor|||aceptar
+producto sostenible|||compañía|||confiar
+producto sostenible|||consumidor|||confiar
+producto sostenible|||consumidor|||favorecer
+producto sostenible|||consumidor|||preferencia
+producto sostenible|||consumidor|||disposición a
+producto sostenible|||compañía|||disposición a
+producto sostenible|||compañía|||prioridad
+producto sostenible|||cliente|||apoyar
+producto sostenible|||cliente|||aceptar
+producto sostenible|||cliente|||confiar
+producto sostenible|||cliente|||favorecer
+producto sostenible|||consumidor|||prioridad
+producto sostenible|||cliente|||prioridad
+producto sostenible|||cliente|||disposición a
+producto sostenible|||hogar|||apoyar
+producto sostenible|||cliente|||preferencia
+producto sostenible|||residente|||apoyar
+producto sostenible|||hogar|||aceptar
+producto sostenible|||hogar|||confiar
+producto sostenible|||público|||apoyar
+producto sostenible|||hogar|||favorecer
+producto sostenible|||hogar|||preferencia
+producto sostenible|||público|||favorecer
+producto sostenible|||público|||prioridad
+producto sostenible|||hogar|||prioridad
+producto sostenible|||hogar|||disposición a
+producto sostenible|||residente|||aceptar
+producto sostenible|||público|||aceptar
+producto sostenible|||público|||confiar
+producto sostenible|||público|||disposición a
+consumo verde|||empresa|||apoyar
+producto sostenible|||público|||preferencia
+consumo verde|||compañía|||apoyar
+consumo verde|||empresa|||prioridad
+consumo verde|||compañía|||prioridad
+consumo verde|||consumidor|||apoyar
+consumo verde|||cliente|||prioridad
+consumo verde|||público|||prioridad
+consumo verde|||consumidor|||prioridad
+consumo verde|||cliente|||apoyar
+consumo verde|||hogar|||apoyar
+consumo verde|||hogar|||prioridad
+consumo verde|||público|||apoyar
+inversión verde|||compañía|||apoyar
+inversión verde|||inversor|||apoyar
+inversión verde|||institución financiera|||apoyar
+inversión verde|||institución financiera|||preferencia
+inversión verde|||compañía|||preferencia
+inversión verde|||institución financiera|||prioridad
+inversión verde|||empresa|||preferencia
+inversión verde|||compañía|||prioridad
+inversión verde|||empresa|||apoyar
+inversión verde|||empresa|||prioridad
+inversión verde|||empresa|||tender a
+inversión verde|||consumidor|||apoyar
+inversión verde|||consumidor|||preferencia
+inversión verde|||consumidor|||prioridad
+inversión verde|||cliente|||apoyar
+inversión verde|||cliente|||preferencia
+inversión verde|||compañía|||tender a
+inversión verde|||público|||preferencia
+inversión verde|||público|||prioridad
+inversión verde|||cliente|||prioridad
+finanzas verdes|||empresa|||apoyar
+inversión verde|||hogar|||apoyar
+inversión verde|||hogar|||preferencia
+bono verde|||empresa|||apoyar
+inversión verde|||hogar|||prioridad
+bono verde|||compañía|||apoyar
+bono verde|||público|||apoyar
+crédito verde|||inversor|||apoyar
+finanzas verdes|||compañía|||apoyar
+finanzas verdes|||público|||apoyar
+bono verde|||inversor|||apoyar
+crédito verde|||empresa|||apoyar
+inversión verde|||público|||apoyar
+crédito verde|||compañía|||apoyar
+crédito verde|||cliente|||apoyar
+crédito verde|||público|||apoyar
+crédito verde|||institución financiera|||apoyar
+crédito verde|||consumidor|||apoyar
+crédito verde|||hogar|||apoyar
