@@ -917,3 +917,11 @@ climate_uncertainty|||huracán|||diferir|||0
 climate_uncertainty|||huracán|||cancelar|||0
 climate_uncertainty|||huracán|||incertidumbre|||0
 policy_uncertainty|||regulación|||desconocido|||1
+policy_uncertainty|||MAATE|||impredecible|||0
+policy_uncertainty|||Ministro|||cancelar|||2
+policy_uncertainty|||MAATE|||ambiguo|||0
+policy_uncertainty|||gobierno|||abolir|||1
+policy_uncertainty|||MAATE|||desconocido|||0
+policy_uncertainty|||Ministerio del Ambiente, Agua y Transición Ecológica|||ambiguo|||0
+climate_uncertainty|||tormenta de nieve|||suspender|||0
+policy_uncertainty|||gobierno|||vago|||0

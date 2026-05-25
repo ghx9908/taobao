@@ -14510,3 +14510,460 @@ Stacktrace:
 2026-05-25 09:18:41,652 - WARNING - ❌ [线程6299758592|账号41172744627358] 第1次深度重置失败: HTTPConnectionPool(host='localhost', port=61759): Max retries exceeded with url: /session/8d5049f30002f8a83051e535fbdef9a7/refresh (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1105b2820>: Failed to establish a new connection: [Errno 61] Connection refused'))
 2026-05-25 09:18:41,656 - WARNING - ❌ [线程6232453120|账号41172333627353] 第1次深度重置失败: HTTPConnectionPool(host='localhost', port=53891): Max retries exceeded with url: /session/5ada5de6fb8bdeb6d6fcdee2464cf4f9/refresh (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1105adfd0>: Failed to establish a new connection: [Errno 61] Connection refused'))
 2026-05-25 09:18:41,658 - WARNING - ❌ [线程6198800384|账号41172258627350] 第1次深度重置失败: HTTPConnectionPool(host='localhost', port=61898): Max retries exceeded with url: /session/ed308ef7f8e9bfb1bede3fe885162fce/refresh (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1119038e0>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2026-05-25 10:14:24,909 - INFO - 🚀 开始处理任务: 政策风险厄瓜多尔Revista Lideres (Quito, Ecuador).xlsx
+2026-05-25 10:14:24,909 - INFO - 开始初始化所有driver到2025年页面: https://infoweb-newsbank-com.dclibrary.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=pubname%3AREVLI%21Revista%2BLideres%2B%2528Quito%252C%2BEcuador%2529&maxresults=60&f=advanced&fld-nav-0=YMD_date&val-nav-0=-2026.4
+2026-05-25 10:14:24,910 - ERROR - ❌ 账号 41172560626291 的driver访问2025年页面失败: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=148.0.7778.179)
+Stacktrace:
+0   chromedriver                        0x000000010121cc40 cxxbridge1$str$ptr + 3221216
+1   chromedriver                        0x0000000101214b1c cxxbridge1$str$ptr + 3188156
+2   chromedriver                        0x0000000100cd78f4 _RNvCsiKAbIcglKMQ_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 75152
+3   chromedriver                        0x0000000100cb0358 chromedriver + 164696
+4   chromedriver                        0x0000000100d48234 _RNvCsiKAbIcglKMQ_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 536272
+5   chromedriver                        0x0000000100d5f224 _RNvCsiKAbIcglKMQ_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 630464
+6   chromedriver                        0x0000000100d159c0 _RNvCsiKAbIcglKMQ_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 329308
+7   chromedriver                        0x00000001011dab70 cxxbridge1$str$ptr + 2950672
+8   chromedriver                        0x00000001011de2c8 cxxbridge1$str$ptr + 2964840
+9   chromedriver                        0x00000001011bf8a8 cxxbridge1$str$ptr + 2839368
+10  chromedriver                        0x00000001011deb48 cxxbridge1$str$ptr + 2967016
+11  chromedriver                        0x00000001011b03d4 cxxbridge1$str$ptr + 2776692
+12  chromedriver                        0x00000001012037ac cxxbridge1$str$ptr + 3117644
+13  chromedriver                        0x000000010120390c cxxbridge1$str$ptr + 3117996
+14  chromedriver                        0x0000000101214774 cxxbridge1$str$ptr + 3187220
+15  libsystem_pthread.dylib             0x0000000194ddbc0c _pthread_start + 136
+16  libsystem_pthread.dylib             0x0000000194dd6b80 thread_start + 8
+
+2026-05-25 10:14:24,911 - ERROR - ❌ 账号 41172442627349 的driver访问2025年页面失败: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=148.0.7778.179)
+Stacktrace:
+0   chromedriver                        0x0000000104fa0c40 cxxbridge1$str$ptr + 3221216
+1   chromedriver                        0x0000000104f98b1c cxxbridge1$str$ptr + 3188156
+2   chromedriver                        0x0000000104a5b8f4 _RNvCsiKAbIcglKMQ_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 75152
+3   chromedriver                        0x0000000104a34358 chromedriver + 164696
+4   chromedriver                        0x0000000104acc234 _RNvCsiKAbIcglKMQ_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 536272
+5   chromedriver                        0x0000000104ae3224 _RNvCsiKAbIcglKMQ_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 630464
+6   chromedriver                        0x0000000104a999c0 _RNvCsiKAbIcglKMQ_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 329308
+7   chromedriver                        0x0000000104f5eb70 cxxbridge1$str$ptr + 2950672
+8   chromedriver                        0x0000000104f622c8 cxxbridge1$str$ptr + 2964840
+9   chromedriver                        0x0000000104f438a8 cxxbridge1$str$ptr + 2839368
+10  chromedriver                        0x0000000104f62b48 cxxbridge1$str$ptr + 2967016
+11  chromedriver                        0x0000000104f343d4 cxxbridge1$str$ptr + 2776692
+12  chromedriver                        0x0000000104f877ac cxxbridge1$str$ptr + 3117644
+13  chromedriver                        0x0000000104f8790c cxxbridge1$str$ptr + 3117996
+14  chromedriver                        0x0000000104f98774 cxxbridge1$str$ptr + 3187220
+15  libsystem_pthread.dylib             0x0000000194ddbc0c _pthread_start + 136
+16  libsystem_pthread.dylib             0x0000000194dd6b80 thread_start + 8
+
+2026-05-25 10:14:24,936 - ERROR - ❌ 账号 41172604627356 的driver访问2025年页面失败: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=148.0.7778.179)
+Stacktrace:
+0   chromedriver                        0x0000000102bb4c40 cxxbridge1$str$ptr + 3221216
+1   chromedriver                        0x0000000102bacb1c cxxbridge1$str$ptr + 3188156
+2   chromedriver                        0x000000010266f8f4 _RNvCsiKAbIcglKMQ_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 75152
+3   chromedriver                        0x0000000102648358 chromedriver + 164696
+4   chromedriver                        0x00000001026e0234 _RNvCsiKAbIcglKMQ_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 536272
+5   chromedriver                        0x00000001026f7224 _RNvCsiKAbIcglKMQ_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 630464
+6   chromedriver                        0x00000001026ad9c0 _RNvCsiKAbIcglKMQ_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 329308
+7   chromedriver                        0x0000000102b72b70 cxxbridge1$str$ptr + 2950672
+8   chromedriver                        0x0000000102b762c8 cxxbridge1$str$ptr + 2964840
+9   chromedriver                        0x0000000102b578a8 cxxbridge1$str$ptr + 2839368
+10  chromedriver                        0x0000000102b76b48 cxxbridge1$str$ptr + 2967016
+11  chromedriver                        0x0000000102b483d4 cxxbridge1$str$ptr + 2776692
+12  chromedriver                        0x0000000102b9b7ac cxxbridge1$str$ptr + 3117644
+13  chromedriver                        0x0000000102b9b90c cxxbridge1$str$ptr + 3117996
+14  chromedriver                        0x0000000102bac774 cxxbridge1$str$ptr + 3187220
+15  libsystem_pthread.dylib             0x0000000194ddbc0c _pthread_start + 136
+16  libsystem_pthread.dylib             0x0000000194dd6b80 thread_start + 8
+
+2026-05-25 10:14:24,938 - ERROR - ❌ 账号 41172604627356 的driver初始化失败
+2026-05-25 10:14:24,938 - ERROR - ❌ 账号 41172560626291 的driver初始化失败
+2026-05-25 10:14:24,938 - ERROR - ❌ 账号 41172442627349 的driver初始化失败
+2026-05-25 10:14:58,904 - INFO - 账号 41172712627360 的driver成功访问2025年页面
+2026-05-25 10:14:58,904 - INFO - ✅ 账号 41172712627360 的driver初始化成功
+2026-05-25 10:15:06,360 - INFO - 账号 41172318627363 的driver成功访问2025年页面
+2026-05-25 10:15:06,361 - INFO - ✅ 账号 41172318627363 的driver初始化成功
+2026-05-25 10:15:06,660 - INFO - 账号 41172744627358 的driver成功访问2025年页面
+2026-05-25 10:15:06,660 - INFO - ✅ 账号 41172744627358 的driver初始化成功
+2026-05-25 10:15:06,682 - INFO - 账号 41172258627350 的driver成功访问2025年页面
+2026-05-25 10:15:06,682 - INFO - ✅ 账号 41172258627350 的driver初始化成功
+2026-05-25 10:15:06,787 - INFO - 账号 41172846627365 的driver成功访问2025年页面
+2026-05-25 10:15:06,787 - INFO - ✅ 账号 41172846627365 的driver初始化成功
+2026-05-25 10:15:06,802 - INFO - 账号 41172631627351 的driver成功访问2025年页面
+2026-05-25 10:15:06,802 - INFO - ✅ 账号 41172631627351 的driver初始化成功
+2026-05-25 10:15:06,984 - INFO - 账号 41172572627355 的driver成功访问2025年页面
+2026-05-25 10:15:06,985 - INFO - ✅ 账号 41172572627355 的driver初始化成功
+2026-05-25 10:15:06,991 - INFO - 账号 41172333627353 的driver成功访问2025年页面
+2026-05-25 10:15:06,991 - INFO - ✅ 账号 41172333627353 的driver初始化成功
+2026-05-25 10:15:07,081 - INFO - 账号 41172184627362 的driver成功访问2025年页面
+2026-05-25 10:15:07,082 - INFO - ✅ 账号 41172184627362 的driver初始化成功
+2026-05-25 10:15:08,021 - INFO - 账号 41172933627348 的driver成功访问2025年页面
+2026-05-25 10:15:08,021 - INFO - ✅ 账号 41172933627348 的driver初始化成功
+2026-05-25 10:15:08,056 - INFO - 账号 41172932627364 的driver成功访问2025年页面
+2026-05-25 10:15:08,056 - INFO - ✅ 账号 41172932627364 的driver初始化成功
+2026-05-25 10:15:16,452 - INFO - 账号 41172815627354 的driver成功访问2025年页面
+2026-05-25 10:15:16,453 - INFO - ✅ 账号 41172815627354 的driver初始化成功
+2026-05-25 10:15:16,454 - INFO - 所有driver初始化完成
+2026-05-25 10:15:16,454 - INFO - ================================================================================
+2026-05-25 10:15:16,454 - INFO - 📋 正常模式：先处理二组合，再基于有效二组合生成三组合
+2026-05-25 10:15:16,454 - INFO - ================================================================================
+2026-05-25 10:15:16,458 - INFO - 开始处理 951 个二组合:
+2026-05-25 10:15:16,458 - INFO -   - climate+policy: 351 个
+2026-05-25 10:15:16,458 - INFO -   - climate+uncertainty: 405 个
+2026-05-25 10:15:16,458 - INFO -   - policy+uncertainty: 195 个
+2026-05-25 10:15:16,463 - INFO - 需要处理 8 个新的二组合
+2026-05-25 10:15:16,463 - INFO - 总计需要处理 8 个二组合
+2026-05-25 10:15:16,463 - INFO - 使用 8 个线程处理二组合
+2026-05-25 10:15:16,464 - INFO - [线程6153285632|账号41172560626291] 🔍 开始处理新二组合(climate_uncertainty)：tormenta de nieve + suspender 
+2026-05-25 10:15:16,464 - INFO - 程序开始时间: 2026-05-25 10:15:16
+2026-05-25 10:15:16,464 - INFO - [线程6170112000|账号41172933627348] 🔍 开始处理新二组合(policy_uncertainty)：Ministro + cancelar 
+2026-05-25 10:15:16,466 - INFO - [线程6186938368|账号41172442627349] 🔍 开始处理新二组合(policy_uncertainty)：gobierno + vago 
+2026-05-25 10:15:16,467 - INFO - [线程6203764736|账号41172258627350] 🔍 开始处理新二组合(policy_uncertainty)：gobierno + abolir 
+2026-05-25 10:15:16,468 - INFO - [线程6220591104|账号41172631627351] 🔍 开始处理新二组合(policy_uncertainty)：Ministerio del Ambiente, Agua y Transición Ecológica + ambiguo 
+2026-05-25 10:15:16,468 - INFO - [线程6237417472|账号41172333627353] 🔍 开始处理新二组合(policy_uncertainty)：MAATE + desconocido 
+2026-05-25 10:15:16,469 - INFO - [线程6254243840|账号41172815627354] 🔍 开始处理新二组合(policy_uncertainty)：MAATE + ambiguo 
+2026-05-25 10:15:16,470 - ERROR - ❌ [线程6153285632|账号41172560626291] 页面无响应，加载超时
+2026-05-25 10:15:16,470 - INFO - [线程6271070208|账号41172572627355] 🔍 开始处理新二组合(policy_uncertainty)：MAATE + impredecible 
+2026-05-25 10:15:16,472 - ERROR - ❌ [线程6186938368|账号41172442627349] 页面无响应，加载超时
+2026-05-25 10:15:16,476 - ERROR - ❌[线程6153285632|账号41172560626291] 刷新页面后重新搜索失败: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=148.0.7778.179)
+Stacktrace:
+0   chromedriver                        0x000000010121cc40 cxxbridge1$str$ptr + 3221216
+1   chromedriver                        0x0000000101214b1c cxxbridge1$str$ptr + 3188156
+2   chromedriver                        0x0000000100cd78f4 _RNvCsiKAbIcglKMQ_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 75152
+3   chromedriver                        0x0000000100cb0358 chromedriver + 164696
+4   chromedriver                        0x0000000100d48234 _RNvCsiKAbIcglKMQ_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 536272
+5   chromedriver                        0x0000000100d5f224 _RNvCsiKAbIcglKMQ_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 630464
+6   chromedriver                        0x0000000100d159c0 _RNvCsiKAbIcglKMQ_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 329308
+7   chromedriver                        0x00000001011dab70 cxxbridge1$str$ptr + 2950672
+8   chromedriver                        0x00000001011de2c8 cxxbridge1$str$ptr + 2964840
+9   chromedriver                        0x00000001011bf8a8 cxxbridge1$str$ptr + 2839368
+10  chromedriver                        0x00000001011deb48 cxxbridge1$str$ptr + 2967016
+11  chromedriver                        0x00000001011b03d4 cxxbridge1$str$ptr + 2776692
+12  chromedriver                        0x00000001012037ac cxxbridge1$str$ptr + 3117644
+13  chromedriver                        0x000000010120390c cxxbridge1$str$ptr + 3117996
+14  chromedriver                        0x0000000101214774 cxxbridge1$str$ptr + 3187220
+15  libsystem_pthread.dylib             0x0000000194ddbc0c _pthread_start + 136
+16  libsystem_pthread.dylib             0x0000000194dd6b80 thread_start + 8
+
+2026-05-25 10:15:16,476 - ERROR - ❌[线程6186938368|账号41172442627349] 刷新页面后重新搜索失败: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=148.0.7778.179)
+Stacktrace:
+0   chromedriver                        0x0000000104fa0c40 cxxbridge1$str$ptr + 3221216
+1   chromedriver                        0x0000000104f98b1c cxxbridge1$str$ptr + 3188156
+2   chromedriver                        0x0000000104a5b8f4 _RNvCsiKAbIcglKMQ_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 75152
+3   chromedriver                        0x0000000104a34358 chromedriver + 164696
+4   chromedriver                        0x0000000104acc234 _RNvCsiKAbIcglKMQ_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 536272
+5   chromedriver                        0x0000000104ae3224 _RNvCsiKAbIcglKMQ_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 630464
+6   chromedriver                        0x0000000104a999c0 _RNvCsiKAbIcglKMQ_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 329308
+7   chromedriver                        0x0000000104f5eb70 cxxbridge1$str$ptr + 2950672
+8   chromedriver                        0x0000000104f622c8 cxxbridge1$str$ptr + 2964840
+9   chromedriver                        0x0000000104f438a8 cxxbridge1$str$ptr + 2839368
+10  chromedriver                        0x0000000104f62b48 cxxbridge1$str$ptr + 2967016
+11  chromedriver                        0x0000000104f343d4 cxxbridge1$str$ptr + 2776692
+12  chromedriver                        0x0000000104f877ac cxxbridge1$str$ptr + 3117644
+13  chromedriver                        0x0000000104f8790c cxxbridge1$str$ptr + 3117996
+14  chromedriver                        0x0000000104f98774 cxxbridge1$str$ptr + 3187220
+15  libsystem_pthread.dylib             0x0000000194ddbc0c _pthread_start + 136
+16  libsystem_pthread.dylib             0x0000000194dd6b80 thread_start + 8
+
+2026-05-25 10:15:16,477 - WARNING - ⚠️ [线程6186938368|账号41172442627349] 第1次尝试深度重置
+2026-05-25 10:15:16,477 - WARNING - ⚠️ [线程6153285632|账号41172560626291] 第1次尝试深度重置
+2026-05-25 10:15:16,479 - WARNING - ❌ [线程6186938368|账号41172442627349] 第1次深度重置失败: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=148.0.7778.179)
+Stacktrace:
+0   chromedriver                        0x0000000104fa0c40 cxxbridge1$str$ptr + 3221216
+1   chromedriver                        0x0000000104f98b1c cxxbridge1$str$ptr + 3188156
+2   chromedriver                        0x0000000104a5b8f4 _RNvCsiKAbIcglKMQ_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 75152
+3   chromedriver                        0x0000000104a34358 chromedriver + 164696
+4   chromedriver                        0x0000000104acc234 _RNvCsiKAbIcglKMQ_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 536272
+5   chromedriver                        0x0000000104ae3224 _RNvCsiKAbIcglKMQ_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 630464
+6   chromedriver                        0x0000000104a999c0 _RNvCsiKAbIcglKMQ_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 329308
+7   chromedriver                        0x0000000104f5eb70 cxxbridge1$str$ptr + 2950672
+8   chromedriver                        0x0000000104f622c8 cxxbridge1$str$ptr + 2964840
+9   chromedriver                        0x0000000104f438a8 cxxbridge1$str$ptr + 2839368
+10  chromedriver                        0x0000000104f62b48 cxxbridge1$str$ptr + 2967016
+11  chromedriver                        0x0000000104f343d4 cxxbridge1$str$ptr + 2776692
+12  chromedriver                        0x0000000104f877ac cxxbridge1$str$ptr + 3117644
+13  chromedriver                        0x0000000104f8790c cxxbridge1$str$ptr + 3117996
+14  chromedriver                        0x0000000104f98774 cxxbridge1$str$ptr + 3187220
+15  libsystem_pthread.dylib             0x0000000194ddbc0c _pthread_start + 136
+16  libsystem_pthread.dylib             0x0000000194dd6b80 thread_start + 8
+
+2026-05-25 10:15:16,480 - WARNING - ❌ [线程6153285632|账号41172560626291] 第1次深度重置失败: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=148.0.7778.179)
+Stacktrace:
+0   chromedriver                        0x000000010121cc40 cxxbridge1$str$ptr + 3221216
+1   chromedriver                        0x0000000101214b1c cxxbridge1$str$ptr + 3188156
+2   chromedriver                        0x0000000100cd78f4 _RNvCsiKAbIcglKMQ_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 75152
+3   chromedriver                        0x0000000100cb0358 chromedriver + 164696
+4   chromedriver                        0x0000000100d48234 _RNvCsiKAbIcglKMQ_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 536272
+5   chromedriver                        0x0000000100d5f224 _RNvCsiKAbIcglKMQ_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 630464
+6   chromedriver                        0x0000000100d159c0 _RNvCsiKAbIcglKMQ_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 329308
+7   chromedriver                        0x00000001011dab70 cxxbridge1$str$ptr + 2950672
+8   chromedriver                        0x00000001011de2c8 cxxbridge1$str$ptr + 2964840
+9   chromedriver                        0x00000001011bf8a8 cxxbridge1$str$ptr + 2839368
+10  chromedriver                        0x00000001011deb48 cxxbridge1$str$ptr + 2967016
+11  chromedriver                        0x00000001011b03d4 cxxbridge1$str$ptr + 2776692
+12  chromedriver                        0x00000001012037ac cxxbridge1$str$ptr + 3117644
+13  chromedriver                        0x000000010120390c cxxbridge1$str$ptr + 3117996
+14  chromedriver                        0x0000000101214774 cxxbridge1$str$ptr + 3187220
+15  libsystem_pthread.dylib             0x0000000194ddbc0c _pthread_start + 136
+16  libsystem_pthread.dylib             0x0000000194dd6b80 thread_start + 8
+
+2026-05-25 10:15:17,484 - WARNING - ⚠️ [线程6186938368|账号41172442627349] 第2次尝试深度重置
+2026-05-25 10:15:17,485 - WARNING - ⚠️ [线程6153285632|账号41172560626291] 第2次尝试深度重置
+2026-05-25 10:15:17,485 - WARNING - ❌ [线程6186938368|账号41172442627349] 第2次深度重置失败: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=148.0.7778.179)
+Stacktrace:
+0   chromedriver                        0x0000000104fa0c40 cxxbridge1$str$ptr + 3221216
+1   chromedriver                        0x0000000104f98b1c cxxbridge1$str$ptr + 3188156
+2   chromedriver                        0x0000000104a5b8f4 _RNvCsiKAbIcglKMQ_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 75152
+3   chromedriver                        0x0000000104a34358 chromedriver + 164696
+4   chromedriver                        0x0000000104acc234 _RNvCsiKAbIcglKMQ_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 536272
+5   chromedriver                        0x0000000104ae3224 _RNvCsiKAbIcglKMQ_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 630464
+6   chromedriver                        0x0000000104a999c0 _RNvCsiKAbIcglKMQ_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 329308
+7   chromedriver                        0x0000000104f5eb70 cxxbridge1$str$ptr + 2950672
+8   chromedriver                        0x0000000104f622c8 cxxbridge1$str$ptr + 2964840
+9   chromedriver                        0x0000000104f438a8 cxxbridge1$str$ptr + 2839368
+10  chromedriver                        0x0000000104f62b48 cxxbridge1$str$ptr + 2967016
+11  chromedriver                        0x0000000104f343d4 cxxbridge1$str$ptr + 2776692
+12  chromedriver                        0x0000000104f877ac cxxbridge1$str$ptr + 3117644
+13  chromedriver                        0x0000000104f8790c cxxbridge1$str$ptr + 3117996
+14  chromedriver                        0x0000000104f98774 cxxbridge1$str$ptr + 3187220
+15  libsystem_pthread.dylib             0x0000000194ddbc0c _pthread_start + 136
+16  libsystem_pthread.dylib             0x0000000194dd6b80 thread_start + 8
+
+2026-05-25 10:15:17,486 - WARNING - ❌ [线程6153285632|账号41172560626291] 第2次深度重置失败: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=148.0.7778.179)
+Stacktrace:
+0   chromedriver                        0x000000010121cc40 cxxbridge1$str$ptr + 3221216
+1   chromedriver                        0x0000000101214b1c cxxbridge1$str$ptr + 3188156
+2   chromedriver                        0x0000000100cd78f4 _RNvCsiKAbIcglKMQ_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 75152
+3   chromedriver                        0x0000000100cb0358 chromedriver + 164696
+4   chromedriver                        0x0000000100d48234 _RNvCsiKAbIcglKMQ_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 536272
+5   chromedriver                        0x0000000100d5f224 _RNvCsiKAbIcglKMQ_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 630464
+6   chromedriver                        0x0000000100d159c0 _RNvCsiKAbIcglKMQ_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 329308
+7   chromedriver                        0x00000001011dab70 cxxbridge1$str$ptr + 2950672
+8   chromedriver                        0x00000001011de2c8 cxxbridge1$str$ptr + 2964840
+9   chromedriver                        0x00000001011bf8a8 cxxbridge1$str$ptr + 2839368
+10  chromedriver                        0x00000001011deb48 cxxbridge1$str$ptr + 2967016
+11  chromedriver                        0x00000001011b03d4 cxxbridge1$str$ptr + 2776692
+12  chromedriver                        0x00000001012037ac cxxbridge1$str$ptr + 3117644
+13  chromedriver                        0x000000010120390c cxxbridge1$str$ptr + 3117996
+14  chromedriver                        0x0000000101214774 cxxbridge1$str$ptr + 3187220
+15  libsystem_pthread.dylib             0x0000000194ddbc0c _pthread_start + 136
+16  libsystem_pthread.dylib             0x0000000194dd6b80 thread_start + 8
+
+2026-05-25 10:15:18,487 - WARNING - ⚠️ [线程6186938368|账号41172442627349] 第3次尝试深度重置
+2026-05-25 10:15:18,487 - WARNING - ⚠️ [线程6153285632|账号41172560626291] 第3次尝试深度重置
+2026-05-25 10:15:18,488 - WARNING - ❌ [线程6186938368|账号41172442627349] 第3次深度重置失败: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=148.0.7778.179)
+Stacktrace:
+0   chromedriver                        0x0000000104fa0c40 cxxbridge1$str$ptr + 3221216
+1   chromedriver                        0x0000000104f98b1c cxxbridge1$str$ptr + 3188156
+2   chromedriver                        0x0000000104a5b8f4 _RNvCsiKAbIcglKMQ_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 75152
+3   chromedriver                        0x0000000104a34358 chromedriver + 164696
+4   chromedriver                        0x0000000104acc234 _RNvCsiKAbIcglKMQ_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 536272
+5   chromedriver                        0x0000000104ae3224 _RNvCsiKAbIcglKMQ_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 630464
+6   chromedriver                        0x0000000104a999c0 _RNvCsiKAbIcglKMQ_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 329308
+7   chromedriver                        0x0000000104f5eb70 cxxbridge1$str$ptr + 2950672
+8   chromedriver                        0x0000000104f622c8 cxxbridge1$str$ptr + 2964840
+9   chromedriver                        0x0000000104f438a8 cxxbridge1$str$ptr + 2839368
+10  chromedriver                        0x0000000104f62b48 cxxbridge1$str$ptr + 2967016
+11  chromedriver                        0x0000000104f343d4 cxxbridge1$str$ptr + 2776692
+12  chromedriver                        0x0000000104f877ac cxxbridge1$str$ptr + 3117644
+13  chromedriver                        0x0000000104f8790c cxxbridge1$str$ptr + 3117996
+14  chromedriver                        0x0000000104f98774 cxxbridge1$str$ptr + 3187220
+15  libsystem_pthread.dylib             0x0000000194ddbc0c _pthread_start + 136
+16  libsystem_pthread.dylib             0x0000000194dd6b80 thread_start + 8
+
+2026-05-25 10:15:18,488 - ERROR - ❌ [线程6186938368|账号41172442627349] 所有深度重置尝试都失败
+2026-05-25 10:15:18,488 - ERROR - ❌ [线程6186938368|账号41172442627349] 深度重置完全失败，无法恢复正常搜索
+2026-05-25 10:15:18,489 - WARNING - ⚠️ [线程6186938368|账号41172442627349]  二组合(policy_uncertainty) gobierno + vago 搜索失败，6秒后重试 (1/3)
+2026-05-25 10:15:18,489 - WARNING - ❌ [线程6153285632|账号41172560626291] 第3次深度重置失败: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=148.0.7778.179)
+Stacktrace:
+0   chromedriver                        0x000000010121cc40 cxxbridge1$str$ptr + 3221216
+1   chromedriver                        0x0000000101214b1c cxxbridge1$str$ptr + 3188156
+2   chromedriver                        0x0000000100cd78f4 _RNvCsiKAbIcglKMQ_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 75152
+3   chromedriver                        0x0000000100cb0358 chromedriver + 164696
+4   chromedriver                        0x0000000100d48234 _RNvCsiKAbIcglKMQ_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 536272
+5   chromedriver                        0x0000000100d5f224 _RNvCsiKAbIcglKMQ_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 630464
+6   chromedriver                        0x0000000100d159c0 _RNvCsiKAbIcglKMQ_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 329308
+7   chromedriver                        0x00000001011dab70 cxxbridge1$str$ptr + 2950672
+8   chromedriver                        0x00000001011de2c8 cxxbridge1$str$ptr + 2964840
+9   chromedriver                        0x00000001011bf8a8 cxxbridge1$str$ptr + 2839368
+10  chromedriver                        0x00000001011deb48 cxxbridge1$str$ptr + 2967016
+11  chromedriver                        0x00000001011b03d4 cxxbridge1$str$ptr + 2776692
+12  chromedriver                        0x00000001012037ac cxxbridge1$str$ptr + 3117644
+13  chromedriver                        0x000000010120390c cxxbridge1$str$ptr + 3117996
+14  chromedriver                        0x0000000101214774 cxxbridge1$str$ptr + 3187220
+15  libsystem_pthread.dylib             0x0000000194ddbc0c _pthread_start + 136
+16  libsystem_pthread.dylib             0x0000000194dd6b80 thread_start + 8
+
+2026-05-25 10:15:18,489 - ERROR - ❌ [线程6153285632|账号41172560626291] 所有深度重置尝试都失败
+2026-05-25 10:15:18,489 - ERROR - ❌ [线程6153285632|账号41172560626291] 深度重置完全失败，无法恢复正常搜索
+2026-05-25 10:15:18,489 - WARNING - ⚠️ [线程6153285632|账号41172560626291]  二组合(climate_uncertainty) tormenta de nieve + suspender 搜索失败，9秒后重试 (1/3)
+2026-05-25 10:15:19,576 - INFO - [浏览器1|账号41172560626291] 🔄 旧浏览器实例已关闭
+2026-05-25 10:15:19,576 - INFO - [浏览器3|账号41172442627349] 🔄 旧浏览器实例已关闭
+2026-05-25 10:15:20,199 - INFO - [浏览器3|账号41172442627349] ✅ 浏览器重建成功！UA: Mozilla/5.0 (Macintosh; Intel Mac OS X 14_2_0) AppleWebKit/5... 视口: 1440x900
+2026-05-25 10:15:20,200 - INFO - [线程3|账号41172442627349] 开始登录，访问登录页面...
+2026-05-25 10:15:20,241 - INFO - [浏览器1|账号41172560626291] ✅ 浏览器重建成功！UA: Mozilla/5.0 (Macintosh; Intel Mac OS X 13_6_0) AppleWebKit/5... 视口: 1366x768
+2026-05-25 10:15:20,241 - INFO - [线程1|账号41172560626291] 开始登录，访问登录页面...
+2026-05-25 10:15:30,269 - INFO - [线程6271070208|账号41172572627355] ❌ 二组合(policy_uncertainty) MAATE + impredecible 无结果 📍 URL: https://infoweb-newsbank-com.dclibrary.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=pubname%3AREVLI%21Revista%2BLideres%2B%2528Quito%252C%2BEcuador%2529&maxresults=60&f=advanced&val-base-0=MAATE&fld-base-0=alltext&bln-base-1=and&val-base-1=impredecible&fld-base-1=alltext&fld-nav-0=YMD_date&val-nav-0=-2026.4
+2026-05-25 10:15:30,270 - INFO - ✅ 二组合 ('policy_uncertainty', 'MAATE', 'impredecible') 处理成功 (1/8)
+2026-05-25 10:15:40,232 - INFO - [线程6170112000|账号41172933627348] ✅ 二组合(policy_uncertainty) Ministro + cancelar 有 2 条结果 📍 URL: https://infoweb-newsbank-com.dclibrary.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=pubname%3AREVLI%21Revista%2BLideres%2B%2528Quito%252C%2BEcuador%2529&maxresults=60&f=advanced&val-base-0=Ministro&fld-base-0=alltext&bln-base-1=and&val-base-1=cancelar&fld-base-1=alltext&fld-nav-0=YMD_date&val-nav-0=-2026.4
+2026-05-25 10:15:40,232 - INFO - ✅ 二组合 ('policy_uncertainty', 'Ministro', 'cancelar') 处理成功 (2/8)
+2026-05-25 10:15:41,457 - INFO - [线程6254243840|账号41172815627354] ❌ 二组合(policy_uncertainty) MAATE + ambiguo 无结果 📍 URL: https://infoweb-newsbank-com.dclibrary.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=pubname%3AREVLI%21Revista%2BLideres%2B%2528Quito%252C%2BEcuador%2529&maxresults=60&f=advanced&val-base-0=MAATE&fld-base-0=alltext&bln-base-1=and&val-base-1=ambiguo&fld-base-1=alltext&fld-nav-0=YMD_date&val-nav-0=-2026.4
+2026-05-25 10:15:41,457 - INFO - ✅ 二组合 ('policy_uncertainty', 'MAATE', 'ambiguo') 处理成功 (3/8)
+2026-05-25 10:15:42,424 - INFO - [线程6203764736|账号41172258627350] ✅ 二组合(policy_uncertainty) gobierno + abolir 有 1 条结果 📍 URL: https://infoweb-newsbank-com.dclibrary.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=pubname%3AREVLI%21Revista%2BLideres%2B%2528Quito%252C%2BEcuador%2529&maxresults=60&f=advanced&val-base-0=gobierno&fld-base-0=alltext&bln-base-1=and&val-base-1=abolir&fld-base-1=alltext&fld-nav-0=YMD_date&val-nav-0=-2026.4
+2026-05-25 10:15:42,424 - INFO - ✅ 二组合 ('policy_uncertainty', 'gobierno', 'abolir') 处理成功 (4/8)
+2026-05-25 10:15:42,476 - INFO - [线程6237417472|账号41172333627353] ❌ 二组合(policy_uncertainty) MAATE + desconocido 无结果 📍 URL: https://infoweb-newsbank-com.dclibrary.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=pubname%3AREVLI%21Revista%2BLideres%2B%2528Quito%252C%2BEcuador%2529&maxresults=60&f=advanced&val-base-0=MAATE&fld-base-0=alltext&bln-base-1=and&val-base-1=desconocido&fld-base-1=alltext&fld-nav-0=YMD_date&val-nav-0=-2026.4
+2026-05-25 10:15:42,476 - INFO - ✅ 二组合 ('policy_uncertainty', 'MAATE', 'desconocido') 处理成功 (5/8)
+2026-05-25 10:15:49,650 - INFO - [线程6220591104|账号41172631627351] ❌ 二组合(policy_uncertainty) Ministerio del Ambiente, Agua y Transición Ecológica + ambiguo 无结果 📍 URL: https://infoweb-newsbank-com.dclibrary.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=pubname%3AREVLI%21Revista%2BLideres%2B%2528Quito%252C%2BEcuador%2529&maxresults=60&f=advanced&val-base-0=Ministerio%20del%20Ambiente%2C%20Agua%20y%20Transici%C3%B3n%20Ecol%C3%B3gica&fld-base-0=alltext&bln-base-1=and&val-base-1=ambiguo&fld-base-1=alltext&fld-nav-0=YMD_date&val-nav-0=-2026.4
+2026-05-25 10:15:49,650 - INFO - ✅ 二组合 ('policy_uncertainty', 'Ministerio del Ambiente, Agua y Transición Ecológica', 'ambiguo') 处理成功 (6/8)
+2026-05-25 10:16:22,660 - INFO - [线程1|账号41172560626291] ✅ 登录成功（DC 卡号登录）
+2026-05-25 10:16:22,660 - INFO - [浏览器1|账号41172560626291] ✅ 重建后登录成功
+2026-05-25 10:16:22,660 - INFO - [线程6153285632|账号41172560626291] ✅ 异常后浏览器重建成功
+2026-05-25 10:16:24,011 - INFO - [线程3|账号41172442627349] ✅ 登录成功（DC 卡号登录）
+2026-05-25 10:16:24,011 - INFO - [浏览器3|账号41172442627349] ✅ 重建后登录成功
+2026-05-25 10:16:24,013 - INFO - [线程6186938368|账号41172442627349] ✅ 异常后浏览器重建成功
+2026-05-25 10:16:41,011 - INFO - [线程6153285632|账号41172560626291] 🔍 开始处理新二组合(climate_uncertainty)：tormenta de nieve + suspender (尝试 2/3)
+2026-05-25 10:17:00,079 - INFO - [线程6153285632|账号41172560626291] ❌ 二组合(climate_uncertainty) tormenta de nieve + suspender 无结果 📍 URL: https://infoweb-newsbank-com.dclibrary.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=pubname%3AREVLI%21Revista%2BLideres%2B%2528Quito%252C%2BEcuador%2529&maxresults=60&f=advanced&val-base-0=tormenta%20de%20nieve&fld-base-0=alltext&bln-base-1=and&val-base-1=suspender&fld-base-1=alltext&fld-nav-0=YMD_date&val-nav-0=-2026.4
+2026-05-25 10:17:00,079 - INFO - ✅ 二组合 ('climate_uncertainty', 'tormenta de nieve', 'suspender') 处理成功 (7/8)
+2026-05-25 10:17:04,082 - INFO - [线程6186938368|账号41172442627349] 🔍 开始处理新二组合(policy_uncertainty)：gobierno + vago (尝试 2/3)
+2026-05-25 10:17:17,385 - INFO - [线程6186938368|账号41172442627349] ❌ 二组合(policy_uncertainty) gobierno + vago 无结果 📍 URL: https://infoweb-newsbank-com.dclibrary.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=pubname%3AREVLI%21Revista%2BLideres%2B%2528Quito%252C%2BEcuador%2529&maxresults=60&f=advanced&val-base-0=gobierno&fld-base-0=alltext&bln-base-1=and&val-base-1=vago&fld-base-1=alltext&fld-nav-0=YMD_date&val-nav-0=-2026.4
+2026-05-25 10:17:17,385 - INFO - ✅ 二组合 ('policy_uncertainty', 'gobierno', 'vago') 处理成功 (8/8)
+2026-05-25 10:17:17,386 - INFO - 多线程二组合处理完成，共处理 8 个二组合
+2026-05-25 10:17:17,388 - INFO - 二组合处理完成，有效组合数: 162
+2026-05-25 10:17:17,388 - INFO - 有效二组合统计:
+2026-05-25 10:17:17,388 - INFO -   - climate+policy: 91 个
+2026-05-25 10:17:17,388 - INFO -   - climate+uncertainty: 10 个
+2026-05-25 10:17:17,388 - INFO -   - policy+uncertainty: 61 个
+2026-05-25 10:17:17,389 - INFO - 基于有效二组合筛选，生成了 65 个三组合
+2026-05-25 10:17:17,389 - INFO - 基于有效二组合，总共需要处理 65 个三组合
+2026-05-25 10:17:17,389 - INFO - 剩余需要处理 24 个三组合
+2026-05-25 10:17:17,389 - INFO - 使用 15 个线程处理组合
+2026-05-25 10:17:17,389 - INFO - [线程6153285632|账号41172560626291] 🚀 获取driver延迟1秒 🔍 开始处理组合：cambio climático + política + incertidumbre
+2026-05-25 10:17:17,390 - INFO - [线程6170112000|账号41172933627348] 🚀 获取driver延迟1秒 🔍 开始处理组合：cambio climático + políticas + desconocido
+2026-05-25 10:17:17,390 - INFO - [线程6186938368|账号41172442627349] 🚀 获取driver延迟5秒 🔍 开始处理组合：cambio climático + regulación + desconocido
+2026-05-25 10:17:17,390 - INFO - [线程6203764736|账号41172258627350] 🚀 获取driver延迟1秒 🔍 开始处理组合：cambio climático + regulación + impredecible
+2026-05-25 10:17:17,391 - INFO - [线程6220591104|账号41172631627351] 🚀 获取driver延迟5秒 🔍 开始处理组合：cambio climático + ley + incertidumbre
+2026-05-25 10:17:17,391 - INFO - [线程6237417472|账号41172333627353] 🚀 获取driver延迟1秒 🔍 开始处理组合：cambio climático + ley + desconocido
+2026-05-25 10:17:17,392 - INFO - [线程6254243840|账号41172815627354] 🚀 获取driver延迟4秒 🔍 开始处理组合：cambio climático + Presidente + incierto
+2026-05-25 10:17:17,392 - INFO - [线程6271070208|账号41172572627355] 🚀 获取driver延迟4秒 🔍 开始处理组合：cambio climático + Presidente + incierto
+2026-05-25 10:17:17,395 - INFO - [线程6288470016|账号41172604627356] 🚀 获取driver延迟1秒 🔍 开始处理组合：cambio climático + Presidente + impredecible
+2026-05-25 10:17:17,397 - INFO - [线程6305296384|账号41172744627358] 🚀 获取driver延迟5秒 🔍 开始处理组合：energía renovable + políticas + cancelar
+2026-05-25 10:17:17,401 - WARNING - ⚠️ [线程6288470016|账号41172604627356] 浏览器健康检查失败: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=148.0.7778.179)
+Stacktrace:
+0   chromedriver                        0x0000000102bb4c40 cxxbridge1$str$ptr + 3221216
+1   chromedriver                        0x0000000102bacb1c cxxbridge1$str$ptr + 3188156
+2   chromedriver                        0x000000010266f8f4 _RNvCsiKAbIcglKMQ_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 75152
+3   chromedriver                        0x0000000102648358 chromedriver + 164696
+4   chromedriver                        0x00000001026e0234 _RNvCsiKAbIcglKMQ_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 536272
+5   chromedriver                        0x00000001026f7224 _RNvCsiKAbIcglKMQ_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 630464
+6   chromedriver                        0x00000001026ad9c0 _RNvCsiKAbIcglKMQ_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 329308
+7   chromedriver                        0x0000000102b72b70 cxxbridge1$str$ptr + 2950672
+8   chromedriver                        0x0000000102b762c8 cxxbridge1$str$ptr + 2964840
+9   chromedriver                        0x0000000102b578a8 cxxbridge1$str$ptr + 2839368
+10  chromedriver                        0x0000000102b76b48 cxxbridge1$str$ptr + 2967016
+11  chromedriver                        0x0000000102b483d4 cxxbridge1$str$ptr + 2776692
+12  chromedriver                        0x0000000102b9b7ac cxxbridge1$str$ptr + 3117644
+13  chromedriver                        0x0000000102b9b90c cxxbridge1$str$ptr + 3117996
+14  chromedriver                        0x0000000102bac774 cxxbridge1$str$ptr + 3187220
+15  libsystem_pthread.dylib             0x0000000194ddbc0c _pthread_start + 136
+16  libsystem_pthread.dylib             0x0000000194dd6b80 thread_start + 8
+
+2026-05-25 10:17:17,402 - INFO - [线程6322122752|账号41172712627360] 🚀 获取driver延迟4秒 🔍 开始处理组合：energía renovable + ley + cancelar
+2026-05-25 10:17:17,403 - WARNING - ⚠️ [线程6288470016|账号41172604627356] 🔧 检测到浏览器不健康，尝试重建浏览器
+2026-05-25 10:17:17,403 - INFO - [线程6338949120|账号41172184627362] 🚀 获取driver延迟5秒 🔍 开始处理组合：energía renovable + Presidente + incierto
+2026-05-25 10:17:17,404 - INFO - [线程6355775488|账号41172318627363] 🚀 获取driver延迟4秒 🔍 开始处理组合：energía renovable + Presidente + incierto
+2026-05-25 10:17:17,404 - INFO - [线程6372601856|账号41172932627364] 🚀 获取driver延迟3秒 🔍 开始处理组合：energía renovable + Presidente + cancelar
+2026-05-25 10:17:17,409 - INFO - [线程6389428224|账号41172846627365] 🚀 获取driver延迟3秒 🔍 开始处理组合：energía limpia + políticas + cancelar
+2026-05-25 10:17:18,115 - INFO - [浏览器9|账号41172604627356] 🔄 旧浏览器实例已关闭
+2026-05-25 10:17:20,240 - INFO - [浏览器9|账号41172604627356] ✅ 浏览器重建成功！UA: Mozilla/5.0 (Macintosh; Intel Mac OS X 13_6_0) AppleWebKit/5... 视口: 1280x1024
+2026-05-25 10:17:20,253 - INFO - [线程9|账号41172604627356] 开始登录，访问登录页面...
+2026-05-25 10:17:32,871 - INFO - [线程6389428224|账号41172846627365] 📊 搜索完成 - energía limpia+políticas+cancelar = 0 条 📝 无结果已记录 📍 URL: https://infoweb-newsbank-com.dclibrary.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=pubname%3AREVLI%21Revista%2BLideres%2B%2528Quito%252C%2BEcuador%2529&maxresults=60&f=advanced&val-base-0=energ%C3%ADa%20limpia&fld-base-0=alltext&bln-base-1=and&val-base-1=pol%C3%ADticas&fld-base-1=alltext&bln-base-2=and&val-base-2=cancelar&fld-base-2=alltext&fld-nav-0=YMD_date&val-nav-0=-2026.4
+2026-05-25 10:17:32,873 - INFO - [线程6389428224|账号41172846627365] 🚀 获取driver延迟2秒 🔍 开始处理组合：energía limpia + Presidente + cancelar
+2026-05-25 10:17:32,874 - INFO - ✅ 组合 ('energía limpia', 'políticas', 'cancelar') 处理成功 (1/24)
+2026-05-25 10:17:33,004 - INFO - [线程6186938368|账号41172442627349] 📊 搜索完成 - cambio climático+regulación+desconocido = 0 条 📝 无结果已记录 📍 URL: https://infoweb-newsbank-com.dclibrary.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=pubname%3AREVLI%21Revista%2BLideres%2B%2528Quito%252C%2BEcuador%2529&maxresults=60&f=advanced&val-base-0=cambio%20clim%C3%A1tico&fld-base-0=alltext&bln-base-1=and&val-base-1=regulaci%C3%B3n&fld-base-1=alltext&bln-base-2=and&val-base-2=desconocido&fld-base-2=alltext&fld-nav-0=YMD_date&val-nav-0=-2026.4
+2026-05-25 10:17:33,005 - INFO - [线程6186938368|账号41172442627349] 🚀 获取driver延迟5秒 🔍 开始处理组合：energía solar + política + cancelar
+2026-05-25 10:17:33,005 - INFO - ✅ 组合 ('cambio climático', 'regulación', 'desconocido') 处理成功 (2/24)
+2026-05-25 10:17:33,084 - INFO - [线程6338949120|账号41172184627362] 📊 搜索完成 - energía renovable+Presidente+incierto = 0 条 📝 无结果已记录 📍 URL: https://infoweb-newsbank-com.dclibrary.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=pubname%3AREVLI%21Revista%2BLideres%2B%2528Quito%252C%2BEcuador%2529&maxresults=60&f=advanced&val-base-0=energ%C3%ADa%20renovable&fld-base-0=alltext&bln-base-1=and&val-base-1=Presidente&fld-base-1=alltext&bln-base-2=and&val-base-2=incierto&fld-base-2=alltext&fld-nav-0=YMD_date&val-nav-0=-2026.4
+2026-05-25 10:17:33,085 - INFO - [线程6338949120|账号41172184627362] 🚀 获取driver延迟2秒 🔍 开始处理组合：energía solar + políticas + cancelar
+2026-05-25 10:17:33,085 - INFO - ✅ 组合 ('energía renovable', 'Presidente', 'incierto') 处理成功 (3/24)
+2026-05-25 10:17:33,147 - INFO - [线程6305296384|账号41172744627358] 📊 搜索完成 - energía renovable+políticas+cancelar = 0 条 📝 无结果已记录 📍 URL: https://infoweb-newsbank-com.dclibrary.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=pubname%3AREVLI%21Revista%2BLideres%2B%2528Quito%252C%2BEcuador%2529&maxresults=60&f=advanced&val-base-0=energ%C3%ADa%20renovable&fld-base-0=alltext&bln-base-1=and&val-base-1=pol%C3%ADticas&fld-base-1=alltext&bln-base-2=and&val-base-2=cancelar&fld-base-2=alltext&fld-nav-0=YMD_date&val-nav-0=-2026.4
+2026-05-25 10:17:33,148 - INFO - [线程6305296384|账号41172744627358] 🚀 获取driver延迟3秒 🔍 开始处理组合：energía solar + regulación + cancelar
+2026-05-25 10:17:33,149 - INFO - ✅ 组合 ('energía renovable', 'políticas', 'cancelar') 处理成功 (4/24)
+2026-05-25 10:17:41,850 - INFO - [线程6203764736|账号41172258627350] 📊 搜索完成 - cambio climático+regulación+impredecible = 1 条 📄 开始处理数据(预计1页) 🔍 处理第1页 📍 URL: https://infoweb-newsbank-com.dclibrary.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=pubname%3AREVLI%21Revista%2BLideres%2B%2528Quito%252C%2BEcuador%2529&maxresults=60&f=advanced&val-base-0=cambio%20clim%C3%A1tico&fld-base-0=alltext&bln-base-1=and&val-base-1=regulaci%C3%B3n&fld-base-1=alltext&bln-base-2=and&val-base-2=impredecible&fld-base-2=alltext&fld-nav-0=YMD_date&val-nav-0=-2026.4
+2026-05-25 10:17:41,856 - INFO - [线程6203764736|账号41172258627350] ✅ 完成：cambio climático+regulación+impredecible
+2026-05-25 10:17:41,856 - INFO - [线程6203764736|账号41172258627350] 🚀 获取driver延迟3秒 🔍 开始处理组合：energía solar + regulaciones + cancelar
+2026-05-25 10:17:41,856 - INFO - ✅ 组合 ('cambio climático', 'regulación', 'impredecible') 处理成功 (5/24)
+2026-05-25 10:17:42,205 - INFO - [线程6254243840|账号41172815627354] 📊 搜索完成 - cambio climático+Presidente+incierto = 0 条 📝 无结果已记录 📍 URL: https://infoweb-newsbank-com.dclibrary.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=pubname%3AREVLI%21Revista%2BLideres%2B%2528Quito%252C%2BEcuador%2529&maxresults=60&f=advanced&val-base-0=cambio%20clim%C3%A1tico&fld-base-0=alltext&bln-base-1=and&val-base-1=Presidente&fld-base-1=alltext&bln-base-2=and&val-base-2=incierto&fld-base-2=alltext&fld-nav-0=YMD_date&val-nav-0=-2026.4
+2026-05-25 10:17:42,205 - INFO - [线程6254243840|账号41172815627354] 🚀 获取driver延迟3秒 🔍 开始处理组合：energía solar + ley + cancelar
+2026-05-25 10:17:42,206 - INFO - ✅ 组合 ('cambio climático', 'Presidente', 'incierto') 处理成功 (6/24)
+2026-05-25 10:17:42,430 - INFO - [线程6372601856|账号41172932627364] 📊 搜索完成 - energía renovable+Presidente+cancelar = 0 条 📝 无结果已记录 📍 URL: https://infoweb-newsbank-com.dclibrary.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=pubname%3AREVLI%21Revista%2BLideres%2B%2528Quito%252C%2BEcuador%2529&maxresults=60&f=advanced&val-base-0=energ%C3%ADa%20renovable&fld-base-0=alltext&bln-base-1=and&val-base-1=Presidente&fld-base-1=alltext&bln-base-2=and&val-base-2=cancelar&fld-base-2=alltext&fld-nav-0=YMD_date&val-nav-0=-2026.4
+2026-05-25 10:17:42,430 - INFO - [线程6372601856|账号41172932627364] 🚀 获取driver延迟5秒 🔍 开始处理组合：energía solar + Presidente + cancelar
+2026-05-25 10:17:42,431 - INFO - ✅ 组合 ('energía renovable', 'Presidente', 'cancelar') 处理成功 (7/24)
+2026-05-25 10:17:42,435 - INFO - [线程6355775488|账号41172318627363] 📊 搜索完成 - energía renovable+Presidente+incierto = 0 条 📝 无结果已记录 📍 URL: https://infoweb-newsbank-com.dclibrary.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=pubname%3AREVLI%21Revista%2BLideres%2B%2528Quito%252C%2BEcuador%2529&maxresults=60&f=advanced&val-base-0=energ%C3%ADa%20renovable&fld-base-0=alltext&bln-base-1=and&val-base-1=Presidente&fld-base-1=alltext&bln-base-2=and&val-base-2=incierto&fld-base-2=alltext&fld-nav-0=YMD_date&val-nav-0=-2026.4
+2026-05-25 10:17:42,436 - INFO - [线程6355775488|账号41172318627363] 🚀 获取driver延迟1秒 🔍 开始处理组合：energía solar + Ministro + cancelar
+2026-05-25 10:17:42,436 - INFO - ✅ 组合 ('energía renovable', 'Presidente', 'incierto') 处理成功 (8/24)
+2026-05-25 10:17:42,439 - INFO - [线程6237417472|账号41172333627353] 📊 搜索完成 - cambio climático+ley+desconocido = 0 条 📝 无结果已记录 📍 URL: https://infoweb-newsbank-com.dclibrary.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=pubname%3AREVLI%21Revista%2BLideres%2B%2528Quito%252C%2BEcuador%2529&maxresults=60&f=advanced&val-base-0=cambio%20clim%C3%A1tico&fld-base-0=alltext&bln-base-1=and&val-base-1=ley&fld-base-1=alltext&bln-base-2=and&val-base-2=desconocido&fld-base-2=alltext&fld-nav-0=YMD_date&val-nav-0=-2026.4
+2026-05-25 10:17:42,440 - INFO - [线程6237417472|账号41172333627353] 🚀 获取driver延迟5秒 🔍 开始处理组合：energía solar + gobierno + cancelar
+2026-05-25 10:17:42,440 - INFO - ✅ 组合 ('cambio climático', 'ley', 'desconocido') 处理成功 (9/24)
+2026-05-25 10:17:42,506 - INFO - [线程6271070208|账号41172572627355] 📊 搜索完成 - cambio climático+Presidente+incierto = 0 条 📝 无结果已记录 📍 URL: https://infoweb-newsbank-com.dclibrary.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=pubname%3AREVLI%21Revista%2BLideres%2B%2528Quito%252C%2BEcuador%2529&maxresults=60&f=advanced&val-base-0=cambio%20clim%C3%A1tico&fld-base-0=alltext&bln-base-1=and&val-base-1=Presidente&fld-base-1=alltext&bln-base-2=and&val-base-2=incierto&fld-base-2=alltext&fld-nav-0=YMD_date&val-nav-0=-2026.4
+2026-05-25 10:17:42,518 - INFO - ✅ 组合 ('cambio climático', 'Presidente', 'incierto') 处理成功 (10/24)
+2026-05-25 10:17:42,793 - INFO - [线程6170112000|账号41172933627348] 📊 搜索完成 - cambio climático+políticas+desconocido = 1 条 📄 开始处理数据(预计1页) 🔍 处理第1页 📍 URL: https://infoweb-newsbank-com.dclibrary.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=pubname%3AREVLI%21Revista%2BLideres%2B%2528Quito%252C%2BEcuador%2529&maxresults=60&f=advanced&val-base-0=cambio%20clim%C3%A1tico&fld-base-0=alltext&bln-base-1=and&val-base-1=pol%C3%ADticas&fld-base-1=alltext&bln-base-2=and&val-base-2=desconocido&fld-base-2=alltext&fld-nav-0=YMD_date&val-nav-0=-2026.4
+2026-05-25 10:17:42,812 - INFO - [线程6170112000|账号41172933627348] ✅ 完成：cambio climático+políticas+desconocido
+2026-05-25 10:17:42,812 - INFO - ✅ 组合 ('cambio climático', 'políticas', 'desconocido') 处理成功 (11/24)
+2026-05-25 10:17:43,516 - INFO - [线程6153285632|账号41172560626291] 📊 搜索完成 - cambio climático+política+incertidumbre = 1 条 📄 开始处理数据(预计1页) 🔍 处理第1页 📍 URL: https://infoweb-newsbank-com.dclibrary.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=pubname%3AREVLI%21Revista%2BLideres%2B%2528Quito%252C%2BEcuador%2529&maxresults=60&f=advanced&val-base-0=cambio%20clim%C3%A1tico&fld-base-0=alltext&bln-base-1=and&val-base-1=pol%C3%ADtica&fld-base-1=alltext&bln-base-2=and&val-base-2=incertidumbre&fld-base-2=alltext&fld-nav-0=YMD_date&val-nav-0=-2026.4
+2026-05-25 10:17:43,520 - INFO - [线程6153285632|账号41172560626291] ✅ 完成：cambio climático+política+incertidumbre
+2026-05-25 10:17:43,520 - INFO - ✅ 组合 ('cambio climático', 'política', 'incertidumbre') 处理成功 (12/24)
+2026-05-25 10:17:46,171 - INFO - [线程6389428224|账号41172846627365] 📊 搜索完成 - energía limpia+Presidente+cancelar = 0 条 📝 无结果已记录 📍 URL: https://infoweb-newsbank-com.dclibrary.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=pubname%3AREVLI%21Revista%2BLideres%2B%2528Quito%252C%2BEcuador%2529&maxresults=60&f=advanced&val-base-0=energ%C3%ADa%20limpia&fld-base-0=alltext&bln-base-1=and&val-base-1=Presidente&fld-base-1=alltext&bln-base-2=and&val-base-2=cancelar&fld-base-2=alltext&fld-nav-0=YMD_date&val-nav-0=-2026.4
+2026-05-25 10:17:46,171 - INFO - ✅ 组合 ('energía limpia', 'Presidente', 'cancelar') 处理成功 (13/24)
+2026-05-25 10:17:46,396 - INFO - [线程6186938368|账号41172442627349] 📊 搜索完成 - energía solar+política+cancelar = 0 条 📝 无结果已记录 📍 URL: https://infoweb-newsbank-com.dclibrary.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=pubname%3AREVLI%21Revista%2BLideres%2B%2528Quito%252C%2BEcuador%2529&maxresults=60&f=advanced&val-base-0=energ%C3%ADa%20solar&fld-base-0=alltext&bln-base-1=and&val-base-1=pol%C3%ADtica&fld-base-1=alltext&bln-base-2=and&val-base-2=cancelar&fld-base-2=alltext&fld-nav-0=YMD_date&val-nav-0=-2026.4
+2026-05-25 10:17:46,397 - INFO - ✅ 组合 ('energía solar', 'política', 'cancelar') 处理成功 (14/24)
+2026-05-25 10:17:46,445 - INFO - [线程6338949120|账号41172184627362] 📊 搜索完成 - energía solar+políticas+cancelar = 0 条 📝 无结果已记录 📍 URL: https://infoweb-newsbank-com.dclibrary.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=pubname%3AREVLI%21Revista%2BLideres%2B%2528Quito%252C%2BEcuador%2529&maxresults=60&f=advanced&val-base-0=energ%C3%ADa%20solar&fld-base-0=alltext&bln-base-1=and&val-base-1=pol%C3%ADticas&fld-base-1=alltext&bln-base-2=and&val-base-2=cancelar&fld-base-2=alltext&fld-nav-0=YMD_date&val-nav-0=-2026.4
+2026-05-25 10:17:46,445 - INFO - ✅ 组合 ('energía solar', 'políticas', 'cancelar') 处理成功 (15/24)
+2026-05-25 10:17:55,163 - INFO - [线程6203764736|账号41172258627350] 📊 搜索完成 - energía solar+regulaciones+cancelar = 0 条 📝 无结果已记录 📍 URL: https://infoweb-newsbank-com.dclibrary.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=pubname%3AREVLI%21Revista%2BLideres%2B%2528Quito%252C%2BEcuador%2529&maxresults=60&f=advanced&val-base-0=energ%C3%ADa%20solar&fld-base-0=alltext&bln-base-1=and&val-base-1=regulaciones&fld-base-1=alltext&bln-base-2=and&val-base-2=cancelar&fld-base-2=alltext&fld-nav-0=YMD_date&val-nav-0=-2026.4
+2026-05-25 10:17:55,164 - INFO - ✅ 组合 ('energía solar', 'regulaciones', 'cancelar') 处理成功 (16/24)
+2026-05-25 10:17:55,496 - INFO - [线程6254243840|账号41172815627354] 📊 搜索完成 - energía solar+ley+cancelar = 0 条 📝 无结果已记录 📍 URL: https://infoweb-newsbank-com.dclibrary.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=pubname%3AREVLI%21Revista%2BLideres%2B%2528Quito%252C%2BEcuador%2529&maxresults=60&f=advanced&val-base-0=energ%C3%ADa%20solar&fld-base-0=alltext&bln-base-1=and&val-base-1=ley&fld-base-1=alltext&bln-base-2=and&val-base-2=cancelar&fld-base-2=alltext&fld-nav-0=YMD_date&val-nav-0=-2026.4
+2026-05-25 10:17:55,497 - INFO - ✅ 组合 ('energía solar', 'ley', 'cancelar') 处理成功 (17/24)
+2026-05-25 10:17:55,951 - INFO - [线程6372601856|账号41172932627364] 📊 搜索完成 - energía solar+Presidente+cancelar = 0 条 📝 无结果已记录 📍 URL: https://infoweb-newsbank-com.dclibrary.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=pubname%3AREVLI%21Revista%2BLideres%2B%2528Quito%252C%2BEcuador%2529&maxresults=60&f=advanced&val-base-0=energ%C3%ADa%20solar&fld-base-0=alltext&bln-base-1=and&val-base-1=Presidente&fld-base-1=alltext&bln-base-2=and&val-base-2=cancelar&fld-base-2=alltext&fld-nav-0=YMD_date&val-nav-0=-2026.4
+2026-05-25 10:17:55,951 - INFO - ✅ 组合 ('energía solar', 'Presidente', 'cancelar') 处理成功 (18/24)
+2026-05-25 10:17:55,953 - INFO - [线程6237417472|账号41172333627353] 📊 搜索完成 - energía solar+gobierno+cancelar = 0 条 📝 无结果已记录 📍 URL: https://infoweb-newsbank-com.dclibrary.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=pubname%3AREVLI%21Revista%2BLideres%2B%2528Quito%252C%2BEcuador%2529&maxresults=60&f=advanced&val-base-0=energ%C3%ADa%20solar&fld-base-0=alltext&bln-base-1=and&val-base-1=gobierno&fld-base-1=alltext&bln-base-2=and&val-base-2=cancelar&fld-base-2=alltext&fld-nav-0=YMD_date&val-nav-0=-2026.4
+2026-05-25 10:17:55,954 - INFO - ✅ 组合 ('energía solar', 'gobierno', 'cancelar') 处理成功 (19/24)
+2026-05-25 10:17:59,427 - INFO - [线程6305296384|账号41172744627358] 📊 搜索完成 - energía solar+regulación+cancelar = 1 条 📄 开始处理数据(预计1页) 🔍 处理第1页 📍 URL: https://infoweb-newsbank-com.dclibrary.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=pubname%3AREVLI%21Revista%2BLideres%2B%2528Quito%252C%2BEcuador%2529&maxresults=60&f=advanced&val-base-0=energ%C3%ADa%20solar&fld-base-0=alltext&bln-base-1=and&val-base-1=regulaci%C3%B3n&fld-base-1=alltext&bln-base-2=and&val-base-2=cancelar&fld-base-2=alltext&fld-nav-0=YMD_date&val-nav-0=-2026.4
+2026-05-25 10:17:59,432 - INFO - [线程6305296384|账号41172744627358] ✅ 完成：energía solar+regulación+cancelar
+2026-05-25 10:17:59,432 - INFO - ✅ 组合 ('energía solar', 'regulación', 'cancelar') 处理成功 (20/24)
+2026-05-25 10:18:04,830 - INFO - [线程6355775488|账号41172318627363] 📊 搜索完成 - energía solar+Ministro+cancelar = 0 条 📝 无结果已记录 📍 URL: https://infoweb-newsbank-com.dclibrary.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=pubname%3AREVLI%21Revista%2BLideres%2B%2528Quito%252C%2BEcuador%2529&maxresults=60&f=advanced&val-base-0=energ%C3%ADa%20solar&fld-base-0=alltext&bln-base-1=and&val-base-1=Ministro&fld-base-1=alltext&bln-base-2=and&val-base-2=cancelar&fld-base-2=alltext&fld-nav-0=YMD_date&val-nav-0=-2026.4
+2026-05-25 10:18:04,831 - INFO - ✅ 组合 ('energía solar', 'Ministro', 'cancelar') 处理成功 (21/24)
+2026-05-25 10:18:25,106 - INFO - [线程9|账号41172604627356] ✅ 登录成功（DC 卡号登录）
+2026-05-25 10:18:25,106 - INFO - [浏览器9|账号41172604627356] ✅ 重建后登录成功
+2026-05-25 10:18:25,108 - INFO - [线程6288470016|账号41172604627356] ✅ 浏览器重建成功，继续处理组合：cambio climático+Presidente+impredecible
+2026-05-25 10:18:59,112 - ERROR - ❌ [线程6220591104|账号41172631627351] 页面无响应，加载超时
+2026-05-25 10:18:59,112 - ERROR - ❌ [线程6322122752|账号41172712627360] 页面无响应，加载超时
+2026-05-25 10:19:07,582 - INFO - [线程6220591104|账号41172631627351] 异常后尝试刷新页面
+2026-05-25 10:19:10,540 - INFO - [线程6322122752|账号41172712627360] 异常后尝试刷新页面
+2026-05-25 10:19:17,947 - INFO - [线程6288470016|账号41172604627356] 📊 搜索完成 - cambio climático+Presidente+impredecible = 1 条 📄 开始处理数据(预计1页) 🔍 处理第1页 📍 URL: https://infoweb-newsbank-com.dclibrary.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=pubname%3AREVLI%21Revista%2BLideres%2B%2528Quito%252C%2BEcuador%2529&maxresults=60&f=advanced&val-base-0=cambio%20clim%C3%A1tico&fld-base-0=alltext&bln-base-1=and&val-base-1=Presidente&fld-base-1=alltext&bln-base-2=and&val-base-2=impredecible&fld-base-2=alltext&fld-nav-0=YMD_date&val-nav-0=-2026.4
+2026-05-25 10:19:17,952 - INFO - [线程6288470016|账号41172604627356] ✅ 完成：cambio climático+Presidente+impredecible
+2026-05-25 10:19:17,952 - INFO - ✅ 组合 ('cambio climático', 'Presidente', 'impredecible') 处理成功 (22/24)
+2026-05-25 10:19:20,843 - INFO - [线程6220591104|账号41172631627351] 刷新后重新搜索成功
+2026-05-25 10:19:20,860 - INFO - [线程6220591104|账号41172631627351] 📊 搜索完成 - cambio climático+ley+incertidumbre = 0 条 📝 无结果已记录 📍 URL: https://infoweb-newsbank-com.dclibrary.idm.oclc.org/apps/news/results?sort=YMD_date%3AD&p=AWNB&hide_duplicates=2&t=pubname%3AREVLI%21Revista%2BLideres%2B%2528Quito%252C%2BEcuador%2529&maxresults=60&f=advanced&val-base-0=cambio%20clim%C3%A1tico&fld-base-0=alltext&bln-base-1=and&val-base-1=ley&fld-base-1=alltext&bln-base-2=and&val-base-2=incertidumbre&fld-base-2=alltext&fld-nav-0=YMD_date&val-nav-0=-2026.4
+2026-05-25 10:19:20,860 - INFO - ✅ 组合 ('cambio climático', 'ley', 'incertidumbre') 处理成功 (23/24)
+2026-05-25 10:19:44,575 - ERROR - ❌[线程6322122752|账号41172712627360] 刷新页面后重新搜索失败: HTTPConnectionPool(host='localhost', port=52072): Max retries exceeded with url: /session/a0a33b86d554c27d0b22e7cb191c8fce/element (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x106b5f7f0>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2026-05-25 10:19:44,575 - WARNING - ⚠️ [线程6322122752|账号41172712627360] 第1次尝试深度重置
+2026-05-25 10:19:44,576 - WARNING - ❌ [线程6322122752|账号41172712627360] 第1次深度重置失败: HTTPConnectionPool(host='localhost', port=52072): Max retries exceeded with url: /session/a0a33b86d554c27d0b22e7cb191c8fce/refresh (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x106ae3490>: Failed to establish a new connection: [Errno 61] Connection refused'))
