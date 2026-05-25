@@ -22,7 +22,7 @@ from selenium.webdriver.support.select import Select
 from selenium.webdriver.support.wait import WebDriverWait
 
 
-input_xlsx = '2026.5.24报刊整理.xlsx'
+input_xlsx = '2026.5.19报刊整理.xlsx'
 
 driver_path = "/Users/admin/Desktop/taobao/chromedriver-mac-arm64/chromedriver"
 # 定义全局Cookie变量
@@ -40,7 +40,7 @@ login_page = 'https://dclibrary.idm.oclc.org/login?url=https://infoweb.newsbank.
 #    - 更高效，但需要先完成二组合处理
 # 
 # 使用方法：修改下面的值即可
-SKIP_TWO_COMBO = False  # True = 直接三组合模式, False = 正常模式
+SKIP_TWO_COMBO = True  # True = 直接三组合模式, False = 正常模式
 # =====================================================
 
 # 账号配置 - 每个账号对应一个驱动和线程（DC 借书证号，登录无需密码）
